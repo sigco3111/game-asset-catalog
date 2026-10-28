@@ -43,3 +43,22 @@
 
 전체 목록은 [catalog.csv](catalog.csv)를 참고하세요. 장르는 tags 열로 검색합니다 (fantasy, rpg, platformer, towerdefense, shooter, ui, audio 등).
 에셋이 늘어나면 장르별 저장소로 다시 나눌 수 있습니다.
+
+## 에셋 도서관 사이트
+
+https://sigco3111.github.io/game-asset-catalog/
+
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다. 팩 단위 검색이며, 팩 안의 개별 파일은 검색하지 않습니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+
+### 새 팩을 추가할 때
+
+사이트는 `catalog.csv`에 기록된 팩만 보여줍니다. 새 팩을 올린 뒤 `catalog.csv`에 한 줄을 추가하면 저장소 변경 후 약 1분 안에 사이트에 반영됩니다(2026-10-28 측정).
+
+| 열 | 용도 |
+| --- | --- |
+| name, repo, file, type, tags, author, source_url, license, attribution, added, notes | 기존 열 그대로 |
+| preview | 미리보기 이미지 주소. 비어 있으면 사이트에 "확인 필요"로 표시됩니다(오디오 제외) |
+| sample | 오디오 샘플(.ogg) 주소 |
+| split | 분할 ZIP이면 `Y` |
+
+`name`, `file`, `license`, `source_url`, `preview`가 비어 있으면 사이트가 해당 팩에 "확인 필요"를 표시합니다. 썸네일과 메타데이터는 자동 생성되지 않으므로 수집할 때 함께 기록해야 합니다.

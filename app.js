@@ -3,6 +3,7 @@
 var OWNER='sigco3111';
 var TABS=[['','전체'],['assets-2d-pixel','2D·텍스처'],['assets-3d-lowpoly','3D'],['assets-ui-icons','UI·아이콘'],['assets-audio','오디오']];
 var KIND={'assets-2d-pixel':'2D','assets-3d-lowpoly':'3D','assets-ui-icons':'UI','assets-audio':'오디오'};
+var SYN={'던전':['dungeon'],'나무':['tree','nature','forest'],'숲':['forest','nature'],'칼':['sword','weapon'],'검':['sword','weapon'],'무기':['weapon'],'총':['gun','shooter','blaster'],'캐릭터':['character'],'몬스터':['monster','creature','zombie'],'적':['enemy'],'도시':['city','town','urban'],'마을':['town','village'],'집':['house','building'],'건물':['building'],'자동차':['car','vehicle','racing'],'탈것':['vehicle'],'우주':['space','scifi'],'로봇':['robot'],'음식':['food'],'농작물':['crops','farm'],'효과음':['sfx','sound'],'음악':['music'],'아이콘':['icon','icons'],'버튼':['button','ui'],'배경':['background'],'타일':['tile','tileset'],'퍼즐':['puzzle'],'픽셀':['pixel'],'물고기':['fish'],'동물':['animal','animals'],'배':['ship','boat'],'비행기':['plane','aircraft'],'해적':['pirate'],'좀비':['zombie'],'판타지':['fantasy'],'중세':['medieval'],'폭발':['explosion','particle'],'이펙트':['effect','effects','particles'],'음성':['voice'],'인터페이스':['interface','ui']};
 var rows=[],state={q:'',tab:'',lic:'',author:'',sort:'new'};
 var $=function(id){return document.getElementById(id)};
 
@@ -43,7 +44,7 @@ function filtered(){
     if(state.lic==='cc0'&&isBy(r))return false;
     if(state.lic==='by'&&!isBy(r))return false;
     if(state.author&&r.author!==state.author)return false;
-    var s=r._s;for(var i=0;i<terms.length;i++)if(s.indexOf(terms[i])<0)return false;
+    var s=r._s;for(var i=0;i<terms.length;i++){var alts=[terms[i]].concat(SYN[terms[i]]||[]);if(!alts.some(function(a){return s.indexOf(a)>=0}))return false}
     return true});
   if(state.sort==='name')list.sort(function(a,b){return a.name.localeCompare(b.name,'ko')});
   else list.sort(function(a,b){return (b.added||'').localeCompare(a.added||'')||b._i-a._i});

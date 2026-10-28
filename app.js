@@ -22,6 +22,7 @@ function parseCSV(t){
 }
 function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
 function isBy(r){return /BY/i.test(r.license)}
+function parts(r){var u=dl(r);if(!r.split||!u)return [];var b=u.replace(/[^\/]*$/,'');return r.split.split(';').map(function(x){return x.trim()}).filter(Boolean).map(function(x){return {n:x,u:b+x}})}
 function dl(r){var f=r.file;if(!f)return '';if(/^https?:/.test(f))return f;
   return 'https://github.com/'+OWNER+'/'+r.repo+(f.indexOf('releases/')===0?'/'+f:'/raw/main/'+f)}
 function repoUrl(r){return 'https://github.com/'+OWNER+'/'+r.repo}
@@ -71,7 +72,7 @@ function render(){
 function detail(r){
   var px=r.repo==='assets-2d-pixel'||r.repo==='assets-ui-icons',p=problems(r),n=[];
   if(isBy(r))n.push('<div class="notice w"><b>귀속 필요.</b> '+esc(r.attribution||'귀속 문구를 원본 license.txt에서 확인하세요.')+'<br>라이선스: '+esc(r.license)+'</div>');
-  if(r.split)n.push('<div class="notice w"><b>분할 ZIP.</b> 조각 파일을 모두 같은 폴더에 받은 뒤 합쳐야 합니다. 재결합 방법은 <a href="'+repoUrl(r)+'#readme" target="_blank" rel="noopener">저장소 README</a>의 해당 팩 설명을 따르세요.</div>');
+  if(r.split)n.push('<div class="notice w"><b>분할 ZIP.</b> 아래 조각 '+parts(r).length+'개를 모두 같은 폴더에 받은 뒤 합쳐야 합니다. 합치는 방법은 <a href="'+repoUrl(r)+'#readme" target="_blank" rel="noopener">저장소 README</a>를 참고하세요.</div>');
   if(mirror(r))n.push('<div class="notice n">파일은 공식 미러에서 받았고 공식 사이트 원본과 바이트 대조는 하지 않았습니다. 라이선스는 원본 배포 페이지와 동봉 License.txt를 확인했습니다.</div>');
   if(p.length)n.push('<div class="notice w"><b>확인 필요.</b> 카탈로그에 빠진 항목: '+esc(p.join(', '))+'</div>');
   var img=r.preview?'<img class="'+(px?'px':'')+'" alt="'+esc(r.name)+' 미리보기" src="'+esc(r.preview)+'">':'<span class="ph" style="font-size:48px">'+(r.repo==='assets-audio'?'🔊':'🖼')+'</span>';
@@ -79,7 +80,7 @@ function detail(r){
   var h='<div class="dhead"><div class="dimg">'+img+'</div><button class="close" aria-label="닫기">✕</button></div><div class="dbody"><h2>'+esc(r.name)+'</h2><div class="line">'+esc(r.type)+' · '+esc(KIND[r.repo]||'')+'</div>'+n.join('')+
    '<dl><dt>제작자</dt><dd>'+esc(r.author)+'</dd><dt>라이선스</dt><dd>'+esc(r.license)+'</dd><dt>구성</dt><dd>'+esc(cleanNotes(r.notes))+'</dd><dt>태그</dt><dd>'+tags+'</dd><dt>추가일</dt><dd>'+esc(r.added)+'</dd></dl>'+
    (r.sample?'<audio controls preload="none" src="'+esc(r.sample)+'"></audio>':'')+'<div style="margin-top:10px">'+
-   (r.file?'<a class="btn" href="'+esc(dl(r))+'" target="_blank" rel="noopener">'+(r.split?'다운로드 (.zip)':'다운로드')+'</a>':'')+(r.split&&/\.zip$/.test(r.file)?'<a class="btn sec" href="'+esc(dl(r).replace(/\.zip$/,'.z01'))+'" target="_blank" rel="noopener">조각 .z01</a>':'')+
+   (r.file&&!r.split?'<a class="btn" href="'+esc(dl(r))+'" target="_blank" rel="noopener">다운로드</a>':'')+parts(r).map(function(p,i,a){return '<a class="btn'+(i?' sec':'')+'" href="'+esc(p.u)+'" target="_blank" rel="noopener">'+(/\.zip$/.test(p.n)?'.zip (마지막 조각)':p.n.replace(/^.*(\.z\d+)$/,'$1 조각'))+'</a>'}).join('')+
    (r.source_url?'<a class="btn sec" href="'+esc(r.source_url)+'" target="_blank" rel="noopener">원본 출처</a>':'')+
    '<a class="btn sec" href="'+repoUrl(r)+'" target="_blank" rel="noopener">저장소</a></div></div>';
   $('dlgbody').innerHTML=h;var d=$('dlg');if(d.showModal)d.showModal();else d.setAttribute('open','')}

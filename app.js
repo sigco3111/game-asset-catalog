@@ -33,7 +33,7 @@ function problems(r){var p=[];
 function cleanNotes(n){
   return n.split(';').map(function(s){return s.trim()}).filter(Boolean).map(function(s){
     if(/^\{.*\}$/.test(s)){var parts=[],re=/'\.(\w+)':\s*(\d+)/g,m;while((m=re.exec(s)))parts.push(m[1].toUpperCase()+' '+m[2]+'개');return parts.join(', ')}
-    return s}).join(' · ');
+    return s}).filter(function(s){return !/^샘플:|^미러 바이트|공식 GitHub 바이트$|^릴리스 v[\d.]+ 첨부$/.test(s)}).join(' · ');
 }
 function mirror(r){return /미러 바이트/.test(r.notes)}
 function search(r){return (r.name+' '+r.tags+' '+r.author+' '+r.type+' '+r.notes+' '+(KIND[r.repo]||'')).toLowerCase()}
@@ -79,7 +79,7 @@ function detail(r){
   var h='<div class="dhead"><div class="dimg">'+img+'</div><button class="close" aria-label="닫기">✕</button></div><div class="dbody"><h2>'+esc(r.name)+'</h2><div class="line">'+esc(r.type)+' · '+esc(KIND[r.repo]||'')+'</div>'+n.join('')+
    '<dl><dt>제작자</dt><dd>'+esc(r.author)+'</dd><dt>라이선스</dt><dd>'+esc(r.license)+'</dd><dt>구성</dt><dd>'+esc(cleanNotes(r.notes))+'</dd><dt>태그</dt><dd>'+tags+'</dd><dt>추가일</dt><dd>'+esc(r.added)+'</dd></dl>'+
    (r.sample?'<audio controls preload="none" src="'+esc(r.sample)+'"></audio>':'')+'<div style="margin-top:10px">'+
-   (r.file?'<a class="btn" href="'+esc(dl(r))+'" target="_blank" rel="noopener">다운로드</a>':'')+
+   (r.file?'<a class="btn" href="'+esc(dl(r))+'" target="_blank" rel="noopener">'+(r.split?'다운로드 (.zip)':'다운로드')+'</a>':'')+(r.split&&/\.zip$/.test(r.file)?'<a class="btn sec" href="'+esc(dl(r).replace(/\.zip$/,'.z01'))+'" target="_blank" rel="noopener">조각 .z01</a>':'')+
    (r.source_url?'<a class="btn sec" href="'+esc(r.source_url)+'" target="_blank" rel="noopener">원본 출처</a>':'')+
    '<a class="btn sec" href="'+repoUrl(r)+'" target="_blank" rel="noopener">저장소</a></div></div>';
   $('dlgbody').innerHTML=h;var d=$('dlg');if(d.showModal)d.showModal();else d.setAttribute('open','')}
@@ -87,7 +87,7 @@ function init(data){
   rows=parseCSV(data).filter(function(r){return r.name||r.file});
   rows.forEach(function(r,i){r._i=i;r._s=search(r)});
   var by={};rows.forEach(function(r){if(r.author)by[r.author]=(by[r.author]||0)+1});
-  $('author').innerHTML='<option value="">제작자 전체</option>'+Object.keys(by).sort(function(a,b){return by[b]-by[a]}).map(function(a){return '<option value="'+esc(a)+'">'+esc(a)+' ('+by[a]+')</option>'}).join('');
+  $('author').innerHTML='<option value="">제작자</option>'+Object.keys(by).sort(function(a,b){return by[b]-by[a]}).map(function(a){return '<option value="'+esc(a)+'">'+esc(a)+' ('+by[a]+')</option>'}).join('');
   try{var s=JSON.parse(decodeURIComponent(location.hash.slice(1)));for(var k in state)if(typeof s[k]==='string')state[k]=s[k]}catch(e){}
   $('q').value=state.q;$('lic').value=state.lic;$('author').value=state.author;$('sort').value=state.sort;
   var last=rows.map(function(r){return r.added}).sort().pop();

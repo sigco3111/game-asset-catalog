@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>게임 에셋 도서관</title>
+<meta name="description" content="수집한 CC0·CC BY 게임 에셋 팩을 이미지로 둘러보고 검색하는 도서관">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <h1>게임 에셋 도서관</h1>
+  <p class="sub" id="sub">불러오는 중…</p>
+  <div class="search"><input id="q" type="search" placeholder="이름, 태그, 제작자 검색 (예: 던전, tree, Kenney)" autocomplete="off" aria-label="검색"></div>
+  <nav class="tabs" id="tabs" aria-label="종류"></nav>
+  <div class="filters">
+    <select id="lic" aria-label="라이선스"><option value="">라이선스 전체</option><option value="cc0">CC0</option><option value="by">귀속 필요 (CC BY)</option></select>
+    <select id="author" aria-label="제작자"><option value="">제작자 전체</option></select>
+    <select id="sort" aria-label="정렬"><option value="new">최근 추가순</option><option value="name">이름순</option></select>
+    <button id="reset" type="button">초기화</button>
+  </div>
+</header>
+<main>
+  <p id="count" class="count" aria-live="polite"></p>
+  <div id="warn"></div>
+  <section id="grid" class="grid"></section>
+  <p id="empty" class="empty" hidden>조건에 맞는 팩이 없습니다.</p>
+</main>
+<footer>
+  <p>이 목록은 저장소의 <a href="https://github.com/sigco3111/game-asset-catalog/blob/main/catalog.csv">catalog.csv</a>를 읽어 만들어집니다. 팩 단위 검색이며 팩 안의 개별 파일은 검색하지 않습니다.</p>
+</footer>
+<dialog id="dlg"><div id="dlgbody"></div></dialog>
+<script src="app.js"></script>
+</body>
+</html>

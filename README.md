@@ -20,7 +20,7 @@
 - CC-BY 팩은 귀속 문구를 카탈로그에 함께 기록합니다.
 - CC-BY-SA·GPL·CC-BY-NC, 개별 조건이 확인되지 않은 자료는 수록하지 않습니다.
 - Unity Asset Store·Epic(Fab) 등 스토어 구매 에셋은 원본 재배포가 금지되는 경우가 많아 올리지 않습니다.
-- 각 zip 안에 제작자 배포 원본 License.txt를 그대로 포함합니다.
+- 각 zip 안에 제작자 배포 원본 License.txt를 그대로 포함합니다. 원본에 라이선스 파일이 없는 팩(Quaternius Animated Zombie·Cute Monsters)은 공식 배포 페이지의 라이선스 표기를 근거로 수집자가 작성한 LICENSE-SOURCE.txt를 동봉합니다.
 
 ## 출처 검증 상태
 

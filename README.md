@@ -7,10 +7,10 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 531팩 |
-| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 429팩 (대부분 릴리스 첨부) |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 533팩 |
+| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 432팩 (대부분 릴리스 첨부) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 198팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 394팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 395팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (자체 제작, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.
@@ -120,3 +120,16 @@ https://sigco3111.github.io/game-asset-catalog/
 | split | 분할 ZIP이면 `Y` |
 
 `name`, `file`, `license`, `source_url`, `preview`가 비어 있으면 사이트가 해당 팩에 "확인 필요"를 표시합니다. 썸네일과 메타데이터는 자동 생성되지 않으므로 수집할 때 함께 기록해야 합니다.
+
+## 2026-11-07 A5 추가 (6팩, 총 1561팩)
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Cube World Kit (Aug 2023)](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/cube-world-kit) | assets-3d-lowpoly | Quaternius | CC0 | 큐브풍 모델 108종, 25.8MB 단일 zip |
+| [Zombie Apocalypse Kit (March 2024)](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/zombie-apocalypse-kit) | assets-3d-lowpoly | Quaternius | CC0 | 모델 60종, 40.9MB를 zip 3개(part1~3)로 분할 |
+| [Human Token](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/human-token) | assets-3d-lowpoly | Clint Bellanger | CC0 | 사람 모양 토큰 .blend |
+| [Token Poker](https://github.com/sigco3111/assets-2d-pixel/tree/main/token-poker) | assets-2d-pixel | Guyome41 | CC0 | 포커 토큰 PNG·SVG |
+| [Rpg Sound Effect Pack](https://github.com/sigco3111/assets-audio/tree/main/rpg-sound-effect-pack) | assets-audio | Delta12 Studio | CC0 | RPG 효과음 OGG 12개 |
+| [FREE ASSET PACK - MISC 1](https://github.com/sigco3111/assets-2d-pixel/tree/main/free-asset-pack-misc-1) | assets-2d-pixel | CamTatz | CC0 | 2D 벡터·아이템 PNG 160개 |
+
+Quaternius 두 팩은 공식 페이지의 Google Drive 폴더(전체 다운로드)에서 받은 원본이며, 팩 페이지의 CC0 표기를 직접 확인했습니다. OGA 4팩은 각 페이지의 라이선스 항목(CC0)을 다시 확인했습니다. CC-BY 팩은 없습니다. 새 저장소는 만들지 않았습니다(각 저장소 용량 700MB 미만).

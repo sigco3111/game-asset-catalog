@@ -7,10 +7,10 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 526팩 |
-| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 428팩 (대부분 릴리스 첨부) |
-| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 196팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 388팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 529팩 |
+| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 429팩 (대부분 릴리스 첨부) |
+| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 197팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 390팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (자체 제작, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.
@@ -65,7 +65,20 @@
 
 새 팩은 `팩이름/` 폴더(zip, pack.md, 미리보기)로 올립니다. 업로드 도구가 파일명을 소문자로 바꿔 PACK.md는 `pack.md`로 저장됩니다. OGA 팩은 원본에 라이선스 파일이 없어 수집자가 쓴 LICENSE-SOURCE.txt를 zip에 넣었습니다.
 
-실제 팩 수(catalog.csv 기준): 2D 526 · 3D 428 · UI/아이콘 196 · 오디오 388 · 기타 3.
+## 2026-11-07 A3 추가 (6팩, 총 1547팩)
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [UI Sounds](https://github.com/sigco3111/assets-audio/tree/main/ui-sounds) | assets-audio | SIEMPRERETORNA | CC0 | UI 효과음 WAV 11개 (Error·Accept·Notification 등) |
+| [8-Bit Victory Loop](https://github.com/sigco3111/assets-audio/tree/main/8bit-victory-loop) | assets-audio | josepharaoh99 | CC0 | 8비트 승리 루프 OGG + FamiTracker·NSF |
+| [Full Dice Set](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/full-dice-set) | assets-3d-lowpoly | rehcub | CC0 | D4~D20 주사위 로우폴리 OBJ + 텍스처 |
+| [Parchment Textures](https://github.com/sigco3111/assets-2d-pixel/tree/main/parchment-textures) | assets-2d-pixel | Charlie | CC0 | 양피지 텍스처 JPG 2장 |
+| [Cybericons](https://github.com/sigco3111/assets-ui-icons/tree/main/cybericons) | assets-ui-icons | knekko | CC0 | 사이버펑크 32x32 아이콘 PNG 32종 |
+| [Tiny Creatures](https://github.com/sigco3111/assets-2d-pixel/tree/main/tiny-creatures) | assets-2d-pixel | Clint Bellanger | CC0 | 16x16 몬스터·동물 180종 (원본 License.txt) |
+
+종류: 효과음·음악·3D 보드게임 소품·텍스처·아이콘·픽셀 캐릭터. 텍스처는 기존 방식대로 assets-2d-pixel에 수록했습니다. 모두 OGA 페이지의 CC0 표기를 직접 확인했습니다.
+
+실제 팩 수(catalog.csv 기준): 2D 529 · 3D 429 · UI/아이콘 197 · 오디오 390 · 기타 3.
 
 ## 카탈로그
 
@@ -76,7 +89,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1541팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1547팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 

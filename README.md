@@ -12,7 +12,7 @@
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 220팩 |
 | [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 412팩 |
-| [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (자체 제작, 조건 없이 사용 가능) | 3팩 |
+| [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (소유자의 AI 어시스턴트 Instinct가 생성한 자체 작업물, 소유자 결정으로 유지, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.
 
@@ -20,9 +20,11 @@
 
 ## 수집 원칙
 
-- 원본 파일 재배포가 명시적으로 허용된 라이선스(CC0, CC-BY)만 수록합니다.
-- CC-BY 팩은 귀속 문구를 카탈로그에 함께 기록합니다.
-- CC-BY-SA·GPL·CC-BY-NC, 개별 조건이 확인되지 않은 자료는 수록하지 않습니다.
+- 원본 파일 재배포가 명시적으로 허용된 라이선스(CC0, CC-BY, MIT, GPL)만 수록합니다. GPL은 원본이 밝힌 GPL-2.0·GPL-3.0 등 계열을 그대로 따릅니다(2026-11-08 A15 규칙 변경: 이전에는 CC0·CC-BY만 허용).
+- CC-BY·MIT·GPL 팩은 귀속·저작권 표기와 조건을 catalog.csv의 attribution·notes 열에 함께 기록합니다.
+- 카피레프트 안내: GPL 에셋은 원본 GPL 라이선스를 그대로 유지합니다. 에셋을 가져다 쓰는 사람이 재배포할 때는 GPL 조건(라이선스 고지, 소스 공개 등)을 따라야 합니다.
+- MIT·GPL 팩은 라이선스 전문 파일(License.txt 또는 LICENSE-SOURCE.txt)을 팩 폴더 또는 zip에 반드시 둡니다.
+- CC-BY-NC 등 NC/ND, 개별 조건이 확인되지 않은 자료는 수록하지 않습니다. CC-BY-SA도 수록하지 않지만, 에셋이 이중 라이선스로 GPL 등 허용 라이선스를 명시적으로 제공하면 그 허용 라이선스를 선택해 기록합니다.
 - Unity Asset Store·Epic(Fab) 등 스토어 구매 에셋은 원본 재배포가 금지되는 경우가 많아 올리지 않습니다.
 - 각 zip 안에 제작자 배포 원본 License.txt를 그대로 포함합니다. 원본에 라이선스 파일이 없는 팩은 원본 배포 페이지의 라이선스 표기를 근거로 수집자가 작성한 LICENSE-SOURCE.txt를 동봉하며, 원본 라이선스 파일과 구분합니다.
 
@@ -271,3 +273,12 @@ Quaternius 7팩 모두 공식 팩 페이지의 License 항목(CC0)을 직접 확
 제외: UNO Playing Cards 2D(페이지 접근 거부로 라이선스 미확인).
 
 실제 팩 수(catalog.csv 기준): 2D 551 · 3D 439 · UI/아이콘 220 · 오디오 412 · 기타 3.
+
+## 2026-11-08 A15 규칙 변경 및 문서 정리 (팩 추가 없음, 총 1625팩)
+
+- 수집 원칙을 소유자 결정에 따라 CC0·CC-BY·MIT·GPL 허용으로 변경했습니다(위 '수집 원칙' 참고). CC-BY-SA·NC·ND·조건 불명·스토어 구매 에셋은 계속 제외합니다.
+- 이전 규칙에서 예외로 수록돼 있던 팩의 라이선스 열을 정리했습니다: MIT 3팩(CyberCity Modular Kit, CyberCity Hover Car, Basic Procedural Building Kit — 저작권 표기와 MIT 전문 유지 필요, assets-3d-lowpoly 팩 폴더에 LICENSE.txt 추가), CC-BY 3.0/GPL 2.0 이중 표기 3팩(Cave tileset, LPC style farm animals, Sewer tileset — CC-BY 3.0 선택 유지, zip 안 LICENSE-SOURCE.txt 있음).
+- '삼국지 초상화 660'은 소유자의 다른 AI 어시스턴트 Instinct가 생성한 자체 작업물이며 소유자 결정으로 유지합니다. CC0가 아니라 기존 표기(조건 없이 사용 가능)에 출처 메모를 더했습니다.
+- 유형별 저장소 LICENSE.md의 허용 라이선스 문구(CC0, CC-BY)도 같은 규칙으로 갱신했습니다.
+
+실제 팩 수(catalog.csv 기준): 2D 551 · 3D 439 · UI/아이콘 220 · 오디오 412 · 기타 3 (합계 1625).

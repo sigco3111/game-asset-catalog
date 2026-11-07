@@ -7,11 +7,11 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 550팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 551팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 439팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
-| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 211팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 408팩 |
+| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 218팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 409팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (자체 제작, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.
@@ -107,7 +107,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1611팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1620팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
@@ -239,3 +239,21 @@ Quaternius 7팩 모두 공식 팩 페이지의 License 항목(CC0)을 직접 확
 종류: 자원·국기 아이콘 4팩, 애니메이션 깃발 1, 음악 2. OpenGameArt.org 페이지의 라이선스 항목(전부 CC0 단독 표기)과 제출자(Author) 표기를 직접 확인했습니다. CC-BY 팩은 없습니다. 16px Items and Materials는 페이지 라이선스가 CC-BY-SA 4.0이라 제외했습니다. Animated Flags Pack은 원본 License.txt(CC0)가 있고, 나머지는 페이지 표기로 LICENSE-SOURCE.txt를 작성했습니다. 새 UI 테마(양피지 프레임·외교/조약 아이콘·지도 마커·승패 배너)는 이번 실행에서 탐색하지 않았습니다.
 
 실제 팩 수(catalog.csv 기준): 2D 550 · 3D 439 · UI/아이콘 211 · 오디오 408 · 기타 3.
+
+## 2026-11-07 A13 추가 (9팩, 총 1620팩)
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Parchment GUI](https://github.com/sigco3111/assets-ui-icons/tree/main/parchment-gui) | assets-ui-icons | zwonky | CC0 | 16x16 양피지 패널·버튼·슬롯·라벨 PNG 4장 |
+| [Shields - Set 2](https://github.com/sigco3111/assets-ui-icons/tree/main/shields-set-2) | assets-ui-icons | Cethiel | CC0 | 판타지 방패 6종 x 변형 3 PNG |
+| [Idylwild's Inventory](https://github.com/sigco3111/assets-ui-icons/tree/main/idylwilds-inventory) | assets-ui-icons | Idylwild | CC0 | 32x32 아이템·자원 아이콘 50종 + 시트 + .ase |
+| [Medieval themed banner](https://github.com/sigco3111/assets-ui-icons/tree/main/medieval-themed-banner) | assets-ui-icons | ege | CC0 | 중세풍 상태창/배너 프레임 PNG |
+| [Ancient Armory 2D Historical Weapons](https://github.com/sigco3111/assets-ui-icons/tree/main/ancient-armory) | assets-ui-icons | JoeRaig | CC0 | 고대 무기·방패 86종 벡터풍 PNG 14장 + SVG(zip 8.5MB) |
+| [Map Location Marker](https://github.com/sigco3111/assets-ui-icons/tree/main/map-location-marker) | assets-ui-icons | qubodup | CC0 | 지도 위치 마커 SVG 2종 |
+| [handshake](https://github.com/sigco3111/assets-ui-icons/tree/main/handshake) | assets-ui-icons | cesca-specs | CC0 | 악수(합의·외교) 픽셀 아이콘 PNG |
+| [Pirates Map + Bonus](https://github.com/sigco3111/assets-2d-pixel/tree/main/pirates-map-bonus) | assets-2d-pixel | Light Game Studio | CC0 | 항해 지도·나침반·선박·상점 스프라이트 PNG |
+| [Courtroom and Judgement](https://github.com/sigco3111/assets-audio/tree/main/courtroom-and-judgement) | assets-audio | Spring Spring | CC0 | 재판·판결 긴장감 오케스트라 OGG 2곡 |
+
+종류: UI/아이콘 7팩, 2D 1팩, 오디오 1팩. 새 테마(전략·보드게임 UI: 양피지·배너·방패·지도 마커·외교) 탐색. OpenGameArt.org 페이지의 라이선스 항목(전부 CC0 단독 표기)과 제출자(Author) 표기를 직접 확인했고, 압축 내용이 제목과 일치함을 확인했습니다. CC-BY 팩은 없습니다. 모든 팩이 단일 파일 25MB·커밋 40MB 이하(최대 Ancient Armory 11MB)라 분할 없음. 제외: Coat Of Arms Set(CC-BY 3.0 + CC-BY-SA 3.0 혼합), Relation icons(CC-BY 4.0, 미수집), A Bunch of Banners(itch 페이지 라이선스 CC-BY-SA 4.0 표기), Toen's Medieval Strategy Sprite Pack·150 Assorted Shields(CC-BY 3.0, 미수집), Faction Icons(SVG가 제목과 일치하는지 미확인). 업로드 도구가 파일명을 소문자로 바꾸는 문제는 페이지 내에서 파일 객체를 직접 만들어 원본 파일명(LICENSE-SOURCE.txt 등)을 유지했습니다. 다중 파일 팩 중 Parchment GUI·Ancient Armory·Map Location Marker는 수집자가 zip으로 묶었고, Shields - Set 2·Idylwild's Inventory는 원본 zip입니다.
+
+실제 팩 수(catalog.csv 기준): 2D 551 · 3D 439 · UI/아이콘 218 · 오디오 409 · 기타 3.

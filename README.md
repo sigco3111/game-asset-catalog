@@ -8,7 +8,7 @@
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
 | [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 533팩 |
-| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 432팩 (대부분 릴리스 첨부) |
+| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 439팩 (대부분 릴리스 첨부) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 198팩 |
 | [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 395팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (자체 제작, 조건 없이 사용 가능) | 3팩 |
@@ -95,7 +95,7 @@
 
 종류: UI·메뉴 효과음 4팩, 텍스처 1, 아이콘 1, 8x8 플랫포머 타일셋 2. 모두 OGA 페이지의 라이선스 항목(CC0)을 직접 확인했습니다. 대용량 팩은 이번에 추가하지 않았습니다. 새 저장소 없음(저장소 용량 모두 약 120MB 이하).
 
-실제 팩 수(catalog.csv 기준): 2D 531 · 3D 429 · UI/아이콘 198 · 오디오 394 · 기타 3.
+실제 팩 수(catalog.csv 기준): 2D 533 · 3D 439 · UI/아이콘 198 · 오디오 395 · 기타 3.
 
 ## 카탈로그
 
@@ -106,7 +106,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1547팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1568팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
@@ -133,3 +133,17 @@ https://sigco3111.github.io/game-asset-catalog/
 | [FREE ASSET PACK - MISC 1](https://github.com/sigco3111/assets-2d-pixel/tree/main/free-asset-pack-misc-1) | assets-2d-pixel | CamTatz | CC0 | 2D 벡터·아이템 PNG 160개 |
 
 Quaternius 두 팩은 공식 페이지의 Google Drive 폴더(전체 다운로드)에서 받은 원본이며, 팩 페이지의 CC0 표기를 직접 확인했습니다. OGA 4팩은 각 페이지의 라이선스 항목(CC0)을 다시 확인했습니다. CC-BY 팩은 없습니다. 새 저장소는 만들지 않았습니다(각 저장소 용량 700MB 미만).
+
+## 2026-11-07 A6 추가 (7팩, 총 1568팩)
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Ultimate Fantasy RTS (August 2022)](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/ultimate-fantasy-rts) | assets-3d-lowpoly | Quaternius | CC0 | RTS용 건물(시대·단계별)·자연·자원 모델 128종, 84MB를 zip 5개로 분할 |
+| [Cyberpunk Game Kit (July 2022)](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/cyberpunk-game-kit) | assets-3d-lowpoly | Quaternius | CC0 | 캐릭터·적·플랫폼·터렛 등 71종, zip 2개 |
+| [Ultimate Nature Pack (June 2019)](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/ultimate-nature-pack) | assets-3d-lowpoly | Quaternius | CC0 | 자연 모델 150종, zip 2개 |
+| [Ultimate Modular Ruins Pack (August 2021)](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/ultimate-modular-ruins-pack) | assets-3d-lowpoly | Quaternius | CC0 | 모듈식 폐허·던전 90종, zip 2개 |
+| [Ultimate Monsters (October 2022)](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/ultimate-monsters) | assets-3d-lowpoly | Quaternius | CC0 | 애니메이션 몬스터 50종, zip 3개 |
+| [Ultimate Modular Women Pack (February 2022)](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/ultimate-modular-women-pack) | assets-3d-lowpoly | Quaternius | CC0 | 여성 캐릭터 10종(부품 조합·애니메이션 24종), zip 3개 |
+| [Sushi Restaurant Kit (May 2023)](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/sushi-restaurant-kit) | assets-3d-lowpoly | Quaternius | CC0 | 요리 게임용 식재료·캐릭터·실내 108종, zip 3개; 원본 라이선스 파일 없어 LICENSE-SOURCE.txt 동봉 |
+
+Quaternius 7팩 모두 공식 팩 페이지의 License 항목(CC0)을 직접 확인했고, 공식 Google Drive 폴더 '전체 다운로드' 원본을 폴더 단위로 나눠 올렸습니다(웹 업로드 한도 때문에 zip당 24MB 이하, 내용 변경 없음; 같은 위치에 풀면 복원). 한 번에 커밋할 수 있는 용량 한계로 큰 팩은 커밋을 여러 번에 나눴습니다. Ultimate Fantasy RTS·Ultimate Monsters·Ultimate Modular Women의 원본 License.txt 머리글은 다른 팩 이름으로 되어 있으나 본문은 CC0 1.0이며 원본 그대로 보존했습니다. CC-BY 팩은 없습니다. 3D 저장소는 약 450MB로 700MB 미만이라 새 저장소는 만들지 않았습니다.

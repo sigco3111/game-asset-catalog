@@ -7,11 +7,11 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 546팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 549팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 439팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
-| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 204팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 403팩 |
+| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 207팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 406팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (자체 제작, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.
@@ -205,3 +205,21 @@ Quaternius 7팩 모두 공식 팩 페이지의 License 항목(CC0)을 직접 확
 종류: 2D 5팩(전쟁 스프라이트 2·육각 타일 2·코인 애니메이션 1), UI/아이콘 1, 오디오 4(음악 3·효과음 1). OpenGameArt.org 페이지의 라이선스 항목과 제출자(Author) 표기를 직접 확인했습니다. CC0 9팩 + CC-BY 3.0 1팩(UI Sound Effects Library — 귀속 문구: "Attribute Little Robot Sound Factory, and provide this link where possible: www.littlerobotsoundfactory.com"). 모든 팩이 단일 파일 25MB·커밋 40MB 이하라 분할 없음. Hexagon Kit·Tiny Battle(OGA)은 Kenney 팩과 동일해 이미 카탈로그에 있어 제외. 오디오 샘플은 팩 안 MP3/WAV 파일 자체입니다(ffmpeg 없음). 업로드 도구가 파일명을 소문자로 바꿔 Money.svg→money.svg, WarSpriteSheet.png→war-sprite-sheet.png로 저장했고, 나머지 원본 파일명은 유지했습니다.
 
 실제 팩 수(catalog.csv 기준): 2D 546 · 3D 439 · UI/아이콘 204 · 오디오 403 · 기타 3.
+
+## 2026-11-07 A11 추가 (9팩, 총 1604팩)
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [32X32 Dungeon Tileset](https://github.com/sigco3111/assets-2d-pixel/tree/main/32x32-dungeon-tileset) | assets-2d-pixel | ThatOneRandomGameDev | CC0 | 32x32 던전 타일셋 PNG 1장(벽·바닥·문·상자·함정·계단·물) |
+| [32x32 RPG Character Sprites](https://github.com/sigco3111/assets-2d-pixel/tree/main/32x32-rpg-character-sprites) | assets-2d-pixel | Eldiran | CC0 | 32x32 탑다운 RPG 캐릭터 20종 + 병사 상세 시트(PNG 2장) |
+| [8x8 Character and Sprite Sheet](https://github.com/sigco3111/assets-2d-pixel/tree/main/8x8-character-and-sprite-sheet) | assets-2d-pixel | Glacialan | CC0 | 8x8 캐릭터·몬스터 스프라이트시트 PNG 1장 |
+| [Gui Mobile Icons](https://github.com/sigco3111/assets-ui-icons/tree/main/gui-mobile-icons) | assets-ui-icons | Luca Pixel | CC0 | 모바일 GUI 아이콘 PNG 256px·PSD·SVG (원본 License.txt 포함) |
+| [Shields CC0](https://github.com/sigco3111/assets-ui-icons/tree/main/shields-cc0) | assets-ui-icons | SnoopethDuckDuck | CC0 | 추상 방패 32x32 픽셀아트 모음(zip, 파일 111개) |
+| [Resource icons](https://github.com/sigco3111/assets-ui-icons/tree/main/resource-icons) | assets-ui-icons | Kutejnikov | CC0 | 자원 아이콘 시트(나무·돌·철·금·보석 등) PNG 1장 |
+| [Fairy Adventure](https://github.com/sigco3111/assets-audio/tree/main/fairy-adventure) | assets-audio | MintoDog | CC0 | 판타지 필드 루프 음악 OGG (FLAC 29MB는 25MB 제한으로 제외) |
+| [Fairy Battles](https://github.com/sigco3111/assets-audio/tree/main/fairy-battles) | assets-audio | MintoDog | CC0 | 판타지 전투 루프 음악 OGG+FLAC |
+| [Fantasy Song Pack Volume 1](https://github.com/sigco3111/assets-audio/tree/main/fantasy-song-pack-volume-1) | assets-audio | troubadour | CC0 | 판타지 곡 MP3 8곡 |
+
+종류: 2D 3팩(던전 타일셋·RPG 캐릭터·8x8 스프라이트시트), UI/아이콘 3(모바일 GUI·방패·자원 아이콘), 오디오 3(음악 3팩). OpenGameArt.org 페이지의 라이선스 항목(전부 CC0 단독 표기)과 제출자(Author) 표기를 직접 확인했습니다. CC-BY 팩은 없습니다. Gui Mobile Icons는 원본 License.txt(CC0 URL) 포함, 나머지는 페이지 표기로 쓴 LICENSE-SOURCE.txt 동봉. Fairy Adventure의 FLAC(29MB)는 단일 파일 25MB 제한으로 제외하고 OGG만 올렸습니다. 모든 커밋은 40MB 이하(최대 Fantasy Song Pack 27.4MB)라 분할 없음. 제외: "2d Isometric Pixel art Cave tiles"는 페이지가 동굴 타일을 설명하나 첨부 zip이 'Space Isometric Pixel art'(달/우주 타일, README는 CC0)라 내용·제목 불일치로 미수록. 이미 카탈로그에 있어 제외: Flag Pack(Kenney), CC0 Shield Icons, CC0 Food/Mineral Icons, Medieval: The Old Tower Inn·King's Feast. 오디오 샘플은 팩 안 파일 자체입니다. 새 저장소는 만들지 않았습니다.
+
+실제 팩 수(catalog.csv 기준): 2D 549 · 3D 439 · UI/아이콘 207 · 오디오 406 · 기타 3.

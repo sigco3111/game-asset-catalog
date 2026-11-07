@@ -7,11 +7,11 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 551팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 554팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 439팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
-| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 220팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 412팩 |
+| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 225팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 413팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (소유자의 AI 어시스턴트 Instinct가 생성한 자체 작업물, 소유자 결정으로 유지, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.
@@ -109,7 +109,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1625팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1634팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
@@ -282,3 +282,23 @@ Quaternius 7팩 모두 공식 팩 페이지의 License 항목(CC0)을 직접 확
 - 유형별 저장소 LICENSE.md의 허용 라이선스 문구(CC0, CC-BY)도 같은 규칙으로 갱신했습니다.
 
 실제 팩 수(catalog.csv 기준): 2D 551 · 3D 439 · UI/아이콘 220 · 오디오 412 · 기타 3 (합계 1625).
+
+## 2026-11-07 A16 추가 (9팩, 총 1634팩)
+
+새 규칙(CC0·CC-BY·MIT·GPL 허용, CC-BY-SA는 허용 라이선스가 이중으로 명시 제공될 때만 그 라이선스 선택)으로 이전에 라이선스 때문에 건너뛴 팩을 추가했습니다. 모든 팩의 OpenGameArt 페이지 라이선스 항목 전체와 귀속 안내를 직접 읽고, 선택한 라이선스를 pack.md·LICENSE-SOURCE.txt·catalog.csv에 기록했으며 CC-BY·GPL 팩에는 CREDITS.txt를 넣었습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Settlers Kit](https://github.com/sigco3111/assets-2d-pixel/tree/main/settlers-kit) | assets-2d-pixel | Rainbow Design | GPL 3.0 | GPL 3.0(GPL 2.0도 제공), 카피레프트·카탄류 육각 타일+숫자 토큰 |
+| [OPP2017 - Cave and mine cart](https://github.com/sigco3111/assets-2d-pixel/tree/main/opp2017-cave-and-mine-cart) | assets-2d-pixel | Chasersgaming | CC0 | 32x32 동굴·광산 수레 타일 400여 개 |
+| [Toen's Medieval Strategy Sprite Pack](https://github.com/sigco3111/assets-2d-pixel/tree/main/toens-medieval-strategy-sprite-pack) | assets-2d-pixel | withthelove | CC-BY 3.0 | 귀속 필수, 16x16 중세 전략 스프라이트 308종 |
+| [Flag, emblem, badge](https://github.com/sigco3111/assets-ui-icons/tree/main/flag-emblem-badge) | assets-ui-icons | Fato Shadow | CC0 | 깃발·엠블럼·배지 PNG 3종(크레딧 요청) |
+| [Coat Of Arms Set](https://github.com/sigco3111/assets-ui-icons/tree/main/coat-of-arms-set) | assets-ui-icons | Julie Damsgaard | CC-BY 3.0 | 귀속 필수, 문장 이미지 PNG |
+| [Faction Icons](https://github.com/sigco3111/assets-ui-icons/tree/main/faction-icons) | assets-ui-icons | cdgramos | CC0 | 진영 배너·문양 SVG |
+| [Relation icons](https://github.com/sigco3111/assets-ui-icons/tree/main/relation-icons) | assets-ui-icons | Tuomo Untinen | CC-BY 4.0 | 귀속 필수, 외교 관계 아이콘 5종 |
+| [150 Assorted Shields](https://github.com/sigco3111/assets-ui-icons/tree/main/150-assorted-shields) | assets-ui-icons | Joesalotofthings | CC-BY 3.0 | 귀속 필수, 방패 32x32 아이콘 150종 |
+| [Tragic ambient main menu](https://github.com/sigco3111/assets-audio/tree/main/tragic-ambient-main-menu) | assets-audio | Pompei2 | CC0 | 어두운 앰비언트 메뉴 음악 OGG |
+
+종류: 2D 3팩 · UI/아이콘 5팩 · 오디오 1팩. 라이선스: CC0 4팩(OPP2017 Cave, Flag emblem badge, Faction Icons, Tragic ambient — 페이지가 CC0를 함께 제공), CC-BY 4팩(Toen's, Coat Of Arms Set, Relation icons, 150 Assorted Shields), GPL 3.0 1팩(Settlers Kit — 카피레프트: 재배포 시 GPL 3.0 전문과 고지 유지·소스 공개, 전문은 LICENSE-GPL-3.0.txt). Toen's는 OGA 라이선스 항목이 CC-BY 3.0이지만 저자 안내문·zip 안 txt는 CC-BY 4.0이라 둘 다 기록했습니다. 제외: Open Pixel Platformer Tiles & Sprites(본문은 CC-BY 3.0 '모든 기여자 크레딧'을 요구하는데 기여자 목록이 없고 페이지는 CC0까지 병기해 조건 불명확), Whispers of Avalon Grassland Tileset(CC-BY 3.0/GPL이지만 통나무통이 Crush의 파생물이라 원작자 라이선스 불명), LPC Base Assets(에셋별 라이선스·대형 CREDITS가 복잡해 이번에는 미수록). 모든 팩이 25MB·40MB 이하이고 팩당 1커밋으로 올렸으며 저장소 파일 목록·크기를 로컬 파일과 대조했습니다.
+
+실제 팩 수(catalog.csv 기준): 2D 554 · 3D 439 · UI/아이콘 225 · 오디오 413 · 기타 3 (합계 1634).

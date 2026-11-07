@@ -7,11 +7,11 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 533팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 539팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 439팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
-| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 198팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 395팩 |
+| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 200팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 397팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (자체 제작, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.
@@ -107,7 +107,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1568팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1578팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
@@ -153,3 +153,22 @@ Quaternius 7팩 모두 공식 팩 페이지의 License 항목(CC0)을 직접 확
 
 - 새 저장소 [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius)를 만들었습니다. A7부터 새 Quaternius CC0 팩은 이 저장소에 올리고, catalog.csv의 repo 열에 `assets-3d-quaternius`로 적습니다. A6까지의 Quaternius 팩은 assets-3d-lowpoly에 그대로 두며(이동·삭제 없음) 해당 저장소 README에도 같은 안내를 넣었습니다.
 - 이번 실행에서는 Google Drive 배포본의 다운로드 할당량 초과로 신규 팩을 추가하지 못했습니다(총 팩 수 변동 없음).
+
+## 2026-11-07 A8 추가 (10팩, 총 1578팩)
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Short Loops Background Music Pack](https://github.com/sigco3111/assets-audio/tree/main/short-loops-background-music-pack) | assets-audio | hernandack | CC0 | OGG 완전 반복 BGM 4곡 |
+| [7DaysofVGM Free Asset Pack](https://github.com/sigco3111/assets-audio/tree/main/7daysofvgm-free-asset-pack) | assets-audio | LemonheadVGM | CC0 | 타이틀·메뉴·전투·보스전 테마 OGG 4곡 |
+| [Versatile 255-Tile Pixel Art Pack](https://github.com/sigco3111/assets-2d-pixel/tree/main/versatile-255-tile-pixel-art-pack) | assets-2d-pixel | wareya | CC0 | 16x16 타일 255종(탑다운·횡스크롤 겸용) |
+| [Top Down Dungeon Pack](https://github.com/sigco3111/assets-2d-pixel/tree/main/top-down-dungeon-pack) | assets-2d-pixel | Screaming Brain Studios | CC0 | 64x64 탑다운 던전 타일 2,256종(마젠타 배경·오토타일 세트) |
+| [Bountiful Bits 10x10 Top-Down RPG Tiles](https://github.com/sigco3111/assets-2d-pixel/tree/main/bountiful-bits-10x10-top-down-rpg-tiles) | assets-2d-pixel | VEXED | CC0 | 10x10 1비트 탑다운 RPG 타일(9색) |
+| [Bit Bonanza 10x10 Top-Down RPG Tiles](https://github.com/sigco3111/assets-2d-pixel/tree/main/bit-bonanza-10x10-top-down-rpg-tiles) | assets-2d-pixel | VEXED | CC0 | 10x10 탑다운 RPG 타일 |
+| [Chess pieces and a board](https://github.com/sigco3111/assets-2d-pixel/tree/main/chess-pieces-and-a-board) | assets-2d-pixel | Drummyfish | CC0 | 체스 판+말 3세트(52x52) |
+| [Ultimate Particle Pack For Casual Fight Game](https://github.com/sigco3111/assets-2d-pixel/tree/main/ultimate-particle-pack-for-casual-fight-game) | assets-2d-pixel | RandomUser | CC0 | 격투 게임용 파티클·이펙트 스프라이트 |
+| [Quick GUI Pack](https://github.com/sigco3111/assets-ui-icons/tree/main/quick-gui-pack) | assets-ui-icons | electronsandsuch | CC0 | GUI 요소 PNG(화살표·버튼 등)+Krita 원본 |
+| [8x8 Icons and Symbols](https://github.com/sigco3111/assets-ui-icons/tree/main/8x8-icons-and-symbols) | assets-ui-icons | DezrasDragons | CC0 | 8x8 장비 아이콘·기호 스프라이트시트 PNG 2장 |
+
+종류: BGM·음악 2팩, 탑다운·플랫포머 타일셋 4, 보드게임 1, 파티클 1, UI 1, 아이콘 1. Quaternius·Google Drive가 아닌 OpenGameArt.org의 CC0 팩만 받았고, 모든 팩의 OGA 페이지 라이선스 항목(CC0)을 직접 확인했습니다. Top Down Dungeon Pack은 제작자 원본 License.txt(CC0)가 있고, 나머지는 페이지의 라이선스 표기로 LICENSE-SOURCE.txt를 작성했습니다. CC-BY 팩은 없습니다. 대용량(25MB 초과) 팩과 3D 팩은 추가하지 않았고 새 저장소는 만들지 않았습니다.
+
+실제 팩 수(catalog.csv 기준): 2D 539 · 3D 439 · UI/아이콘 200 · 오디오 397 · 기타 3.

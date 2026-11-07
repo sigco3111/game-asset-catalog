@@ -7,10 +7,10 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 523팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 526팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 428팩 (대부분 릴리스 첨부) |
-| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 195팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 386팩 |
+| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 196팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 388팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (자체 제작, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.
@@ -52,9 +52,20 @@
 | [Hex Board Game Tiles](https://github.com/sigco3111/assets-2d-pixel/tree/main/hex-board-game-tiles) | assets-2d-pixel | qubodup | CC0 | 육각 보드게임 타일 SVG |
 | [Medieval fair [Loop]](https://github.com/sigco3111/assets-audio/tree/main/medieval-fair-loop) | assets-audio | Woli34 | CC0 | 중세 장터 음악 루프 OGG |
 
+## 2026-11-07 A2 추가 (6팩, 총 1541팩)
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [RPG Fantasy Icon Set](https://github.com/sigco3111/assets-ui-icons/tree/main/rpg-fantasy-icon-set) | assets-ui-icons | DezrasDragons | CC0 | RPG 장비 아이콘 PNG 9종 |
+| [Tile based strategy game sprites](https://github.com/sigco3111/assets-2d-pixel/tree/main/tile-based-strategy-game-sprites) | assets-2d-pixel | danthedev | CC0 | 격자 전략 게임 스프라이트시트 |
+| [180+ Seamless Hex Tiles](https://github.com/sigco3111/assets-2d-pixel/tree/main/180-seamless-hex-tiles) | assets-2d-pixel | Screaming Brain Studios | CC0 | 이음새 없는 육각 타일 PNG·TSX (원본 License.txt) |
+| [Playing Cards (Vector & PNG)](https://github.com/sigco3111/assets-2d-pixel/tree/main/playing-cards-vector-png) | assets-2d-pixel | Byron Knoll | CC0 | SVG·PNG 카드 덱 |
+| [Rpg Loop 1](https://github.com/sigco3111/assets-audio/tree/main/rpg-loop-1) | assets-audio | Tozan | CC0 | RPG 현악 루프 OGG·MIDI |
+| [Medieval: Battle](https://github.com/sigco3111/assets-audio/tree/main/medieval-battle) | assets-audio | RandomMind | CC0 | 중세 전투 음악 MP3 (WAV는 25MB 업로드 제한으로 제외) |
+
 새 팩은 `팩이름/` 폴더(zip, pack.md, 미리보기)로 올립니다. 업로드 도구가 파일명을 소문자로 바꿔 PACK.md는 `pack.md`로 저장됩니다. OGA 팩은 원본에 라이선스 파일이 없어 수집자가 쓴 LICENSE-SOURCE.txt를 zip에 넣었습니다.
 
-실제 팩 수(catalog.csv 기준): 2D 523 · 3D 428 · UI/아이콘 195 · 오디오 386 · 기타 3.
+실제 팩 수(catalog.csv 기준): 2D 526 · 3D 428 · UI/아이콘 196 · 오디오 388 · 기타 3.
 
 ## 카탈로그
 
@@ -65,7 +76,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1535팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1541팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 

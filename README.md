@@ -7,10 +7,10 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 529팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 531팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 429팩 (대부분 릴리스 첨부) |
-| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 197팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 390팩 |
+| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 198팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 394팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (자체 제작, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.
@@ -79,6 +79,23 @@
 종류: 효과음·음악·3D 보드게임 소품·텍스처·아이콘·픽셀 캐릭터. 텍스처는 기존 방식대로 assets-2d-pixel에 수록했습니다. 모두 OGA 페이지의 CC0 표기를 직접 확인했습니다.
 
 실제 팩 수(catalog.csv 기준): 2D 529 · 3D 429 · UI/아이콘 197 · 오디오 390 · 기타 3.
+
+## 2026-11-07 A4 추가 (8팩, 총 1555팩)
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Hi-Tech Button Sound Pack I (Non Themed)](https://github.com/sigco3111/assets-audio/tree/main/hi-tech-button-sound-pack-i-non-themed) | assets-audio | Circlerun | CC0 | 하이테크 UI 버튼·창 효과음 15종 (WAV·MP3, 원본 RAR 그대로) |
+| [Click UI Menu SFX (yes/no/select)](https://github.com/sigco3111/assets-audio/tree/main/click-ui-menu-sfx-yes-no-select) | assets-audio | qubodup | CC0 | 클릭·긍정·부정 UI 효과음 WAV 8개 (7z→zip 재압축) |
+| [Accept/ Decline UI Menu](https://github.com/sigco3111/assets-audio/tree/main/accept-decline-ui-menu) | assets-audio | KarateStudios | CC0 | 수락/거절 UI 효과음 FLAC 2개 |
+| [Menu Loop](https://github.com/sigco3111/assets-audio/tree/main/menu-loop) | assets-audio | Akikazer | CC0 | 메뉴 음악 루프 WAV (2.6MB) |
+| [5 wood textures](https://github.com/sigco3111/assets-2d-pixel/tree/main/5-wood-textures) | assets-2d-pixel | Luke.RUSTLTD | CC0 | 타일형 나무 텍스처 PNG 5장 |
+| [CC0 Book Icons](https://github.com/sigco3111/assets-ui-icons/tree/main/cc0-book-icons) | assets-ui-icons | AntumDeluge | CC0 | 32x32 책 아이콘 모음 (출처별 CC0) |
+| [Deep Night - 8x8 Platformer Assets](https://github.com/sigco3111/assets-2d-pixel/tree/main/deep-night-8x8-platformer-assets) | assets-2d-pixel | VEXED | CC0 | 8x8 플랫포머 타일·적·플레이어 |
+| [Paper Pixels - 8x8 Platformer Assets](https://github.com/sigco3111/assets-2d-pixel/tree/main/paper-pixels-8x8-platformer-assets) | assets-2d-pixel | VEXED | CC0 | 8x8 플랫포머 타일·적·플레이어 (3 팔레트) |
+
+종류: UI·메뉴 효과음 4팩, 텍스처 1, 아이콘 1, 8x8 플랫포머 타일셋 2. 모두 OGA 페이지의 라이선스 항목(CC0)을 직접 확인했습니다. 대용량 팩은 이번에 추가하지 않았습니다. 새 저장소 없음(저장소 용량 모두 약 120MB 이하).
+
+실제 팩 수(catalog.csv 기준): 2D 531 · 3D 429 · UI/아이콘 198 · 오디오 394 · 기타 3.
 
 ## 카탈로그
 

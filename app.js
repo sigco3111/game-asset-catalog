@@ -21,7 +21,7 @@ function parseCSV(t){
   return out.map(function(r){var o={};h.forEach(function(k,j){o[k.trim()]=(r[j]||'').trim()});return o});
 }
 function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
-function isBy(r){return /BY/i.test(r.license)}
+function isBy(r){return /CC[- ]?BY|MIT|GPL/i.test(r.license)}
 function parts(r){var u=dl(r);if(!r.split||!u)return [];var b=u.replace(/[^\/]*$/,'');return r.split.split(';').map(function(x){return x.trim()}).filter(Boolean).map(function(x){return {n:x,u:b+x}})}
 function dl(r){var f=r.file;if(!f)return '';if(/^https?:/.test(f))return f;
   return 'https://github.com/'+OWNER+'/'+r.repo+(f.indexOf('releases/')===0?'/'+f:'/raw/main/'+f)}

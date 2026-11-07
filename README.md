@@ -7,11 +7,11 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 549팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 550팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 439팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
-| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 207팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 406팩 |
+| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 211팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 408팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (자체 제작, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.
@@ -107,7 +107,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1595팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1611팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
@@ -223,3 +223,19 @@ Quaternius 7팩 모두 공식 팩 페이지의 License 항목(CC0)을 직접 확
 종류: 2D 3팩(던전 타일셋·RPG 캐릭터·8x8 스프라이트시트), UI/아이콘 3(모바일 GUI·방패·자원 아이콘), 오디오 3(음악 3팩). OpenGameArt.org 페이지의 라이선스 항목(전부 CC0 단독 표기)과 제출자(Author) 표기를 직접 확인했습니다. CC-BY 팩은 없습니다. Gui Mobile Icons는 원본 License.txt(CC0 URL) 포함, 나머지는 페이지 표기로 쓴 LICENSE-SOURCE.txt 동봉. Fairy Adventure의 FLAC(29MB)는 단일 파일 25MB 제한으로 제외하고 OGG만 올렸습니다. 모든 커밋은 40MB 이하(최대 Fantasy Song Pack 27.4MB)라 분할 없음. 제외: "2d Isometric Pixel art Cave tiles"는 페이지가 동굴 타일을 설명하나 첨부 zip이 'Space Isometric Pixel art'(달/우주 타일, README는 CC0)라 내용·제목 불일치로 미수록. 이미 카탈로그에 있어 제외: Flag Pack(Kenney), CC0 Shield Icons, CC0 Food/Mineral Icons, Medieval: The Old Tower Inn·King's Feast. 오디오 샘플은 팩 안 파일 자체입니다. 새 저장소는 만들지 않았습니다.
 
 실제 팩 수(catalog.csv 기준): 2D 549 · 3D 439 · UI/아이콘 207 · 오디오 406 · 기타 3.
+
+## 2026-11-07 A12 추가 (7팩, 총 1611팩)
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Resouces Pack #1](https://github.com/sigco3111/assets-ui-icons/tree/main/resouces-pack-1) | assets-ui-icons | saint11 | CC0 | 손그림 자원 아이콘 PNG 8종(Bread·Coin·Crystal·Minerals·Paper·Skull·Stone·Wood) |
+| [8x8 Resource Pack](https://github.com/sigco3111/assets-ui-icons/tree/main/8x8-resource-pack) | assets-ui-icons | EverCrazy | CC0 | 8x8 픽셀 자원 아이콘 14종 PNG 1장 |
+| [1-bit Resources and Gems 48x48](https://github.com/sigco3111/assets-ui-icons/tree/main/1-bit-resources-and-gems-48x48) | assets-ui-icons | DuskyPixel | CC0 | 48x48 1비트 자원·보석 아이콘 PNG 1장 |
+| [16x16 pixel flags (v2)](https://github.com/sigco3111/assets-ui-icons/tree/main/16x16-pixel-flags-v2) | assets-ui-icons | devurandom | CC0 | 16x16 국기 픽셀아트 GIF 1장(Arne 16색) |
+| [Animated Flags Pack](https://github.com/sigco3111/assets-2d-pixel/tree/main/animated-flags-pack) | assets-2d-pixel | Screaming Brain Studios | CC0 | 국가 229곳 애니메이션 깃발(Flat·Shaded 각 229 PNG); Shaded 32MB를 A–M/N–Z zip 2개로 분할; 원본 License.txt 포함 |
+| [Medieval: Exploration](https://github.com/sigco3111/assets-audio/tree/main/medieval-exploration) | assets-audio | RandomMind | CC0 | 중세풍 탐험·메뉴 음악 MP3 1곡 (WAV 62MB는 용량 제한으로 제외) |
+| [Orchestral and World Music Pack](https://github.com/sigco3111/assets-audio/tree/main/orchestral-and-world-music-pack) | assets-audio | Ragnar Random | CC0 | 오케스트라·월드풍 OGG 12곡(41MB, 커밋 2회) |
+
+종류: 자원·국기 아이콘 4팩, 애니메이션 깃발 1, 음악 2. OpenGameArt.org 페이지의 라이선스 항목(전부 CC0 단독 표기)과 제출자(Author) 표기를 직접 확인했습니다. CC-BY 팩은 없습니다. 16px Items and Materials는 페이지 라이선스가 CC-BY-SA 4.0이라 제외했습니다. Animated Flags Pack은 원본 License.txt(CC0)가 있고, 나머지는 페이지 표기로 LICENSE-SOURCE.txt를 작성했습니다. 새 UI 테마(양피지 프레임·외교/조약 아이콘·지도 마커·승패 배너)는 이번 실행에서 탐색하지 않았습니다.
+
+실제 팩 수(catalog.csv 기준): 2D 550 · 3D 439 · UI/아이콘 211 · 오디오 408 · 기타 3.

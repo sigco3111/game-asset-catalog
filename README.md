@@ -7,11 +7,11 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 541팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 546팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 439팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
-| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 203팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 399팩 |
+| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 204팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 403팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (자체 제작, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.
@@ -107,7 +107,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1585팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1595팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
@@ -186,3 +186,22 @@ Quaternius 7팩 모두 공식 팩 페이지의 License 항목(CC0)을 직접 확
 종류: 이펙트 1팩, 일러스트(맵) 1, 음악 2, UI 키트 2, 아이콘 1. OpenGameArt.org의 CC0 팩만 받았고, 각 팩 페이지의 라이선스 항목(CC0)과 제출자(Author) 표기를 직접 확인했습니다. 원본 License.txt가 있는 팩은 없어 모두 페이지의 라이선스 표기로 LICENSE-SOURCE.txt를 작성했습니다(Nat's 8x8은 zip 내 readme.txt에도 CC0 명시). CC-BY 팩은 없습니다. 25MB 초과 팩(Free VFX 94.6MB, Glizzy Elf Forest 44.4MB)은 파일 내용을 바꾸지 않고 zip을 나눠 여러 커밋으로 올렸습니다. Level & Battle Theme은 WAV(30.7MB)가 한도를 넘어 MP3만 수록했고, 작가가 크레딧(Cal McEachern)을 요청했으나 필수는 아닙니다. 'RPG UI Elements CC0'는 개별 에셋이 아니라 컬렉션 페이지(라이선스 항목 없음)라 제외했습니다. 새 저장소는 만들지 않았습니다.
 
 실제 팩 수(catalog.csv 기준): 2D 541 · 3D 439 · UI/아이콘 203 · 오디오 399 · 기타 3.
+
+## 2026-11-07 A10 추가 (10팩, 총 1595팩)
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Dark war Pack](https://github.com/sigco3111/assets-2d-pixel/tree/main/dark-war-pack) | assets-2d-pixel | sujit1717 | CC0 | 전쟁 스프라이트(전투기·헬기·탱크·병사 등) 67파일 |
+| [160+ Toon Style Hex Tiles](https://github.com/sigco3111/assets-2d-pixel/tree/main/160-toon-style-hex-tiles) | assets-2d-pixel | Screaming Brain Studios | CC0 | 툰 스타일 육각 타일 168종 (원본 License.txt 포함) |
+| [Hexset v.01.1 - Hex pixel art terrain tileset](https://github.com/sigco3111/assets-2d-pixel/tree/main/hexset-v011-hex-pixel-art-terrain-tileset) | assets-2d-pixel | mbartelsm | CC0 | 육각 픽셀아트 지형 타일셋(변형 3종·격자 유무) |
+| [War of the Ages Pixel Art Sprite Sheet](https://github.com/sigco3111/assets-2d-pixel/tree/main/war-of-the-ages-pixel-art-sprite-sheet) | assets-2d-pixel | monte_carino | CC0 | 전쟁 스프라이트시트 PNG 1장(탱크·비행기·함선·병사) |
+| [Coins asset](https://github.com/sigco3111/assets-2d-pixel/tree/main/coins-asset) | assets-2d-pixel | truezipp | CC0 | 금화 회전 애니메이션 시트(24·32·48px) |
+| [Mini Pack - Money](https://github.com/sigco3111/assets-ui-icons/tree/main/mini-pack-money) | assets-ui-icons | photoshopwizard | CC0 | 돈·지갑·금화 SVG 1개 |
+| [Medieval: Victory Theme](https://github.com/sigco3111/assets-audio/tree/main/medieval-victory-theme) | assets-audio | RandomMind | CC0 | 중세풍 승리 테마 MP3+WAV |
+| [Medieval: Defeat Theme](https://github.com/sigco3111/assets-audio/tree/main/medieval-defeat-theme) | assets-audio | RandomMind | CC0 | 중세풍 패배 테마 MP3+WAV |
+| [Medieval Standoff](https://github.com/sigco3111/assets-audio/tree/main/medieval-standoff) | assets-audio | Umplix | CC0 | 류트·리코더 긴장감 곡 WAV 1개 |
+| [UI Sound Effects Library](https://github.com/sigco3111/assets-audio/tree/main/ui-sound-effects-library) | assets-audio | Little Robot Sound Factory | CC-BY 3.0 (귀속: Little Robot Sound Factory, www.littlerobotsoundfactory.com) | UI 효과음 105종(MP3·WAV); **CC-BY 3.0 — 귀속 필수** |
+
+종류: 2D 5팩(전쟁 스프라이트 2·육각 타일 2·코인 애니메이션 1), UI/아이콘 1, 오디오 4(음악 3·효과음 1). OpenGameArt.org 페이지의 라이선스 항목과 제출자(Author) 표기를 직접 확인했습니다. CC0 9팩 + CC-BY 3.0 1팩(UI Sound Effects Library — 귀속 문구: "Attribute Little Robot Sound Factory, and provide this link where possible: www.littlerobotsoundfactory.com"). 모든 팩이 단일 파일 25MB·커밋 40MB 이하라 분할 없음. Hexagon Kit·Tiny Battle(OGA)은 Kenney 팩과 동일해 이미 카탈로그에 있어 제외. 오디오 샘플은 팩 안 MP3/WAV 파일 자체입니다(ffmpeg 없음). 업로드 도구가 파일명을 소문자로 바꿔 Money.svg→money.svg, WarSpriteSheet.png→war-sprite-sheet.png로 저장했고, 나머지 원본 파일명은 유지했습니다.
+
+실제 팩 수(catalog.csv 기준): 2D 546 · 3D 439 · UI/아이콘 204 · 오디오 403 · 기타 3.

@@ -7,11 +7,11 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 539팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 541팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 439팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
-| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 200팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 397팩 |
+| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 203팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 399팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (자체 제작, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.
@@ -107,7 +107,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1578팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1585팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
@@ -171,4 +171,18 @@ Quaternius 7팩 모두 공식 팩 페이지의 License 항목(CC0)을 직접 확
 
 종류: BGM·음악 2팩, 탑다운·플랫포머 타일셋 4, 보드게임 1, 파티클 1, UI 1, 아이콘 1. Quaternius·Google Drive가 아닌 OpenGameArt.org의 CC0 팩만 받았고, 모든 팩의 OGA 페이지 라이선스 항목(CC0)을 직접 확인했습니다. Top Down Dungeon Pack은 제작자 원본 License.txt(CC0)가 있고, 나머지는 페이지의 라이선스 표기로 LICENSE-SOURCE.txt를 작성했습니다. CC-BY 팩은 없습니다. 대용량(25MB 초과) 팩과 3D 팩은 추가하지 않았고 새 저장소는 만들지 않았습니다.
 
-실제 팩 수(catalog.csv 기준): 2D 539 · 3D 439 · UI/아이콘 200 · 오디오 397 · 기타 3.
+## 2026-11-07 A9 추가 (7팩, 총 1585팩)
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Free VFX asset pack](https://github.com/sigco3111/assets-2d-pixel/tree/main/free-vfx-asset-pack) | assets-2d-pixel | CodeManu | CC0 | 픽셀 이펙트 22종(30·60fps PNG·GIF·.smp, 파일 2,150개); 94.6MB를 zip 6개로 분할 |
+| [Fantasy World Map](https://github.com/sigco3111/assets-2d-pixel/tree/main/fantasy-world-map) | assets-2d-pixel | Belohlavek | CC0 | 무작위 생성 판타지 월드맵 GIF(4000x2000) |
+| [Level & Battle Theme (Loops) - MP3](https://github.com/sigco3111/assets-audio/tree/main/level-battle-theme-loops) | assets-audio | Trex0n | CC0 | 레트로 신스 레벨·보스전 테마 MP3 2개(WAV 제외) |
+| [Glizzy Elf Forest [RPG MUSIC PACK]](https://github.com/sigco3111/assets-audio/tree/main/glizzy-elf-forest-rpg-music-pack) | assets-audio | Zane Little Music | CC0 | RPG 음악 WAV 5곡; zip 2개로 분할 |
+| [Assets: UI Casual Free #5 [Buttons, Bars, Panels]](https://github.com/sigco3111/assets-ui-icons/tree/main/assets-ui-casual-free-5-buttons-bars-panels) | assets-ui-icons | Wenrexa | CC0 | 캐주얼 UI PNG(3색 각 239종) |
+| [Nat's 8x8 UI Pack (Over 50 UI Elements)](https://github.com/sigco3111/assets-ui-icons/tree/main/nats-8x8-ui-pack-over-50-ui-elements) | assets-ui-icons | nateonus | CC0 | 8x8 픽셀 UI 요소 50여 종 |
+| [Icons for fantasy game (units and skills)](https://github.com/sigco3111/assets-ui-icons/tree/main/icons-for-fantasy-game-units-and-skills) | assets-ui-icons | voltz3666 | CC0 | 64x64 판타지 아이콘(진영·도시·유닛·스킬) |
+
+종류: 이펙트 1팩, 일러스트(맵) 1, 음악 2, UI 키트 2, 아이콘 1. OpenGameArt.org의 CC0 팩만 받았고, 각 팩 페이지의 라이선스 항목(CC0)과 제출자(Author) 표기를 직접 확인했습니다. 원본 License.txt가 있는 팩은 없어 모두 페이지의 라이선스 표기로 LICENSE-SOURCE.txt를 작성했습니다(Nat's 8x8은 zip 내 readme.txt에도 CC0 명시). CC-BY 팩은 없습니다. 25MB 초과 팩(Free VFX 94.6MB, Glizzy Elf Forest 44.4MB)은 파일 내용을 바꾸지 않고 zip을 나눠 여러 커밋으로 올렸습니다. Level & Battle Theme은 WAV(30.7MB)가 한도를 넘어 MP3만 수록했고, 작가가 크레딧(Cal McEachern)을 요청했으나 필수는 아닙니다. 'RPG UI Elements CC0'는 개별 에셋이 아니라 컬렉션 페이지(라이선스 항목 없음)라 제외했습니다. 새 저장소는 만들지 않았습니다.
+
+실제 팩 수(catalog.csv 기준): 2D 541 · 3D 439 · UI/아이콘 203 · 오디오 399 · 기타 3.

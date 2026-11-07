@@ -88,7 +88,7 @@ function init(data){
   rows=parseCSV(data).filter(function(r){return r.name||r.file});
   rows.forEach(function(r,i){r._i=i;r._s=search(r)});
   var by={};rows.forEach(function(r){if(r.author)by[r.author]=(by[r.author]||0)+1});
-  $('author').innerHTML='<option value="">제작자</option>'+Object.keys(by).sort(function(a,b){return by[b]-by[a]}).map(function(a){return '<option value="'+esc(a)+'">'+esc(a)+' ('+by[a]+')</option>'}).join('');
+  $('author').innerHTML='<option value="">제작자</option>'+Object.keys(by).sort(function(a,b){return a.localeCompare(b,'ko',{sensitivity:'base',numeric:true})}).map(function(a){return '<option value="'+esc(a)+'">'+esc(a)+' ('+by[a]+')</option>'}).join('');
   try{var s=JSON.parse(decodeURIComponent(location.hash.slice(1)));for(var k in state)if(typeof s[k]==='string')state[k]=s[k]}catch(e){}
   $('q').value=state.q;$('lic').value=state.lic;$('author').value=state.author;$('sort').value=state.sort;
   var last=rows.map(function(r){return r.added}).sort().pop();

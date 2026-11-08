@@ -7,11 +7,11 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 608팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 610팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 439팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 433팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 435팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (소유자의 AI 어시스턴트 Instinct가 생성한 자체 작업물, 소유자 결정으로 유지, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.
@@ -109,7 +109,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1709팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1713팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
@@ -521,3 +521,18 @@ A17 실행이 GitHub 커밋 오류("You can't perform that action at this time."
 종류: 2D 이펙트 2팩(assets-2d-pixel)·효과음 2팩(assets-audio). 라이선스: CC0 2팩, CC-BY 3.0 2팩(CREDITS.txt 동봉). AI 생성 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가), 업로드 후 저장소 파일 sha256을 로컬과 대조해 18개 파일 전부 일치. 새 저장소 없음.
 
 실제 팩 수(catalog.csv 기준): 2D 607 · 3D 439 · UI/아이콘 226 · 오디오 433 · 기타 4 (합계 1709).
+
+## 2026-11-08 A31 추가 (4팩, 총 1713팩)
+
+소유자의 짧은 수집 라운드 지시(방어막·베기 스프라이트 이펙트와 마법·타격 효과음 우선)에 따라 아직 없는 방어막·검 베기 스프라이트 이펙트 2팩과 검 부딪힘·방어막 효과음 2팩을 수집했습니다. OpenGameArt 페이지의 라이선스 항목과 Author 항목을 읽고 기록했습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Shield Aura Effect](https://github.com/sigco3111/assets-2d-pixel/tree/main/shield-aura-effect) | assets-2d-pixel | sholev (원작 Bonsaiheldin) | CC-BY 3.0 | 방어막 오라 PNG 3종(기본·초록·흰색, 556x556); 페이지 CC-BY 3.0 단독; Bonsaiheldin의 Shield effect 수정판이라 원작자·수정자 함께 귀속(CREDITS.txt 동봉); 페이지에 zip이 없어 첨부 PNG를 zip으로 묶음; AI 생성 아님 |
+| [Pixel art sword slash effect](https://github.com/sigco3111/assets-2d-pixel/tree/main/pixel-art-sword-slash-effect) | assets-2d-pixel | tbbk | CC0 | 검 베기 시트 PNG 1장(192x141, 프레임 64x47); 페이지 CC0 단독; 페이지에 zip이 없어 시트 PNG를 zip으로 묶음; AI 생성 아님 |
+| [Machete vs. Spatula](https://github.com/sigco3111/assets-audio/tree/main/machete-vs-spatula) | assets-audio | CYBERDEViL | CC0 | 마체테와 주걱 타격(검 부딪힘) 날것 녹음 WAV 18종; 페이지 CC0 단독; 페이지에 zip이 없어 WAV를 zip으로 묶음; AI 생성 아님 |
+| [Magic Shield](https://github.com/sigco3111/assets-audio/tree/main/magic-shield) | assets-audio | spookymodem | CC-BY 3.0 | 맥동하는 방어막 마법 효과음 WAV 1종; 페이지 CC-BY 3.0 단독; 귀속 필수(CREDITS.txt 동봉); AI 생성 아님 |
+
+종류: 2D 이펙트 2팩(assets-2d-pixel)·효과음 2팩(assets-audio). 라이선스: CC0 2팩, CC-BY 3.0 2팩(CREDITS.txt 동봉). AI 생성 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가), 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 18개 파일 전부 일치. 새 저장소 없음.
+
+실제 팩 수(catalog.csv 기준): 2D 609 · 3D 439 · UI/아이콘 226 · 오디오 435 · 기타 4 (합계 1713).

@@ -7,11 +7,11 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 574팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 577팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 439팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 423팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 427팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (소유자의 AI 어시스턴트 Instinct가 생성한 자체 작업물, 소유자 결정으로 유지, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.
@@ -109,7 +109,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1665팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1672팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
@@ -377,3 +377,21 @@ A17 실행이 GitHub 커밋 오류("You can't perform that action at this time."
 종류: 효과음 5팩 · 2D 이펙트 3팩. 라이선스: CC0 6팩, CC-BY 4.0 1팩(8 Heals and Buffs SFX), GPL 3.0 1팩(Spell Sounds Starter Pack; GPL 3.0 전문 동봉). 팩당 1커밋, 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 전부 일치. 제외·미수집: Medieval Sound Effects - Weapon Impacts(CC0, 7z 2개 합계 약 156MB로 용량 초과), Fire Staff Sound Effects(CC0, zip 29MB로 25MB 초과·미분할), Punches, Hits, Swords and Squishes(CC-BY-SA 3.0 단독), Imagindar Abilities Sound Effects Pack(CC-BY-SA 4.0 단독), Sword Swing(OGA-BY 4.0 단독), Whoosh 1·2(GPL 2.0/3.0 / CC-BY-SA 3.0 — 허용 가능하나 단일 WAV라 미수집), Punch Slap n Kick(CC-BY 3.0, 미수집).
 
 실제 팩 수(catalog.csv 기준): 2D 574 · 3D 439 · UI/아이콘 226 · 오디오 423 · 기타 3 (합계 1665).
+
+## 2026-11-08 A21 추가 (7팩, 총 1672팩)
+
+소유자의 계속 수집 지시에 따라 타격·휘두르기(whoosh/punch) 효과음과 마법·방패·임팩트 스프라이트 이펙트를 수집했습니다. 모든 팩의 OpenGameArt 페이지 라이선스 항목 전체와 제출자(Author)를 읽고 선택한 라이선스를 기록했습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Whoosh 1](https://github.com/sigco3111/assets-audio/tree/main/whoosh-1) | assets-audio | bart | GPL 3.0 | 휘익 효과음 WAV 1종; 페이지 병기 GPL 2.0 / GPL 3.0 / CC-BY-SA 3.0 중 GPL 3.0 선택(카피레프트, 전문 동봉), 귀속 문구는 페이지 지정 없어 표준 표기 |
+| [Whoosh 2](https://github.com/sigco3111/assets-audio/tree/main/whoosh-2) | assets-audio | bart | GPL 3.0 | 더 긴 휘익 효과음 WAV 1종; Whoosh 1과 동일 조건(GPL 3.0 선택, 전문·CREDITS.txt 동봉) |
+| [Punch, slap, n' kick](https://github.com/sigco3111/assets-audio/tree/main/punch-slap-n-kick) | assets-audio | congusbongus | CC-BY 3.0 | 귀속 필수(CREDITS.txt 동봉; 원본 freesound CGEffex 가공 파생물이라 원작자도 표기), 펀치·따귀·발차기 OGG 18개 |
+| [Battle Sound Effects](https://github.com/sigco3111/assets-audio/tree/main/battle-sound-effects) | assets-audio | Ogrebane | CC0 | 스윙 3종 + 활 1종 WAV; 페이지 병기 CC-BY 3.0 / CC-BY-SA 3.0 / GPL 3.0 / GPL 2.0 / CC0 중 CC0 선택 |
+| [Nature - Magic Effect](https://github.com/sigco3111/assets-2d-pixel/tree/main/nature-magic-effect) | assets-2d-pixel | Cethiel | CC0 | 식물·자연 마법/치유/버프 이펙트 PNG 24종 + Preview |
+| [Angel Shield Effect](https://github.com/sigco3111/assets-2d-pixel/tree/main/angel-shield-effect) | assets-2d-pixel | Cethiel | CC0 | 날개 방패 버프 이펙트 4속성 PNG 42개(이펙트·아이콘·미리보기) |
+| [AlotofImpacts - 6 Frame Impacts - 4 variations](https://github.com/sigco3111/assets-2d-pixel/tree/main/alotofimpacts-6-frame-impacts-4-variations) | assets-2d-pixel | JoesAlotofthings | CC-BY 4.0 | 귀속 필수(페이지 문구: credit JoesAlotofthings, CREDITS.txt 동봉), 6프레임 타격 시트 PNG 4색(960x384) |
+
+종류: 효과음 4팩 · 2D 이펙트 3팩. 라이선스: CC0 3팩, GPL 3.0 2팩(Whoosh 1·2; GPL 3.0 전문 동봉), CC-BY 3.0 1팩, CC-BY 4.0 1팩. 팩당 1커밋, 한 번에 하나씩 올렸고 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 전부 일치. 제외·미수집: Sword Swing(OGA-BY 4.0 단독), Fleshy Fight Sounds(OGA-BY 3.0 단독), Punches, hits, swords and squishes(CC-BY-SA 단독), Medieval sound effects - Weapon impacts(약 82MB×2, 용량 초과), 같은 AlotofImpacts 시리즈 나머지 팩(CC-BY 4.0, 미수집), Small Hit confirm VFX Animation 등 CC-BY 3.0 스프라이트 후보(시간상 미수집).
+
+실제 팩 수(catalog.csv 기준): 2D 577 · 3D 439 · UI/아이콘 226 · 오디오 427 · 기타 3 (합계 1672).

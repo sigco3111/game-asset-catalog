@@ -98,7 +98,7 @@
 
 종류: UI·메뉴 효과음 4팩, 텍스처 1, 아이콘 1, 8x8 플랫포머 타일셋 2. 모두 OGA 페이지의 라이선스 항목(CC0)을 직접 확인했습니다. 대용량 팩은 이번에 추가하지 않았습니다. 새 저장소 없음(저장소 용량 모두 약 120MB 이하).
 
-실제 팩 수(catalog.csv 기준): 2D 533 · 3D 439 · UI/아이콘 198 · 오디오 395 · 기타 3.
+실제 팩 수(catalog.csv 기준): 2D 585 · 3D 439 · UI/아이콘 226 · 오디오 427 · 기타 3. (2026-11-08 A22 시점 재집계, 합계 1680)
 
 ## 카탈로그
 
@@ -109,7 +109,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1672팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1680팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
@@ -395,3 +395,24 @@ A17 실행이 GitHub 커밋 오류("You can't perform that action at this time."
 종류: 효과음 4팩 · 2D 이펙트 3팩. 라이선스: CC0 3팩, GPL 3.0 2팩(Whoosh 1·2; GPL 3.0 전문 동봉), CC-BY 3.0 1팩, CC-BY 4.0 1팩. 팩당 1커밋, 한 번에 하나씩 올렸고 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 전부 일치. 제외·미수집: Sword Swing(OGA-BY 4.0 단독), Fleshy Fight Sounds(OGA-BY 3.0 단독), Punches, hits, swords and squishes(CC-BY-SA 단독), Medieval sound effects - Weapon impacts(약 82MB×2, 용량 초과), 같은 AlotofImpacts 시리즈 나머지 팩(CC-BY 4.0, 미수집), Small Hit confirm VFX Animation 등 CC-BY 3.0 스프라이트 후보(시간상 미수집).
 
 실제 팩 수(catalog.csv 기준): 2D 577 · 3D 439 · UI/아이콘 226 · 오디오 427 · 기타 3 (합계 1672).
+
+## 2026-11-08 A22 추가 (8팩, 총 1680팩)
+
+소유자의 계속 수집 지시에 따라 폭발·레이저·번개·마법·타격 스프라이트 이펙트를 수집했습니다. 모든 팩의 OpenGameArt 페이지 라이선스 항목 전체와 제출자(Author)를 읽고 선택한 라이선스를 기록했습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Small Hit confirm VFX Animation](https://github.com/sigco3111/assets-2d-pixel/tree/main/small-hit-confirm-vfx-animation) | assets-2d-pixel | GustavoPlima | CC-BY 4.0 | 작은 타격 확인 VFX 픽셀 시트 PNG 6개; 페이지 병기 CC-BY 3.0 / OGA-BY 3.0·4.0 / CC-BY 4.0 / CC-BY-SA 3.0·4.0 중 CC-BY 4.0 선택, 귀속 필수(CREDITS.txt) |
+| [Fire Wrath - Magic Effect](https://github.com/sigco3111/assets-2d-pixel/tree/main/fire-wrath-magic-effect) | assets-2d-pixel | Cethiel | CC0 | 불 속성 분노 마법 이펙트 PNG 25프레임 + 합본·미리보기 |
+| [Explosion particles sprite atlas](https://github.com/sigco3111/assets-2d-pixel/tree/main/explosion-particles-sprite-atlas) | assets-2d-pixel | TheJosh | CC0 | 폭발 파티클 스프라이트 아틀라스 PNG 2종 + XCF (원작 Kenney) |
+| [2D Explosion Animations #3 \| Frame by frame](https://github.com/sigco3111/assets-2d-pixel/tree/main/2d-explosion-animations-3-frame-by-frame) | assets-2d-pixel | Sinestesia | CC0 | 2D 폭발 프레임 애니메이션 시트 PNG 2개 |
+| [Assets Free Laser Bullets Pack 2020](https://github.com/sigco3111/assets-2d-pixel/tree/main/assets-free-laser-bullets-pack-2020) | assets-2d-pixel | Wenrexa | CC0 | 레이저 총알·광선 스프라이트 PNG 66개 |
+| [Lightning animation](https://github.com/sigco3111/assets-2d-pixel/tree/main/lightning-animation) | assets-2d-pixel | Calinou | CC0 | 번개 애니메이션 프레임 PNG 11장 |
+| [AlotofImpacts - 8 Frame Impacts. (2 Colors) 11of20](https://github.com/sigco3111/assets-2d-pixel/tree/main/alotofimpacts-8-frame-impacts-2-colors-11of20) | assets-2d-pixel | JoesAlotofthings | CC-BY 4.0 | 8프레임 타격·임팩트 시트 2색(투명 PNG); 귀속 필수(JoesAlotofthings, CREDITS.txt 동봉) |
+| [AlotofImpacts - 6 Frame Impacts - 4 Additional variations](https://github.com/sigco3111/assets-2d-pixel/tree/main/alotofimpacts-6-frame-impacts-4-additional-variations) | assets-2d-pixel | JoesAlotofthings | CC-BY 4.0 | 6프레임 타격·임팩트 시트 추가 4색(투명 PNG); 귀속 필수(JoesAlotofthings, CREDITS.txt 동봉) |
+
+종류: 2D 이펙트 8팩(전부 assets-2d-pixel; 효과음 없음). 라이선스: CC0 5팩, CC-BY 4.0 3팩(Small Hit confirm VFX Animation, AlotofImpacts 2팩; CREDITS.txt 동봉). 팩당 1커밋, 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 전부 일치. zip 최대 7.06MB로 분할 없음. 페이지에 zip이 없는 3팩(Small Hit confirm VFX Animation, Explosion particles sprite atlas, 2D Explosion Animations #3)은 첨부 파일을 원본 그대로 zip으로 묶음. Small Hit confirm VFX Animation은 페이지에 귀속 문구 지정이 없어 표준 CC-BY 표기를 CREDITS.txt에 작성. 미수집(AlotofImpacts 나머지 17팩, CC-BY 4.0): quick-hit/muzzle flash 시리즈, 5 Frame 색상별 시리즈, 15 Frame, 4 Frame 8 variations 등. 기타 후보: Fireball Effect(CC0), Angel Wings Effect(CC0), Earth Element Magic Spell(CC0), Lightning Shock Spell(CC-BY 3.0). 커밋 시 'You can't perform that action at this time.' 문구가 페이지에 표시된 경우가 있었으나 커밋은 정상 반영됨(저장소 커밋 목록·파일 대조로 확인, 중복 커밋 없음).
+
+문서 정정: A4 섹션의 옛 집계 줄(2D 533 …)을 현재 catalog.csv 기준 재집계 값으로 수정하고 사이트 안내의 팩 수를 갱신했습니다.
+
+실제 팩 수(catalog.csv 기준): 2D 585 · 3D 439 · UI/아이콘 226 · 오디오 427 · 기타 3 (합계 1680).

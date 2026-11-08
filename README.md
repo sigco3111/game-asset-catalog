@@ -7,7 +7,7 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 577팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 589팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 439팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
@@ -109,7 +109,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1680팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1685팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
@@ -416,3 +416,18 @@ A17 실행이 GitHub 커밋 오류("You can't perform that action at this time."
 문서 정정: A4 섹션의 옛 집계 줄(2D 533 …)을 현재 catalog.csv 기준 재집계 값으로 수정하고 사이트 안내의 팩 수를 갱신했습니다.
 
 실제 팩 수(catalog.csv 기준): 2D 585 · 3D 439 · UI/아이콘 226 · 오디오 427 · 기타 3 (합계 1680).
+
+## 2026-11-08 A24 추가 (4팩, 총 1685팩)
+
+소유자의 계속 수집 지시에 따라 타격·임팩트 스프라이트 이펙트를 수집했습니다. 모든 팩의 OpenGameArt 페이지 라이선스 항목과 제출자(Author)를 읽고 선택한 라이선스를 기록했습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [AlotofImpacts - 15 Frame Impacts w/smoke - 3 variations](https://github.com/sigco3111/assets-2d-pixel/tree/main/alotofimpacts-15-frame-impacts-wsmoke-3-variations) | assets-2d-pixel | JoesAlotofthings | CC-BY 4.0 | 15프레임 연기 동반 임팩트 시트 3종(투명 PNG); PNG 3개; 귀속 필수(JoesAlotofthings, CREDITS.txt 동봉) |
+| [AlotofImpacts - 4 Frame Impacts - 8 variations (4color x 2seeds each) 10of20](https://github.com/sigco3111/assets-2d-pixel/tree/main/alotofimpacts-4-frame-impacts-8-variations-4color-x-2seeds-each-10of20) | assets-2d-pixel | JoesAlotofthings | CC-BY 4.0 | 4프레임 임팩트 8종(4색×시드 2; 투명 PNG); PNG 8개; 귀속 필수(JoesAlotofthings, CREDITS.txt 동봉) |
+| [AlotofImpacts - 5 Frame Impacts - 6 variations (Impacts 13of20)](https://github.com/sigco3111/assets-2d-pixel/tree/main/alotofimpacts-5-frame-impacts-6-variations-impacts-13of20) | assets-2d-pixel | JoesAlotofthings | CC-BY 4.0 | 5프레임 회색조 임팩트·총구 섬광 6종(투명 PNG); PNG 6개; 귀속 필수(JoesAlotofthings, CREDITS.txt 동봉) |
+| [AlotofImpacts - Something Different - 15 Frame Dual Color Impact/explosion. Impacts-12of20](https://github.com/sigco3111/assets-2d-pixel/tree/main/alotofimpacts-something-different-15-frame-dual-color-impactexplosion-impacts-12of20) | assets-2d-pixel | JoesAlotofthings | CC-BY 4.0 | 2색 시드 15프레임 임팩트·폭발 시트 + 단색 시트(투명 PNG); PNG 3개; 귀속 필수(JoesAlotofthings, CREDITS.txt 동봉) |
+
+종류: 2D 이펙트 4팩(전부 assets-2d-pixel; 효과음 없음). 라이선스: 4팩 모두 페이지 표기 CC-BY 4.0 단독, 귀속 필수(CREDITS.txt 동봉). 팩당 1커밋, 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 전부 일치. zip 최대 1.12MB로 분할 없음, OGA 배포 zip 원본 바이트 그대로(파일명만 변경). 미수집(AlotofImpacts 나머지 13팩, CC-BY 4.0): 9of20, quick-hit/muzzle flash 4종, 5 Frame 색상별 7종(14~20 of 20), quick 4 frame 001-004.
+
+실제 팩 수(catalog.csv 기준): 2D 589 · 3D 439 · UI/아이콘 226 · 오디오 427 · 기타 4 (합계 1685).

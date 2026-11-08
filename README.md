@@ -7,11 +7,11 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 571팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 574팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 439팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 418팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 423팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (소유자의 AI 어시스턴트 Instinct가 생성한 자체 작업물, 소유자 결정으로 유지, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.
@@ -109,7 +109,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1657팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1665팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
@@ -358,3 +358,22 @@ A17 실행이 GitHub 커밋 오류("You can't perform that action at this time."
 종류: 2D 이펙트 5팩 · 효과음 3팩. 라이선스: CC0 2팩(Pure Projectile, 10 Impact/Shield Blocks), CC-BY 3.0 6팩(Sparks, Fireball Spell, Fire Spell Explosion, Icicle Spell, Ice & Electricity Magic, 2 High Quality Explosions; 모두 CREDITS.txt 동봉). 페이지가 귀속 문구를 지정한 팩은 Ice & Electricity Magic뿐이고, 나머지 CC-BY 팩은 표준 CC-BY 표기를 CREDITS.txt에 작성했습니다. Ice & Electricity Magic·2 High Quality Explosions는 OGA 원본이 .7z라 같은 내용을 zip으로 다시 묶었습니다(오디오 파일 변경 없음, 편집기 임시파일 .swp 1개만 제외). 이번에 수집하지 않은 후보: Blood - Magic Effect, Light - Magic Effect(Cethiel CC0, 팩 수 상한 8팩), Spell Sounds Starter Pack(GPL 2.0/3.0 병기, 미수집), 그 외 효과음 후보. 팩당 1커밋, 한 번에 하나씩 올렸고 저장소 파일의 git blob 해시를 로컬 파일과 대조해 전부 일치를 확인했습니다.
 
 실제 팩 수(catalog.csv 기준): 2D 571 · 3D 439 · UI/아이콘 226 · 오디오 418 · 기타 3 (합계 1657).
+
+## 2026-11-08 A20 추가 (8팩, 총 1665팩)
+
+소유자의 계속 수집 지시에 따라 이펙트 효과음(주문·치유/버프·전투 타격)과 아직 없는 스프라이트 이펙트(피·빛 마법, 불·연기)를 수집했습니다. 모든 팩의 OpenGameArt 페이지 라이선스 항목 전체와 제출자(Author)를 읽고 선택한 라이선스를 기록했습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Spell Sounds Starter Pack](https://github.com/sigco3111/assets-audio/tree/main/spell-sounds-starter-pack) | assets-audio | p0ss | GPL 3.0 | 주문 효과음 OGG 75종; 페이지 병기 CC-BY-SA 3.0 / GPL 3.0 / GPL 2.0 중 GPL 3.0 선택(카피레프트), 귀속 문구는 페이지 지정 없어 표준 표기 |
+| [150 Combat Sound Effects](https://github.com/sigco3111/assets-audio/tree/main/150-combat-sound-effects) | assets-audio | untamedpixels | CC0 | 전투 효과음 WAV 150종(근접 타격·펀치·칼 베기, 원거리, 폭발, 마법); 25MB 제한으로 zip 2개 분할 |
+| [8 Heals and Buffs SFX](https://github.com/sigco3111/assets-audio/tree/main/8-heals-and-buffs-sfx) | assets-audio | leohpaz | CC-BY 4.0 | 귀속 필수(페이지 지정 없어 표준 표기, CREDITS.txt 동봉), 회복·버프 WAV 8종 |
+| [Cure Magic](https://github.com/sigco3111/assets-audio/tree/main/cure-magic) | assets-audio | Someoneman | CC0 | 치유 주문 WAV 8종 |
+| [Ice spells](https://github.com/sigco3111/assets-audio/tree/main/ice-spells) | assets-audio | bart | CC0 | 얼음 주문 WAV 2종(pdsounds 사운드 가공 파생물, 페이지 CC0) |
+| [Blood - Magic Effect](https://github.com/sigco3111/assets-2d-pixel/tree/main/blood-magic-effect) | assets-2d-pixel | Cethiel | CC0 | 피 스타일 마법 투사체 PNG 25종 |
+| [Light - Magic Effect](https://github.com/sigco3111/assets-2d-pixel/tree/main/light-magic-effect) | assets-2d-pixel | Cethiel | CC0 | 빛 마법 투사체·주문 PNG 25종 |
+| [Fire Smoke Animations](https://github.com/sigco3111/assets-2d-pixel/tree/main/fire-smoke-animations) | assets-2d-pixel | Reactorcore | CC0 | 픽셀 불·연기 프레임 애니메이션(시트 + 개별 프레임 PNG 147개) |
+
+종류: 효과음 5팩 · 2D 이펙트 3팩. 라이선스: CC0 6팩, CC-BY 4.0 1팩(8 Heals and Buffs SFX), GPL 3.0 1팩(Spell Sounds Starter Pack; GPL 3.0 전문 동봉). 팩당 1커밋, 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 전부 일치. 제외·미수집: Medieval Sound Effects - Weapon Impacts(CC0, 7z 2개 합계 약 156MB로 용량 초과), Fire Staff Sound Effects(CC0, zip 29MB로 25MB 초과·미분할), Punches, Hits, Swords and Squishes(CC-BY-SA 3.0 단독), Imagindar Abilities Sound Effects Pack(CC-BY-SA 4.0 단독), Sword Swing(OGA-BY 4.0 단독), Whoosh 1·2(GPL 2.0/3.0 / CC-BY-SA 3.0 — 허용 가능하나 단일 WAV라 미수집), Punch Slap n Kick(CC-BY 3.0, 미수집).
+
+실제 팩 수(catalog.csv 기준): 2D 574 · 3D 439 · UI/아이콘 226 · 오디오 423 · 기타 3 (합계 1665).

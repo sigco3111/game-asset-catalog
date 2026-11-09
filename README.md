@@ -8,7 +8,7 @@
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
 | [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 613팩 |
-| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 442팩 (대부분 릴리스 첨부) |
+| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 444팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
 | [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 438팩 |
@@ -109,7 +109,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1722팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1724팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
@@ -589,3 +589,16 @@ A17 실행이 GitHub 커밋 오류("You can't perform that action at this time."
 종류: 3D 모델 2팩(assets-3d-lowpoly). 라이선스: CC0 2팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가, 4개 파일: zip, pack.md, 미리보기, LICENSE-SOURCE.txt), 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 8개 파일 전부 일치. Mini Shop 커밋은 'You can't perform that action at this time.' 오류가 먼저 두 차례 나왔으나 폴더가 생기지 않았음을 확인하고 재시도해 1건만 반영됨(중복 없음). 새 저장소 없음.
 
 실제 팩 수(catalog.csv 기준): 2D 612 · 3D 442 · UI/아이콘 226 · 오디오 438 · 기타 4 (합계 1722).
+
+## 2026-11-10 A36 추가 (2팩, 총 1724팩)
+
+소유자의 짧은 수집 라운드 지시로 Quaternius의 Modular Train Pack과 Simple Buildings Pack 3D 2팩을 수집했습니다. 각 팩 페이지의 라이선스 표기(둘 다 CC0)를 읽고 기록했습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Modular Train Pack (April 2019)](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/modular-train-pack) | assets-3d-lowpoly | Quaternius | CC0 | 기차 3D 모델 14종(FBX/OBJ/Blend, 파일 59개, zip 1개 5.74MB, 공식 Google Drive 전체 다운로드 zip 그대로); 페이지 CC0 확인 + zip 안 원본 License.txt(CC0 1.0); quaternius.com 라이선스 페이지의 2026-08-28 개정 Quaternius Asset License(향후 릴리스 적용)는 메모로 기록; AI 생성 여부 출처에 명시 없음 |
+| [Simple Buildings Pack (August 2017)](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/simple-buildings-pack) | assets-3d-lowpoly | Quaternius | CC0 | 단순 건물 3D 모델 10종(병원·주택·상점 등, FBX/OBJ/Blend, 파일 47개, zip 1개 2.78MB, 공식 Google Drive 전체 다운로드 zip 그대로); 페이지 CC0 확인, 원본 라이선스 파일 없어 수집자 작성 LICENSE-SOURCE.txt 동봉; 같은 메모 기록; AI 생성 여부 출처에 명시 없음 |
+
+종류: 3D 모델 2팩(assets-3d-lowpoly). 라이선스: CC0 2팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가, 4개 파일: zip, pack.md, 미리보기, LICENSE-SOURCE.txt), 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 8개 파일 전부 일치. 'You can't perform that action at this time.' 오류 없음. 새 저장소 없음.
+
+실제 팩 수(catalog.csv 기준): 2D 612 · 3D 444 · UI/아이콘 226 · 오디오 438 · 기타 4 (합계 1724).

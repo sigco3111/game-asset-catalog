@@ -8,7 +8,7 @@
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
 | [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 610팩 |
-| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 439팩 (대부분 릴리스 첨부) |
+| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 440팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
 | [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 435팩 |
@@ -109,7 +109,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1713팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1714팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
@@ -536,3 +536,15 @@ A17 실행이 GitHub 커밋 오류("You can't perform that action at this time."
 종류: 2D 이펙트 2팩(assets-2d-pixel)·효과음 2팩(assets-audio). 라이선스: CC0 2팩, CC-BY 3.0 2팩(CREDITS.txt 동봉). AI 생성 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가), 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 18개 파일 전부 일치. 새 저장소 없음.
 
 실제 팩 수(catalog.csv 기준): 2D 609 · 3D 439 · UI/아이콘 226 · 오디오 435 · 기타 4 (합계 1713).
+
+## 2026-11-09 A32 추가 (1팩, 총 1714팩)
+
+소유자 승인으로 낚시 게임용 물고기 3D 모델 갤러리 1팩을 수집했습니다. 갤러리 페이지의 라이선스 표기(CC0 1.0)를 읽고 기록했습니다. AI 생성 자산은 소유자가 허용했습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Fish Model Gallery](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/fish-model-gallery) | assets-3d-lowpoly | なちゃっと (X @nachat_dayo) | CC0 | 물고기 3D 모델 20종(상세 약 5,000 삼각형 glb + 경량 약 700 삼각형 _lo.glb), three.js r187용 모션 코드 fish-kit.js, example.html, 새 어종 제작 문서(zip 1개 19.5MB, 파일 97개); 갤러리 페이지 CC0 1.0 + zip 안 fish-kit/LICENSE.txt(CC0 1.0, example.html에만 three.js MIT 고지); 표기 요구 없음; AI 생성(제작자 문서 명시: Claude Code 지시로 Codex 이미지 생성 참조 이미지 제작, Blender로 3D 메시 제작); 수집자 작성 LICENSE-SOURCE.txt 동봉 |
+
+종류: 3D 동물 1팩(assets-3d-lowpoly). 라이선스: CC0 1팩. AI 생성 팩 1팩(제작자 명시, 소유자 허용). 업로드 후 저장소의 fish-kit.zip sha256(c60c0ac158fd31f4654e95348d93330de7d8958d76516adc28e036402735f6b6)이 로컬과 일치하고 폴더 4개 파일이 모두 있음을 확인. 새 저장소 없음.
+
+실제 팩 수(catalog.csv 기준): 2D 609 · 3D 440 · UI/아이콘 226 · 오디오 435 · 기타 4 (합계 1714).

@@ -662,6 +662,7 @@ A17 실행이 GitHub 커밋 오류("You can't perform that action at this time."
 종류: 효과음 1팩(assets-audio). 라이선스: CC-BY 3.0 1팩. AI 생성 명시 팩 없음. 1커밋(에셋: Impact Flash 추가, 5개 파일: zip, pack.md, sample.mp3, LICENSE-SOURCE.txt, CREDITS.txt; 텍스트 파일은 파일명 대소문자 유지를 위해 스크립트로 첨부), 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 5개 파일 전부 일치. 'You can't perform that action at this time.' 오류 없음. assets-audio README 첫 줄 팩 수는 438팩에서 439팩으로 갱신(별도 문서 커밋). 새 저장소 없음.
 
 실제 팩 수(catalog.csv 기준): 2D 614 · 3D 446 · UI/아이콘 226 · 오디오 439 · 기타 4 (합계 1729).
+
 ## 2026-11-10 A42 추가 (1팩, 총 1730팩)
 
 소유자의 짧은 수집 라운드 지시로 OpenGameArt의 Fire Aura (Compatible with FLARE) 2D 이펙트 1팩을 수집했습니다. 'spell' 검색(OGA 2D 아트, 최신순)에서 카탈로그에 없는 첫 이펙트 스프라이트 팩을 선택했고, 팩 페이지의 라이선스 표기(CC-BY 4.0 단독)를 읽고 기록했습니다.

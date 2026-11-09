@@ -7,7 +7,7 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 613팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 614팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 446팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
@@ -109,7 +109,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1726팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1727팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
@@ -626,3 +626,15 @@ A17 실행이 GitHub 커밋 오류("You can't perform that action at this time."
 종류: 3D 모델 1팩(assets-3d-lowpoly). 라이선스: CC0 1팩. AI 생성 명시 팩 없음. 1커밋(에셋: Ultimate Guns Pack 추가, 4개 파일: zip, pack.md, 미리보기, LICENSE-SOURCE.txt), 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 4개 파일 전부 일치. 'You can't perform that action at this time.' 오류 없음. 새 저장소 없음.
 
 실제 팩 수(catalog.csv 기준): 2D 612 · 3D 446 · UI/아이콘 226 · 오디오 438 · 기타 4 (합계 1726).
+
+## 2026-11-10 A39 추가 (1팩, 총 1727팩)
+
+소유자의 짧은 수집 라운드 지시로 OpenGameArt의 Gun Muzzle Flash Effects (Fire and Ion and Melee) 2D 이펙트 1팩을 수집했습니다. 팩 페이지의 라이선스 표기(CC0 단독)를 읽고 기록했습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Gun Muzzle Flash Effects (Fire and Ion and Melee)](https://github.com/sigco3111/assets-2d-pixel/tree/main/gun-muzzle-flash-effects-fire-and-ion-and-melee) | assets-2d-pixel | Reactorcore | CC0 | 픽셀아트 총기 머즐 플래시(Fire·Ion)와 근접 베기 이펙트 스프라이트 232개 + 시트 22장(파일 256개, zip 1개 1.16MB, OGA 배포 zip 원본 바이트 그대로); 페이지 CC0 단독; zip 안 원본 라이선스 파일 없음 → 수집자 작성 LICENSE-SOURCE.txt; CC-BY 아님(CREDITS.txt 없음); AI 생성 여부 출처에 명시 없음 |
+
+종류: 2D 이펙트 1팩(assets-2d-pixel). 라이선스: CC0 1팩. AI 생성 명시 팩 없음. 1커밋(에셋: Gun Muzzle Flash Effects (Fire and Ion and Melee) 추가, 4개 파일: zip, pack.md, 미리보기, LICENSE-SOURCE.txt), 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 4개 파일 전부 일치. 'You can't perform that action at this time.' 오류 없음. assets-2d-pixel README 첫 줄 팩 수는 613팩에서 614팩으로 갱신(별도 문서 커밋). 새 저장소 없음.
+
+실제 팩 수(catalog.csv 기준): 2D 613 · 3D 446 · UI/아이콘 226 · 오디오 438 · 기타 4 (합계 1727).

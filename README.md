@@ -7,7 +7,7 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 617팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 618팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 446팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
@@ -109,7 +109,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1731팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 1732팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
@@ -686,3 +686,15 @@ A17 실행이 GitHub 커밋 오류("You can't perform that action at this time."
 종류: 2D 이펙트 1팩(assets-2d-pixel). 라이선스: CC-BY 3.0 1팩. AI 생성 명시 팩 없음. 1커밋(에셋: Blue projectile 추가, 5개 파일: zip, pack.md, preview.png, LICENSE-SOURCE.txt, CREDITS.txt; 텍스트 파일은 파일명 대소문자 유지를 위해 스크립트로 첨부), 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 5개 파일 전부 일치. 'You can't perform that action at this time.' 오류 없음. assets-2d-pixel README 첫 줄 팩 수는 616팩에서 617팩으로 갱신(별도 문서 커밋). 새 저장소 없음.
 
 실제 팩 수(catalog.csv 기준): 2D 616 · 3D 446 · UI/아이콘 226 · 오디오 439 · 기타 4 (합계 1731).
+
+## 2026-11-10 A44 추가 (1팩, 총 1732팩)
+
+소유자의 짧은 수집 라운드 지시로 OpenGameArt의 Magic sprite effects (Ardentryst) 2D 이펙트 1팩을 수집했습니다. 'poison' 검색(OGA 2D 아트, 즐겨찾기순, CC0·CC-BY 필터)에서 상위 결과는 아이콘·UI·몬스터·캐릭터 팩이라 이펙트 스프라이트 팩 중 카탈로그에 없는 첫 팩을 선택했고, 팩 페이지의 라이선스 표기(CC-BY 3.0 단독)와 귀속 문구를 읽고 기록했습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Magic sprite effects (Ardentryst)](https://github.com/sigco3111/assets-2d-pixel/tree/main/magic-sprite-effects-ardentryst) | assets-2d-pixel | Elle Trudgett | CC-BY 3.0 | 마법 이펙트 스프라이트 PNG 27개(얼음·독·불 화살, 마나 스트라이크, 전기 구체, 불덩이, 독가스 구름, 레벨업 오라, 번개 구름, 불꽃 5프레임, 마법 플레어 등, 12x12~397x395), 파일 28개(PNG 27개 + 원본 license-ccby3up.txt 1개), zip 1개 0.47MB(페이지의 7z를 풀어 바이트 그대로 zip으로 다시 묶음); 페이지 CC-BY 3.0 단독; 귀속 필수(페이지 지정 문구 "Copyright 2008 Elle Trudgett | https://github.com/elle-trudgett - Licensed under CC BY 3.0" 반영, CREDITS.txt: Elle Trudgett — "Magic sprite effects (Ardentryst)" (https://opengameart.org/content/magic-sprite-effects-ardentryst), CC-BY 3.0); 수집자 작성 LICENSE-SOURCE.txt와 원본 license-ccby3up.txt 동봉; AI 생성 아님(2012년 게시) |
+
+종류: 2D 이펙트 1팩(assets-2d-pixel). 라이선스: CC-BY 3.0 1팩. AI 생성 명시 팩 없음. 1커밋(에셋: Magic sprite effects (Ardentryst) 추가, 5개 파일: zip, pack.md, preview.png, LICENSE-SOURCE.txt, CREDITS.txt; 텍스트 파일은 파일명 대소문자 유지를 위해 스크립트로 첨부), 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 5개 파일 전부 일치. 'You can't perform that action at this time.' 오류 없음. assets-2d-pixel README 첫 줄 팩 수는 617팩에서 618팩으로 갱신(별도 문서 커밋; GitHub Copilot이 커밋 메시지를 자동 생성해 제목이 표준 형식과 다름). 새 저장소 없음.
+
+실제 팩 수(catalog.csv 기준): 2D 617 · 3D 446 · UI/아이콘 226 · 오디오 439 · 기타 4 (합계 1732).

@@ -29,7 +29,7 @@ CATEGORY = {
     "보드게임": "board", "2D 퍼즐": "puzzle",
 }
 CATEGORIES = ["effect", "sfx", "music", "voice", "tileset-2d", "sprite-2d", "background-2d", "map-2d",
-              "ui", "icon", "font", "texture", "model-3d", "character-3d", "vehicle-3d",
+              "ui", "icon", "portrait", "font", "texture", "model-3d", "character-3d", "vehicle-3d",
               "building-3d", "board", "puzzle", "other"]
 
 EFFECT_KEYWORDS = OrderedDict([
@@ -52,6 +52,29 @@ EFFECT_KEYWORDS = OrderedDict([
 EFFECT_RE = {k: re.compile(r"(?<![a-z0-9])(?:%s)(?![a-z0-9])" % v) for k, v in EFFECT_KEYWORDS.items()}
 
 AI_RE = re.compile(r"AI 생성(?!\s*(?:아님|여부))")
+# 긍정 표현: 'AI-generated' / 'AI generated' / 'AI 생성물' (앞에 not/non/no 또는 뒤에 아님/여부가 오면 제외)
+AI_TEXT_RE = re.compile(r"(?<![A-Za-z])(?<!not )(?<!non-)(?<!no )AI[- ]generated(?![A-Za-z])|AI 생성물(?!\s*(?:아님|이 아님|여부))", re.I)
+NO_ATTR_RE = re.compile(r"(?:없음|none|n/a)", re.I)
+LICENSE_BASE_RE = re.compile(r"(?:CC0|CC-BY(?:[ -][34]\.0)?|MIT|GPL [23]\.0)")
+
+# 2D 일반 type 세분화 키워드 (name/tags/정제한 notes에서 단어 단위 일치, 유일하게 일치할 때만 적용)
+REFINE_KEYWORDS = OrderedDict([
+    ("portrait", r"portraits?|avatars?|초상화?"),
+    ("font", r"fonts?|typefaces?|glyphs?|폰트|글꼴"),
+    ("texture", r"textures?|텍스처"),
+    ("effect", r"effects?|fx|explosions?|particles?|lasers?|slash|spells?|auras?|smoke|이펙트"),
+    ("ui", r"ui|gui|hud|user interfaces?|interfaces?|buttons?|menus?|dialogu?es?"),
+    ("icon", r"icons?|아이콘"),
+    ("background-2d", r"backgrounds?|parallax|parallex|배경"),
+    ("map-2d", r"maps?|minimaps?|지도"),
+    ("tileset-2d", r"tile ?sets?|tiles?|tilemaps?|타일"),
+    ("sprite-2d", r"sprites?|sprite ?sheets?|spritesheets?|charsets?|characters?|heroe?s?|enemies|monsters?|creatures?|baddies|스프라이트"),
+])
+REFINE_RE = {k: re.compile(r"(?<![a-z0-9])(?:%s)(?![a-z0-9])" % v) for k, v in REFINE_KEYWORDS.items()}
+# 둘 이상 일치할 때 허용하는 조합 (그 외 조합은 모호하므로 other 유지)
+REFINE_COMBO = {frozenset(["tileset-2d", "sprite-2d"]): "sprite-2d",   # 기존 '2D 스프라이트·타일셋' 매핑과 동일
+                frozenset(["tileset-2d", "map-2d"]): "tileset-2d"}     # 'map tiles'는 타일셋
+BOILER_RE = re.compile(r"파일 \d+개 \([^)]*\)|수집자 LICENSE-SOURCE\.txt 동봉\([^)]*\)|SHA-256 검증 업로드")
 PREVIEW_NOTE_RE = re.compile(r"previews/[^\s;,)]+|[\w./-]*preview[\w-]*\.(?:png|jpe?g|gif|webp)", re.I)
 RAW_RE = re.compile(r"^https://raw\.githubusercontent\.com/[^/]+/([^/]+)/[^/]+/(.+)$")
 
@@ -107,9 +130,34 @@ def malformed_reason(f):
     return r
 
 
+def refine_category(name, tags, notes):
+    """type '2D'(모호) 행만: 키워드가 한 범주에만 일치할 때 그 범주, 아니면 'other'."""
+    text = " ".join([name, " ".join(tags), BOILER_RE.sub(" ", notes)]).lower()
+    hit = frozenset(k for k, rx in REFINE_RE.items() if rx.search(text))
+    if len(hit) == 1: return next(iter(hit))
+    return REFINE_COMBO.get(hit, "other")
+
+
+def license_note(lic):
+    """허용 라이선스로 시작하지만 부가 설명이 붙은 표기의 부가 설명 (없으면 None)."""
+    if allowed_status(lic) != "annotated": return None
+    m = LICENSE_BASE_RE.match(lic.strip())
+    rest = lic.strip()[m.end():].lstrip(" /·,;").strip()
+    if rest.startswith("(") and rest.endswith(")") and rest.count("(") == 1: rest = rest[1:-1].strip()
+    return rest or None
+
+
 def effect_kinds(name, tags, notes):
     text = " ".join([name, " ".join(tags), notes]).lower()
     return [k for k, rx in EFFECT_RE.items() if rx.search(text)]
+
+
+def tags_list(raw):
+    out, seen = [], set()
+    for t in raw.split(","):
+        t = t.strip().lower()
+        if t and t not in seen: seen.add(t); out.append(t)
+    return out
 
 
 def build_assets(rows):
@@ -143,11 +191,13 @@ def build_assets(rows):
         a = OrderedDict()
         a["id"] = aid; a["name"] = name; a["repo"] = repo; a["file"] = r["file"]
         a["type"] = r["type"]; a["category"] = CATEGORY.get(r["type"].strip(), "other")
+        if r["type"].strip() == "2D": a["category"] = refine_category(name, tags_list(r["tags"]), r["notes"])
         a["tags"] = tags; a["effect_kind"] = effect_kinds(name, tags, notes)
         a["author"] = r["author"]; a["source_url"] = r["source_url"]
-        a["license"] = lic; a["license_family"] = fam; a["attribution"] = attr
-        a["attribution_required"] = not (fam == "cc0" or attr.strip().lower().startswith("optional"))
-        a["ai_generated"] = bool(AI_RE.search(notes))
+        a["license"] = lic; a["license_note"] = license_note(lic); a["license_family"] = fam; a["attribution"] = attr
+        al = attr.strip().lower()
+        a["attribution_required"] = not (fam == "cc0" or al.startswith("optional") or al.startswith("불요") or NO_ATTR_RE.fullmatch(al))
+        a["ai_generated"] = bool(AI_RE.search(notes) or AI_TEXT_RE.search(notes) or AI_TEXT_RE.search(lic))
         a["added"] = r["added"]; a["notes"] = notes; a["preview"] = preview
         a["download_path"] = path
         # download_url: pattern verified on real examples (see docs/index-report.md); split rows have no single file
@@ -209,6 +259,11 @@ def build_report(rows, header, assets, commit, link_check, existing_lc, size_inf
     tcount = Counter((a["type"], a["category"]) for a in assets)
     w("### 원본 type → category 매핑\n")
     w(md_table(["type(원본)", "category", "개수"], sorted(((t, c, n) for (t, c), n in tcount.items()), key=lambda x: (-x[2], x[0])))); w("")
+    two = [a for a in assets if a["type"].strip() == "2D"]
+    w(f"### 원본 type `2D` 세분화 (정제 2차): 전 {len(two)}행 모두 other → 후\n")
+    w("name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명확히 일치할 때만 지정하고, 일치가 없거나 둘 이상이면 other로 둠(예외: tileset+sprite → sprite-2d, tileset+map → tileset-2d). 원본 `type`은 바꾸지 않음. 키워드는 스크립트 `REFINE_KEYWORDS` 참고.\n")
+    cb = Counter(a["category"] for a in two)
+    w(md_table(["category", "전", "후"], [(c, len(two) if c == "other" else 0, cb.get(c, 0)) for c in CATEGORIES if cb.get(c) or c == "other"])); w("")
     w("### license_family별\n"); w(counts_table(["license_family", "개수"], Counter(a["license_family"] for a in assets))); w("")
     w("### 라이선스 문자열(license)별\n"); w(counts_table(["license", "개수"], Counter(a["license"] for a in assets))); w("")
     w("### 추가일(added) 일자별\n"); w(counts_table(["added", "개수"], Counter(a["added"] for a in assets), order=sorted(set(a["added"] for a in assets)))); w("")
@@ -263,7 +318,9 @@ def build_report(rows, header, assets, commit, link_check, existing_lc, size_inf
     nonopt_cc0 = [a for a in assets if a["license_family"] == "cc0" and not a["attribution"].strip().lower().startswith("optional")]
     w(f"- 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: {len(nonopt_cc0)}건")
     fuyo = [a for a in assets if a["attribution"].strip().startswith("불요")]
-    w(f"- 참고: attribution이 `불요`(불필요)인데 규칙상 attribution_required=true가 되는 행: {len(fuyo)}건 ({', '.join(a['id'] for a in fuyo)})\n")
+    w(f"- 참고: attribution이 `불요`로 시작하거나 `없음`/`none`/`n/a`인 행: {sum(1 for a in assets if a['attribution'].strip().startswith('불요') or NO_ATTR_RE.fullmatch(a['attribution'].strip()))}건 — attribution_required=false 처리 (정제 2차 변경; 이전에는 `불요` 2행이 true였음: {', '.join(a['id'] for a in fuyo)})")
+    ar_true_nonreq = [a for a in assets if a["attribution_required"] and a["license_family"] == "cc0"]
+    w(f"- 참고: attribution_required=true인 행 {sum(a['attribution_required'] for a in assets)}건 (cc0인데 true: {len(ar_true_nonreq)}건)\n")
     # malformed file
     mal = [(i + 2, r["file"], ", ".join(malformed_reason(r["file"]))) for i, r in enumerate(rows) if malformed_reason(r["file"])]
     full_url = [a for a in assets if a["file"].startswith("http")]
@@ -283,7 +340,13 @@ def build_report(rows, header, assets, commit, link_check, existing_lc, size_inf
     w(f"### 3.7 기타 관찰\n")
     w(f"- category가 `other`인 행: {len(cat_other)} (원본 type 분포: " + ", ".join(f"{t} {n}" for t, n in Counter(a['type'] for a in cat_other).most_common()) + ") — 원본 type이 `2D`처럼 모호하면 추측하지 않고 other로 둠.")
     neg = sum(1 for r in rows if "AI 생성" in r["notes"])
-    w(f"- notes에 `AI 생성` 문자열이 있는 행 {neg}건 중 `AI 생성 아님`/`AI 생성 여부 …(출처에 명시 없음)` 형태의 부정·불명 표현을 제외하고 ai_generated=true로 판정한 행: {sum(a['ai_generated'] for a in assets)}건.")
+    ai_true = [(i + 2, a) for i, a in enumerate(assets) if a["ai_generated"]]
+    ai_neg_true = [a["id"] for a in assets if re.search(r"AI 생성\s*(?:아님|여부)", a["notes"]) and not AI_RE.search(a["notes"]) and a["ai_generated"]]
+    w(f"- notes에 `AI 생성` 문자열이 있는 행 {neg}건 중 `AI 생성 아님`/`AI 생성 여부 …` 형태의 부정·불명 표현을 제외한 행 {sum(1 for a in assets if AI_RE.search(a['notes']))}건, 그리고 license/notes에 `AI-generated`/`AI generated`/`AI 생성물`이 긍정 의미로 있는 행을 ai_generated=true로 판정: 총 {len(ai_true)}건.")
+    w(f"- `AI 생성 아님`/`AI 생성 여부` 표기만 있는 행 중 true가 된 행: {len(ai_neg_true)}건")
+    w("")
+    w(md_table(["CSV 줄", "name", "repo", "근거"], [(ln, a["name"], a["repo"], ("notes `AI 생성`" if AI_RE.search(a["notes"]) else "license/notes `AI-generated`")) for ln, a in ai_true]))
+    w("")
     ai_other = [a for a in assets if not a["ai_generated"] and re.search(r"\bAI\b|인공지능", a["notes"]) and not re.search(r"AI 생성", a["notes"])]
     w(f"- notes에 `AI`가 있으나 `AI 생성` 문구가 없어 false로 둔 행: {len(ai_other)}건" + (" (" + ", ".join(a['id'] for a in ai_other[:5]) + ")" if ai_other else ""))
     pv_missing = sum(1 for a in assets if a["preview"] is None)
@@ -300,14 +363,36 @@ def build_report(rows, header, assets, commit, link_check, existing_lc, size_inf
     w("")
     w("## 5. 색인 필드 규칙 메모\n")
     w("- `id`: `<repo>/<name 슬러그>`, 충돌 시 `-2`, `-3` 추가. 슬러그는 소문자 영숫자·한글 외 문자를 `-`로 치환.")
-    w("- `category`: 원본 type(한국어) 표 기반 매핑(위 2장), 미지정은 other. `3D`는 model-3d로 매핑.")
+    w("- `category`: 원본 type(한국어) 표 기반 매핑(위 2장), 미지정은 other. `3D`는 model-3d로 매핑. `2D`는 아래 규칙으로 세분화.")
     w("- `tags`: 쉼표 분리, 소문자, 공백 제거, 한 에셋 내 중복 제거.")
     w("- `effect_kind`: name/tags/notes에 대한 단어 단위 키워드 일치만 사용(의미 추론 없음). 키워드 목록은 스크립트 `EFFECT_KEYWORDS` 참고.")
     w("- `license_family`: license 문자열의 접두사(cc0 / cc-by / mit / gpl / 그 외 other). 재해석하지 않음. license 값은 CSV 그대로.")
-    w("- `attribution_required`: license_family=cc0 이거나 attribution이 `optional`로 시작하면 false, 아니면 true.")
-    w("- `ai_generated`: notes에 `AI 생성`이 있고 바로 뒤가 `아님`/`여부`가 아닐 때만 true.")
+    w("- `attribution_required`: license_family=cc0 이거나 attribution이 `optional` 또는 `불요`로 시작하거나 `없음`/`none`/`n/a`와 같으면 false, 아니면 true.")
+    w("- `ai_generated`: notes에 `AI 생성`이 있고 바로 뒤가 `아님`/`여부`가 아니거나, license/notes에 `AI-generated`/`AI generated`/`AI 생성물`이 긍정 의미로 있으면 true.")
+    w("- `license_note`: license가 허용 라이선스(CC0, CC-BY, MIT, GPL 2.0/3.0)로 시작하지만 부가 설명이 붙은 경우 그 부가 설명(맨 앞 허용 라이선스 토큰 뒤 문자열, 전체가 괄호이면 괄호 제거), 그 외 null. `license` 값은 CSV 그대로.")
+    w("- `category`(type `2D`만): 위 `2D` 세분화 규칙, 그 외 type은 매핑 표 그대로. 새 범주 `portrait` 추가.")
     w("- `preview`: CSV `preview` 열의 raw URL을 저장소 상대경로로 변환, 열이 비면 notes의 `previews/…`·`…preview….png` 경로, 없으면 null.")
     w("- `download_path`: file 열 정규화(선행 `/`, `./` 제거). `download_url`: 릴리스 경로는 `https://github.com/sigco3111/<repo>/releases/download/<태그>/<파일>`, 그 외는 `https://github.com/sigco3111/<repo>/raw/main/<경로>` (4장에서 실제 예시로 검증). 분할 행은 null이며 `download_urls`에 파트별 URL 목록(분할이 아닌 행은 `download_url` 1개짜리 목록). file 열이 같은 저장소의 전체 URL이면 상대경로로 환산(3.6 참고).")
+    w("")
+    w("## 6. 알려진 한계와 후속 정리\n")
+    w("catalog.csv·license 값은 수정하지 않았습니다. 아래는 소유자의 후속 정리를 위한 목록입니다. CSV 줄 번호는 헤더를 1줄로 센 파일 줄 번호입니다.\n")
+    w(f"### (a) 중복 행 (삭제하지 않음)\n")
+    w(f"- (name, repo)가 같은 쌍 {len(dnr)}쌍({sum(len(v) for v in dnr.values())}행):\n")
+    w(md_table(["name", "repo", "CSV 줄", "file"], [(k[0], k[1], ", ".join(str(i + 2) for i in v), "; ".join(rows[i]["file"] for i in v)) for k, v in sorted(dnr.items())])); w("")
+    w(f"- source_url이 같은 값 {len(dsu)}개({sum(len(v) for v in dsu.values())}행):\n")
+    w(md_table(["source_url", "CSV 줄", "name"], [(u, ", ".join(str(i + 2) for i in v), "; ".join(rows[i]["name"] for i in v)) for u, v in sorted(dsu.items())])); w("")
+    w("### (b) file 값이 전체 URL인 행\n")
+    w(md_table(["CSV 줄", "name", "file(원본)", "download_path(환산)"], [(i + 2, a["name"], a["file"], a["download_path"]) for i, a in enumerate(assets) if a["file"].startswith("http")])); w("")
+    w("### (c) 허용 목록 밖의 자체 제작 라이선스 표기 (값 유지, 소유자 확인용)\n")
+    na = [(i + 2, a) for i, a in enumerate(assets) if allowed_status(a["license"]) == "not_allowed"]
+    w(f"license가 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 맞춤 문구(`own work, AI-generated …`)인 행 {len(na)}건. 값은 그대로 두었고 `license_family`는 other, `ai_generated`는 true입니다.\n")
+    w(md_table(["CSV 줄", "name", "repo", "attribution"], [(ln, a["name"], a["repo"], a["attribution"]) for ln, a in na])); w("")
+    w("### (d) 분할 업로드 행 정책\n")
+    sp = [a for a in assets if a["split_parts"]]
+    w(f"- split 열에 파트 파일명이 나열된 행 {len(sp)}건: file 열의 단일 파일은 실제로 없을 수 있어 `download_url`은 null로 두고 `download_urls`에 파트별 URL을 둠(`multipart=true`, `split_parts` 포함). 사용자는 `download_url`이 null이면 `download_urls`를 사용해야 함.")
+    sy = [a for a in assets if a["multipart"] and not a["split_parts"]]
+    w(f"- split 열이 `Y`뿐인 행 {len(sy)}건: 파트 파일명 목록이 없어 `download_urls`는 file 열 기준 1개짜리 목록이며 `multipart=true`로만 표시(나머지 part2~N은 notes 참고).")
+    w("- 분할이 아닌 행: `download_url` 1개 + `download_urls` 1개짜리 목록.")
     return "\n".join(L) + "\n"
 
 

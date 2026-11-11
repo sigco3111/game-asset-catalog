@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@11978948997c29b783f8b2c07bec5a6829cc6cb9`
+- 원본: `catalog.csv@ad7ccdcdfe840329220d4ec0cd9762444e845601`
 - 데이터 행 수: **1740**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 2,492,002 bytes, `assets-index.min.json` 2,017,774 bytes
+- 파일 크기: `assets-index.json` 2,541,709 bytes, `assets-index.min.json` 2,053,561 bytes
 
 ## 2. 집계
 
@@ -27,22 +27,23 @@
 | category | 개수 |
 |---|---|
 | model-3d | 400 |
-| other | 236 |
 | music | 230 |
 | sfx | 211 |
-| ui | 204 |
-| sprite-2d | 103 |
-| tileset-2d | 98 |
-| effect | 75 |
-| texture | 66 |
+| ui | 205 |
+| tileset-2d | 146 |
+| sprite-2d | 132 |
+| other | 123 |
+| effect | 94 |
+| texture | 70 |
 | icon | 40 |
+| background-2d | 27 |
 | building-3d | 21 |
 | character-3d | 19 |
-| background-2d | 17 |
 | vehicle-3d | 6 |
 | board | 5 |
 | map-2d | 3 |
 | font | 2 |
+| portrait | 2 |
 | puzzle | 2 |
 | voice | 2 |
 
@@ -50,38 +51,45 @@
 
 | type(원본) | category | 개수 |
 |---|---|---|
-| 2D | other | 233 |
 | 3D | model-3d | 226 |
 | 음악 | music | 211 |
 | 효과음 | sfx | 211 |
 | UI·아이콘 | ui | 187 |
 | 3D 모델 | model-3d | 124 |
+| 2D | other | 120 |
 | 2D 타일셋 | tileset-2d | 98 |
 | 2D 스프라이트 | sprite-2d | 90 |
 | 2D 이펙트 | effect | 73 |
 | 2D 텍스처 | texture | 66 |
+| 2D | tileset-2d | 48 |
 | 아이콘 | icon | 39 |
+| 2D | sprite-2d | 29 |
 | 3D 모듈 키트 | model-3d | 25 |
 | 3D 건물 | building-3d | 21 |
+| 2D | effect | 19 |
 | 3D 캐릭터 | character-3d | 19 |
 | 배경음악 | music | 19 |
 | 2D 배경 | background-2d | 17 |
 | 2D UI | ui | 13 |
 | 2D 캐릭터 | sprite-2d | 12 |
+| 2D | background-2d | 10 |
 | 3D 소품 | model-3d | 6 |
 | 3D 탈것 | vehicle-3d | 6 |
 | 보드게임 | board | 5 |
+| 2D | texture | 4 |
 | 3D 무기 | model-3d | 4 |
 | 3D 환경 | model-3d | 4 |
 | UI 키트 | ui | 4 |
 | 2D 맵 | map-2d | 3 |
 | 3D 자연 | model-3d | 3 |
+| 2D | portrait | 2 |
 | 2D 퍼즐 | puzzle | 2 |
 | 3D 동물 | model-3d | 2 |
 | 3D 애니메이션 | model-3d | 2 |
 | 3D 타일셋 | model-3d | 2 |
 | 음성 | voice | 2 |
 | 이펙트 | effect | 2 |
+| 2D | ui | 1 |
 | 2D 글자 | font | 1 |
 | 2D 스프라이트·타일셋 | sprite-2d | 1 |
 | 2D 아이콘 | icon | 1 |
@@ -91,6 +99,21 @@
 | 3D 모듈러 | model-3d | 1 |
 | 3D 캐릭터 의상 | model-3d | 1 |
 | 폰트 | font | 1 |
+
+### 원본 type `2D` 세분화 (정제 2차): 전 233행 모두 other → 후
+
+name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명확히 일치할 때만 지정하고, 일치가 없거나 둘 이상이면 other로 둠(예외: tileset+sprite → sprite-2d, tileset+map → tileset-2d). 원본 `type`은 바꾸지 않음. 키워드는 스크립트 `REFINE_KEYWORDS` 참고.
+
+| category | 전 | 후 |
+|---|---|---|
+| effect | 0 | 19 |
+| tileset-2d | 0 | 48 |
+| sprite-2d | 0 | 29 |
+| background-2d | 0 | 10 |
+| ui | 0 | 1 |
+| portrait | 0 | 2 |
+| texture | 0 | 4 |
+| other | 233 | 120 |
 
 ### license_family별
 
@@ -190,7 +213,7 @@
 
 - effect_kind가 하나 이상인 에셋: 170 / 1740
 
-- attribution_required=true: 87, ai_generated=true: 1, preview 있음: 1309, 분할(split) 행: 146
+- attribution_required=true: 85, ai_generated=true: 3, preview 있음: 1309, 분할(split) 행: 146
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
@@ -244,7 +267,8 @@
 
 - 참고: license_family가 cc-by/mit/gpl인데 attribution이 `optional`로 시작하는 행: 0건 (규칙상 attribution_required=false 처리됨; 확인 필요)
 - 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 0건
-- 참고: attribution이 `불요`(불필요)인데 규칙상 attribution_required=true가 되는 행: 2건 (assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56)
+- 참고: attribution이 `불요`로 시작하거나 `없음`/`none`/`n/a`인 행: 2건 — attribution_required=false 처리 (정제 2차 변경; 이전에는 `불요` 2행이 true였음: assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56)
+- 참고: attribution_required=true인 행 85건 (cc0인데 true: 0건)
 
 ### 3.6 file 열 경로 형식 이상: 1건
 
@@ -259,9 +283,17 @@
 
 ### 3.7 기타 관찰
 
-- category가 `other`인 행: 236 (원본 type 분포: 2D 233, 2D 컨셉아트 1, 2D 초상화 1, 2D 일러스트 1) — 원본 type이 `2D`처럼 모호하면 추측하지 않고 other로 둠.
-- notes에 `AI 생성` 문자열이 있는 행 54건 중 `AI 생성 아님`/`AI 생성 여부 …(출처에 명시 없음)` 형태의 부정·불명 표현을 제외하고 ai_generated=true로 판정한 행: 1건.
-- notes에 `AI`가 있으나 `AI 생성` 문구가 없어 false로 둔 행: 3건 (assets-ui-icons/game-icons, assets-ui-icons/game-icons-expansion, assets-2d-portraits/삼국지-초상화-660)
+- category가 `other`인 행: 123 (원본 type 분포: 2D 120, 2D 컨셉아트 1, 2D 초상화 1, 2D 일러스트 1) — 원본 type이 `2D`처럼 모호하면 추측하지 않고 other로 둠.
+- notes에 `AI 생성` 문자열이 있는 행 54건 중 `AI 생성 아님`/`AI 생성 여부 …` 형태의 부정·불명 표현을 제외한 행 1건, 그리고 license/notes에 `AI-generated`/`AI generated`/`AI 생성물`이 긍정 의미로 있는 행을 ai_generated=true로 판정: 총 3건.
+- `AI 생성 아님`/`AI 생성 여부` 표기만 있는 행 중 true가 된 행: 0건
+
+| CSV 줄 | name | repo | 근거 |
+|---|---|---|---|
+| 520 | 삼국지 초상화 660 | assets-2d-portraits | license/notes `AI-generated` |
+| 1682 | 천하삼분 게임 에셋 56 | assets-2d-pixel | license/notes `AI-generated` |
+| 1715 | Fish Model Gallery | assets-3d-lowpoly | notes `AI 생성` |
+
+- notes에 `AI`가 있으나 `AI 생성` 문구가 없어 false로 둔 행: 2건 (assets-ui-icons/game-icons, assets-ui-icons/game-icons-expansion)
 - preview가 없는 행: 431건
 
 ## 4. 샘플 링크 점검 (전수 점검 아님, 표본)
@@ -330,11 +362,64 @@
 ## 5. 색인 필드 규칙 메모
 
 - `id`: `<repo>/<name 슬러그>`, 충돌 시 `-2`, `-3` 추가. 슬러그는 소문자 영숫자·한글 외 문자를 `-`로 치환.
-- `category`: 원본 type(한국어) 표 기반 매핑(위 2장), 미지정은 other. `3D`는 model-3d로 매핑.
+- `category`: 원본 type(한국어) 표 기반 매핑(위 2장), 미지정은 other. `3D`는 model-3d로 매핑. `2D`는 아래 규칙으로 세분화.
 - `tags`: 쉼표 분리, 소문자, 공백 제거, 한 에셋 내 중복 제거.
 - `effect_kind`: name/tags/notes에 대한 단어 단위 키워드 일치만 사용(의미 추론 없음). 키워드 목록은 스크립트 `EFFECT_KEYWORDS` 참고.
 - `license_family`: license 문자열의 접두사(cc0 / cc-by / mit / gpl / 그 외 other). 재해석하지 않음. license 값은 CSV 그대로.
-- `attribution_required`: license_family=cc0 이거나 attribution이 `optional`로 시작하면 false, 아니면 true.
-- `ai_generated`: notes에 `AI 생성`이 있고 바로 뒤가 `아님`/`여부`가 아닐 때만 true.
+- `attribution_required`: license_family=cc0 이거나 attribution이 `optional` 또는 `불요`로 시작하거나 `없음`/`none`/`n/a`와 같으면 false, 아니면 true.
+- `ai_generated`: notes에 `AI 생성`이 있고 바로 뒤가 `아님`/`여부`가 아니거나, license/notes에 `AI-generated`/`AI generated`/`AI 생성물`이 긍정 의미로 있으면 true.
+- `license_note`: license가 허용 라이선스(CC0, CC-BY, MIT, GPL 2.0/3.0)로 시작하지만 부가 설명이 붙은 경우 그 부가 설명(맨 앞 허용 라이선스 토큰 뒤 문자열, 전체가 괄호이면 괄호 제거), 그 외 null. `license` 값은 CSV 그대로.
+- `category`(type `2D`만): 위 `2D` 세분화 규칙, 그 외 type은 매핑 표 그대로. 새 범주 `portrait` 추가.
 - `preview`: CSV `preview` 열의 raw URL을 저장소 상대경로로 변환, 열이 비면 notes의 `previews/…`·`…preview….png` 경로, 없으면 null.
 - `download_path`: file 열 정규화(선행 `/`, `./` 제거). `download_url`: 릴리스 경로는 `https://github.com/sigco3111/<repo>/releases/download/<태그>/<파일>`, 그 외는 `https://github.com/sigco3111/<repo>/raw/main/<경로>` (4장에서 실제 예시로 검증). 분할 행은 null이며 `download_urls`에 파트별 URL 목록(분할이 아닌 행은 `download_url` 1개짜리 목록). file 열이 같은 저장소의 전체 URL이면 상대경로로 환산(3.6 참고).
+
+## 6. 알려진 한계와 후속 정리
+
+catalog.csv·license 값은 수정하지 않았습니다. 아래는 소유자의 후속 정리를 위한 목록입니다. CSV 줄 번호는 헤더를 1줄로 센 파일 줄 번호입니다.
+
+### (a) 중복 행 (삭제하지 않음)
+
+- (name, repo)가 같은 쌍 12쌍(24행):
+
+| name | repo | CSV 줄 | file |
+|---|---|---|---|
+| Cursor Pack | assets-ui-icons | 969, 1113 | releases/download/v6.7/cursor-pack-1.zip; releases/download/v6.10/cursor-pack.zip |
+| Forest Tiles | assets-2d-pixel | 725, 1165 | releases/download/v8.22/forest-tiles.zip; releases/download/v8.32/forest-tiles-0.zip |
+| Furniture Kit | assets-3d-lowpoly | 71, 621 | releases/download/v3.0/furniture-kit.zip; releases/download/v8.10/furniture-kit.zip |
+| Hexagon Tiles | assets-2d-pixel | 93, 769 | releases/download/v4.0/hexagon-tiles.zip; releases/download/v8.23/hexagon-tiles-0.zip |
+| Interface Sounds | assets-audio | 14, 832 | kenney_interfacesounds.zip; releases/download/v6.8/interface-sounds.zip |
+| Medals | assets-2d-pixel | 982, 1337 | releases/download/v8.28/medals-2.zip; releases/download/v8.36/medals-3.zip |
+| Mobile Controls | assets-2d-pixel | 384, 601 | releases/download/v8.11/mobile-controls.zip; releases/download/v8.19/mobile-controls.zip |
+| Pirate Kit | assets-3d-lowpoly | 66, 328 | releases/download/v3.0/pirate-kit.zip; releases/download/v8.9/pirate-kit.zip |
+| Platformer Art Deluxe | assets-2d-pixel | 102, 602 | releases/download/v4.0/platformer-art-deluxe.zip; releases/download/v8.19/platformer-art-deluxe.zip |
+| Tower Defense | assets-2d-pixel | 118, 1370 | releases/download/v4.0/tower-defense.zip; releases/download/v8.37/tower-defense-2.zip |
+| UI Pack | assets-ui-icons | 57, 577 | releases/download/v3.0/ui-pack.zip; releases/download/v6.0/ui-pack.zip |
+| UI Sounds | assets-audio | 714, 1543 | releases/download/v6.5/ui-sounds.zip; ui-sounds/ui-sounds.zip |
+
+- source_url이 같은 값 2개(4행):
+
+| source_url | CSV 줄 | name |
+|---|---|---|
+| https://github.com/achrefelouafi/CyberCityThreeJS | 1527, 1528 | CyberCity Modular Kit; CyberCity Hover Car |
+| https://opengameart.org/content/sci-fi-essentials-kit | 156, 157 | Sci-Fi Essentials Kit; Sci-Fi Essentials Kit - 4K Textures |
+
+### (b) file 값이 전체 URL인 행
+
+| CSV 줄 | name | file(원본) | download_path(환산) |
+|---|---|---|---|
+| 1682 | 천하삼분 게임 에셋 56 | https://raw.githubusercontent.com/sigco3111/assets-2d-pixel/main/cheonha-sambun/cheonha-sambun-assets.zip | cheonha-sambun/cheonha-sambun-assets.zip |
+
+### (c) 허용 목록 밖의 자체 제작 라이선스 표기 (값 유지, 소유자 확인용)
+
+license가 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 맞춤 문구(`own work, AI-generated …`)인 행 2건. 값은 그대로 두었고 `license_family`는 other, `ai_generated`는 true입니다.
+
+| CSV 줄 | name | repo | attribution |
+|---|---|---|---|
+| 520 | 삼국지 초상화 660 | assets-2d-portraits | 불요 (독점권리 보장 아님) |
+| 1682 | 천하삼분 게임 에셋 56 | assets-2d-pixel | 불요 (독점권리 보장 아님) |
+
+### (d) 분할 업로드 행 정책
+
+- split 열에 파트 파일명이 나열된 행 146건: file 열의 단일 파일은 실제로 없을 수 있어 `download_url`은 null로 두고 `download_urls`에 파트별 URL을 둠(`multipart=true`, `split_parts` 포함). 사용자는 `download_url`이 null이면 `download_urls`를 사용해야 함.
+- split 열이 `Y`뿐인 행 11건: 파트 파일명 목록이 없어 `download_urls`는 file 열 기준 1개짜리 목록이며 `multipart=true`로만 표시(나머지 part2~N은 notes 참고).
+- 분할이 아닌 행: `download_url` 1개 + `download_urls` 1개짜리 목록.

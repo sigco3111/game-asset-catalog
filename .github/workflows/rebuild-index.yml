@@ -1,0 +1,48 @@
+name: 색인 자동 갱신
+
+on:
+  push:
+    paths:
+      - catalog.csv
+      - tools/build_index.py
+      - tools/build_wiki.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rebuild-index
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # build_index.py가 git log로 catalog.csv의 마지막 커밋을 읽음
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: 색인과 위키 생성
+        run: |
+          python3 tools/build_index.py
+          python3 tools/build_wiki.py
+
+      - name: 변경이 있으면 커밋
+        # GITHUB_TOKEN으로 한 push는 다른 워크플로를 시작하지 않으므로 자기 자신을 다시 부르지 않음
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git status --short
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "색인: 자동 갱신 (catalog.csv 변경)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

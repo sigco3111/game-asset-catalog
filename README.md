@@ -3,6 +3,20 @@
 재사용 가능한 게임 에셋 라이브러리의 중앙 카탈로그입니다.
 실제 파일은 유형별 저장소에 두고, 여기에 모든 에셋의 출처·라이선스·작가·장르 태그를 기록합니다.
 
+## 2026-11-11 A54 추가 (3팩, 총 1757팩)
+
+소유자의 짧은 수집 라운드(3팩, 약 12분) 지시로 이월 후보 Ice Sparkles Overlay Effect·Pixel Lightning을 확인하고, OpenGameArt 2D 이펙트 검색('impact'·'hit'·'explosion'·'magic'·'spell'·'laser'·'burst'·'sparkle'·'thunder'·'particle' 등, 최신순·즐겨찾기순)에서 카탈로그에 없는 마법 반짝임 팩 1팩을 더해 모두 2D 이펙트 스프라이트 3팩을 수집했습니다. 시작 전 library index(assets-index.min.json 1754팩)와 catalog.csv에서 제목과 source_url로 3개 모두 없음을 확인했고, 각 팩 페이지의 라이선스 표기를 읽어 허용 라이선스를 확인했습니다. 남은 후보(모두 카탈로그에 없음 확인): Thunder sprite(CC-BY 4.0), M484 Lightning Weapon(CC0), Resurrection Spell [SFX](CC0, 치유·부활 이펙트 스프라이트), Explosion(ashishlko11, 병기 CC-BY 4.0/3.0/GPL 3.0/2.0), Energy Ball(CC-BY 3.0), Fireball Particle Sheet(CC-BY 3.0). 계속 보류: Spell animation spritesheets(41.7MB), RPG VFX pack(7z 41.6MB)은 파일 25MB 한도 초과. '천하삼분 게임 에셋 56'은 수집 대상이 아님.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Ice Sparkles Overlay Effect](https://github.com/sigco3111/assets-2d-pixel/tree/main/ice-sparkles-overlay-effect) | assets-2d-pixel | AntumDeluge (Jordan Irwin) | CC-BY 4.0 | 48x64 스프라이트용 얼음 반짝임 오버레이 애니메이션 PNG 1개(240x64), zip 1개 0.4KB(페이지 PNG를 바이트 그대로 무압축 zip으로 묶음); 페이지 CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 / CC-BY 4.0 병기 중 CC-BY 4.0 선택; 귀속 필수(페이지 문구 "Jordan Irwin (AntumDeluge)", CREDITS.txt); AI 생성 아님 |
+| [Pixel Lightning](https://github.com/sigco3111/assets-2d-pixel/tree/main/pixel-lightning) | assets-2d-pixel | Marco L. | CC-BY 4.0 | 노랑·시안 번개 애니메이션 스프라이트 PNG 3개, zip 1개 61.7KB(페이지 PNG를 바이트 그대로 무압축 zip으로 묶음); 페이지 CC-BY 4.0 단독; 귀속 필수(CREDITS.txt, 페이지에 별도 귀속 문구 없음); AI 생성 아님 |
+| [Multiple Colors of Sparkle Animations](https://github.com/sigco3111/assets-2d-pixel/tree/main/multiple-colors-of-sparkle-animations) | assets-2d-pixel | VWolfdog | CC0 | Blender로 만든 마법 반짝임 10색 × 35프레임 128x128 PNG 350개, zip 1개 1.30MB(페이지 zip 원본 그대로); 페이지 CC0 단독; 귀속 불필요(선택: VWolfdog); AI 생성 아님 |
+
+종류: 2D 이펙트 3팩(assets-2d-pixel). 라이선스: CC-BY 4.0 2팩, CC0 1팩. AI 생성 명시 팩 없음. 3커밋(팩당 1커밋: 에셋: Ice Sparkles Overlay Effect 추가 / 에셋: Pixel Lightning 추가 / 에셋: Multiple Colors of Sparkle Animations 추가; 새 폴더 주소(/upload/main/<폴더>)에서 파일 이름 대소문자를 유지하는 File 객체로 첨부), 업로드 후 저장소 파일 내용을 로컬과 대조해 3팩 모든 파일(14개) 일치. assets-2d-pixel README 첫 줄 팩 수는 633팩에서 636팩으로 갱신(저장소 구성 표 포함). 색인(assets-index*.json)·위키는 Actions 자동 갱신에 맡김.
+
+실제 팩 수(catalog.csv 기준): 2D 635 · 3D 446 · UI/아이콘 226 · 오디오 446 · 기타 4 (합계 1757).
+
 ## 2026-11-11 A53 추가 (3팩, 총 1754팩)
 
 소유자의 짧은 수집 라운드(3팩, 약 12분) 지시로 이월 후보 Spark effect·Electricity Overlay Effect·Spell animation spritesheets를 확인하고, OpenGameArt 2D 이펙트 검색('impact'·'hit'·'explosion'·'magic'·'slash'·'spell'·'lightning'·'burst'·'energy', 최신순)에서 카탈로그에 없는 마법 투사체 팩 1팩을 더해 모두 2D 이펙트 스프라이트 3팩을 수집했습니다. 시작 전 library index(assets-index.min.json 1751팩)와 catalog.csv에서 제목과 source_url로 3개 모두 없음을 확인했고, 각 팩 페이지의 라이선스 표기를 읽어 허용 라이선스를 확인했습니다. 건너뜀: Spell animation spritesheets(Unnamed, CC-BY 4.0) — 페이지의 spell_animations.zip이 41.7MB로 파일 한도 25MB를 넘고(godot_project.zip 5MB는 렌더 프로젝트 소스뿐) 분할하면 원본 바이트 보존 원칙에 어긋나 다음 라운드에서 릴리스 방식을 소유자와 정하도록 보류. 대체로 Pixel Art Spells(DevWizard, CC0)를 선택했습니다. 남은 후보: Ice Sparkles Overlay Effect(CC-BY 3.0/4.0 등 병기), Pixel Lightning(CC-BY 4.0), RPG VFX pack(7z 41.6MB로 제외). '천하삼분 게임 에셋 56'은 수집 대상이 아님.
@@ -128,7 +142,7 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 633팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 636팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 446팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |

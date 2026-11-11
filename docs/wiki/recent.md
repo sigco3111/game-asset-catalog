@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@fc7426fbe04c683e68ed2e70c74a731b628f57c4`
+> generated from `catalog.csv@ebd578df1c9034ca03ce0d81ae9b4b42df62eed5`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,6 +13,7 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [불씨의 서약 아트](https://readasesang-lab.vercel.app/v16/) | `other` | 리드어세상 | 원작자 허용 (수정·사용 자유; 그대로 다시 올려 파는 것 금지) | X | O | 3개 분할 | 2026-11-12 |
 | [Angel Wings Effect](https://opengameart.org/content/angel-wings-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/angel-wings-effect/angel-wings-effect.zip) | 2026-11-11 |
 | [Animated bomb explosion](https://opengameart.org/content/animated-bomb-explosion) | `effect` | Bobjt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/animated-bomb-explosion/animated-bomb-explosion.zip) | 2026-11-11 |
 | [Animated Fireball](https://opengameart.org/content/animated-fireball) | `effect` | cemkalyoncu | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.42/animated-fireball.zip) | 2026-11-11 |
@@ -112,4 +113,3 @@
 | [Battle Sound Effects](https://opengameart.org/content/battle-sound-effects) | `sfx` | Ogrebane | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/battle-sound-effects/battle-sound-effects.zip) | 2026-11-08 |
 | [Blood - Magic Effect](https://opengameart.org/content/blood-magic-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/blood-magic-effect/blood-magic-effect.zip) | 2026-11-08 |
 | [Boom Pack 1](https://opengameart.org/content/boom-pack-1) | `sfx` | dklon | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/boom-pack-1/boom-pack-1.zip) | 2026-11-08 |
-| [Cure Magic](https://opengameart.org/content/cure-magic) | `sfx` | Someoneman | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cure-magic/cure-magic.zip) | 2026-11-08 |

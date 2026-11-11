@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@fc7426fbe04c683e68ed2e70c74a731b628f57c4`
+> generated from `catalog.csv@ebd578df1c9034ca03ce0d81ae9b4b42df62eed5`
 
 # 게임 에셋 카탈로그 위키
 
@@ -12,7 +12,7 @@
 - 이 위키의 자동 생성 문서는 직접 고치지 않습니다. 에셋이 바뀌면 두 스크립트를 다시 실행합니다(표준 라이브러리만 사용, 같은 입력이면 같은 출력).
 - 에셋마다 쪽을 따로 만들지 않습니다. 표의 이름을 누르면 제작자의 출처 페이지로 갑니다.
 - 손으로 쓰는 문서는 [사용 장부](usage-ledger.md) 하나뿐이며 생성기가 덮어쓰지 않습니다.
-- 현재 색인: 에셋 **1777개** (`catalog.csv@fc7426fbe04c683e68ed2e70c74a731b628f57c4`).
+- 현재 색인: 에셋 **1778개** (`catalog.csv@ebd578df1c9034ca03ce0d81ae9b4b42df62eed5`).
 
 ## 링크
 
@@ -35,7 +35,7 @@
 
 ## AI 생성 표시
 
-- 색인의 `ai_generated`가 참인 에셋(3개)은 표에서 'AI 생성'이 **O**로 표시됩니다. 라이브러리에서는 `?ai=0`으로 제외할 수 있습니다.
+- 색인의 `ai_generated`가 참인 에셋(4개)은 표에서 'AI 생성'이 **O**로 표시됩니다. 라이브러리에서는 `?ai=0`으로 제외할 수 있습니다.
 
 ## 분류별 개수
 
@@ -60,9 +60,9 @@
 | `building-3d` | 3D 건물 | 21 | [category-building-3d.md](category-building-3d.md) |
 | `board` | 보드게임 | 5 | [category-board.md](category-board.md) |
 | `puzzle` | 퍼즐 | 2 | [category-puzzle.md](category-puzzle.md) |
-| `other` | 기타 | 123 | [category-other.md](category-other.md) |
+| `other` | 기타 | 124 | [category-other.md](category-other.md) |
 
-합계 1777개. 분류가 400행을 넘는 목록은 `-2` 쪽으로 이어집니다.
+합계 1778개. 분류가 400행을 넘는 목록은 `-2` 쪽으로 이어집니다.
 
 ## 효과 종류별 개수
 

@@ -1,20 +1,21 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@fc7426fbe04c683e68ed2e70c74a731b628f57c4`
+> generated from `catalog.csv@ebd578df1c9034ca03ce0d81ae9b4b42df62eed5`
 
 # 기타 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `other`(기타)에 해당하는 에셋 **123개**입니다. 라이브러리에서 보기: [?cat=other](https://sigco3111.github.io/game-asset-catalog/?cat=other)
+분류 `other`(기타)에 해당하는 에셋 **124개**입니다. 라이브러리에서 보기: [?cat=other](https://sigco3111.github.io/game-asset-catalog/?cat=other)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 123행 (전체 123개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 124행 (전체 124개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [불씨의 서약 아트](https://readasesang-lab.vercel.app/v16/) | `other` | 리드어세상 | 원작자 허용 (수정·사용 자유; 그대로 다시 올려 파는 것 금지) | X | O | 3개 분할 | 2026-11-12 |
 | [Fantasy World Map](https://opengameart.org/content/fantasy-world-map) | `other` | Belohlavek | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/fantasy-world-map/fantasy-world-map.zip) | 2026-11-07 |
 | [16\*16 Ship Collection](https://opengameart.org/content/1616-ship-collection) | `other` | refreshgames | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.40/1616-ship-collection.zip) | 2026-11-04 |
 | [16x16 RPG items](https://opengameart.org/content/16x16-rpg-items) | `other` | Clint Bellanger | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.21/16x16-rpg-items.zip) | 2026-11-04 |

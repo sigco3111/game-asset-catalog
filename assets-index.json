@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@fc7426fbe04c683e68ed2e70c74a731b628f57c4",
-  "count": 1777,
+  "generated_from": "catalog.csv@ebd578df1c9034ca03ce0d81ae9b4b42df62eed5",
+  "count": 1778,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -63046,6 +63046,49 @@
       "sample": "https://raw.githubusercontent.com/sigco3111/assets-audio/main/jingling-heal/sample.mp3",
       "multipart": false,
       "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/불씨의-서약-아트",
+      "name": "불씨의 서약 아트",
+      "repo": "assets-2d-pixel",
+      "file": "bulssi-seoyak/1-bulssi-seoyak-art-part1.zip",
+      "type": "2D 일러스트",
+      "category": "other",
+      "tags": [
+        "ai-generated",
+        "fantasy",
+        "illustration",
+        "item",
+        "creature",
+        "costume",
+        "icon"
+      ],
+      "effect_kind": [],
+      "author": "리드어세상",
+      "source_url": "https://readasesang-lab.vercel.app/v16/",
+      "license": "원작자 허용 (수정·사용 자유; 그대로 다시 올려 파는 것 금지)",
+      "license_note": null,
+      "license_family": "other",
+      "attribution": "optional: 리드어세상 (원작 「불씨의 서약」)",
+      "attribution_required": false,
+      "ai_generated": true,
+      "added": "2026-11-12",
+      "notes": "webp/png 253개(장비·무기 아이콘, 코스튬, 몬스터 원화, 부적/오브젝트, 표지, 생성 원화); part1-3 같은 폴더에 풀면 복원; 음악·효과음 미수록(재배포 근거 미확보); AI 생성 그림",
+      "preview": "bulssi-seoyak/6-preview.jpg",
+      "download_path": "bulssi-seoyak/1-bulssi-seoyak-art-part1.zip",
+      "download_url": null,
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/bulssi-seoyak/1-bulssi-seoyak-art-part1.zip",
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/bulssi-seoyak/2-bulssi-seoyak-art-part2.zip",
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/bulssi-seoyak/3-bulssi-seoyak-art-part3.zip"
+      ],
+      "sample": null,
+      "multipart": true,
+      "split_parts": [
+        "1-bulssi-seoyak-art-part1.zip",
+        "2-bulssi-seoyak-art-part2.zip",
+        "3-bulssi-seoyak-art-part3.zip"
+      ]
     }
   ]
 }

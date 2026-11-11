@@ -3,6 +3,20 @@
 재사용 가능한 게임 에셋 라이브러리의 중앙 카탈로그입니다.
 실제 파일은 유형별 저장소에 두고, 여기에 모든 에셋의 출처·라이선스·작가·장르 태그를 기록합니다.
 
+## 2026-11-11 A52 추가 (3팩, 총 1751팩)
+
+소유자의 짧은 수집 라운드(3팩, 약 12분) 지시로 지난 라운드(A51)에서 보류한 후보 2개와 새로 찾은 타격 이펙트 1팩, 모두 OpenGameArt의 2D 이펙트 스프라이트를 수집했습니다. 시작 전 library index(assets-index.min.json 1748팩)와 catalog.csv에서 제목과 source_url로 3개 모두 없음을 확인했고, 각 팩 페이지의 라이선스 표기를 읽어 허용 라이선스를 확인했습니다. Shield effect(Bonsaiheldin)는 카탈로그의 Shield Aura Effect(sholev)가 이를 수정한 별도 페이지·다른 제작자·다른 파일이라 같은 팩이 아니어서 수집했습니다. 새 팩은 OGA 2D 아트 검색('slash'·'hit'·'spell', 최신순)에서 카탈로그에 없는 첫 타격 이펙트 팩을 골랐고, 다음 후보로 Spark effect(CC0)·Electricity Overlay Effect·Spell animation spritesheets 등이 남아 있습니다. '천하삼분 게임 에셋 56'은 수집 대상이 아님.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Tiny Magic Glyphs](https://github.com/sigco3111/assets-2d-pixel/tree/main/tiny-magic-glyphs) | assets-2d-pixel | Emcee Flesher | CC0 | 5x5 픽셀 마법 글리프 시트 PNG 5개(RGBA), zip 1개 0.02MB(페이지 PNG를 바이트 그대로 무압축 zip으로 묶음); 페이지 OGA-BY 3.0 / CC0 병기 중 CC0 선택; 귀속 불필요(선택: Emcee Flesher); AI 생성 아님 |
+| [Shield effect](https://github.com/sigco3111/assets-2d-pixel/tree/main/shield-effect) | assets-2d-pixel | Bonsaiheldin | CC-BY 3.0 | 우주선 방어막(에너지 필드) 이펙트 PNG 1개(556x556 RGBA), zip 1개 0.46MB(페이지 PNG를 바이트 그대로 무압축 zip으로 묶음); 페이지 CC-BY 3.0 단독; 귀속 필수(페이지 Copyright/Attribution Notice "Bonsaiheldin | Link to this page OR the page on my profile", CREDITS.txt); AI 생성 아님 |
+| [Slash hit 01 Animation VFX](https://github.com/sigco3111/assets-2d-pixel/tree/main/slash-hit-01-animation-vfx) | assets-2d-pixel | GustavoPlima | CC-BY 4.0 | 타격·베기 히트 이펙트 프레임 PNG 7개(각 738x638 RGBA), zip 1개 0.03MB(페이지 PNG를 바이트 그대로 무압축 zip으로 묶음); 페이지 CC-BY 3.0 / OGA-BY 3.0 / CC-BY 4.0 / GPL 3.0 / CC-BY-SA 4.0 / CC-BY-SA 3.0 병기 중 CC-BY 4.0 선택; 귀속 필수(CREDITS.txt); AI 생성 아님 |
+
+종류: 2D 이펙트 3팩(assets-2d-pixel). 라이선스: CC0 1팩, CC-BY 3.0 1팩, CC-BY 4.0 1팩. AI 생성 명시 팩 없음. 3커밋(팩당 1커밋: 에셋: Tiny Magic Glyphs 추가 / Shield effect 추가 / Slash hit 01 Animation VFX 추가; 파일명 대소문자 유지를 위해 페이지 안에서 File 객체로 생성해 폴더째 첨부), 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 3팩 모든 파일 일치. assets-2d-pixel README 첫 줄 팩 수는 627팩에서 630팩으로 갱신(저장소 구성 표 포함). 색인(assets-index*.json)·위키는 Actions 자동 갱신에 맡김.
+
+실제 팩 수(catalog.csv 기준): 2D 629 · 3D 446 · UI/아이콘 226 · 오디오 446 · 기타 4 (합계 1751).
+
 ## 2026-11-11 A51 추가 (4팩, 총 1748팩)
 
 소유자의 짧은 수집 라운드 지시로 지난 라운드(A50)에서 팩 수 한도로 미룬 후보 6개 중 이펙트 스프라이트 3팩과 치유 효과음 1팩을 수집했습니다. 시작 전 library index(assets-index.min.json 1744팩)와 catalog.csv에서 제목과 source_url로 6개 후보가 모두 없음을 확인했고(카탈로그의 Heal Spell·Heal effect는 다른 팩), 각 OpenGameArt 팩 페이지의 라이선스 표기를 읽어 허용 라이선스를 확인했습니다. 보류: Shield effect(Bonsaiheldin, CC-BY 3.0)·Tiny Magic Glyphs(Emcee Flesher, OGA-BY 3.0 / CC0 병기, CC0 선택 가능) — 둘 다 허용 라이선스이나 이번 라운드의 팩 수 한도(3~4팩)로 다음 라운드로 넘김. '천하삼분 게임 에셋 56'은 수집 대상이 아님.
@@ -100,7 +114,7 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 627팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 630팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 446팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |

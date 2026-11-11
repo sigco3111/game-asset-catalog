@@ -219,6 +219,14 @@ https://sigco3111.github.io/game-asset-catalog/
 
 `catalog.csv`와 색인이 어긋나면 사이트는 색인 기준으로 보여주므로, 색인을 다시 만드는 것을 잊지 마세요.
 
+## 위키와 에이전트용 정보
+
+사람과 AI 에이전트가 에셋을 주제별로 찾고 라이선스·표기 규칙을 확인하도록 만든 문서입니다.
+
+- [위키 홈](docs/wiki/README.md): 효과 종류·분류별 모음, [라이선스 정리](docs/wiki/licenses.md), [최근 추가](docs/wiki/recent.md). `python3 tools/build_wiki.py`가 `assets-index.json`에서 자동 생성합니다.
+- [llms.txt](llms.txt): AI 에이전트용 안내(색인 주소, 검색 방법, 라이선스 규칙, 기록 방법).
+- [사용 장부](docs/wiki/usage-ledger.md): 어느 프로젝트가 어떤 에셋을 가져다 썼는지 손으로 기록합니다.
+
 ## 2026-11-07 A5 추가 (6팩, 총 1561팩)
 
 | 팩 | 저장소 | 제작 | 라이선스 | 비고 |

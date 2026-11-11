@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@12f589c6ecf20c1ffe5f2b2c15f2566656965508`
+> generated from `catalog.csv@35e040f945e5985239f366f2e22a51f4f49ad25b`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -19,14 +19,17 @@
 | [Explosion effects and more](https://opengameart.org/content/explosion-effects-and-more) | `effect` | Soluna Software | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion-effects-and-more/explosion-effects-and-more.zip) | 2026-11-11 |
 | [Extended LPC Magic pack](https://opengameart.org/content/extended-lpc-magic-pack) | `effect` | daneeklu (Daniel Eddeland) | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/extended-lpc-magic-pack/extended-lpc-magic-pack.zip) | 2026-11-11 |
 | [Heal](https://opengameart.org/content/heal) | `sfx` | Zoltan Mihalyi | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/heal/heal.zip) | 2026-11-11 |
+| [Ice Sparkles Overlay Effect](https://opengameart.org/content/ice-sparkles-overlay-effect) | `effect` | AntumDeluge (Jordan Irwin) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/ice-sparkles-overlay-effect/ice-sparkles-overlay-effect.zip) | 2026-11-11 |
 | [Laser Fire](https://opengameart.org/content/laser-fire) | `sfx` | dklon | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/laser-fire/laser-fire.zip) | 2026-11-11 |
 | [Lightning Cloud](https://opengameart.org/content/lightning-cloud) | `effect` | dorkster | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lightning-cloud/lightning-cloud.zip) | 2026-11-11 |
 | [Lightning Effect (Varkalandar)](https://opengameart.org/content/lightning-effect-0) | `effect` | Hansjörg Malthaner (Varkalandar) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lightning-effect-varkalandar/lightning-effect-varkalandar.zip) | 2026-11-11 |
 | [Magic SFX Sample](https://opengameart.org/content/magic-sfx-sample) | `sfx` | ViRiX (David Mckee) | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/magic-sfx-sample/magic-sfx-sample.zip) | 2026-11-11 |
 | [Metal Impact Sounds](https://opengameart.org/content/metal-impact-sounds) | `sfx` | BMacZero (Brian MacIntosh) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/metal-impact-sounds/metal-impact-sounds.zip) | 2026-11-11 |
+| [Multiple Colors of Sparkle Animations](https://opengameart.org/content/multiple-colors-of-sparkle-animations) | `effect` | VWolfdog | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/multiple-colors-of-sparkle-animations/multiple-colors-of-sparkle-animations.zip) | 2026-11-11 |
 | [Particle Effects](https://opengameart.org/content/particle-effects) | `effect` | hc | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/particle-effects/particle-effects.zip) | 2026-11-11 |
 | [Pixel Art Spells](https://opengameart.org/content/pixel-art-spells) | `effect` | DevWizard | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-art-spells/pixel-art-spells.zip) | 2026-11-11 |
 | [Pixel Explosion (12 Frames)](https://opengameart.org/content/pixel-explosion-12-frames) | `effect` | JROB774 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-explosion-12-frames/pixel-explosion-12-frames.zip) | 2026-11-11 |
+| [Pixel Lightning](https://opengameart.org/content/pixel-lightning) | `effect` | Marco L. | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-lightning/pixel-lightning.zip) | 2026-11-11 |
 | [Shield effect](https://opengameart.org/content/shield-effect) | `effect` | Bonsaiheldin | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/shield-effect/shield-effect.zip) | 2026-11-11 |
 | [Slash hit 01 Animation VFX](https://opengameart.org/content/slash-hit-01-animation-vfx) | `effect` | GustavoPlima | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/slash-hit-01-animation-vfx/slash-hit-01-animation-vfx.zip) | 2026-11-11 |
 | [Spark effect](https://opengameart.org/content/spark-effect) | `effect` | kurohina | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/spark-effect/spark-effect.zip) | 2026-11-11 |
@@ -110,6 +113,3 @@
 | [Machete vs. Spatula](https://opengameart.org/content/machete-vs-spatula) | `sfx` | CYBERDEViL | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/machete-vs-spatula/machete-vs-spatula.zip) | 2026-11-08 |
 | [Magic Shield](https://opengameart.org/content/magic-shield) | `sfx` | spookymodem | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/magic-shield/magic-shield.zip) | 2026-11-08 |
 | [Metal and Wood Impact Sound Effects](https://opengameart.org/content/metal-and-wood-impact-sound-effects) | `sfx` | Ogrebane | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/metal-and-wood-impact-sound-effects/metal-and-wood-impact-sound-effects.zip) | 2026-11-08 |
-| [Nature - Magic Effect](https://opengameart.org/content/nature-magic-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/nature-magic-effect/nature-magic-effect.zip) | 2026-11-08 |
-| [Pixel art sword slash effect](https://opengameart.org/content/pixel-art-sword-slash-effect) | `effect` | tbbk | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-art-sword-slash-effect/pixel-art-sword-slash-effect.zip) | 2026-11-08 |
-| [Plasma Electric Effect Animations](https://opengameart.org/content/plasma-electric-effect-animations) | `effect` | Reactorcore | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/plasma-electric-effect-animations/plasma-electric-effect-animations.zip) | 2026-11-08 |

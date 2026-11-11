@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@12f589c6ecf20c1ffe5f2b2c15f2566656965508",
-  "count": 1754,
+  "generated_from": "catalog.csv@35e040f945e5985239f366f2e22a51f4f49ad25b",
+  "count": 1757,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -62067,6 +62067,130 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-art-spells/pixel-art-spells.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-art-spells/pixel-art-spells.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/ice-sparkles-overlay-effect",
+      "name": "Ice Sparkles Overlay Effect",
+      "repo": "assets-2d-pixel",
+      "file": "ice-sparkles-overlay-effect/ice-sparkles-overlay-effect.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "ice",
+        "sparkle",
+        "snow",
+        "overlay",
+        "spell",
+        "animation",
+        "stendhal",
+        "48x64",
+        "pixel"
+      ],
+      "effect_kind": [
+        "magic",
+        "ice"
+      ],
+      "author": "AntumDeluge (Jordan Irwin)",
+      "source_url": "https://opengameart.org/content/ice-sparkles-overlay-effect",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: AntumDeluge (Jordan Irwin) — \"Ice Sparkles Overlay Effect\" (https://opengameart.org/content/ice-sparkles-overlay-effect), CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/); 페이지 Copyright/Attribution Notice: \"Jordan Irwin (AntumDeluge)\"",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "48x64 스프라이트용 얼음 반짝임(아이스 스파클) 오버레이 애니메이션 PNG 1개(ice_sparkles.png 240x64, 인덱스 컬러); 파일 1개 (PNG 1개); zip 1개 0.4KB; OGA 페이지 라이선스 CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 / CC-BY 4.0 중 CC-BY 4.0 선택(다른 제공 라이선스: CC-BY 3.0, OGA-BY 3.0, OGA-BY 4.0); AI 생성 아님(2024년 게시물, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 PNG 1개를 수집자가 바이트 그대로 무압축 zip으로 묶음(원본과 바이트 대조 일치); 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; preview.png는 OGA 페이지 미리보기 이미지 preview_1260.png(48x64); 폴더에 pack.md",
+      "preview": "ice-sparkles-overlay-effect/preview.png",
+      "download_path": "ice-sparkles-overlay-effect/ice-sparkles-overlay-effect.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/ice-sparkles-overlay-effect/ice-sparkles-overlay-effect.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/ice-sparkles-overlay-effect/ice-sparkles-overlay-effect.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/pixel-lightning",
+      "name": "Pixel Lightning",
+      "repo": "assets-2d-pixel",
+      "file": "pixel-lightning/pixel-lightning.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "lightning",
+        "electric",
+        "thunder",
+        "bolt",
+        "animation",
+        "sprite",
+        "pixel"
+      ],
+      "effect_kind": [
+        "lightning"
+      ],
+      "author": "Marco L.",
+      "source_url": "https://opengameart.org/content/pixel-lightning",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: Marco L. — \"Pixel Lightning\" (https://opengameart.org/content/pixel-lightning), CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/); 페이지에 별도 귀속 문구 없음(CC-BY 표준 표기)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "노랑·시안 번개 애니메이션 스프라이트 PNG 3개(Lightning 400x175, Yellow·Cyan 각 600x350 RGBA); 파일 3개 (PNG 3개); zip 1개 61.7KB; OGA 페이지 라이선스 CC-BY 4.0 단독; AI 생성 아님(2019년 게시물, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 PNG 3개를 수집자가 바이트 그대로 무압축 zip으로 묶음(원본과 바이트 대조 일치; 서버 파일명 Lightning_1.png·Lightning_Yellow_0.png·Lightning_Cyan_0.png의 접미사 제거); 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; preview.png는 Lightning.png 복사본; 폴더에 pack.md",
+      "preview": "pixel-lightning/preview.png",
+      "download_path": "pixel-lightning/pixel-lightning.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-lightning/pixel-lightning.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-lightning/pixel-lightning.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/multiple-colors-of-sparkle-animations",
+      "name": "Multiple Colors of Sparkle Animations",
+      "repo": "assets-2d-pixel",
+      "file": "multiple-colors-of-sparkle-animations/multiple-colors-of-sparkle-animations.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "sparkle",
+        "magic",
+        "glitter",
+        "animation",
+        "blender",
+        "128x128",
+        "frames",
+        "sprite"
+      ],
+      "effect_kind": [
+        "magic"
+      ],
+      "author": "VWolfdog",
+      "source_url": "https://opengameart.org/content/multiple-colors-of-sparkle-animations",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: VWolfdog (opengameart.org, 필수 아님); 페이지 문구: \"These animations are public domain, meaning you can do whatever you please with them, attribution is not required, but is appreciated.\"",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "Blender로 만든 마법 반짝임(스파클) 애니메이션 10색 × 35프레임 128x128 PNG(350개); 파일 350개 (PNG 350개, 색상 10종 × 35프레임); zip 1개 1.30MB; OGA 페이지 라이선스 CC0 단독; AI 생성 아님(2014년 게시물, 페이지에 AI 언급 없음); 페이지 zip 원본 그대로(파일명만 Sparkles.zip → multiple-colors-of-sparkle-animations.zip); zip 안에 라이선스 파일 없음; 수집자 작성 LICENSE-SOURCE.txt 동봉; preview.png는 zip 안 Sparkles/Cyan/0001.png0018.png 복사본(128x128); 폴더에 pack.md",
+      "preview": "multiple-colors-of-sparkle-animations/preview.png",
+      "download_path": "multiple-colors-of-sparkle-animations/multiple-colors-of-sparkle-animations.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/multiple-colors-of-sparkle-animations/multiple-colors-of-sparkle-animations.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/multiple-colors-of-sparkle-animations/multiple-colors-of-sparkle-animations.zip"
       ],
       "sample": null,
       "multipart": false,

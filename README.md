@@ -3,6 +3,21 @@
 재사용 가능한 게임 에셋 라이브러리의 중앙 카탈로그입니다.
 실제 파일은 유형별 저장소에 두고, 여기에 모든 에셋의 출처·라이선스·작가·장르 태그를 기록합니다.
 
+## 2026-11-11 A50 추가 (4팩, 총 1744팩)
+
+소유자의 짧은 수집 라운드 지시로 OpenGameArt의 번개·천사 날개(힐·버프) 이펙트 스프라이트 2팩과 레이저·금속 타격 효과음 2팩을 수집했습니다. 2D 이펙트('lightning'·'impact'·'magic'·'heal'·'laser'·'particle')와 효과음('explosion'·'impact'·'lightning'·'heal'·'laser') 검색(즐겨찾기순) 후보 중 source_url과 이름이 카탈로그에 없고 허용 라이선스·25MB 이하인 팩을 선택했습니다. 각 팩 페이지의 라이선스 표기를 읽고 기록했습니다. 제외: Plasmaball·Asteroid, explosions, rocket, mine and laser·Q009's weapon sounds·Action Shooter Soundset(CC-BY-SA 단독 표기), Sci-Fi Sound Effects Library(zip 42.3MB로 파일당 25MB 초과), Medieval sound effects - Weapon impacts(7z 82MB·74MB로 25MB 초과). 허용 라이선스이지만 이번 라운드의 팩 수 한도(3~4팩)로 다음 라운드로 넘긴 후보: Extended LPC Magic pack(GPL 3.0 선택 가능)·Heal(GPL 3.0/2.0 선택 가능)·Particle Effects(CC-BY 3.0 선택 가능)·Lightning Cloud·Shield effect·Tiny Magic Glyphs.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Lightning Effect (Varkalandar)](https://github.com/sigco3111/assets-2d-pixel/tree/main/lightning-effect-varkalandar) | assets-2d-pixel | Hansjörg Malthaner (Varkalandar) | CC-BY 4.0 | 번개 이펙트 오버레이 PNG 4개(halo 710x333 + radial x1·x2·x3 각 2000x2000 RGBA; 검은 배경, 가산 합성 용도), zip 1개 2.58MB(페이지의 PNG를 바이트 그대로 zip으로 묶음); 페이지 CC-BY 4.0 / CC-BY 3.0 / CC-BY-SA 4.0 / CC-BY-SA 3.0 / OGA-BY 3.0 병기 중 CC-BY 4.0 선택; 귀속 필수(페이지 지정 문구 CREDITS.txt에 기록); 카탈로그의 CC0 Lightning effect와 다른 팩; AI 생성 아님 |
+| [Angel Wings Effect](https://github.com/sigco3111/assets-2d-pixel/tree/main/angel-wings-effect) | assets-2d-pixel | Cethiel | CC0 | 천사 날개 이펙트(힐·버프용) PNG 프레임 색상 7종 x 5프레임 + Preview.png, 파일 36개, 페이지의 zip 1개 0.97MB를 수정 없이 보관; 페이지 CC0 단독; 귀속 불필요(선택: Cethiel); 수집자 작성 LICENSE-SOURCE.txt 동봉; AI 생성 아님 |
+| [Laser Fire](https://github.com/sigco3111/assets-audio/tree/main/laser-fire) | assets-audio | dklon | CC-BY 3.0 | 레이저 발사 효과음 WAV 13종(모노 44.1kHz 16bit, 0.11~1.42초), zip 1개 0.42MB(페이지의 WAV를 바이트 그대로 무압축 zip으로 묶음); 페이지 CC-BY 3.0 단독; 귀속 필수(페이지 지정 문구 "credit me as dklon", CREDITS.txt); AI 생성 아님 |
+| [Metal Impact Sounds](https://github.com/sigco3111/assets-audio/tree/main/metal-impact-sounds) | assets-audio | BMacZero (Brian MacIntosh) | CC0 | 금속 타격·충격 효과음 WAV 7종(모노 44.1kHz 16bit, 0.26~2.11초), zip 1개 0.40MB(페이지의 WAV를 바이트 그대로 무압축 zip으로 묶음); 페이지 CC0 단독; 귀속 불필요(선택: Brian MacIntosh); 수집자 작성 LICENSE-SOURCE.txt 동봉; AI 생성 아님 |
+
+종류: 2D 이펙트 2팩(assets-2d-pixel), 효과음 2팩(assets-audio). 라이선스: CC0 2팩, CC-BY 3.0 1팩, CC-BY 4.0 1팩. AI 생성 명시 팩 없음. 4커밋(팩당 1커밋: 에셋: Lightning Effect (Varkalandar) 추가 / Angel Wings Effect 추가 / Laser Fire 추가 / Metal Impact Sounds 추가; 텍스트 파일은 파일명 대소문자 유지를 위해 페이지 안에서 생성해 첨부), 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 4팩 모든 파일 일치. assets-2d-pixel README 첫 줄 팩 수는 622팩에서 624팩으로, assets-audio README는 443팩에서 445팩으로 갱신(별도 문서 커밋). 새 저장소 없음.
+
+실제 팩 수(catalog.csv 기준): 2D 623 · 3D 446 · UI/아이콘 226 · 오디오 445 · 기타 4 (합계 1744).
+
 ## 2026-11-11 A49 추가 (4팩, 총 1740팩)
 
 소유자의 짧은 수집 라운드 지시로 OpenGameArt의 폭발 이펙트 스프라이트 2팩과 마법·폭발 효과음 2팩을 수집했습니다. 우선 대상인 AlotofImpacts 시리즈(JoesAlotofthings)는 20개 팩이 모두 이미 카탈로그에 있어 제외했고, 2D 이펙트('explosion'·'impact'·'lightning'·'magic'·'heal'·'laser'·'particle'·'hit'·'slash'·'spark')와 효과음('explosion'·'impact'·'magic'·'heal'·'laser') 검색(즐겨찾기순) 후보 중 source_url이 카탈로그에 없고 허용 라이선스·25MB 이하인 팩을 선택했습니다. 제외: Sci-fi effects(zip 34.1MB로 파일당 25MB 초과), Jingling heal·Laser rifle(CC-BY-SA 중심 표기). 각 팩 페이지의 라이선스 표기를 읽고 기록했습니다.
@@ -70,11 +85,11 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 622팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 624팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 446팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 443팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 445팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (소유자의 AI 어시스턴트 Instinct가 생성한 자체 작업물, 소유자 결정으로 유지, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.

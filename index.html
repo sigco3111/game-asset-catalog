@@ -4,32 +4,68 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>게임 에셋 도서관</title>
-<meta name="description" content="수집한 CC0·CC BY 게임 에셋 팩을 이미지로 둘러보고 검색하는 도서관">
+<meta name="description" content="수집한 CC0·CC BY 게임 에셋을 이미지로 둘러보고 검색·필터링하는 도서관. 출처·라이선스·표기 조건 표시, 크레딧 복사 지원">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header class="top">
   <h1>게임 에셋 도서관</h1>
   <p class="sub" id="sub">불러오는 중…</p>
-  <div class="search"><input id="q" type="search" placeholder="이름, 태그, 제작자 검색 (예: 던전, tree, Kenney)" autocomplete="off" aria-label="검색"></div>
-  <nav class="tabs" id="tabs" aria-label="종류"></nav>
-  <div class="filters">
-    <select id="lic" aria-label="라이선스"><option value="">라이선스</option><option value="cc0">CC0</option><option value="by">귀속 필요</option></select>
-    <select id="author" aria-label="제작자"><option value="">제작자</option></select>
-    <select id="sort" aria-label="정렬"><option value="new">최신순</option><option value="name">이름순</option></select>
-    <button id="reset" type="button">초기화</button>
+  <div class="search">
+    <label class="sr" for="q">검색</label>
+    <input id="q" type="search" placeholder="이름, 태그, 제작자, 효과 검색 (예: 던전, explosion, Kenney)" autocomplete="off" enterkeyhint="search">
   </div>
+  <nav class="tabs" id="tabs" aria-label="저장소"></nav>
+  <div class="chips" id="chips" role="group" aria-label="효과 종류"></div>
+  <details class="more" id="more">
+    <summary>상세 필터 <span id="moreN" class="moren"></span></summary>
+    <div class="filters">
+      <label class="fl">분류
+        <select id="cat"><option value="">전체</option></select></label>
+      <label class="fl">라이선스
+        <select id="lic"><option value="">전체</option></select></label>
+      <label class="fl">제작자
+        <select id="author"><option value="">전체</option></select></label>
+      <label class="fl">정렬
+        <select id="sort">
+          <option value="new">최근 추가</option>
+          <option value="name">이름</option>
+          <option value="type">종류</option>
+        </select></label>
+    </div>
+    <div class="toggles">
+      <label class="tg"><input type="checkbox" id="noattr"> 표기 필요 없는 것만</label>
+      <label class="tg"><input type="checkbox" id="noai"> AI 생성 제외</label>
+    </div>
+  </details>
 </header>
 <main>
-  <p id="count" class="count" aria-live="polite"></p>
+  <div class="status">
+    <p id="count" class="count" aria-live="polite"></p>
+    <button id="reset" type="button" class="reset" hidden>초기화</button>
+  </div>
+  <p id="active" class="active" hidden></p>
   <div id="warn"></div>
-  <section id="grid" class="grid"></section>
-  <p id="empty" class="empty" hidden>조건에 맞는 팩이 없습니다.</p>
+  <p id="loading" class="loading" role="status"><span class="spin" aria-hidden="true"></span> 에셋 색인을 불러오는 중…</p>
+  <div id="error" class="errbox" role="alert" hidden></div>
+  <section id="people" hidden>
+    <label class="sr" for="pq">인물 검색</label>
+    <input id="pq" type="search" placeholder="인물 이름 검색 (한국어·한자, 미정)" autocomplete="off">
+    <p id="pcount" class="count"></p>
+    <div id="pgrid"></div>
+    <p id="phint" class="hint">초상화 팩 안의 인물을 이름으로 찾아 개별 원본을 내려받을 수 있습니다.</p>
+  </section>
+  <section id="grid" class="grid" aria-label="에셋 목록"></section>
+  <p id="empty" class="empty" hidden>조건에 맞는 에셋이 없습니다.</p>
+  <div class="morewrap"><button id="more-btn" type="button" class="morebtn" hidden>더 보기</button></div>
 </main>
 <footer>
-  <p>이 목록은 저장소의 <a href="https://github.com/sigco3111/game-asset-catalog/blob/main/catalog.csv">catalog.csv</a>를 읽어 만들어집니다. 팩 단위 검색이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다.</p>
+  <p><a href="assets-index.json">assets-index.json</a>으로 에이전트도 검색할 수 있습니다. 이 목록은 저장소의 <a href="assets-index.min.json">assets-index.min.json</a>(<a href="https://github.com/sigco3111/game-asset-catalog/blob/main/catalog.csv">catalog.csv</a>에서 생성)을 읽어 만들어지며, 읽지 못하면 catalog.csv로 대신합니다.</p>
+  <p><a href="https://github.com/sigco3111/game-asset-catalog">저장소</a> · 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다.</p>
 </footer>
-<dialog id="dlg"><div id="dlgbody"></div></dialog>
+<dialog id="dlg" aria-label="미리보기"><div id="dlgbody"></div></dialog>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<noscript><p class="errbox">이 사이트는 JavaScript가 필요합니다. 목록은 <a href="assets-index.json">assets-index.json</a>에서 직접 볼 수 있습니다.</p></noscript>
 <script src="app.js"></script>
 </body>
 </html>

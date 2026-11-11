@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@9bc1079065422c4b5a87253a9350ebf507bcda65`
+> generated from `catalog.csv@fc7426fbe04c683e68ed2e70c74a731b628f57c4`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -18,6 +18,7 @@
 | [Animated Fireball](https://opengameart.org/content/animated-fireball) | `effect` | cemkalyoncu | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.42/animated-fireball.zip) | 2026-11-11 |
 | [Big Explosion](https://opengameart.org/content/big-explosion) | `sfx` | Blender Foundation | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/big-explosion/big-explosion.zip) | 2026-11-11 |
 | [Boom Pack 2](https://opengameart.org/content/boom-pack-2) | `sfx` | dklon | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/boom-pack-2/boom-pack-2.zip) | 2026-11-11 |
+| [Burst fx](https://opengameart.org/content/burst-fx) | `effect` | ashishlko11 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/burst-fx/burst-fx.zip) | 2026-11-11 |
 | [Electricity Overlay Effect](https://opengameart.org/content/electricity-overlay-effect) | `effect` | AntumDeluge (Jordan Irwin) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/electricity-overlay-effect/electricity-overlay-effect.zip) | 2026-11-11 |
 | [Elemental Spell](https://opengameart.org/content/elemental-spell) | `sfx` | qubodup | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/elemental-spell/elemental-spell.zip) | 2026-11-11 |
 | [Energy Ball](https://opengameart.org/content/energy-ball) | `effect` | yiannisd | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/energy-ball/energy-ball.zip) | 2026-11-11 |
@@ -25,10 +26,13 @@
 | [Explosion effects and more](https://opengameart.org/content/explosion-effects-and-more) | `effect` | Soluna Software | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion-effects-and-more/explosion-effects-and-more.zip) | 2026-11-11 |
 | [Extended LPC Magic pack](https://opengameart.org/content/extended-lpc-magic-pack) | `effect` | daneeklu (Daniel Eddeland) | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/extended-lpc-magic-pack/extended-lpc-magic-pack.zip) | 2026-11-11 |
 | [Fantasy Magic Spell](https://opengameart.org/content/fantasy-magic-spell) | `sfx` | Almitory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/fantasy-magic-spell/fantasy-magic-spell.zip) | 2026-11-11 |
+| [Fire & Evil Spell](https://opengameart.org/content/fire-evil-spell) | `sfx` | artisticdude | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/fire-evil-spell/fire-evil-spell.zip) | 2026-11-11 |
 | [Fireball Particle Sheet](https://opengameart.org/content/fireball-particle-sheet) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/fireball-particle-sheet/fireball-particle-sheet.zip) | 2026-11-11 |
 | [Heal](https://opengameart.org/content/heal) | `sfx` | Zoltan Mihalyi | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/heal/heal.zip) | 2026-11-11 |
+| [Hit Animation 2 - Frame by frame](https://opengameart.org/content/hit-animation-2-frame-by-frame) | `effect` | Sinestesia | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/hit-animation-2-frame-by-frame/hit-animation-2-frame-by-frame.zip) | 2026-11-11 |
 | [Ice Sparkles Overlay Effect](https://opengameart.org/content/ice-sparkles-overlay-effect) | `effect` | AntumDeluge (Jordan Irwin) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/ice-sparkles-overlay-effect/ice-sparkles-overlay-effect.zip) | 2026-11-11 |
 | [JC Sounds - Fantasy SFX Pack Vol 1](https://opengameart.org/content/jc-sounds-fantasy-sfx-pack-vol-1) | `sfx` | JC Sounds | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/releases/download/v6.25/fantasy-sfx-pack-vol-1.zip) | 2026-11-11 |
+| [Jingling heal](https://opengameart.org/content/jingling-heal) | `sfx` | Zoltan Mihalyi | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/jingling-heal/jingling-heal.zip) | 2026-11-11 |
 | [Laser Fire](https://opengameart.org/content/laser-fire) | `sfx` | dklon | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/laser-fire/laser-fire.zip) | 2026-11-11 |
 | [Lightning Cloud](https://opengameart.org/content/lightning-cloud) | `effect` | dorkster | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lightning-cloud/lightning-cloud.zip) | 2026-11-11 |
 | [Lightning Effect (Varkalandar)](https://opengameart.org/content/lightning-effect-0) | `effect` | Hansjörg Malthaner (Varkalandar) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lightning-effect-varkalandar/lightning-effect-varkalandar.zip) | 2026-11-11 |
@@ -109,7 +113,3 @@
 | [Blood - Magic Effect](https://opengameart.org/content/blood-magic-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/blood-magic-effect/blood-magic-effect.zip) | 2026-11-08 |
 | [Boom Pack 1](https://opengameart.org/content/boom-pack-1) | `sfx` | dklon | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/boom-pack-1/boom-pack-1.zip) | 2026-11-08 |
 | [Cure Magic](https://opengameart.org/content/cure-magic) | `sfx` | Someoneman | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cure-magic/cure-magic.zip) | 2026-11-08 |
-| [Earth Impact - Magic Effect](https://opengameart.org/content/earth-impact-magic-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/earth-impact-magic-effect/earth-impact-magic-effect.zip) | 2026-11-08 |
-| [Electricity Game Sound Pack](https://opengameart.org/content/electricity-game-sound-pack) | `sfx` | faxcorp | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/electricity-game-sound-pack/electricity-game-sound-pack.zip) | 2026-11-08 |
-| [Explosion particles sprite atlas](https://opengameart.org/content/explosion-particles-sprite-atlas) | `effect` | TheJosh | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion-particles-sprite-atlas/explosion-particles-sprite-atlas.zip) | 2026-11-08 |
-| [Explosion Sheet](https://opengameart.org/content/explosion-sheet) | `effect` | StumpyStrust | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion-sheet/explosion-sheet.zip) | 2026-11-08 |

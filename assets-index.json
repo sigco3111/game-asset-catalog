@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@9bc1079065422c4b5a87253a9350ebf507bcda65",
-  "count": 1773,
+  "generated_from": "catalog.csv@fc7426fbe04c683e68ed2e70c74a731b628f57c4",
+  "count": 1777,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -62879,6 +62879,171 @@
         "https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.42/animated-fireball.zip"
       ],
       "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/burst-fx",
+      "name": "Burst fx",
+      "repo": "assets-2d-pixel",
+      "file": "burst-fx/burst-fx.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "burst",
+        "blast",
+        "explosion",
+        "animation",
+        "spritesheet",
+        "vfx"
+      ],
+      "effect_kind": [
+        "explosion"
+      ],
+      "author": "ashishlko11",
+      "source_url": "https://opengameart.org/content/burst-fx",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: ashishlko11 — \"Burst fx\" (https://opengameart.org/content/burst-fx), CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/); 페이지 Copyright/Attribution Notice: \"Credits required\"",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "폭발·버스트 이펙트 애니메이션 프레임 PNG 32개(new0000~new0031, 256x256 RGBA) + 미리보기 GIF 1개(256x256) + 전체 스프라이트시트 PNG 1개(newa.png 2048x1024 RGBA); 파일 34개 (PNG 33개 + GIF 1개); zip 1개 3.01MB; OGA 페이지 라이선스 CC-BY 4.0 / CC-BY 3.0 / CC-BY-SA 4.0 / CC-BY-SA 3.0 병기 중 CC-BY 4.0 선택(다른 제공 라이선스: CC-BY 3.0, CC-BY-SA 4.0, CC-BY-SA 3.0); AI 생성 아님(2018년 게시물, 페이지에 AI 언급 없음); 페이지 zip 원본 그대로(파일명만 burst-fx.zip으로 변경, 바이트 대조 일치); 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; preview.jpg는 페이지 미리보기 이미지(590x338) 복사본; 폴더에 pack.md",
+      "preview": "burst-fx/preview.jpg",
+      "download_path": "burst-fx/burst-fx.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/burst-fx/burst-fx.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/burst-fx/burst-fx.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/hit-animation-2-frame-by-frame",
+      "name": "Hit Animation 2 - Frame by frame",
+      "repo": "assets-2d-pixel",
+      "file": "hit-animation-2-frame-by-frame/hit-animation-2-frame-by-frame.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "hit",
+        "impact",
+        "animation",
+        "spritesheet",
+        "atlas",
+        "vfx",
+        "fx"
+      ],
+      "effect_kind": [
+        "hit",
+        "impact"
+      ],
+      "author": "Sinestesia",
+      "source_url": "https://opengameart.org/content/hit-animation-2-frame-by-frame",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Sinestesia (opengameart.org, 필수 아님); 페이지 문구 \"If you got the chance though, please mention us :) Or at least leave a like on facebook /sinestesiastudio or Instagram /sinestesiaguy/\"",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "타격(hit) 이펙트 스프라이트 시트 PNG 1개(Hit-Yellow.png 4096x4096 RGBA, 프레임 1024x1024 x 16, 아틀라스 형식); 파일 1개 (PNG 1개); zip 1개 2.15MB; OGA 페이지 라이선스 CC0 단독; AI 생성 아님(2018년 게시물, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 PNG 1개를 수집자가 바이트 그대로 무압축 zip으로 묶음; 수집자 작성 LICENSE-SOURCE.txt 동봉; preview.gif는 페이지 미리보기 GIF(450x438) 복사본; 폴더에 pack.md",
+      "preview": "hit-animation-2-frame-by-frame/preview.gif",
+      "download_path": "hit-animation-2-frame-by-frame/hit-animation-2-frame-by-frame.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/hit-animation-2-frame-by-frame/hit-animation-2-frame-by-frame.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/hit-animation-2-frame-by-frame/hit-animation-2-frame-by-frame.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/fire-evil-spell",
+      "name": "Fire & Evil Spell",
+      "repo": "assets-audio",
+      "file": "fire-evil-spell/fire-evil-spell.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sfx",
+        "spell",
+        "magic",
+        "fire",
+        "fireball",
+        "flare",
+        "burn",
+        "evil",
+        "slime",
+        "rpg",
+        "fantasy"
+      ],
+      "effect_kind": [
+        "magic",
+        "fire"
+      ],
+      "author": "artisticdude",
+      "source_url": "https://opengameart.org/content/fire-evil-spell",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: artisticdude — \"Fire & Evil Spell\" (https://opengameart.org/content/fire-evil-spell), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지에 별도 귀속 문구 없음(OGA 표기 Submitted by qubodup)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "불꽃·사악한 주문 시전 효과음 AIFF 2종(Fire.aif 스테레오 44.1kHz 16bit 1.37초, Spell1.aif 0.70초); 파일 2개 (AIF 2개); zip 1개 0.26MB; OGA 페이지 라이선스 CC-BY 3.0 단독; AI 생성 아님(2010년 게시물, 페이지에 AI 언급 없음); 페이지의 7z를 풀어 원본 파일 2개를 수정 없이 deflate zip으로 다시 묶음; 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; sample.aif는 Fire.aif 복사본; 폴더에 pack.md",
+      "preview": null,
+      "download_path": "fire-evil-spell/fire-evil-spell.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/fire-evil-spell/fire-evil-spell.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/fire-evil-spell/fire-evil-spell.zip"
+      ],
+      "sample": "https://raw.githubusercontent.com/sigco3111/assets-audio/main/fire-evil-spell/sample.aif",
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/jingling-heal",
+      "name": "Jingling heal",
+      "repo": "assets-audio",
+      "file": "jingling-heal/jingling-heal.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sfx",
+        "heal",
+        "jingle",
+        "spell",
+        "magic",
+        "buff",
+        "rpg",
+        "fantasy"
+      ],
+      "effect_kind": [
+        "magic",
+        "heal"
+      ],
+      "author": "Zoltan Mihalyi",
+      "source_url": "https://opengameart.org/content/jingling-heal",
+      "license": "GPL 3.0",
+      "license_note": null,
+      "license_family": "gpl",
+      "attribution": "required (GPL 3.0 copyleft): Zoltan Mihalyi — \"Jingling heal\" (https://opengameart.org/content/jingling-heal), GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html); 페이지 고지: This work is based on Spell Sounds Starter Pack by p0ss (https://opengameart.org/content/spell-sounds-starter-pack). GPL 3.0 적용: 파생물 배포 시 GPL 3.0 전문·저작권 고지 유지 및 소스 공개 필요(카피레프트)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "딸랑이는 소리의 치유 효과음 MP3 1종(17.mp3, 스테레오 44.1kHz 128kbps, 약 1.3초); 파일 1개 (MP3 1개); zip 1개 0.02MB; OGA 페이지 라이선스 CC-BY-SA 3.0 / GPL 3.0 / GPL 2.0 병기 중 GPL 3.0 선택; 다른 제공 라이선스: CC-BY-SA 3.0, GPL 2.0; AI 생성 아님(2020년 게시, 페이지에 AI 언급 없음); 페이지에 zip이 없어 17.mp3 1개를 수집자가 바이트 그대로 무압축 zip으로 묶음(바이트 대조 일치); 페이지 고지: \"Spell Sounds Starter Pack\"(p0ss) 기반(카탈로그에 이미 있는 다른 행); 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉, GPL 3.0 전문(LICENSE-GPL-3.0.txt) 동봉; sample.mp3는 17.mp3 복사본; 폴더에 pack.md",
+      "preview": null,
+      "download_path": "jingling-heal/jingling-heal.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/jingling-heal/jingling-heal.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/jingling-heal/jingling-heal.zip"
+      ],
+      "sample": "https://raw.githubusercontent.com/sigco3111/assets-audio/main/jingling-heal/sample.mp3",
       "multipart": false,
       "split_parts": []
     }

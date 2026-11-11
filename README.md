@@ -3,6 +3,21 @@
 재사용 가능한 게임 에셋 라이브러리의 중앙 카탈로그입니다.
 실제 파일은 유형별 저장소에 두고, 여기에 모든 에셋의 출처·라이선스·작가·장르 태그를 기록합니다.
 
+## 2026-11-11 A55 추가 (4팩, 총 1761팩)
+
+소유자의 짧은 수집 라운드(3~4팩, 약 14분) 지시로 이월 후보 6개 중 Explosion(ashishlko11)·Thunder sprite·M484 Lightning Weapon·Resurrection Spell [SFX] 4팩을 수집했습니다(모두 OpenGameArt 2D 이펙트 스프라이트). 시작 전 library index(assets-index.min.json 1757팩)와 catalog.csv(1757행)에서 제목과 source_url로 6개 후보가 모두 없음을 확인했고, 각 팩 페이지의 라이선스 표기와 파일 크기(모두 파일당 25MB 이하)를 읽어 확인했습니다. 이번 라운드의 팩 수 한도(3~4팩)로 다음 라운드로 넘긴 후보: Energy Ball(yiannisd, CC-BY 3.0 단독)·Fireball Particle Sheet(davididev, CC-BY 3.0 단독). 계속 보류: Spell animation spritesheets(41.7MB), RPG VFX pack(7z 41.6MB)은 파일 25MB 한도 초과. '천하삼분 게임 에셋 56'은 수집 대상이 아님.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Explosion (ashishlko11)](https://github.com/sigco3111/assets-2d-pixel/tree/main/explosion-ashishlko11) | assets-2d-pixel | ashishlko11 | CC-BY 4.0 | 픽셀 풍 폭발 애니메이션 9프레임(프레임 64x64, 시트 256x192): 프레임 PNG 10개 + GIF 1개 + 스프라이트시트 PNG 1개, zip 1개 61.0KB(페이지 zip 원본 그대로); 페이지 CC-BY 4.0 / CC-BY 3.0 / GPL 3.0 / GPL 2.0 병기 중 CC-BY 4.0 선택; 귀속 필수(페이지 문구 "Give me Credit", CREDITS.txt); AI 생성 아님 |
+| [Thunder sprite](https://github.com/sigco3111/assets-2d-pixel/tree/main/thunder-sprite) | assets-2d-pixel | Gutima15 | CC-BY 4.0 | 번개 애니메이션 스프라이트시트 PNG 1개(272x68 RGBA), zip 1개 3.6KB(페이지 PNG를 바이트 그대로 무압축 zip으로 묶음); 페이지 CC-BY 4.0 단독; 귀속 필수(페이지 문구: 언급 권장·플레이 링크 공유 요청, CREDITS.txt); AI 생성 아님 |
+| [M484 Lightning Weapon](https://github.com/sigco3111/assets-2d-pixel/tree/main/m484-lightning-weapon) | assets-2d-pixel | Master484 | CC0 | 아케이드 슈팅용 번개 무기 스프라이트시트 PNG 1개(790x720 RGBA, 30x30 조각 40종 x 2프레임), zip 1개 28.2KB(페이지 PNG를 바이트 그대로 무압축 zip으로 묶음); 페이지 CC0 단독; 귀속 불필요(선택: Master484); AI 생성 아님 |
+| [Resurrection Spell [SFX]](https://github.com/sigco3111/assets-2d-pixel/tree/main/resurrection-spell-sfx) | assets-2d-pixel | One Man Army | CC0 | 부활(Reborn) 주문 이펙트 스프라이트 PNG 4개(corpse·prayingMan·reviveSpell·reviveSpellComplete), zip 1개 12.2KB(페이지 PNG를 바이트 그대로 무압축 zip으로 묶음); 페이지 CC0 단독; 귀속 불필요(선택: One Man Army); AI 생성 아님 |
+
+종류: 2D 이펙트 4팩(assets-2d-pixel). 라이선스: CC-BY 4.0 2팩, CC0 2팩. AI 생성 명시 팩 없음. 4커밋(팩당 1커밋: 에셋: Explosion (ashishlko11) 추가 / 에셋: Thunder sprite 추가 / 에셋: M484 Lightning Weapon 추가 / 에셋: Resurrection Spell [SFX] 추가; 새 폴더 주소(/upload/main/<폴더>)에서 파일 이름 대소문자를 유지하는 File 객체로 첨부), 업로드 후 저장소 파일 내용을 로컬과 sha256으로 대조해 4팩 모든 파일(18개) 일치. assets-2d-pixel README 첫 줄 팩 수는 636팩에서 640팩으로 갱신(저장소 구성 표 포함). 색인(assets-index*.json)·위키는 Actions 자동 갱신에 맡김.
+
+실제 팩 수(catalog.csv 기준): 2D 639 · 3D 446 · UI/아이콘 226 · 오디오 446 · 기타 4 (합계 1761).
+
 ## 2026-11-11 A54 추가 (3팩, 총 1757팩)
 
 소유자의 짧은 수집 라운드(3팩, 약 12분) 지시로 이월 후보 Ice Sparkles Overlay Effect·Pixel Lightning을 확인하고, OpenGameArt 2D 이펙트 검색('impact'·'hit'·'explosion'·'magic'·'spell'·'laser'·'burst'·'sparkle'·'thunder'·'particle' 등, 최신순·즐겨찾기순)에서 카탈로그에 없는 마법 반짝임 팩 1팩을 더해 모두 2D 이펙트 스프라이트 3팩을 수집했습니다. 시작 전 library index(assets-index.min.json 1754팩)와 catalog.csv에서 제목과 source_url로 3개 모두 없음을 확인했고, 각 팩 페이지의 라이선스 표기를 읽어 허용 라이선스를 확인했습니다. 남은 후보(모두 카탈로그에 없음 확인): Thunder sprite(CC-BY 4.0), M484 Lightning Weapon(CC0), Resurrection Spell [SFX](CC0, 치유·부활 이펙트 스프라이트), Explosion(ashishlko11, 병기 CC-BY 4.0/3.0/GPL 3.0/2.0), Energy Ball(CC-BY 3.0), Fireball Particle Sheet(CC-BY 3.0). 계속 보류: Spell animation spritesheets(41.7MB), RPG VFX pack(7z 41.6MB)은 파일 25MB 한도 초과. '천하삼분 게임 에셋 56'은 수집 대상이 아님.
@@ -142,7 +157,7 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 636팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 640팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 446팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |

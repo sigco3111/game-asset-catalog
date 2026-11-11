@@ -3,6 +3,21 @@
 재사용 가능한 게임 에셋 라이브러리의 중앙 카탈로그입니다.
 실제 파일은 유형별 저장소에 두고, 여기에 모든 에셋의 출처·라이선스·작가·장르 태그를 기록합니다.
 
+## 2026-11-11 A59 추가 (4팩, 총 1777팩)
+
+소유자의 짧은 수집 라운드(3~4팩, 약 14분) 지시로 OpenGameArt 검색(2D 아트·효과음; impact·hit·slash·spell·magic·heal·laser·lightning·shield·buff·particles·sfx·burst·vfx 등, 최신순·즐겨찾기순)에서 카탈로그에 없는 폭발·타격 이펙트 스프라이트 2팩과 주문·치유 효과음 2팩을 수집했습니다. 시작 전 library index(assets-index.min.json 1773팩)와 catalog.csv(1773행)에서 제목과 source_url로 4개 모두 없음을 확인했고, 각 팩 페이지의 라이선스 표기와 파일 크기(모두 파일당 25MB 이하, zip 5MB 이하라 저장소 트리에 직접 올림)를 읽어 확인했습니다. 건너뜀(라이선스): Elemental Charge Effects(GPL 3.0 허용이나 14KB 소형 팩이라 이번 라운드 팩 수 한도로 보류), Imagindar Abilities Sound Effects Pack(CC-BY-SA 4.0 단독), Time Magic 등 CC-BY-SA 단독 팩, Pixel Animated vFXs(CC0이나 PSD 1개뿐), Cloud spark action VFX(허용 라이선스 병기이나 팩 수 한도로 보류). 건너뜀(용량): Sprite effects part 1·2(CC0, 파일당 84~101MB), Sci-fi effects(CC-BY 3.0 / GPL 3.0, zip 34.1MB), Medieval sound effects - Weapon impacts(CC0, 7z 82.1·73.8MB), Fantasy Sound Effects Library(CC-BY 3.0, zip 31MB), Spell animation spritesheets(41.7MB), RPG VFX pack(7z 41.6MB)는 파일 25MB 한도 초과. 건너뜀(이미 카탈로그에 있음): AlotofImpacts 시리즈 20팩. '천하삼분 게임 에셋 56'은 수집 대상이 아님.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Burst fx](https://github.com/sigco3111/assets-2d-pixel/tree/main/burst-fx) | assets-2d-pixel | ashishlko11 | CC-BY 4.0 | 폭발·버스트 이펙트 애니메이션 프레임 PNG 32개(256x256 RGBA) + 미리보기 GIF 1개 + 전체 스프라이트시트 PNG 1개(2048x1024), zip 1개 3.01MB(페이지 zip 원본 그대로, 파일명만 변경); 페이지 CC-BY 4.0 / CC-BY 3.0 / CC-BY-SA 4.0 / CC-BY-SA 3.0 병기 중 CC-BY 4.0 선택; 귀속 필수(페이지 문구 "Credits required", CREDITS.txt); AI 생성 아님 |
+| [Hit Animation 2 - Frame by frame](https://github.com/sigco3111/assets-2d-pixel/tree/main/hit-animation-2-frame-by-frame) | assets-2d-pixel | Sinestesia | CC0 | 타격(hit) 이펙트 스프라이트 시트 PNG 1개(4096x4096 RGBA, 프레임 1024x1024 x 16), zip 1개 2.15MB(페이지 PNG를 바이트 그대로 무압축 zip으로 묶음); 페이지 CC0 단독; 귀속 불필요(선택: Sinestesia, 페이지의 멘션 요청); AI 생성 아님 |
+| [Fire & Evil Spell](https://github.com/sigco3111/assets-audio/tree/main/fire-evil-spell) | assets-audio | artisticdude | CC-BY 3.0 | 불꽃·사악한 주문 시전 효과음 AIFF 2종(44.1kHz 16bit 스테레오, 1.37초·0.70초), zip 1개 0.26MB(페이지 7z를 풀어 원본 파일을 수정 없이 deflate zip으로 다시 묶음); 페이지 CC-BY 3.0 단독; 귀속 필수(페이지에 별도 귀속 문구 없어 표준 CC-BY 표기, CREDITS.txt); AI 생성 아님 |
+| [Jingling heal](https://github.com/sigco3111/assets-audio/tree/main/jingling-heal) | assets-audio | Zoltan Mihalyi | GPL 3.0 | 딸랑이는 치유 효과음 MP3 1종(스테레오 44.1kHz 128kbps, 약 1.3초), zip 1개 0.02MB(페이지 MP3를 바이트 그대로 무압축 zip으로 묶음); 페이지 CC-BY-SA 3.0 / GPL 3.0 / GPL 2.0 병기 중 GPL 3.0 선택; 페이지 고지 "Spell Sounds Starter Pack"(p0ss) 기반; GPL 전문·CREDITS.txt 동봉; AI 생성 아님 |
+
+종류: 2D 이펙트 2팩(assets-2d-pixel), 효과음 2팩(assets-audio). 라이선스: CC-BY 4.0 1팩, CC0 1팩, CC-BY 3.0 1팩, GPL 3.0 1팩. AI 생성 명시 팩 없음. 4커밋(팩당 1커밋: 에셋: Burst fx 추가 / 에셋: Hit Animation 2 - Frame by frame 추가 / 에셋: Fire & Evil Spell 추가 / 에셋: Jingling heal 추가; 새 폴더 주소(/upload/main/<폴더>)에서 파일 이름 대소문자를 유지하는 File 객체로 첨부), 업로드 후 저장소 파일을 로컬과 대조해 4팩 모든 파일(저장소 21개) 일치. 용량: assets-2d-pixel 약 344MB, assets-audio 약 378MB(모두 양호). 색인(assets-index*.json)·위키는 Actions 자동 갱신에 맡김.
+
+실제 팩 수(catalog.csv 기준): 2D 647 · 3D 446 · UI/아이콘 226 · 오디오 454 · 기타 4 (합계 1777).
+
 ## 2026-11-11 A58 추가 (4팩, 총 1773팩)
 
 소유자의 짧은 수집 라운드(3~4팩, 약 14분) 지시로 이월 후보 Magic Missiles·Animated Fireball·Magic Effect Particle System·Elemental Spell(모두 opengameart.org)을 수집했습니다. 시작 전 library index(assets-index.min.json 1769팩)와 catalog.csv(1769행)에서 제목과 source_url로 4개 모두 없음을 확인했고, 각 팩 페이지의 라이선스 표기와 파일 크기(모두 파일당 25MB 이하)를 읽어 확인했습니다. Magic Effect Particle System(16.3MB)과 Animated Fireball(7.44MB)은 zip이 5MB를 넘어 docs/capacity.md 규칙 1에 따라 assets-2d-pixel 새 릴리스 v8.42 첨부로 올렸습니다(업로드 후 다운로드 크기·sha256 대조 일치).
@@ -202,11 +217,11 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 646팩 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 648팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 446팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 452팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 454팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (소유자의 AI 어시스턴트 Instinct가 생성한 자체 작업물, 소유자 결정으로 유지, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.

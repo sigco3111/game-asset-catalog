@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@e56fc9b40f3e89c544fe54b3a669385441bdf6dc",
-  "count": 1761,
+  "generated_from": "catalog.csv@946c509f893184353e67984f4f4c926c2c11f8b2",
+  "count": 1765,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -62357,6 +62357,173 @@
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/resurrection-spell-sfx/resurrection-spell-sfx.zip"
       ],
       "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/energy-ball",
+      "name": "Energy Ball",
+      "repo": "assets-2d-pixel",
+      "file": "energy-ball/energy-ball.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "energy",
+        "ball",
+        "blast",
+        "projectile",
+        "charge",
+        "blue",
+        "white",
+        "magic",
+        "spritesheet",
+        "vfx"
+      ],
+      "effect_kind": [
+        "magic",
+        "explosion",
+        "projectile"
+      ],
+      "author": "yiannisd",
+      "source_url": "https://opengameart.org/content/energy-ball",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: yiannisd — \"Energy Ball\" (https://opengameart.org/content/energy-ball), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지에 별도 귀속 문구 없음",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "에너지 볼 스프라이트시트 PNG 1개(ball.png 299x387 RGBA; 차지·유지 3칸 + 이동 스프라이트); 파일 1개 (PNG 1개); zip 1개 54.4KB; OGA 페이지 라이선스 CC-BY 3.0 단독; AI 생성 아님(2014년 게시물, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 파일 1개를 수집자가 바이트 그대로 무압축 zip으로 묶음(원본과 바이트 대조 일치; 서버 파일명 ball_2.png의 접미사 제거); 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; preview.png는 ball.png 복사본; 폴더에 pack.md",
+      "preview": "energy-ball/preview.png",
+      "download_path": "energy-ball/energy-ball.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/energy-ball/energy-ball.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/energy-ball/energy-ball.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/fireball-particle-sheet",
+      "name": "Fireball Particle Sheet",
+      "repo": "assets-2d-pixel",
+      "file": "fireball-particle-sheet/fireball-particle-sheet.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "fireball",
+        "fire",
+        "particle",
+        "spritesheet",
+        "magic",
+        "spell",
+        "vfx"
+      ],
+      "effect_kind": [
+        "magic",
+        "fire",
+        "particle"
+      ],
+      "author": "davididev",
+      "source_url": "https://opengameart.org/content/fireball-particle-sheet",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: davididev — \"Fireball Particle Sheet\" (https://opengameart.org/content/fireball-particle-sheet), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지 Copyright/Attribution Notice: \"Attribute as Davididev or davididev.com\"",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "파이어볼 파티클 스프라이트시트 PNG 1개(fireballalpha.png 512x512 RGBA); 파일 1개 (PNG 1개); zip 1개 202.4KB; OGA 페이지 라이선스 CC-BY 3.0 단독; AI 생성 아님(2024년 게시물, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 파일 1개를 수집자가 바이트 그대로 무압축 zip으로 묶음(원본과 바이트 대조 일치); 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; preview.png는 fireballalpha.png 복사본; 폴더에 pack.md",
+      "preview": "fireball-particle-sheet/preview.png",
+      "download_path": "fireball-particle-sheet/fireball-particle-sheet.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/fireball-particle-sheet/fireball-particle-sheet.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/fireball-particle-sheet/fireball-particle-sheet.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/magic-smite",
+      "name": "Magic Smite",
+      "repo": "assets-audio",
+      "file": "magic-smite/magic-smite.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sfx",
+        "magic",
+        "spell",
+        "holy",
+        "smite",
+        "bolt",
+        "cast",
+        "rpg",
+        "fantasy"
+      ],
+      "effect_kind": [
+        "magic"
+      ],
+      "author": "spookymodem",
+      "source_url": "https://opengameart.org/content/magic-smite",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: spookymodem — \"Magic Smite\" (https://opengameart.org/content/magic-smite), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지에 별도 귀속 문구 없음",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "신성한 에너지 볼트를 손에서 쏘는 마법 효과음 WAV 1종(스테레오 44.1kHz 16bit, 3.04초; 페이지 설명 \"A bolt of holy energy launching from your hands\"); 파일 1개 (WAV 1개); zip 1개 524.4KB; OGA 페이지 라이선스 CC-BY 3.0 단독; AI 생성 아님(2014년 게시물, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 파일 1개를 수집자가 바이트 그대로 무압축 zip으로 묶음(원본과 바이트 대조 일치); 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; sample.wav는 Magic Smite.wav 복사본; 폴더에 pack.md",
+      "preview": null,
+      "download_path": "magic-smite/magic-smite.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/magic-smite/magic-smite.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/magic-smite/magic-smite.zip"
+      ],
+      "sample": "https://raw.githubusercontent.com/sigco3111/assets-audio/main/magic-smite/sample.wav",
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/fantasy-magic-spell",
+      "name": "Fantasy Magic Spell",
+      "repo": "assets-audio",
+      "file": "fantasy-magic-spell/fantasy-magic-spell.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sfx",
+        "magic",
+        "spell",
+        "fantasy",
+        "cast",
+        "button",
+        "rpg"
+      ],
+      "effect_kind": [
+        "magic"
+      ],
+      "author": "Almitory",
+      "source_url": "https://opengameart.org/content/fantasy-magic-spell",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Almitory (opengameart.org, 필수 아님); 페이지 Copyright/Attribution Notice는 연락 링크 \"bit.ly/contactclair\"뿐",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "판타지 마법 주문 효과음 MP3 1종(fantasy_magic_button_1.mp3, 스테레오 44.1kHz 320kbps, 약 4.3초); 파일 1개 (MP3 1개); zip 1개 166.6KB; OGA 페이지 라이선스 CC0 단독; AI 생성 아님(2022년 게시물, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 파일 1개를 수집자가 바이트 그대로 무압축 zip으로 묶음(원본과 바이트 대조 일치); 수집자 작성 LICENSE-SOURCE.txt 동봉; sample.mp3는 fantasy_magic_button_1.mp3 복사본; 폴더에 pack.md",
+      "preview": null,
+      "download_path": "fantasy-magic-spell/fantasy-magic-spell.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/fantasy-magic-spell/fantasy-magic-spell.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/fantasy-magic-spell/fantasy-magic-spell.zip"
+      ],
+      "sample": "https://raw.githubusercontent.com/sigco3111/assets-audio/main/fantasy-magic-spell/sample.mp3",
       "multipart": false,
       "split_parts": []
     }

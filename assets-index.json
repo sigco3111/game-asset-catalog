@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@bfcfd7171ed4f63df7bad51ee3c2882f094a46b4",
-  "count": 1769,
+  "generated_from": "catalog.csv@9bc1079065422c4b5a87253a9350ebf507bcda65",
+  "count": 1773,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -62696,6 +62696,187 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/m484-explosion-set-3/m484-explosion-set-3.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/m484-explosion-set-3/m484-explosion-set-3.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/magic-missiles",
+      "name": "Magic Missiles",
+      "repo": "assets-audio",
+      "file": "magic-missiles/magic-missiles.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sfx",
+        "magic",
+        "spell",
+        "missiles",
+        "cast",
+        "rpg",
+        "fantasy",
+        "projectile"
+      ],
+      "effect_kind": [
+        "magic",
+        "projectile"
+      ],
+      "author": "spookymodem",
+      "source_url": "https://opengameart.org/content/magic-missiles",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: spookymodem — \"Magic Missiles\" (https://opengameart.org/content/magic-missiles), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지에 별도 귀속 문구 없음",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "마법 미사일 여러 발을 시전하는 마법 효과음 WAV 1종(스테레오 44.1kHz 16bit; 페이지 설명 \"Several magic missiles being cast.\"); 파일 1개 (WAV 1개); zip 1개 503.1KB; OGA 페이지 라이선스 CC-BY 3.0 단독; AI 생성 아님(2014년 게시물, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 파일 1개를 수집자가 바이트 그대로 무압축 zip으로 묶음(원본과 바이트 대조 일치); 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; sample.wav는 Magic Missiles.wav 복사본; 폴더에 pack.md",
+      "preview": null,
+      "download_path": "magic-missiles/magic-missiles.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/magic-missiles/magic-missiles.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/magic-missiles/magic-missiles.zip"
+      ],
+      "sample": "https://raw.githubusercontent.com/sigco3111/assets-audio/main/magic-missiles/sample.wav",
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/elemental-spell",
+      "name": "Elemental Spell",
+      "repo": "assets-audio",
+      "file": "elemental-spell/elemental-spell.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sfx",
+        "magic",
+        "spell",
+        "elemental",
+        "fire",
+        "ice",
+        "water",
+        "lava",
+        "sparkle",
+        "wizard",
+        "casting",
+        "rpg",
+        "fantasy"
+      ],
+      "effect_kind": [
+        "magic",
+        "fire",
+        "ice"
+      ],
+      "author": "qubodup",
+      "source_url": "https://opengameart.org/content/elemental-spell",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: qubodup — \"Elemental Spell\" (https://opengameart.org/content/elemental-spell), CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/); 페이지 Attribution Instructions: \"qubodup\"(선택: Department64도 표기)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "불·얼음·물·용암 등 원소 주문 시전 효과음 4종(각 FLAC·WAV 44.1kHz; 페이지 설명 \"4 spells available as 44100 Hz .flac and .wav\"); 파일 9개 (FLAC 4개 + WAV 4개 + 원본 license.txt 1개); zip 1개 2.91MB; OGA 페이지 라이선스 CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 / CC-BY 4.0 중 CC-BY 4.0 선택(다른 제공 라이선스: CC-BY 3.0, OGA-BY 3.0, OGA-BY 4.0); AI 생성 아님(2012년 게시물, 페이지에 AI 언급 없음); 페이지의 7z를 풀어 원본 파일(FLAC 4개·WAV 4개·license.txt)을 수정 없이 deflate zip으로 다시 묶음(zip 내 원본 license.txt는 CC-BY-SA 3.0 전문이나 페이지 2025-04-14 갱신문에 따라 CC-BY로 대체 가능); 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; sample.wav는 qubodup-ccbysa3-elementalSpell-opengameart1.wav 복사본; 폴더에 pack.md",
+      "preview": null,
+      "download_path": "elemental-spell/elemental-spell.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/elemental-spell/elemental-spell.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/elemental-spell/elemental-spell.zip"
+      ],
+      "sample": "https://raw.githubusercontent.com/sigco3111/assets-audio/main/elemental-spell/sample.wav",
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/magic-effect-particle-system",
+      "name": "Magic Effect Particle System",
+      "repo": "assets-2d-pixel",
+      "file": "releases/download/v8.42/magic-effect-particle-system.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "magic",
+        "particle",
+        "spell",
+        "fire",
+        "lightning",
+        "thunder",
+        "aura",
+        "beam",
+        "poison",
+        "vfx",
+        "spritesheet"
+      ],
+      "effect_kind": [
+        "magic",
+        "lightning",
+        "fire",
+        "particle",
+        "aura"
+      ],
+      "author": "HenriqueGibi",
+      "source_url": "https://opengameart.org/content/magic-effect-particle-system",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: HenriqueGibi — \"Magic Effect Particle System\" (https://opengameart.org/content/magic-effect-particle-system), CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/); 페이지 Copyright/Attribution Notice: \"Please, give credits to @henriquegibi.\"",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "마법 파티클 이펙트 스프라이트시트 PNG 9개(오라 빔·드래곤 브레스·불꽃 2종·화염 간헐천·독 분열·삼각 마법진·번개 2종; 최대 5200x3600 RGBA); 파일 9개 (PNG 9개); zip 1개 16.31MB(assets-2d-pixel 릴리스 v8.42 첨부, 저장소 트리에는 없음); OGA 페이지 라이선스 CC-BY 4.0 단독; AI 생성 아님(2022년 게시물, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 PNG 9개를 수집자가 바이트 그대로 무압축 zip으로 묶음(서버 파일명 접미사 _0·_1 제거); 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; preview.gif는 페이지 미리보기 이미지(250x250 GIF); 폴더에 pack.md",
+      "preview": "magic-effect-particle-system/preview.gif",
+      "download_path": "releases/download/v8.42/magic-effect-particle-system.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.42/magic-effect-particle-system.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.42/magic-effect-particle-system.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/animated-fireball",
+      "name": "Animated Fireball",
+      "repo": "assets-2d-pixel",
+      "file": "releases/download/v8.42/animated-fireball.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "fireball",
+        "fire",
+        "explosion",
+        "spell",
+        "animation",
+        "smoke",
+        "blender",
+        "pixelart",
+        "vfx"
+      ],
+      "effect_kind": [
+        "magic",
+        "explosion",
+        "fire",
+        "smoke"
+      ],
+      "author": "cemkalyoncu",
+      "source_url": "https://opengameart.org/content/animated-fireball",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: cemkalyoncu — \"Animated Fireball\" (https://opengameart.org/content/animated-fireball), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지에 별도 귀속 문구 없음",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "파이어볼 비행·소멸·폭발 애니메이션 렌더 PNG 프레임 모음(128x128; all 216·start 8·loop 10·short loop 4·end 6·explosion all 25·explosion 11·pixart loop 4·pixart explosion 5)과 Blender 원본 2개(fireball.blend, fireball-exp.blend); 파일 291개 (PNG 289개 + .blend 2개); zip 1개 7.44MB(assets-2d-pixel 릴리스 v8.42 첨부, 저장소 트리에는 없음); OGA 페이지 라이선스 CC-BY 3.0 단독; AI 생성 아님(2012년 게시물, 페이지에 AI 언급 없음); 페이지의 7z를 풀어 원본 파일(PNG 프레임·.blend 2개)을 수정 없이 deflate zip으로 다시 묶음; 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; preview.png는 페이지 미리보기 이미지(250x250 PNG); 폴더에 pack.md",
+      "preview": "animated-fireball/preview.png",
+      "download_path": "releases/download/v8.42/animated-fireball.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.42/animated-fireball.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.42/animated-fireball.zip"
       ],
       "sample": null,
       "multipart": false,

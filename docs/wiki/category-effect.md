@@ -1,22 +1,23 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@bfcfd7171ed4f63df7bad51ee3c2882f094a46b4`
+> generated from `catalog.csv@9bc1079065422c4b5a87253a9350ebf507bcda65`
 
 # 이펙트 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `effect`(이펙트)에 해당하는 에셋 **116개**입니다. 라이브러리에서 보기: [?cat=effect](https://sigco3111.github.io/game-asset-catalog/?cat=effect)
+분류 `effect`(이펙트)에 해당하는 에셋 **118개**입니다. 라이브러리에서 보기: [?cat=effect](https://sigco3111.github.io/game-asset-catalog/?cat=effect)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 116행 (전체 116개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 118행 (전체 118개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Angel Wings Effect](https://opengameart.org/content/angel-wings-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/angel-wings-effect/angel-wings-effect.zip) | 2026-11-11 |
 | [Animated bomb explosion](https://opengameart.org/content/animated-bomb-explosion) | `effect` | Bobjt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/animated-bomb-explosion/animated-bomb-explosion.zip) | 2026-11-11 |
+| [Animated Fireball](https://opengameart.org/content/animated-fireball) | `effect` | cemkalyoncu | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.42/animated-fireball.zip) | 2026-11-11 |
 | [Electricity Overlay Effect](https://opengameart.org/content/electricity-overlay-effect) | `effect` | AntumDeluge (Jordan Irwin) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/electricity-overlay-effect/electricity-overlay-effect.zip) | 2026-11-11 |
 | [Energy Ball](https://opengameart.org/content/energy-ball) | `effect` | yiannisd | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/energy-ball/energy-ball.zip) | 2026-11-11 |
 | [Explosion (ashishlko11)](https://opengameart.org/content/explosion-4) | `effect` | ashishlko11 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion-ashishlko11/explosion-ashishlko11.zip) | 2026-11-11 |
@@ -28,6 +29,7 @@
 | [Lightning Effect (Varkalandar)](https://opengameart.org/content/lightning-effect-0) | `effect` | Hansjörg Malthaner (Varkalandar) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lightning-effect-varkalandar/lightning-effect-varkalandar.zip) | 2026-11-11 |
 | [M484 Explosion Set 3](https://opengameart.org/content/m484-explosion-set-3) | `effect` | Master484 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/m484-explosion-set-3/m484-explosion-set-3.zip) | 2026-11-11 |
 | [M484 Lightning Weapon](https://opengameart.org/content/m484-lightning-weapon) | `effect` | Master484 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/m484-lightning-weapon/m484-lightning-weapon.zip) | 2026-11-11 |
+| [Magic Effect Particle System](https://opengameart.org/content/magic-effect-particle-system) | `effect` | HenriqueGibi | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.42/magic-effect-particle-system.zip) | 2026-11-11 |
 | [Multiple Colors of Sparkle Animations](https://opengameart.org/content/multiple-colors-of-sparkle-animations) | `effect` | VWolfdog | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/multiple-colors-of-sparkle-animations/multiple-colors-of-sparkle-animations.zip) | 2026-11-11 |
 | [Particle Effects](https://opengameart.org/content/particle-effects) | `effect` | hc | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/particle-effects/particle-effects.zip) | 2026-11-11 |
 | [Pixel Art Spells](https://opengameart.org/content/pixel-art-spells) | `effect` | DevWizard | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-art-spells/pixel-art-spells.zip) | 2026-11-11 |

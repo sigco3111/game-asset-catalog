@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@bfcfd7171ed4f63df7bad51ee3c2882f094a46b4`
+> generated from `catalog.csv@9bc1079065422c4b5a87253a9350ebf507bcda65`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -15,9 +15,11 @@
 |---|---|---|---|---|---|---|---|
 | [Angel Wings Effect](https://opengameart.org/content/angel-wings-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/angel-wings-effect/angel-wings-effect.zip) | 2026-11-11 |
 | [Animated bomb explosion](https://opengameart.org/content/animated-bomb-explosion) | `effect` | Bobjt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/animated-bomb-explosion/animated-bomb-explosion.zip) | 2026-11-11 |
+| [Animated Fireball](https://opengameart.org/content/animated-fireball) | `effect` | cemkalyoncu | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.42/animated-fireball.zip) | 2026-11-11 |
 | [Big Explosion](https://opengameart.org/content/big-explosion) | `sfx` | Blender Foundation | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/big-explosion/big-explosion.zip) | 2026-11-11 |
 | [Boom Pack 2](https://opengameart.org/content/boom-pack-2) | `sfx` | dklon | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/boom-pack-2/boom-pack-2.zip) | 2026-11-11 |
 | [Electricity Overlay Effect](https://opengameart.org/content/electricity-overlay-effect) | `effect` | AntumDeluge (Jordan Irwin) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/electricity-overlay-effect/electricity-overlay-effect.zip) | 2026-11-11 |
+| [Elemental Spell](https://opengameart.org/content/elemental-spell) | `sfx` | qubodup | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/elemental-spell/elemental-spell.zip) | 2026-11-11 |
 | [Energy Ball](https://opengameart.org/content/energy-ball) | `effect` | yiannisd | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/energy-ball/energy-ball.zip) | 2026-11-11 |
 | [Explosion (ashishlko11)](https://opengameart.org/content/explosion-4) | `effect` | ashishlko11 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion-ashishlko11/explosion-ashishlko11.zip) | 2026-11-11 |
 | [Explosion effects and more](https://opengameart.org/content/explosion-effects-and-more) | `effect` | Soluna Software | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion-effects-and-more/explosion-effects-and-more.zip) | 2026-11-11 |
@@ -32,6 +34,8 @@
 | [Lightning Effect (Varkalandar)](https://opengameart.org/content/lightning-effect-0) | `effect` | Hansjörg Malthaner (Varkalandar) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lightning-effect-varkalandar/lightning-effect-varkalandar.zip) | 2026-11-11 |
 | [M484 Explosion Set 3](https://opengameart.org/content/m484-explosion-set-3) | `effect` | Master484 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/m484-explosion-set-3/m484-explosion-set-3.zip) | 2026-11-11 |
 | [M484 Lightning Weapon](https://opengameart.org/content/m484-lightning-weapon) | `effect` | Master484 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/m484-lightning-weapon/m484-lightning-weapon.zip) | 2026-11-11 |
+| [Magic Effect Particle System](https://opengameart.org/content/magic-effect-particle-system) | `effect` | HenriqueGibi | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.42/magic-effect-particle-system.zip) | 2026-11-11 |
+| [Magic Missiles](https://opengameart.org/content/magic-missiles) | `sfx` | spookymodem | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/magic-missiles/magic-missiles.zip) | 2026-11-11 |
 | [Magic SFX Sample](https://opengameart.org/content/magic-sfx-sample) | `sfx` | ViRiX (David Mckee) | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/magic-sfx-sample/magic-sfx-sample.zip) | 2026-11-11 |
 | [Magic Smite](https://opengameart.org/content/magic-smite) | `sfx` | spookymodem | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/magic-smite/magic-smite.zip) | 2026-11-11 |
 | [Metal Impact Sounds](https://opengameart.org/content/metal-impact-sounds) | `sfx` | BMacZero (Brian MacIntosh) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/metal-impact-sounds/metal-impact-sounds.zip) | 2026-11-11 |
@@ -109,7 +113,3 @@
 | [Electricity Game Sound Pack](https://opengameart.org/content/electricity-game-sound-pack) | `sfx` | faxcorp | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/electricity-game-sound-pack/electricity-game-sound-pack.zip) | 2026-11-08 |
 | [Explosion particles sprite atlas](https://opengameart.org/content/explosion-particles-sprite-atlas) | `effect` | TheJosh | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion-particles-sprite-atlas/explosion-particles-sprite-atlas.zip) | 2026-11-08 |
 | [Explosion Sheet](https://opengameart.org/content/explosion-sheet) | `effect` | StumpyStrust | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion-sheet/explosion-sheet.zip) | 2026-11-08 |
-| [Fire Smoke Animations](https://opengameart.org/content/fire-smoke-animations) | `effect` | Reactorcore | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/fire-smoke-animations/fire-smoke-animations.zip) | 2026-11-08 |
-| [Fire Spell Explosion](https://opengameart.org/content/fire-spell-explosion) | `effect` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/fire-spell-explosion/fire-spell-explosion.zip) | 2026-11-08 |
-| [Fire Wrath - Magic Effect](https://opengameart.org/content/fire-wrath-magic-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/fire-wrath-magic-effect/fire-wrath-magic-effect.zip) | 2026-11-08 |
-| [Fireball Effect - 2](https://opengameart.org/content/fireball-effect-2) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/fireball-effect-2/fireball-effect-2.zip) | 2026-11-08 |

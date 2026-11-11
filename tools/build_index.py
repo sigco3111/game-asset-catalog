@@ -10,6 +10,7 @@ from urllib.parse import quote
 
 OWNER = "sigco3111"
 MIN_THRESHOLD = 1_500_000
+MIN_ROWS = 100  # 데이터 행이 이보다 적으면 색인을 만들지 않음 (빈 색인이 커밋되는 것을 막음)
 REQUIRED = ["name", "repo", "file", "type", "license", "source_url"]
 LC_START, LC_END = "<!-- link-check:start -->", "<!-- link-check:end -->"
 
@@ -410,14 +411,20 @@ def main():
             commit = subprocess.run(["git", "log", "-1", "--format=%H", "--", "catalog.csv"], cwd=root, capture_output=True, text=True, check=True).stdout.strip() or "unknown"
         except Exception:
             commit = "unknown"
+    if not os.path.isfile(csv_path):
+        print(f"오류: {args.csv} 파일이 없어 색인을 만들 수 없습니다. 기존 출력 파일은 변경하지 않았습니다.", file=sys.stderr)
+        sys.exit(2)
     with open(csv_path, encoding="utf-8-sig", newline="") as f:
         rd = csv.reader(f)
-        header = next(rd)
+        header = next(rd, [])
         rows = []
         for rec in rd:
             if not rec: continue
             rec = (rec + [""] * len(header))[:len(header)]
             rows.append(dict(zip(header, rec)))
+    if len(rows) < MIN_ROWS:
+        print(f"오류: {args.csv}의 데이터 행이 {len(rows)}개뿐입니다(최소 {MIN_ROWS}개 필요). 빈 색인을 만들지 않도록 중단합니다. 기존 출력 파일은 변경하지 않았습니다.", file=sys.stderr)
+        sys.exit(2)
     for k in ("name,repo,file,type,tags,author,source_url,license,attribution,added,notes".split(",")):
         if k not in header: sys.exit(f"missing column: {k}")
     assets = build_assets(rows)

@@ -227,6 +227,13 @@ https://sigco3111.github.io/game-asset-catalog/
 - [llms.txt](llms.txt): AI 에이전트용 안내(색인 주소, 검색 방법, 라이선스 규칙, 기록 방법).
 - [사용 장부](docs/wiki/usage-ledger.md): 어느 프로젝트가 어떤 에셋을 가져다 썼는지 손으로 기록합니다.
 
+## 자동 갱신과 용량 관리
+
+- 자동 갱신: `catalog.csv`, `tools/build_index.py`, `tools/build_wiki.py`가 바뀌어 main에 올라가면 GitHub Actions(`.github/workflows/rebuild-index.yml`)가 색인(`assets-index.json`, `assets-index.min.json`), `docs/index-report.md`, 위키(`docs/wiki/`), `llms.txt`를 다시 만들고, 달라진 것이 있을 때만 `색인: 자동 갱신 (catalog.csv 변경)`으로 커밋합니다. Actions 탭에서 수동으로도 실행할 수 있습니다.
+- 용량 점검: `.github/workflows/capacity-check.yml`이 매주 월요일 에셋 저장소 5곳의 용량을 확인해 `docs/capacity-report.md`를 갱신합니다.
+- 수동 명령(저장소 루트): `python3 tools/build_index.py`, `python3 tools/build_wiki.py`, `python3 tools/check_sizes.py`
+- 용량 기준과 분리 규칙: [docs/capacity.md](docs/capacity.md), 최신 용량 표: [docs/capacity-report.md](docs/capacity-report.md)
+
 ## 2026-11-07 A5 추가 (6팩, 총 1561팩)
 
 | 팩 | 저장소 | 제작 | 라이선스 | 비고 |

@@ -1,25 +1,28 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@997ff018cf2f23100b760eb5e2146df00c3a1904`
+> generated from `catalog.csv@b1bebbd4005b505bdd85ee807edc219705cdb7df`
 
 # 마법 이펙트 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-효과 종류 `magic`(마법)에 해당하는 에셋 **60개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
+효과 종류 `magic`(마법)에 해당하는 에셋 **63개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
 라이브러리에서 보기: [?fx=magic](https://sigco3111.github.io/game-asset-catalog/?fx=magic)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 60행 (전체 60개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 63행 (전체 63개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Angel Wings Effect](https://opengameart.org/content/angel-wings-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/angel-wings-effect/angel-wings-effect.zip) | 2026-11-11 |
 | [Explosion effects and more](https://opengameart.org/content/explosion-effects-and-more) | `effect` | Soluna Software | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion-effects-and-more/explosion-effects-and-more.zip) | 2026-11-11 |
+| [Extended LPC Magic pack](https://opengameart.org/content/extended-lpc-magic-pack) | `effect` | daneeklu (Daniel Eddeland) | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/extended-lpc-magic-pack/extended-lpc-magic-pack.zip) | 2026-11-11 |
+| [Heal](https://opengameart.org/content/heal) | `sfx` | Zoltan Mihalyi | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/heal/heal.zip) | 2026-11-11 |
 | [Lightning Effect (Varkalandar)](https://opengameart.org/content/lightning-effect-0) | `effect` | Hansjörg Malthaner (Varkalandar) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lightning-effect-varkalandar/lightning-effect-varkalandar.zip) | 2026-11-11 |
 | [Magic SFX Sample](https://opengameart.org/content/magic-sfx-sample) | `sfx` | ViRiX (David Mckee) | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/magic-sfx-sample/magic-sfx-sample.zip) | 2026-11-11 |
+| [Particle Effects](https://opengameart.org/content/particle-effects) | `effect` | hc | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/particle-effects/particle-effects.zip) | 2026-11-11 |
 | [Blue projectile](https://opengameart.org/content/blue-projectile) | `effect` | greengiant67 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/blue-projectile/blue-projectile.zip) | 2026-11-10 |
 | [Fire Aura (Compatible with FLARE)](https://opengameart.org/content/fire-aura-compatible-with-flare) | `effect` | astiar\_rpg | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/fire-aura-compatible-with-flare/fire-aura-compatible-with-flare.zip) | 2026-11-10 |
 | [Magic sprite effects (Ardentryst)](https://opengameart.org/content/magic-sprite-effects-ardentryst) | `effect` | Elle Trudgett | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/magic-sprite-effects-ardentryst/magic-sprite-effects-ardentryst.zip) | 2026-11-10 |

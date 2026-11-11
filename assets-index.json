@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@35e040f945e5985239f366f2e22a51f4f49ad25b",
-  "count": 1757,
+  "generated_from": "catalog.csv@e56fc9b40f3e89c544fe54b3a669385441bdf6dc",
+  "count": 1761,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -62191,6 +62191,170 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/multiple-colors-of-sparkle-animations/multiple-colors-of-sparkle-animations.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/multiple-colors-of-sparkle-animations/multiple-colors-of-sparkle-animations.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/explosion-ashishlko11",
+      "name": "Explosion (ashishlko11)",
+      "repo": "assets-2d-pixel",
+      "file": "explosion-ashishlko11/explosion-ashishlko11.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "explosion",
+        "explode",
+        "burst",
+        "spritesheet",
+        "animation",
+        "64x64",
+        "pixel"
+      ],
+      "effect_kind": [
+        "explosion"
+      ],
+      "author": "ashishlko11",
+      "source_url": "https://opengameart.org/content/explosion-4",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: ashishlko11 — \"Explosion\" (https://opengameart.org/content/explosion-4), CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/); 페이지 Copyright/Attribution Notice: \"Please If U Like My work Don't hesitate and Give me Credit about that.\"",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "픽셀 풍 폭발 애니메이션 9프레임(프레임 64x64, 시트 256x192): 개별 프레임 PNG 10개(E0000~E0009) + E.gif + Sprite Sheet/Explosion.png; 파일 12개 (PNG 11개, GIF 1개); zip 1개 61.0KB; OGA 페이지 라이선스 CC-BY 4.0 / CC-BY 3.0 / GPL 3.0 / GPL 2.0 병기 중 CC-BY 4.0 선택(다른 제공 라이선스: CC-BY 3.0, GPL 3.0, GPL 2.0); AI 생성 아님(2017년 게시물, 페이지에 AI 언급 없음); 페이지 zip 원본 그대로(파일명만 Explosion.zip → explosion-ashishlko11.zip, 바이트 동일); 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; preview.png는 zip 안 Sprite Sheet/Explosion.png 복사본; 폴더에 pack.md",
+      "preview": "explosion-ashishlko11/preview.png",
+      "download_path": "explosion-ashishlko11/explosion-ashishlko11.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion-ashishlko11/explosion-ashishlko11.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion-ashishlko11/explosion-ashishlko11.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/thunder-sprite",
+      "name": "Thunder sprite",
+      "repo": "assets-2d-pixel",
+      "file": "thunder-sprite/thunder-sprite.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "thunder",
+        "lightning",
+        "pixel",
+        "spritesheet",
+        "animation"
+      ],
+      "effect_kind": [
+        "lightning"
+      ],
+      "author": "Gutima15",
+      "source_url": "https://opengameart.org/content/thunder-sprite",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: Gutima15 — \"Thunder sprite\" (https://opengameart.org/content/thunder-sprite), CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/); 페이지 Copyright/Attribution Notice: \"This is an on creation, if you want to mention me in your games it would be nicely. Even if you can sent me a link to play it, i'll be happy.\" (언급은 권장, 링크 공유는 요청)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "번개 애니메이션 스프라이트시트 PNG 1개(thunder.png 272x68 RGBA); 파일 1개 (PNG 1개); zip 1개 3.6KB; OGA 페이지 라이선스 CC-BY 4.0 단독; AI 생성 아님(2020년 게시물, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 PNG 1개를 수집자가 바이트 그대로 무압축 zip으로 묶음(원본과 바이트 대조 일치; 서버 파일명 thunder_0.png의 접미사 제거); 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; preview.png는 thunder.png 복사본; 폴더에 pack.md",
+      "preview": "thunder-sprite/preview.png",
+      "download_path": "thunder-sprite/thunder-sprite.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/thunder-sprite/thunder-sprite.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/thunder-sprite/thunder-sprite.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/m484-lightning-weapon",
+      "name": "M484 Lightning Weapon",
+      "repo": "assets-2d-pixel",
+      "file": "m484-lightning-weapon/m484-lightning-weapon.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "lightning",
+        "bolt",
+        "thunder",
+        "electricity",
+        "shmup",
+        "arcade",
+        "sprite",
+        "weapon",
+        "beam",
+        "pixel"
+      ],
+      "effect_kind": [
+        "lightning"
+      ],
+      "author": "Master484",
+      "source_url": "https://opengameart.org/content/m484-lightning-weapon",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Master484 (m484games.ucoz.com, 필수 아님); 페이지 문구: \"These graphics are in the Public Domain. Attribution is not needed. But if you wish to give me credit, then you can mention \\\"Master484\\\" as the original author\"",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "아케이드 슈팅용 번개 무기 스프라이트시트 PNG 1개(M484LightningWeapon.png 790x720 RGBA; 30x30 조각 40종 x 2프레임); 파일 1개 (PNG 1개); zip 1개 28.2KB; OGA 페이지 라이선스 CC0 단독(페이지 문구: 퍼블릭 도메인, 귀속 불필요); AI 생성 아님(2015년 게시물, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 PNG 1개를 수집자가 바이트 그대로 무압축 zip으로 묶음(원본과 바이트 대조 일치); 수집자 작성 LICENSE-SOURCE.txt 동봉; preview.png는 PNG 복사본; 폴더에 pack.md",
+      "preview": "m484-lightning-weapon/preview.png",
+      "download_path": "m484-lightning-weapon/m484-lightning-weapon.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/m484-lightning-weapon/m484-lightning-weapon.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/m484-lightning-weapon/m484-lightning-weapon.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/resurrection-spell-sfx",
+      "name": "Resurrection Spell [SFX]",
+      "repo": "assets-2d-pixel",
+      "file": "resurrection-spell-sfx/resurrection-spell-sfx.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "spell",
+        "revive",
+        "resurrection",
+        "heal",
+        "reborn",
+        "magic",
+        "pixel",
+        "spritesheet",
+        "animation"
+      ],
+      "effect_kind": [
+        "magic",
+        "heal"
+      ],
+      "author": "One Man Army",
+      "source_url": "https://opengameart.org/content/resurrection-spell-sfx",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: One Man Army (opengameart.org, 필수 아님); 페이지 문구: \"No credit is required, but appreciated\"",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "부활(Reborn) 주문 이펙트 스프라이트 PNG 4개(corpse 36x36, prayingMan 180x36, reviveSpell 448x192, reviveSpellComplete 448x320 RGBA); 파일 4개 (PNG 4개); zip 1개 12.2KB; OGA 페이지 라이선스 CC0 단독(페이지 문구: 어떤 프로젝트에도 자유 사용, 크레딧 불필요·권장); AI 생성 아님(2017년 게시물, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 PNG 4개를 수집자가 바이트 그대로 무압축 zip으로 묶음(원본과 바이트 대조 일치; 서버 파일명 corpse_0.png의 접미사 제거); 수집자 작성 LICENSE-SOURCE.txt 동봉; preview.png는 reviveSpellComplete.png 복사본; 폴더에 pack.md",
+      "preview": "resurrection-spell-sfx/preview.png",
+      "download_path": "resurrection-spell-sfx/resurrection-spell-sfx.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/resurrection-spell-sfx/resurrection-spell-sfx.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/resurrection-spell-sfx/resurrection-spell-sfx.zip"
       ],
       "sample": null,
       "multipart": false,

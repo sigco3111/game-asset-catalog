@@ -1,18 +1,18 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@35e040f945e5985239f366f2e22a51f4f49ad25b`
+> generated from `catalog.csv@e56fc9b40f3e89c544fe54b3a669385441bdf6dc`
 
 # 마법 이펙트 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-효과 종류 `magic`(마법)에 해당하는 에셋 **68개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
+효과 종류 `magic`(마법)에 해당하는 에셋 **69개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
 라이브러리에서 보기: [?fx=magic](https://sigco3111.github.io/game-asset-catalog/?fx=magic)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 68행 (전체 68개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 69행 (전체 69개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Multiple Colors of Sparkle Animations](https://opengameart.org/content/multiple-colors-of-sparkle-animations) | `effect` | VWolfdog | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/multiple-colors-of-sparkle-animations/multiple-colors-of-sparkle-animations.zip) | 2026-11-11 |
 | [Particle Effects](https://opengameart.org/content/particle-effects) | `effect` | hc | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/particle-effects/particle-effects.zip) | 2026-11-11 |
 | [Pixel Art Spells](https://opengameart.org/content/pixel-art-spells) | `effect` | DevWizard | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-art-spells/pixel-art-spells.zip) | 2026-11-11 |
+| [Resurrection Spell \[SFX\]](https://opengameart.org/content/resurrection-spell-sfx) | `effect` | One Man Army | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/resurrection-spell-sfx/resurrection-spell-sfx.zip) | 2026-11-11 |
 | [Tiny Magic Glyphs](https://opengameart.org/content/tiny-magic-glyphs) | `effect` | Emcee Flesher | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/tiny-magic-glyphs/tiny-magic-glyphs.zip) | 2026-11-11 |
 | [Blue projectile](https://opengameart.org/content/blue-projectile) | `effect` | greengiant67 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/blue-projectile/blue-projectile.zip) | 2026-11-10 |
 | [Fire Aura (Compatible with FLARE)](https://opengameart.org/content/fire-aura-compatible-with-flare) | `effect` | astiar\_rpg | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/fire-aura-compatible-with-flare/fire-aura-compatible-with-flare.zip) | 2026-11-10 |

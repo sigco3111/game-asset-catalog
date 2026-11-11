@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b1bebbd4005b505bdd85ee807edc219705cdb7df`
+> generated from `catalog.csv@f4e8971947ea6248d8be8c4bc9f7e3b354765e99`
 
 # 레이저 이펙트 모음
 

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b1bebbd4005b505bdd85ee807edc219705cdb7df`
+> generated from `catalog.csv@f4e8971947ea6248d8be8c4bc9f7e3b354765e99`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -25,6 +25,9 @@
 | [Metal Impact Sounds](https://opengameart.org/content/metal-impact-sounds) | `sfx` | BMacZero (Brian MacIntosh) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/metal-impact-sounds/metal-impact-sounds.zip) | 2026-11-11 |
 | [Particle Effects](https://opengameart.org/content/particle-effects) | `effect` | hc | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/particle-effects/particle-effects.zip) | 2026-11-11 |
 | [Pixel Explosion (12 Frames)](https://opengameart.org/content/pixel-explosion-12-frames) | `effect` | JROB774 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-explosion-12-frames/pixel-explosion-12-frames.zip) | 2026-11-11 |
+| [Shield effect](https://opengameart.org/content/shield-effect) | `effect` | Bonsaiheldin | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/shield-effect/shield-effect.zip) | 2026-11-11 |
+| [Slash hit 01 Animation VFX](https://opengameart.org/content/slash-hit-01-animation-vfx) | `effect` | GustavoPlima | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/slash-hit-01-animation-vfx/slash-hit-01-animation-vfx.zip) | 2026-11-11 |
+| [Tiny Magic Glyphs](https://opengameart.org/content/tiny-magic-glyphs) | `effect` | Emcee Flesher | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/tiny-magic-glyphs/tiny-magic-glyphs.zip) | 2026-11-11 |
 | [Battle at sea](https://opengameart.org/content/battle-at-sea) | `sfx` | Thimras | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/battle-at-sea/battle-at-sea.zip) | 2026-11-10 |
 | [Blue projectile](https://opengameart.org/content/blue-projectile) | `effect` | greengiant67 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/blue-projectile/blue-projectile.zip) | 2026-11-10 |
 | [Enchanted Festival](https://opengameart.org/content/enchanted-festival) | `music` | Matthew Pablo | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/enchanted-festival/enchanted-festival.zip) | 2026-11-10 |
@@ -110,6 +113,3 @@
 | [Punch, slap, n' kick](https://opengameart.org/content/punch-slap-n-kick) | `sfx` | congusbongus | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/punch-slap-n-kick/punch-slap-n-kick.zip) | 2026-11-08 |
 | [Pure Projectile - Magic Effect](https://opengameart.org/content/pure-projectile-magic-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pure-projectile-magic-effect/pure-projectile-magic-effect.zip) | 2026-11-08 |
 | [Radial lightning effect](https://opengameart.org/content/radial-lightning-effect) | `effect` | 13rice | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/radial-lightning-effect/radial-lightning-effect.zip) | 2026-11-08 |
-| [Shield Aura Effect](https://opengameart.org/content/shield-aura-effect) | `effect` | sholev (원작 Bonsaiheldin) | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/shield-aura-effect/shield-aura-effect.zip) | 2026-11-08 |
-| [Slash Effect Collection](https://opengameart.org/content/slash-effect-collection) | `effect` | MetaShinryu | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/slash-effect-collection/slash-effect-collection.zip) | 2026-11-08 |
-| [Small Hit confirm VFX Animation](https://opengameart.org/content/small-hit-confirm-vfx-animation) | `effect` | GustavoPlima | CC-BY 4.0 (페이지에 CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 / CC-BY 4.0 / CC-BY-SA 4.0 / CC-BY-SA 3.0 병기, CC-BY 4.0 선택) | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/small-hit-confirm-vfx-animation/small-hit-confirm-vfx-animation.zip) | 2026-11-08 |

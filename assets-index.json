@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@b1bebbd4005b505bdd85ee807edc219705cdb7df",
-  "count": 1748,
+  "generated_from": "catalog.csv@f4e8971947ea6248d8be8c4bc9f7e3b354765e99",
+  "count": 1751,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -61802,6 +61802,138 @@
         "https://github.com/sigco3111/assets-audio/raw/main/heal/heal.zip"
       ],
       "sample": "https://raw.githubusercontent.com/sigco3111/assets-audio/main/heal/sample.wav",
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/tiny-magic-glyphs",
+      "name": "Tiny Magic Glyphs",
+      "repo": "assets-2d-pixel",
+      "file": "tiny-magic-glyphs/tiny-magic-glyphs.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "magic",
+        "spell",
+        "glyph",
+        "rune",
+        "particle",
+        "icon",
+        "enchantment",
+        "pixel",
+        "rpg",
+        "vfx"
+      ],
+      "effect_kind": [
+        "magic",
+        "particle"
+      ],
+      "author": "Emcee Flesher",
+      "source_url": "https://opengameart.org/content/tiny-magic-glyphs",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Emcee Flesher (opengameart.org, 필수 아님); 페이지에 귀속 문구 없음",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "5x5 픽셀 마법 글리프 아이콘 시트 PNG 5개(glyphs-base·outlined-noglow-alpha 256x48, colouring-example 256x16, howto 128x192, glyph-ideas 144x256; RGBA); 파일 5개(PNG 5개); zip 1개 0.02MB; OGA 페이지 라이선스 OGA-BY 3.0 / CC0 중 CC0 선택(다른 제공 라이선스: OGA-BY 3.0); AI 생성 아님(2021년 게시, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 PNG 5개를 수집자가 바이트 그대로 무압축 zip으로 묶음(전부 원본과 바이트 대조 일치); 수집자 작성 LICENSE-SOURCE.txt 동봉; preview.png는 glyphs-base.png 복사본; 폴더에 pack.md",
+      "preview": "tiny-magic-glyphs/preview.png",
+      "download_path": "tiny-magic-glyphs/tiny-magic-glyphs.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/tiny-magic-glyphs/tiny-magic-glyphs.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/tiny-magic-glyphs/tiny-magic-glyphs.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/shield-effect",
+      "name": "Shield effect",
+      "repo": "assets-2d-pixel",
+      "file": "shield-effect/shield-effect.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "shield",
+        "aura",
+        "energy",
+        "sci-fi",
+        "space",
+        "spaceship",
+        "particle",
+        "buff",
+        "defense",
+        "sprite"
+      ],
+      "effect_kind": [
+        "particle",
+        "aura"
+      ],
+      "author": "Bonsaiheldin",
+      "source_url": "https://opengameart.org/content/shield-effect",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: Bonsaiheldin — \"Shield effect\" (https://opengameart.org/content/shield-effect), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지 Copyright/Attribution Notice: \"Bonsaiheldin | Link to this page OR the page on my profile\"",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "우주선 방어막(에너지 필드) 이펙트 PNG 1개(spr_shield.png 556x556 RGBA); 파일 1개(PNG 1개); zip 1개 0.46MB; OGA 페이지 라이선스 CC-BY 3.0 단독; AI 생성 아님(2014년 게시, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 PNG 1개를 수집자가 바이트 그대로 무압축 zip으로 묶음(전부 원본과 바이트 대조 일치); 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; preview.png는 페이지 미리보기 이미지; 폴더에 pack.md",
+      "preview": "shield-effect/preview.png",
+      "download_path": "shield-effect/shield-effect.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/shield-effect/shield-effect.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/shield-effect/shield-effect.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/slash-hit-01-animation-vfx",
+      "name": "Slash hit 01 Animation VFX",
+      "repo": "assets-2d-pixel",
+      "file": "slash-hit-01-animation-vfx/slash-hit-01-animation-vfx.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "slash",
+        "hit",
+        "impact",
+        "spark",
+        "melee",
+        "animation",
+        "vfx",
+        "pixel",
+        "rpg"
+      ],
+      "effect_kind": [
+        "hit",
+        "impact",
+        "slash"
+      ],
+      "author": "GustavoPlima",
+      "source_url": "https://opengameart.org/content/slash-hit-01-animation-vfx",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: GustavoPlima — \"Slash hit 01 Animation VFX\" (https://opengameart.org/content/slash-hit-01-animation-vfx), CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/); 페이지 Copyright/Attribution Notice: \"if wish put my name on the credits =)\"",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-11",
+      "notes": "타격·베기 히트 이펙트 프레임 PNG 7개(vfx_slash1~7 각 738x638 RGBA, 노란 불꽃 베기); 파일 7개(PNG 7개); zip 1개 0.03MB; OGA 페이지 라이선스 CC-BY 3.0 / OGA-BY 3.0 / CC-BY 4.0 / GPL 3.0 / CC-BY-SA 4.0 / CC-BY-SA 3.0 중 CC-BY 4.0 선택(다른 제공 라이선스: CC-BY 3.0, OGA-BY 3.0, GPL 3.0, CC-BY-SA 4.0, CC-BY-SA 3.0); AI 생성 아님(2024년 게시, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 PNG 7개를 수집자가 바이트 그대로 무압축 zip으로 묶음(전부 원본과 바이트 대조 일치); 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; preview.png는 페이지 미리보기 이미지; 폴더에 pack.md",
+      "preview": "slash-hit-01-animation-vfx/preview.png",
+      "download_path": "slash-hit-01-animation-vfx/slash-hit-01-animation-vfx.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/slash-hit-01-animation-vfx/slash-hit-01-animation-vfx.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/slash-hit-01-animation-vfx/slash-hit-01-animation-vfx.zip"
+      ],
+      "sample": null,
       "multipart": false,
       "split_parts": []
     }

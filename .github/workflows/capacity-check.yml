@@ -1,0 +1,41 @@
+name: 용량 점검
+
+on:
+  schedule:
+    - cron: "0 0 * * 1" # 매주 월요일 00:00 UTC (한국 09:00)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: capacity-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: 용량 확인
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 tools/check_sizes.py
+
+      - name: 변경이 있으면 커밋
+        run: |
+          if [ -z "$(git status --porcelain docs/capacity-report.md)" ]; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/capacity-report.md
+          git commit -m "운영: 용량 점검 갱신"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

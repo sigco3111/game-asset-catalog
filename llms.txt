@@ -1,0 +1,41 @@
+# game-asset-catalog
+
+> generated from `catalog.csv@ad7ccdcdfe840329220d4ec0cd9762444e845601` by tools/build_wiki.py (do not edit by hand)
+
+Catalog of 1740 free game asset packs (2D sprites and tilesets, 3D models, UI and icons, sound effects, music, VFX) with source, author, licence and attribution data. Only redistributable licences are listed. The packs themselves live in sibling repos (assets-2d-pixel, assets-3d-lowpoly, assets-ui-icons, assets-audio, assets-2d-portraits); this repo holds the index, the search site and a wiki.
+
+## Machine-readable data
+- Library site (search UI): https://sigco3111.github.io/game-asset-catalog/
+- Index, full fields: https://raw.githubusercontent.com/sigco3111/game-asset-catalog/main/assets-index.json
+- Index, minified (same content, ~2 MB): https://raw.githubusercontent.com/sigco3111/game-asset-catalog/main/assets-index.min.json
+- Source table: https://raw.githubusercontent.com/sigco3111/game-asset-catalog/main/catalog.csv (`catalog.csv` is the source of truth; the index is generated from it)
+- Index report: https://raw.githubusercontent.com/sigco3111/game-asset-catalog/main/docs/index-report.md
+- Wiki home: https://raw.githubusercontent.com/sigco3111/game-asset-catalog/main/docs/wiki/README.md (topic pages: effects-<kind>.md, category-<category>.md, licenses.md, recent.md)
+- Usage ledger (which project uses which asset): https://raw.githubusercontent.com/sigco3111/game-asset-catalog/main/docs/wiki/usage-ledger.md
+
+## How to search
+Load assets-index.json (`{schema, generated_from, count, assets[]}`) and filter `assets` by field:
+- `category`: effect, sfx, music, voice, tileset-2d, sprite-2d, background-2d, map-2d, ui, icon, portrait, font, texture, model-3d, character-3d, vehicle-3d, building-3d, board, puzzle, other
+- `effect_kind` (list): hit, impact, magic, explosion, fire, ice, lightning, wind, heal, laser, particle, smoke, aura, projectile, slash
+- `license_family`: cc0, cc-by, mit, gpl, other; `attribution_required`: bool; `ai_generated`: bool
+- other fields: id, name, repo, type, tags[], author, source_url, license, license_note, attribution, added, notes, preview, download_url, download_urls[] (several URLs = split archive, download all parts), multipart.
+Library URL query parameters (confirmed in app.js): `q` search words; `cat` category; `repo` 2d|3d|ui|audio|portrait; `lic` cc0|cc-by|mit|gpl|other; `fx` comma list (hit covers hit+impact); `sort` name|type (default newest); `ai=0` hides AI-generated; `noattr=1` only assets needing no attribution; `author` exact author name.
+Example: https://sigco3111.github.io/game-asset-catalog/?cat=sfx&fx=explosion&lic=cc0&sort=name
+
+## Licence rules
+- Allowed: CC0, CC-BY, MIT, GPL 2.0/3.0 only. Anything else (`license_family` = other) must be checked by a human before use.
+- Never reinterpret a licence: copy `license`, `license_note` and `attribution` from the index; follow the original licence file inside each zip.
+- If `attribution_required` is true (CC-BY, MIT, GPL), credit author, source_url and licence in the using project's CREDITS.md. CC0 needs no credit. GPL assets keep GPL conditions when redistributed.
+- Respect `ai_generated`; mark such assets as AI-generated in your project.
+
+## Using an asset and recording it
+1. Find the asset in the index; check licence fields. 2. Download via `download_url` (or every URL in `download_urls`). 3. Add credits to the project's CREDITS.md when attribution is required. 4. Add one row per asset per project to docs/wiki/usage-ledger.md (columns: 프로젝트 | 에셋 이름 | 제작자 | 출처 URL | 라이선스 | 표기 위치 | 기록일).
+
+## Regenerate
+`python3 tools/build_index.py` (catalog.csv -> assets-index.json, assets-index.min.json, docs/index-report.md) then `python3 tools/build_wiki.py` (-> docs/wiki/*.md and this file). Python 3 stdlib only; output is deterministic. `python3 tools/build_wiki.py --check` validates links and counts.
+
+## Counts snapshot (catalog.csv@ad7ccdcdfe840329220d4ec0cd9762444e845601)
+- Assets: 1740; attribution required: 85; AI-generated: 3
+- By licence family: cc0 1653, cc-by 77, mit 3, gpl 5, other 2
+- By category: effect 94, sfx 211, music 230, voice 2, tileset-2d 146, sprite-2d 132, background-2d 27, map-2d 3, ui 205, icon 40, portrait 2, font 2, texture 70, model-3d 400, character-3d 19, vehicle-3d 6, building-3d 21, board 5, puzzle 2, other 123
+- By effect_kind: hit 33, impact 39, magic 58, explosion 48, fire 34, ice 14, lightning 13, wind 7, heal 11, laser 11, particle 22, smoke 8, aura 5, projectile 22, slash 6

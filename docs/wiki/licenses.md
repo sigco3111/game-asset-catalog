@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@f4e8971947ea6248d8be8c4bc9f7e3b354765e99`
+> generated from `catalog.csv@12f589c6ecf20c1ffe5f2b2c15f2566656965508`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **1751개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **1754개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -16,8 +16,8 @@
 
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
-| cc0 | CC0 | 1656 | 0 | 예 |
-| cc-by | CC-BY | 83 | 83 | 예 |
+| cc0 | CC0 | 1658 | 0 | 예 |
+| cc-by | CC-BY | 84 | 84 | 예 |
 | mit | MIT | 3 | 3 | 예 |
 | gpl | GPL 2.0/3.0 | 7 | 7 | 예 |
 | other | 기타(허용 목록 밖) | 2 | 0 | 아니오 |
@@ -28,9 +28,9 @@
 
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
-| CC0 | cc0 | X | 1655 |
+| CC0 | cc0 | X | 1657 |
 | CC-BY 3.0 | cc-by | O | 42 |
-| CC-BY 4.0 | cc-by | O | 35 |
+| CC-BY 4.0 | cc-by | O | 36 |
 | GPL 3.0 | gpl | O | 7 |
 | CC-BY 3.0 / GPL 2.0 (원본 페이지 이중 표기, 둘 다 허용 라이선스; CC-BY 3.0 선택) | cc-by | O | 3 |
 | MIT | mit | O | 3 |
@@ -42,11 +42,12 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 93개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 94개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
 | [Big Explosion](https://opengameart.org/content/big-explosion) | Blender Foundation | CC-BY 3.0 | required: Blender Foundation — "Big Explosion" (https://opengameart.org/content/big-explosion), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지에 별도 귀속 문구 없음 | 2026-11-11 |
+| [Electricity Overlay Effect](https://opengameart.org/content/electricity-overlay-effect) | AntumDeluge (Jordan Irwin) | CC-BY 4.0 | required: AntumDeluge (Jordan Irwin) — "Electricity Overlay Effect" (https://opengameart.org/content/electricity-overlay-effect), CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/); 페이지 Copyright/Attribution Notice: "Jordan Irwin (AntumDeluge)" | 2026-11-11 |
 | [Extended LPC Magic pack](https://opengameart.org/content/extended-lpc-magic-pack) | daneeklu (Daniel Eddeland) | GPL 3.0 | required (GPL 3.0 copyleft): Daniel Eddeland (daneeklu) — "Extended LPC Magic pack" (https://opengameart.org/content/extended-lpc-magic-pack), link to opengameart.org (preferably the submission page); GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html). GPL 3.0 적용: 파생물 배포 시 GPL 3.0 전문·저작권 고지 유지 및 소스 공개 필요(카피레프트) | 2026-11-11 |
 | [Heal](https://opengameart.org/content/heal) | Zoltan Mihalyi | GPL 3.0 | required (GPL 3.0 copyleft): Zoltan Mihalyi — "Heal" (https://opengameart.org/content/heal), GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html); 페이지 고지: Based on "Spell Sounds Starter Pack" (https://opengameart.org/content/spell-sounds-starter-pack). GPL 3.0 적용: 파생물 배포 시 GPL 3.0 전문·저작권 고지 유지 및 소스 공개 필요(카피레프트) | 2026-11-11 |
 | [Laser Fire](https://opengameart.org/content/laser-fire) | dklon | CC-BY 3.0 | required: dklon — "Laser Fire" (https://opengameart.org/content/laser-fire), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지 지정 문구 "If you do use this, all I ask is that you credit me as dklon somewhere." | 2026-11-11 |

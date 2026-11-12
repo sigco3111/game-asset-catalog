@@ -1,21 +1,22 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@7ee2056086b7422e0d658ef2b6200479f4f650ba`
+> generated from `catalog.csv@8669cdfb70ee94af9a2cb1c17e22800a67cb01d4`
 
 # 타격·충격 이펙트 모음 — impact
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-효과 종류 `impact`(충격)에 해당하는 에셋 **44개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
+효과 종류 `impact`(충격)에 해당하는 에셋 **45개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
 라이브러리에서 보기: [?fx=impact](https://sigco3111.github.io/game-asset-catalog/?fx=impact) (라이브러리는 hit·impact를 '타격·충격' 하나로 묶어 보여줍니다.)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 44행 (전체 44개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 45행 (전체 45개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Punch SFX](https://opengameart.org/content/punch-sfx) | `sfx` | DavidW | CC-BY 4.0 (페이지에 CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 병기, CC-BY 4.0 선택) | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/punch-sfx/punch-sfx.zip) | 2026-11-12 |
 | [Hit Animation 2 - Frame by frame](https://opengameart.org/content/hit-animation-2-frame-by-frame) | `effect` | Sinestesia | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/hit-animation-2-frame-by-frame/hit-animation-2-frame-by-frame.zip) | 2026-11-11 |
 | [JC Sounds - Fantasy SFX Pack Vol 1](https://opengameart.org/content/jc-sounds-fantasy-sfx-pack-vol-1) | `sfx` | JC Sounds | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/releases/download/v6.25/fantasy-sfx-pack-vol-1.zip) | 2026-11-11 |
 | [Magic SFX Sample](https://opengameart.org/content/magic-sfx-sample) | `sfx` | ViRiX (David Mckee) | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/magic-sfx-sample/magic-sfx-sample.zip) | 2026-11-11 |

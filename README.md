@@ -3,6 +3,10 @@
 재사용 가능한 게임 에셋 라이브러리의 중앙 카탈로그입니다.
 실제 파일은 유형별 저장소에 두고, 여기에 모든 에셋의 출처·라이선스·작가·장르 태그를 기록합니다.
 
+## 📸 실제 실행 화면
+
+![게임 에셋 도서관 실제 화면 - 1,778개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+
 ## 2026-11-11 A59 추가 (4팩, 총 1777팩)
 
 소유자의 짧은 수집 라운드(3~4팩, 약 14분) 지시로 OpenGameArt 검색(2D 아트·효과음; impact·hit·slash·spell·magic·heal·laser·lightning·shield·buff·particles·sfx·burst·vfx 등, 최신순·즐겨찾기순)에서 카탈로그에 없는 폭발·타격 이펙트 스프라이트 2팩과 주문·치유 효과음 2팩을 수집했습니다. 시작 전 library index(assets-index.min.json 1773팩)와 catalog.csv(1773행)에서 제목과 source_url로 4개 모두 없음을 확인했고, 각 팩 페이지의 라이선스 표기와 파일 크기(모두 파일당 25MB 이하, zip 5MB 이하라 저장소 트리에 직접 올림)를 읽어 확인했습니다. 건너뜀(라이선스): Elemental Charge Effects(GPL 3.0 허용이나 14KB 소형 팩이라 이번 라운드 팩 수 한도로 보류), Imagindar Abilities Sound Effects Pack(CC-BY-SA 4.0 단독), Time Magic 등 CC-BY-SA 단독 팩, Pixel Animated vFXs(CC0이나 PSD 1개뿐), Cloud spark action VFX(허용 라이선스 병기이나 팩 수 한도로 보류). 건너뜀(용량): Sprite effects part 1·2(CC0, 파일당 84~101MB), Sci-fi effects(CC-BY 3.0 / GPL 3.0, zip 34.1MB), Medieval sound effects - Weapon impacts(CC0, 7z 82.1·73.8MB), Fantasy Sound Effects Library(CC-BY 3.0, zip 31MB), Spell animation spritesheets(41.7MB), RPG VFX pack(7z 41.6MB)는 파일 25MB 한도 초과. 건너뜀(이미 카탈로그에 있음): AlotofImpacts 시리즈 20팩. '천하삼분 게임 에셋 56'은 수집 대상이 아님.

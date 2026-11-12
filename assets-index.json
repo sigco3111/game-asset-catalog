@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@ebd578df1c9034ca03ce0d81ae9b4b42df62eed5",
-  "count": 1778,
+  "generated_from": "catalog.csv@5236cfad5b7f77f99d8b807ed935422c5f8c1afa",
+  "count": 1782,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -63089,6 +63089,169 @@
         "2-bulssi-seoyak-art-part2.zip",
         "3-bulssi-seoyak-art-part3.zip"
       ]
+    },
+    {
+      "id": "assets-audio/laser-sound-effects",
+      "name": "Laser Sound Effects",
+      "repo": "assets-audio",
+      "file": "laser-sound-effects/laser-sound-effects.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sfx",
+        "laser",
+        "shoot",
+        "sci-fi",
+        "space",
+        "shooter",
+        "weapon",
+        "mp3"
+      ],
+      "effect_kind": [
+        "laser"
+      ],
+      "author": "EZduzziteh",
+      "source_url": "https://opengameart.org/content/laser-sound-effects",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: EZduzziteh (opengameart.org, 필수 아님)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-12",
+      "notes": "레이저 발사 효과음 MP3 6종(sfx_laser_1~6, 스테레오 48kHz 128kbps, 약 0.14~0.21초) + 데모 MP3 1종(sfx_laser_demo.mp3, 약 0.9초); 파일 7개 (MP3 7개); zip 1개 30.4KB; OGA 페이지 라이선스 CC0 단독; AI 생성 아님(2025년 게시물, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 파일을 수집자가 바이트 그대로 무압축 zip으로 묶음(원본과 바이트 대조 일치); 수집자 작성 LICENSE-SOURCE.txt 동봉; sample.mp3는 sfx_laser_1.mp3 복사본; 폴더에 pack.md",
+      "preview": null,
+      "download_path": "laser-sound-effects/laser-sound-effects.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/laser-sound-effects/laser-sound-effects.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/laser-sound-effects/laser-sound-effects.zip"
+      ],
+      "sample": "https://raw.githubusercontent.com/sigco3111/assets-audio/main/laser-sound-effects/sample.mp3",
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/synthesized-fire-sound-effect",
+      "name": "Synthesized Fire Sound Effect",
+      "repo": "assets-audio",
+      "file": "synthesized-fire-sound-effect/synthesized-fire-sound-effect.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sfx",
+        "fire",
+        "synth",
+        "burning",
+        "noise",
+        "flame",
+        "spell",
+        "magic",
+        "effect"
+      ],
+      "effect_kind": [
+        "magic",
+        "fire"
+      ],
+      "author": "Spring Spring",
+      "source_url": "https://opengameart.org/content/synthesized-fire-sound-effect",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Spring Spring (opengameart.org, 필수 아님)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-12",
+      "notes": "합성 불꽃·타오르는 소리 효과음 MP3 1종(fire_sound_effect.mp3, 스테레오 48kHz 128kbps, 약 8초); 파일 1개 (MP3 1개); zip 1개 0.12MB; OGA 페이지 라이선스 CC0 단독; AI 생성 아님(2020년 게시물, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 파일을 수집자가 바이트 그대로 무압축 zip으로 묶음(원본과 바이트 대조 일치); 수집자 작성 LICENSE-SOURCE.txt 동봉; sample.mp3는 fire_sound_effect.mp3 복사본; 폴더에 pack.md",
+      "preview": null,
+      "download_path": "synthesized-fire-sound-effect/synthesized-fire-sound-effect.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/synthesized-fire-sound-effect/synthesized-fire-sound-effect.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/synthesized-fire-sound-effect/synthesized-fire-sound-effect.zip"
+      ],
+      "sample": "https://raw.githubusercontent.com/sigco3111/assets-audio/main/synthesized-fire-sound-effect/sample.mp3",
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/lightning-low-quality",
+      "name": "Lightning (low quality)",
+      "repo": "assets-2d-pixel",
+      "file": "lightning-low-quality/lightning-low-quality.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "lightning",
+        "electric",
+        "bolt",
+        "vector",
+        "inkscape",
+        "png",
+        "svg",
+        "vfx"
+      ],
+      "effect_kind": [
+        "lightning"
+      ],
+      "author": "cogitollc",
+      "source_url": "https://opengameart.org/content/lightning-low-quality",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: cogitollc (opengameart.org, 필수 아님)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-12",
+      "notes": "번개 이미지 PNG 2개(l1.png 351x945, l2.png 543x919, RGBA) + Inkscape 원본 SVG 1개(src.svg); 파일 3개 (PNG 2개 + SVG 1개); zip 1개 0.54MB; OGA 페이지 라이선스 CC0 단독; AI 생성 아님(2022년 게시물, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 파일을 수집자가 바이트 그대로 무압축 zip으로 묶음(원본과 바이트 대조 일치); 수집자 작성 LICENSE-SOURCE.txt 동봉; preview.png는 prew_1.png (페이지 미리보기 이미지 1092x945); 폴더에 pack.md",
+      "preview": "lightning-low-quality/preview.png",
+      "download_path": "lightning-low-quality/lightning-low-quality.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/lightning-low-quality/lightning-low-quality.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/lightning-low-quality/lightning-low-quality.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/explolsion-v2",
+      "name": "Explolsion V2",
+      "repo": "assets-2d-pixel",
+      "file": "explolsion-v2/explolsion-v2.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "explosion",
+        "particle",
+        "spritesheet",
+        "dark",
+        "fresnel",
+        "vfx"
+      ],
+      "effect_kind": [
+        "explosion",
+        "particle"
+      ],
+      "author": "davididev",
+      "source_url": "https://opengameart.org/content/explolsion-v2",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: davididev — \"Explolsion V2\" (https://opengameart.org/content/explolsion-v2), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지 Copyright/Attribution Notice: \"Attribute davididev or davididev.com if you use this\"",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-12",
+      "notes": "폭발 파티클 스프라이트시트 PNG 1개(explosion2spritesheet.png 768x768 RGBA; Particle Forge 2.0으로 제작, 알파 채널로 어두워지는 폭발); 파일 1개 (PNG 1개); zip 1개 236.5KB; OGA 페이지 라이선스 CC-BY 3.0 단독; AI 생성 아님(2025년 게시물, 페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 파일을 수집자가 바이트 그대로 무압축 zip으로 묶음(원본과 바이트 대조 일치); 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; preview.png는 explosion2spritesheet.png 복사본 복사본; 폴더에 pack.md",
+      "preview": "explolsion-v2/preview.png",
+      "download_path": "explolsion-v2/explolsion-v2.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/explolsion-v2/explolsion-v2.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/explolsion-v2/explolsion-v2.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
     }
   ]
 }

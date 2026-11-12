@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@ebd578df1c9034ca03ce0d81ae9b4b42df62eed5`
-- 데이터 행 수: **1778**
+- 원본: `catalog.csv@5236cfad5b7f77f99d8b807ed935422c5f8c1afa`
+- 데이터 행 수: **1782**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 2,623,467 bytes, `assets-index.min.json` 2,122,158 bytes
+- 파일 크기: `assets-index.json` 2,631,284 bytes, `assets-index.min.json` 2,128,664 bytes
 
 ## 2. 집계
 
@@ -16,8 +16,8 @@
 
 | repo | 개수 |
 |---|---|
-| assets-2d-pixel | 649 |
-| assets-audio | 454 |
+| assets-2d-pixel | 651 |
+| assets-audio | 456 |
 | assets-3d-lowpoly | 446 |
 | assets-ui-icons | 226 |
 | assets-2d-portraits | 3 |
@@ -28,12 +28,12 @@
 |---|---|
 | model-3d | 400 |
 | music | 230 |
-| sfx | 222 |
+| sfx | 224 |
 | ui | 205 |
 | tileset-2d | 146 |
 | sprite-2d | 132 |
 | other | 124 |
-| effect | 120 |
+| effect | 122 |
 | texture | 70 |
 | icon | 40 |
 | background-2d | 27 |
@@ -52,12 +52,12 @@
 | type(원본) | category | 개수 |
 |---|---|---|
 | 3D | model-3d | 226 |
-| 효과음 | sfx | 222 |
+| 효과음 | sfx | 224 |
 | 음악 | music | 211 |
 | UI·아이콘 | ui | 187 |
 | 3D 모델 | model-3d | 124 |
 | 2D | other | 120 |
-| 2D 이펙트 | effect | 99 |
+| 2D 이펙트 | effect | 101 |
 | 2D 타일셋 | tileset-2d | 98 |
 | 2D 스프라이트 | sprite-2d | 90 |
 | 2D 텍스처 | texture | 66 |
@@ -119,8 +119,8 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license_family | 개수 |
 |---|---|
-| cc0 | 1664 |
-| cc-by | 100 |
+| cc0 | 1667 |
+| cc-by | 101 |
 | gpl | 8 |
 | mit | 3 |
 | other | 3 |
@@ -129,8 +129,8 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license | 개수 |
 |---|---|
-| CC0 | 1663 |
-| CC-BY 3.0 | 49 |
+| CC0 | 1666 |
+| CC-BY 3.0 | 50 |
 | CC-BY 4.0 | 45 |
 | GPL 3.0 | 8 |
 | CC-BY 3.0 / GPL 2.0 (원본 페이지 이중 표기, 둘 다 허용 라이선스; CC-BY 3.0 선택) | 3 |
@@ -156,7 +156,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2026-11-09 | 9 |
 | 2026-11-10 | 14 |
 | 2026-11-11 | 41 |
-| 2026-11-12 | 1 |
+| 2026-11-12 | 5 |
 
 ### 상위 태그 30
 
@@ -165,7 +165,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2d | 243 |
 | music | 229 |
 | 3d | 228 |
-| sfx | 222 |
+| sfx | 224 |
 | ui·아이콘 | 182 |
 | rpg | 140 |
 | fantasy | 99 |
@@ -178,20 +178,20 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | effects | 61 |
 | texture | 61 |
 | lowpoly | 60 |
-| magic | 58 |
+| magic | 59 |
+| effect | 58 |
 | modular | 58 |
-| effect | 55 |
 | medieval | 54 |
-| spell | 52 |
+| spell | 53 |
 | isometric | 49 |
 | tiles | 47 |
 | animation | 44 |
+| explosion | 40 |
 | sound | 40 |
-| explosion | 39 |
+| space | 40 |
 | impact | 39 |
-| space | 39 |
+| vfx | 38 |
 | character | 37 |
-| battle | 36 |
 
 ### effect_kind별 (키워드 일치 기준, 하나의 에셋이 여러 종류에 속할 수 있음)
 
@@ -199,23 +199,23 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 |---|---|
 | hit | 37 |
 | impact | 44 |
-| magic | 80 |
-| explosion | 55 |
-| lightning | 23 |
-| fire | 44 |
+| magic | 81 |
+| explosion | 56 |
+| lightning | 24 |
+| fire | 45 |
 | ice | 19 |
 | wind | 9 |
 | heal | 16 |
-| laser | 12 |
-| particle | 27 |
+| laser | 13 |
+| particle | 28 |
 | smoke | 11 |
 | aura | 7 |
 | projectile | 25 |
 | slash | 7 |
 
-- effect_kind가 하나 이상인 에셋: 207 / 1778
+- effect_kind가 하나 이상인 에셋: 211 / 1782
 
-- attribution_required=true: 111, ai_generated=true: 4, preview 있음: 1336, 분할(split) 행: 147
+- attribution_required=true: 112, ai_generated=true: 4, preview 있음: 1338, 분할(split) 행: 147
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
@@ -248,7 +248,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 ### 3.4 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 라이선스 표기 — 값은 수정하지 않음
 
-- 허용 목록과 정확히 일치: 1768행
+- 허용 목록과 정확히 일치: 1772행
 - 허용 라이선스로 시작하지만 부가 설명이 붙은 표기: 7행 (5종)
 - 허용 목록에 해당하지 않음: **3행** (2종)
 
@@ -271,7 +271,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 - 참고: license_family가 cc-by/mit/gpl인데 attribution이 `optional`로 시작하는 행: 0건 (규칙상 attribution_required=false 처리됨; 확인 필요)
 - 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 0건
 - 참고: attribution이 `불요`로 시작하거나 `없음`/`none`/`n/a`인 행: 2건 — attribution_required=false 처리 (정제 2차 변경; 이전에는 `불요` 2행이 true였음: assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56)
-- 참고: attribution_required=true인 행 111건 (cc0인데 true: 0건)
+- 참고: attribution_required=true인 행 112건 (cc0인데 true: 0건)
 
 ### 3.6 file 열 경로 형식 이상: 1건
 
@@ -279,15 +279,15 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 |---|---|---|
 | 1682 | https://raw.githubusercontent.com/sigco3111/assets-2d-pixel/main/cheonha-sambun/cheonha-sambun-assets.zip | 중복 슬래시 |
 - file 열이 저장소 상대경로가 아니라 전체 URL인 행 1건: 색인의 download_path는 같은 저장소의 상대경로로 환산(cheonha-sambun/cheonha-sambun-assets.zip), 원본 file 값은 `file`에 그대로 유지.
-- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1520행, 저장소 트리 경로 258행
+- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1520행, 저장소 트리 경로 262행
 - split 열 값이 `Y`(파트 파일명 미나열, 폴더 내 part1~N zip)인 행: 11건 — `multipart=true`, download_url은 file 열(part1) 기준.
 - 파트 파일명이 나열된 분할 업로드(split 열) 147행: file 열의 단일 파일명은 릴리스에 존재하지 않을 수 있고 실제 파일은 `split_parts`임 (예: `assets-3d-lowpoly/kaykit-skeletons-1-0`). 이 행들의 `download_url`은 null, 대신 `download_urls`에 분할 파일 URL 목록을 둠.
-- file 확장자 분포: .zip 1696, .part01 47, .png 16, .ogg 7, .mp3 6, .svg 2, .wav 2, .gif 1, .jpg 1
+- file 확장자 분포: .zip 1700, .part01 47, .png 16, .ogg 7, .mp3 6, .svg 2, .wav 2, .gif 1, .jpg 1
 
 ### 3.7 기타 관찰
 
 - category가 `other`인 행: 124 (원본 type 분포: 2D 120, 2D 일러스트 2, 2D 컨셉아트 1, 2D 초상화 1) — 원본 type이 `2D`처럼 모호하면 추측하지 않고 other로 둠.
-- notes에 `AI 생성` 문자열이 있는 행 92건 중 `AI 생성 아님`/`AI 생성 여부 …` 형태의 부정·불명 표현을 제외한 행 2건, 그리고 license/notes에 `AI-generated`/`AI generated`/`AI 생성물`이 긍정 의미로 있는 행을 ai_generated=true로 판정: 총 4건.
+- notes에 `AI 생성` 문자열이 있는 행 96건 중 `AI 생성 아님`/`AI 생성 여부 …` 형태의 부정·불명 표현을 제외한 행 2건, 그리고 license/notes에 `AI-generated`/`AI generated`/`AI 생성물`이 긍정 의미로 있는 행을 ai_generated=true로 판정: 총 4건.
 - `AI 생성 아님`/`AI 생성 여부` 표기만 있는 행 중 true가 된 행: 0건
 
 | CSV 줄 | name | repo | 근거 |
@@ -298,7 +298,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 1779 | 불씨의 서약 아트 | assets-2d-pixel | notes `AI 생성` |
 
 - notes에 `AI`가 있으나 `AI 생성` 문구가 없어 false로 둔 행: 2건 (assets-ui-icons/game-icons, assets-ui-icons/game-icons-expansion)
-- preview가 없는 행: 442건
+- preview가 없는 행: 444건
 
 ## 4. 샘플 링크 점검 (전수 점검 아님, 표본)
 

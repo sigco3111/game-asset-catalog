@@ -5,7 +5,22 @@
 
 ## 📸 실제 실행 화면
 
-![게임 에셋 도서관 실제 화면 - 1,798개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+![게임 에셋 도서관 실제 화면 - 1,802개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+
+## 2026-11-12 A65 추가 (4팩, 총 1802팩)
+
+소유자의 짧은 수집 라운드(3~4팩, 약 14분) 지시로 A64 이전에 보류한 후보 중 Swinging blade trap(3D)과 3rd version of Sparkle·Shape Particles(2D 이펙트), 새로 찾은 PSX Style Cars(3D)까지 4팩(모두 opengameart.org)을 수집했습니다. 시작 전 library index(assets-index.min.json 1798팩)와 catalog.csv(1798행)에서 제목과 source_url로 4개 모두 없음을 확인했고, 각 페이지의 라이선스 표기·파일 크기·AI 언급 여부를 읽어 확인했습니다(전부 단독 표기, AI 생성 언급 없음). 4팩 모두 zip 5MB 이하라 저장소 트리에 올렸습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Swinging blade trap](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/swinging-blade-trap) | assets-3d-lowpoly | Q2DENJINDREW | CC0 | 흔들리는 칼날 함정 로우폴리 모델 glTF 1 + README, zip 1개 24.0KB(페이지 zip 그대로); 페이지 CC0 단독; 귀속 불필요(크레딧 환영); AI 생성 아님 |
+| [PSX Style Cars](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/psx-style-cars) | assets-3d-lowpoly | GGBotNet | CC0 | PS1풍 로우폴리 자동차 8종(색상 변형 다수) OBJ·MTL·Blend + 그림자·바퀴 + 효과음 OGG 16, zip 1개 2.49MB(페이지 zip 그대로); 페이지 CC0 단독; 귀속 불필요; AI 생성 아님 |
+| [3rd version of Sparkle](https://github.com/sigco3111/assets-2d-pixel/tree/main/3rd-version-of-sparkle) | assets-2d-pixel | davididev | CC-BY 3.0 | 스파클 파티클 스프라이트시트 PNG 1개(768x768), zip 1개 98.3KB(페이지 PNG를 바이트 그대로 무압축 zip으로 묶음); 페이지 CC-BY 3.0 단독; 귀속 필수(페이지 문구 "Sparkle particle by DavidiDev.com", CREDITS.txt); AI 생성 아님 |
+| [Shape Particles](https://github.com/sigco3111/assets-2d-pixel/tree/main/shape-particles) | assets-2d-pixel | iyol | CC0 | 8x8 도형 파티클 PNG 1개(사각형·원·별·삼각형·X), zip 1개 1.0KB(페이지 PNG를 바이트 그대로 무압축 zip으로 묶음); 페이지 CC0 단독; 귀속 불필요; AI 생성 아님 |
+
+종류: 3D 2팩(assets-3d-lowpoly; 소품 1·탈것 1), 2D 이펙트 2팩(assets-2d-pixel). 라이선스: CC0 3팩, CC-BY 3.0 1팩. AI 생성 명시 팩 없음. 4커밋(팩당 1커밋: 에셋: <팩 이름> 추가; 새 폴더 주소(/upload/main/<폴더>)에서 파일 이름 대소문자를 유지하는 File 객체로 첨부), 업로드 후 저장소 파일 18개를 로컬과 git blob 해시로 대조해 모두 일치. 용량(GitHub API size): assets-3d-lowpoly 약 543MB, assets-2d-pixel 약 370MB(모두 700MB 미만), 새 저장소 생성 없음. 색인(assets-index*.json)·위키·llms.txt는 손대지 않고 Actions 자동 갱신에 맡김. 미수집: Short impact(검색에서 찾지 못함), Elemental Charge Effects(GPL 3.0 / CC-BY-SA 4.0 병기; GPL 전문 첨부 필요해 보류), Cloud spark action VFX(CC-BY 3.0 등 병기; 팩 수 한도), Lightning Strike(CC0, 벡터 튜토리얼 팩; 팩 수 한도). '천하삼분 게임 에셋 56'은 수집 대상이 아님.
+
+실제 팩 수(catalog.csv 기준): 2D 651 · 3D 461 · UI/아이콘 226 · 오디오 459 · 기타 5 (합계 1802).
 
 ## 2026-11-12 A64 추가 (4팩, 총 1798팩)
 
@@ -296,8 +311,8 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 651팩 |
-| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 459팩 (대부분 릴리스 첨부) |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 653팩 |
+| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 461팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
 | [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 459팩 |

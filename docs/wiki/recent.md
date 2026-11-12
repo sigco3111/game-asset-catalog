@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@51df4d863705706b51711f1d5c6af97dc2ff4546`
+> generated from `catalog.csv@4409e612f173ca06e10b76087ffa28b119a44568`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,6 +13,7 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [3rd version of Sparkle](https://opengameart.org/content/3rd-version-of-sparkle) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/3rd-version-of-sparkle/3rd-version-of-sparkle.zip) | 2026-11-12 |
 | [Energy Sword](https://opengameart.org/content/energy-sword) | `model-3d` | ova Xen | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/energy-sword.zip) | 2026-11-12 |
 | [Explolsion V2](https://opengameart.org/content/explolsion-v2) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explolsion-v2/explolsion-v2.zip) | 2026-11-12 |
 | [flash bang sound](https://opengameart.org/content/flash-bang-sound) | `sfx` | teeeece | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/flash-bang-sound/flash-bang-sound.zip) | 2026-11-12 |
@@ -27,8 +28,11 @@
 | [Medieval Dungeon – Modular Base Kit (Free)](https://opengameart.org/content/medieval-dungeon-%E2%80%93-modular-base-kit-free) | `model-3d` | Nodex3D | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/medieval-dungeon-modular-base-kit-free.zip) | 2026-11-12 |
 | [Mushroom Enemy](https://opengameart.org/content/mushroom-enemy) | `character-3d` | Q2DENJINDREW | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mushroom-enemy/mushroom-enemy.zip) | 2026-11-12 |
 | [Pine Tree](https://opengameart.org/content/pine-tree) | `model-3d` | trent\_taray | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/pine-tree/pine-tree.zip) | 2026-11-12 |
+| [PSX Style Cars](https://opengameart.org/content/psx-style-cars) | `vehicle-3d` | GGBotNet | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/psx-style-cars/psx-style-cars.zip) | 2026-11-12 |
 | [Punch SFX](https://opengameart.org/content/punch-sfx) | `sfx` | DavidW | CC-BY 4.0 (페이지에 CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 병기, CC-BY 4.0 선택) | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/punch-sfx/punch-sfx.zip) | 2026-11-12 |
 | [Sci-Fi Rotary Turret](https://opengameart.org/content/sci-fi-rotary-turret) | `model-3d` | David W CG | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/sci-fi-rotary-turret.zip) | 2026-11-12 |
+| [Shape Particles](https://opengameart.org/content/shape-particles) | `effect` | iyol | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/shape-particles/shape-particles.zip) | 2026-11-12 |
+| [Swinging blade trap](https://opengameart.org/content/swinging-blade-trap) | `model-3d` | Q2DENJINDREW | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/swinging-blade-trap/swinging-blade-trap.zip) | 2026-11-12 |
 | [Synthesized Fire Sound Effect](https://opengameart.org/content/synthesized-fire-sound-effect) | `sfx` | Spring Spring | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/synthesized-fire-sound-effect/synthesized-fire-sound-effect.zip) | 2026-11-12 |
 | [Ultimate 3D Car Assets Pack (w Interiors and Animations)](https://opengameart.org/content/ultimate-3d-car-assets-pack-w-interiors-and-animations) | `vehicle-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ultimate-3d-car-assets-pack/ultimate-3d-car-assets-pack.zip) | 2026-11-12 |
 | [Weoh-Weoh-Weoh...](https://opengameart.org/content/weoh-weoh-weoh) | `sfx` | viwooh | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/weoh-weoh-weoh/weoh-weoh-weoh.zip) | 2026-11-12 |
@@ -109,7 +113,3 @@
 | [8 Magic Attacks](https://opengameart.org/content/8-magic-attacks) | `sfx` | leohpaz | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/8-magic-attacks/8-magic-attacks.zip) | 2026-11-08 |
 | [AlotofImpacts - 15 Frame Impacts w/smoke - 3 variations](https://opengameart.org/content/alotofimpacts-15-frame-impacts-wsmoke-3-variations) | `effect` | JoesAlotofthings | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/alotofimpacts-15-frame-impacts-wsmoke-3-variations/alotofimpacts-15-frame-impacts-wsmoke-3-variations.zip) | 2026-11-08 |
 | [AlotofImpacts - 4 Frame Impacts - 8 variations (4color x 2seeds each) 10of20](https://opengameart.org/content/alotofimpacts-4-frame-impacts-8-variations-4color-x-2seeds-each-10of20) | `effect` | JoesAlotofthings | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/alotofimpacts-4-frame-impacts-8-variations-4color-x-2seeds-each-10of20/alotofimpacts-4-frame-impacts-8-variations-4color-x-2seeds-each-10of20.zip) | 2026-11-08 |
-| [AlotofImpacts - 4 Frame Impacts - 8 variations (4color x 2seeds each) 9of20](https://opengameart.org/content/alotofimpacts-4-frame-impacts-8-variations-4color-x-2seeds-each-9of20) | `effect` | JoesAlotofthings | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/alotofimpacts-4-frame-impacts-8-variations-4color-x-2seeds-each-9of20/alotofimpacts-4-frame-impacts-8-variations-4color-x-2seeds-each-9of20.zip) | 2026-11-08 |
-| [AlotofImpacts - 4 Quick Hit Impacts - Muzzle Flashs - Impacts005 - 008](https://opengameart.org/content/alotofimpacts-4-quick-hit-impacts-muzzle-flashs-impacts005-008) | `effect` | JoesAlotofthings | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/alotofimpacts-4-quick-hit-impacts-muzzle-flashs-impacts005-008/alotofimpacts-4-quick-hit-impacts-muzzle-flashs-impacts005-008.zip) | 2026-11-08 |
-| [AlotofImpacts - 4 Quick Hit Impacts - Muzzle Flashs - Impacts009 - 011](https://opengameart.org/content/alotofimpacts-4-quick-hit-impacts-muzzle-flashs-impacts009-011) | `effect` | JoesAlotofthings | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/alotofimpacts-4-quick-hit-impacts-muzzle-flashs-impacts009-011/alotofimpacts-4-quick-hit-impacts-muzzle-flashs-impacts009-011.zip) | 2026-11-08 |
-| [AlotofImpacts - 5 Frame Impacts - 4 variations blue (Impacts 14of20)](https://opengameart.org/content/alotofimpacts-5-frame-impacts-4-variations-blue-impacts-14of20) | `effect` | JoesAlotofthings | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/alotofimpacts-5-frame-impacts-4-variations-blue-impacts-14of20/alotofimpacts-5-frame-impacts-4-variations-blue-impacts-14of20.zip) | 2026-11-08 |

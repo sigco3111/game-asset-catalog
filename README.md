@@ -5,7 +5,22 @@
 
 ## 📸 실제 실행 화면
 
-![게임 에셋 도서관 실제 화면 - 1,782개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+![게임 에셋 도서관 실제 화면 - 1,786개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+
+## 2026-11-12 A61 추가 (4팩, 총 1786팩)
+
+소유자의 짧은 수집 라운드(3~4팩, 약 15분) 지시로 3D 팩 3팩과 효과음 1팩을 수집했습니다. OpenGameArt 3D 아트 목록(최신순·즐겨찾기순 1~5쪽)에서 카탈로그에 없는 CC0·CC-BY 3D 팩을 골라 각 팩 페이지의 라이선스 표기·파일 크기·AI 언급을 읽어 확인했고, 효과음 1팩은 A60에서 보류한 후보 중에서 골랐습니다. 시작 전 library index(assets-index.min.json 1782팩)와 catalog.csv(1782행)에서 제목과 source_url로 4개 모두 없음을 확인했습니다. 5MB를 넘는 3D zip 2개(8.32MB·17.98MB)는 docs/capacity.md 규칙 1에 따라 assets-3d-lowpoly 새 릴리스 v9.1('CC0·CC-BY 3D 배치 v9.1 (OGA)')의 첨부로 올렸고(업로드 후 sha256이 로컬과 일치), 폴더에는 pack.md·preview·LICENSE-SOURCE.txt(·CREDITS.txt)만 둡니다. 건너뜀(이미 카탈로그에 있음): Castle Kit·Fantasy Town Kit·Mini Shop 등 목록 상위 다수(Kenney·KayKit 팩 포함; KayKit 공식 GitHub 저장소 10개 모두 이미 수록). 건너뜀(라이선스): Animated Character Rabbitman(CC-BY-SA 4.0 단독), 3D Gas Mask Dude(GPL 3.0 / CC-BY-SA 4.0 병기이나 .blend 1개뿐이라 보류). 건너뜀(파일 없음): Low Poly Medieval Models - 163 CC0(페이지가 "File(s) currently unavailable due to potential licensing issues"로 파일을 내렸고 Claude·Gemini 보조 코드 사용을 밝힌 AI 보조 작업물). 보류(허용 라이선스, 팩 수 한도): Medieval Dungeon – Modular Base Kit (Free)(CC-BY 4.0, zip 33.1MB → 릴리스 필요), Heavy Tank(extra low poly RTS)(CC0), Locomotive 1(CC0), Wolf Mutant 3D(CC0), Energy Sword(CC0, zip 6.2MB), Sci-fi Rotary Turret(CC-BY 4.0, 5.4MB), 3D Dungeon Tileset(CC-BY-SA 3.0 / GPL 3.0 병기, zip 24.3MB), Dwarf - fixed(GPL 2.0/3.0 등 병기, zip 38.9MB), KayKit: Dungeon Pack 1.0(CC0, 31MB; A13에서 KayKit Dungeon Remastered의 구버전으로 확인해 제외한 itch.io판과 같은 팩). '천하삼분 게임 에셋 56'은 수집 대상이 아님.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [GDQuest 3D Characters Repository](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/gdquest-3d-characters-repository) | assets-3d-lowpoly | GDQuest / Thibaud Goiffon (OGA 게시: hardboileduser) | CC-BY 4.0 | 애니메이션 캐릭터 GLB 6종(Sophia·GDBot·Gobot·Beetle Bot·Bee Bot·Bat), zip 1개 8.32MB(페이지의 전체 모델 zip 그대로, 릴리스 v9.1 첨부); 페이지 CC-BY 4.0 단독; 귀속 필수(페이지 문구를 CREDITS.txt에 기록); AI 생성 아님 |
+| [Horror Monster](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/horror-monster) | assets-3d-lowpoly | EmoPreben | CC0 | 공포 몬스터 FBX 1개(Mixamo 리깅) + 텍스처 PNG 3개, zip 1개 17.98MB(페이지 zip 그대로, 릴리스 v9.1 첨부); 페이지 CC0 단독; 귀속 불필요; AI 생성 아님 |
+| [Ultimate 3D Car Assets Pack (w Interiors and Animations)](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/ultimate-3d-car-assets-pack) | assets-3d-lowpoly | Lyricsz | CC0 | 자동차 20종(Blend 1 + FBX 20 + GLB 20, 인테리어·애니메이션 1종 포함), zip 1개 1.61MB(페이지 zip 그대로, 저장소 트리); 페이지 CC0 단독; 귀속 불필요; AI 생성 아님 |
+| [flash bang sound](https://github.com/sigco3111/assets-audio/tree/main/flash-bang-sound) | assets-audio | teeeece | CC0 | 섬광탄 효과음 WAV 1종(모노 44.1kHz 16bit, 약 6.4초), zip 1개 549.9KB(페이지 WAV를 바이트 그대로 무압축 zip으로 묶음); 페이지 CC0 단독; 귀속 불필요; AI 생성 아님 |
+
+종류: 3D 3팩(assets-3d-lowpoly; 캐릭터 2·탈것 1), 효과음 1팩(assets-audio). 라이선스: CC0 3팩, CC-BY 4.0 1팩. AI 생성 명시 팩 없음. 4커밋(팩당 1커밋: 에셋: GDQuest 3D Characters Repository 추가 / 에셋: Horror Monster 추가 / 에셋: Ultimate 3D Car Assets Pack (w Interiors and Animations) 추가 / 에셋: flash bang sound 추가; 새 폴더 주소(/upload/main/<폴더>)에서 파일 이름 대소문자를 유지하는 File 객체로 첨부), 업로드 후 저장소 파일을 로컬과 sha256으로 대조해 4팩 모든 파일(저장소 15개) 일치. 용량: assets-3d-lowpoly 약 528MB, assets-audio 약 378MB(모두 양호, 700MB 미만; 새 저장소 불필요). 색인(assets-index*.json)·위키는 Actions 자동 갱신에 맡김.
+
+실제 팩 수(catalog.csv 기준): 2D 649 · 3D 449 · UI/아이콘 226 · 오디오 457 · 기타 5 (합계 1786).
 
 ## 2026-11-12 A60 추가 (4팩, 총 1782팩)
 
@@ -237,10 +252,10 @@
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
 | [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 651팩 |
-| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 446팩 (대부분 릴리스 첨부) |
+| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 449팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 456팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 457팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (소유자의 AI 어시스턴트 Instinct가 생성한 자체 작업물, 소유자 결정으로 유지, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.

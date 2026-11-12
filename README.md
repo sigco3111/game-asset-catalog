@@ -5,7 +5,22 @@
 
 ## 📸 실제 실행 화면
 
-![게임 에셋 도서관 실제 화면 - 1,812개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+![게임 에셋 도서관 실제 화면 - 1,816개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+
+## 2026-11-12 A69 추가 (4팩, 총 1816팩)
+
+소유자의 짧은 수집 라운드(3~4팩, 약 14분) 지시로 A68에서 보류한 3D 후보 Wooden crate·Undead male과, 최근 두 라운드에 없던 효과음 2팩 Spell 4 (fire)·Shimmer glitter magic(모두 opengameart.org)을 수집했습니다. 시작 전 library index(assets-index.min.json 1812팩)와 catalog.csv(1812행)에서 제목과 source_url로 4개 모두 없음을 확인했고, 각 페이지의 라이선스 표기·파일 크기·AI 언급 여부를 읽어 확인했습니다(AI 생성 언급 없음). Wooden crate(zip 23.97MB)는 5MB를 넘어 docs/capacity.md 규칙 1에 따라 assets-3d-lowpoly 릴리스 v9.1의 첨부로 추가했고(릴리스 설명에 한 줄 추가), 폴더에는 pack.md·preview.png·LICENSE-SOURCE.txt만 둡니다. 나머지 3팩은 저장소 트리에 올렸습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Wooden crate](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/wooden-crate) | assets-3d-lowpoly | EmoPreben | CC0 | 뚜껑이 느슨한 로우폴리 나무 상자 FBX 1 + 2048 텍스처 PNG 6, zip 1개 23.97MB(페이지 zip 그대로, 릴리스 v9.1 첨부); 페이지 CC0 단독; 귀속 불필요; AI 생성 아님 |
+| [Undead male](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/undead-male) | assets-3d-lowpoly | TiZiana | CC-BY 3.0 | 리깅된 언데드 남성 캐릭터(2000+ 삼각형) Blend 1 + 텍스처 PNG 4 + 메모 TXT, zip 1개 0.89MB(페이지 zip 그대로); 페이지 CC-BY 3.0 단독(zip 안 메모는 CC-BY 2.0 표기); 귀속 필수(CREDITS.txt); AI 생성 아님 |
+| [Spell 4 (fire)](https://github.com/sigco3111/assets-audio/tree/main/spell-4-fire) | assets-audio | Bart K. | CC-BY 3.0 | 불 주문 효과음 WAV 1종, zip 1개 0.29MB(무압축 zip) + sample.wav; 페이지 CC-BY 3.0 / CC-BY-SA 3.0 / GPL 3.0 / GPL 2.0 / OGA-BY 3.0 병기 → CC-BY 3.0 선택; 귀속 필수(CREDITS.txt); AI 생성 아님 |
+| [Shimmer glitter magic](https://github.com/sigco3111/assets-audio/tree/main/shimmer-glitter-magic) | assets-audio | The Berklee College of Music | CC-BY 3.0 | 반짝이는 마법 효과음 FLAC 1종, zip 1개 0.04MB(무압축 zip) + sample.flac; 페이지 CC-BY 3.0 단독; 귀속 필수(CREDITS.txt); AI 생성 아님 |
+
+종류: 3D 2팩(assets-3d-lowpoly; 소품 1·캐릭터 1), 효과음 2팩(assets-audio). 라이선스: CC0 1팩, CC-BY 3.0 3팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가; Wooden crate의 zip은 먼저 v9.1 릴리스에 올림; 새 폴더 주소(/upload/main/<폴더>)에서 대소문자를 유지하는 File 객체로 첨부). 용량(GitHub API size): assets-3d-lowpoly 약 554MB, assets-audio 약 381MB(모두 700MB 미만), 새 저장소 생성 없음. 색인(assets-index*.json)·위키·llms.txt는 손대지 않고 Actions 자동 갱신에 맡김. 미수집: Wizard(AnthonyMyers, CC-BY 3.0, zip 26.9MB, 시간상 보류), Crate(Kutejnikov, CC0, 7z, 보류), Fantasy Sound Effects Library(Little Robot Sound Factory, CC-BY 3.0, zip 31MB, assets-audio 릴리스 필요해 보류), Short impact(GPL 3.0 단독 단일 WAV, 보류). '천하삼분 게임 에셋 56'은 수집 대상이 아님.
+
+실제 팩 수(catalog.csv 기준): 2D 652 · 3D 472 · UI/아이콘 226 · 오디오 461 · 기타 5 (합계 1816).
 
 ## 2026-11-12 A68 추가 (3팩, 총 1812팩)
 
@@ -355,10 +370,10 @@
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
 | [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 654팩 |
-| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 470팩 (대부분 릴리스 첨부) |
+| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 472팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 459팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 461팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (소유자의 AI 어시스턴트 Instinct가 생성한 자체 작업물, 소유자 결정으로 유지, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.

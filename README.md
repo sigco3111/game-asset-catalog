@@ -5,7 +5,22 @@
 
 ## 📸 실제 실행 화면
 
-![게임 에셋 도서관 실제 화면 - 1,790개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+![게임 에셋 도서관 실제 화면 - 1,794개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+
+## 2026-11-12 A63 추가 (4팩, 총 1794팩)
+
+소유자의 짧은 수집 라운드(3~4팩, 약 15분) 지시로 A62에서 보류한 3D 후보 Medieval Dungeon – Modular Base Kit (Free)·Sci-Fi Rotary Turret, 새로 찾은 Mushroom Enemy(이상 3D, opengameart.org)와 효과음 Punch SFX(opengameart.org) 4팩을 수집했습니다. 시작 전 library index(assets-index.min.json 1790팩)와 catalog.csv(1790행)에서 제목과 source_url로 4개 모두 없음을 확인했고(던전 키트는 같은 제목의 다른 팩 없음, 기존 Kenney Mini Dungeon·Modular Dungeon Kit·KayKit Dungeon Remastered 등은 별개 팩), 각 팩 페이지의 라이선스 표기·파일 크기·AI 언급 여부를 읽어 확인했습니다. Medieval Dungeon – Modular Base Kit(zip 31.54MB)과 Sci-Fi Rotary Turret(zip 5.14MB)은 5MB를 넘어 docs/capacity.md 규칙 1에 따라 assets-3d-lowpoly 릴리스 v9.1의 첨부로 추가했고(GitHub 표시 sha256이 로컬과 일치, 릴리스 설명에 두 줄 추가), 폴더에는 pack.md·preview.png·LICENSE-SOURCE.txt·CREDITS.txt만 둡니다. Mushroom Enemy(42.9KB)와 Punch SFX(1.88MB)는 저장소 트리에 올렸습니다. 이번 라운드에서 다루지 않은 보류 후보(허용 라이선스, 팩 수 한도): Lightning Strike(CC0, 벡터 튜토리얼 팩), Shape Particles(CC0, 8x8 PNG 1개), Swinging blade trap·Pine Tree·low poly iron ore·low_poly_swords(모두 CC0 3D), Prehistoric car(CC-BY 3.0, .blend 단일 파일). 건너뜀(용량): Dungeon Building Kit(CC0이나 tar.gz 31.4MB 단일 파일로 파일당 25MB 한도 초과 및 zip 아님). 이번에 확인하지 못한 이전 보류 후보(Weoh-Weoh-Weoh, Short impact, 3rd version of Sparkle, Elemental Charge Effects, Cloud spark action VFX)는 그대로 보류. '천하삼분 게임 에셋 56'은 수집 대상이 아님.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Medieval Dungeon – Modular Base Kit (Free)](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/medieval-dungeon-modular-base-kit-free) | assets-3d-lowpoly | Nodex3D | CC-BY 4.0 | 모듈식 중세 던전 키트 GLB 1개(벽·출입구 벽·모서리 벽·나무 문·바닥·계단·천장 볼트·기둥 8종), zip 1개 31.54MB(페이지 zip 그대로, 릴리스 v9.1 첨부); 페이지 CC-BY 4.0 단독; 귀속 필수(페이지 문구 "Medieval Dungeon – Modular Base Kit by Nodex3D (nodex3d.itch.io)", CREDITS.txt); AI 생성 아님 |
+| [Sci-Fi Rotary Turret](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/sci-fi-rotary-turret) | assets-3d-lowpoly | David W CG | CC-BY 4.0 | PBR 공상과학 회전 터릿 Blend 1 + GLB 1 + 텍스처 PNG 3, zip 1개 5.14MB(페이지 zip 그대로, 릴리스 v9.1 첨부); 페이지 CC-BY 4.0 단독; 귀속 필수(페이지에 별도 문구 없어 표준 CC-BY 표기, CREDITS.txt); AI 생성 아님 |
+| [Mushroom Enemy](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/mushroom-enemy) | assets-3d-lowpoly | Q2DENJINDREW | CC0 | 로우폴리 버섯 적 몬스터(hide·idle·attack 애니메이션) OBJ·FBX·glTF + 텍스처 PNG, zip 1개 42.9KB(페이지 zip 그대로, 저장소 트리); 페이지 CC0 단독; 귀속 불필요(크레딧 환영); AI 생성 아님 |
+| [Punch SFX](https://github.com/sigco3111/assets-audio/tree/main/punch-sfx) | assets-audio | DavidW | CC-BY 4.0 | 펀치·타격 효과음 WAV 9종(스테레오 48kHz 16bit, 0.91~1.31초), zip 1개 1.88MB(페이지 WAV를 바이트 그대로 무압축 zip으로 묶음); 페이지 CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 / CC-BY 4.0 병기 중 CC-BY 4.0 선택; 귀속 필수(표준 CC-BY 표기, CREDITS.txt); AI 생성 아님 |
+
+종류: 3D 3팩(assets-3d-lowpoly; 모듈 키트 1·무기 1·캐릭터(몬스터) 1), 효과음 1팩(assets-audio). 라이선스: CC-BY 4.0 3팩, CC0 1팩. AI 생성 명시 팩 없음. 4커밋(팩당 1커밋: 에셋: Mushroom Enemy 추가 / 에셋: Medieval Dungeon – Modular Base Kit (Free) 추가 / 에셋: Sci-Fi Rotary Turret 추가 / 에셋: Punch SFX 추가; 새 폴더 주소(/upload/main/<폴더>)에서 파일 이름 대소문자를 유지하는 File 객체로 첨부), 업로드 후 저장소 파일 17개를 로컬과 git blob 해시로 대조해 모두 일치(릴리스 첨부 2개는 GitHub 표시 sha256 일치). 용량(GitHub API size): assets-3d-lowpoly 약 538MB, assets-audio 약 380MB(모두 양호, 700MB 미만; 새 저장소 불필요). 색인(assets-index*.json)·위키는 Actions 자동 갱신에 맡김.
+
+실제 팩 수(catalog.csv 기준): 2D 649 · 3D 456 · UI/아이콘 226 · 오디오 458 · 기타 5 (합계 1794).
 
 ## 2026-11-12 A62 추가 (4팩, 총 1790팩)
 
@@ -267,10 +282,10 @@
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
 | [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 651팩 |
-| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 453팩 (대부분 릴리스 첨부) |
+| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 456팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 457팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 458팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (소유자의 AI 어시스턴트 Instinct가 생성한 자체 작업물, 소유자 결정으로 유지, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.

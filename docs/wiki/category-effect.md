@@ -1,17 +1,17 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@16f4b26b73a2ad5462deda71ec769cf7fa9e966e`
+> generated from `catalog.csv@c1b50286d00e9e85b9edad4aa729acb24ac117e3`
 
 # 이펙트 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `effect`(이펙트)에 해당하는 에셋 **126개**입니다. 라이브러리에서 보기: [?cat=effect](https://sigco3111.github.io/game-asset-catalog/?cat=effect)
+분류 `effect`(이펙트)에 해당하는 에셋 **127개**입니다. 라이브러리에서 보기: [?cat=effect](https://sigco3111.github.io/game-asset-catalog/?cat=effect)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 126행 (전체 126개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 127행 (전체 127개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Elemental Charge Effects](https://opengameart.org/content/elemental-charge-effects) | `effect` | Kelvin Shadewing | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/elemental-charge-effects/elemental-charge-effects.zip) | 2026-11-12 |
 | [Explolsion V2](https://opengameart.org/content/explolsion-v2) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explolsion-v2/explolsion-v2.zip) | 2026-11-12 |
 | [Lightning (low quality)](https://opengameart.org/content/lightning-low-quality) | `effect` | cogitollc | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lightning-low-quality/lightning-low-quality.zip) | 2026-11-12 |
+| [Pixel Art Explosion Animation](https://opengameart.org/content/pixel-art-explosion-animation) | `effect` | 9KeyStudio | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-art-explosion-animation/pixel-art-explosion-animation.zip) | 2026-11-12 |
 | [Shape Particles](https://opengameart.org/content/shape-particles) | `effect` | iyol | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/shape-particles/shape-particles.zip) | 2026-11-12 |
 | [Angel Wings Effect](https://opengameart.org/content/angel-wings-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/angel-wings-effect/angel-wings-effect.zip) | 2026-11-11 |
 | [Animated bomb explosion](https://opengameart.org/content/animated-bomb-explosion) | `effect` | Bobjt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/animated-bomb-explosion/animated-bomb-explosion.zip) | 2026-11-11 |

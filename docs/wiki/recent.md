@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@16f4b26b73a2ad5462deda71ec769cf7fa9e966e`
+> generated from `catalog.csv@c1b50286d00e9e85b9edad4aa729acb24ac117e3`
 
 # 최근 추가된 에셋 (최신 100개)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-09.
+추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-10.
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
@@ -17,11 +17,13 @@
 | [Bald Man - Rigged](https://opengameart.org/content/bald-man-rigged) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/bald-man-rigged.zip) | 2026-11-12 |
 | [Basic Female](https://opengameart.org/content/basic-female-0) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/basic-female.zip) | 2026-11-12 |
 | [Basic Pixel Animated Spells](https://opengameart.org/content/basic-pixel-animated-spells) | `effect` | beddedOtaku | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/basic-pixel-animated-spells/basic-pixel-animated-spells.zip) | 2026-11-12 |
+| [Bone Golem](https://opengameart.org/content/bone-golem) | `character-3d` | Mophs | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/bone-golem/bone-golem.zip) | 2026-11-12 |
 | [Cc0 crates + wooden pallet](https://opengameart.org/content/cc0-crates-wooden-pallet) | `model-3d` | Lucian Pavel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/cc0-crates-wooden-pallet.zip) | 2026-11-12 |
 | [Chibi Neko by cosmix](https://opengameart.org/content/chibi-neko-by-cosmix) | `character-3d` | zodiepupper (모델 제작: cosmix) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/chibi-neko-by-cosmix/chibi-neko-by-cosmix.zip) | 2026-11-12 |
 | [Crate](https://opengameart.org/content/crate-5) | `model-3d` | Kutejnikov | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/crate/crate.zip) | 2026-11-12 |
 | [Crate 3](https://opengameart.org/content/crate-3) | `model-3d` | plaggy | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/crate-3/crate-3.zip) | 2026-11-12 |
 | [desert castle/tower](https://opengameart.org/content/desert-castletower) | `building-3d` | unForastero | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/desert-castle-tower/desert-castle-tower.zip) | 2026-11-12 |
+| [Destroyed Walls - 3D models](https://opengameart.org/content/destroyed-walls-3d-models) | `model-3d` | LFA | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/destroyed-walls-3d-models/destroyed-walls-3d-models.zip) | 2026-11-12 |
 | [Elemental Charge Effects](https://opengameart.org/content/elemental-charge-effects) | `effect` | Kelvin Shadewing | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/elemental-charge-effects/elemental-charge-effects.zip) | 2026-11-12 |
 | [Energy Sword](https://opengameart.org/content/energy-sword) | `model-3d` | ova Xen | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/energy-sword.zip) | 2026-11-12 |
 | [Explolsion V2](https://opengameart.org/content/explolsion-v2) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explolsion-v2/explolsion-v2.zip) | 2026-11-12 |
@@ -39,6 +41,7 @@
 | [Medieval Dungeon – Modular Base Kit (Free)](https://opengameart.org/content/medieval-dungeon-%E2%80%93-modular-base-kit-free) | `model-3d` | Nodex3D | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/medieval-dungeon-modular-base-kit-free.zip) | 2026-11-12 |
 | [Mushroom Enemy](https://opengameart.org/content/mushroom-enemy) | `character-3d` | Q2DENJINDREW | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mushroom-enemy/mushroom-enemy.zip) | 2026-11-12 |
 | [Pine Tree](https://opengameart.org/content/pine-tree) | `model-3d` | trent\_taray | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/pine-tree/pine-tree.zip) | 2026-11-12 |
+| [Pixel Art Explosion Animation](https://opengameart.org/content/pixel-art-explosion-animation) | `effect` | 9KeyStudio | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-art-explosion-animation/pixel-art-explosion-animation.zip) | 2026-11-12 |
 | [PSX Style Cars](https://opengameart.org/content/psx-style-cars) | `vehicle-3d` | GGBotNet | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/psx-style-cars/psx-style-cars.zip) | 2026-11-12 |
 | [Punch SFX](https://opengameart.org/content/punch-sfx) | `sfx` | DavidW | CC-BY 4.0 (페이지에 CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 병기, CC-BY 4.0 선택) | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/punch-sfx/punch-sfx.zip) | 2026-11-12 |
 | [Sci-Fi Rotary Turret](https://opengameart.org/content/sci-fi-rotary-turret) | `model-3d` | David W CG | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/sci-fi-rotary-turret.zip) | 2026-11-12 |
@@ -110,6 +113,3 @@
 | [Pixelated Hit Animations](https://opengameart.org/content/pixelated-hit-animations) | `effect` | Viktor Hahn (Unnamed) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixelated-hit-animations/pixelated-hit-animations.zip) | 2026-11-10 |
 | [Simple Buildings Pack (August 2017)](https://quaternius.com/packs/simplebuildings.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/simple-buildings-pack/simple-buildings-pack.zip) | 2026-11-10 |
 | [Teleporter Circle](https://opengameart.org/content/teleporter-circle) | `effect` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/teleporter-circle/teleporter-circle.zip) | 2026-11-10 |
-| [Ultimate Guns Pack (July 2019)](https://quaternius.com/packs/ultimategun.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ultimate-guns-pack/ultimate-guns-pack.zip) | 2026-11-10 |
-| [Doomsday Laser Cannon Sound Effect](https://opengameart.org/content/doomsday-laser-cannon-sound-effect) | `sfx` | TAD | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/doomsday-laser-cannon-sound-effect/doomsday-laser-cannon-sound-effect.zip) | 2026-11-09 |
-| [Explosions](https://opengameart.org/content/explosions-4) | `sfx` | EZduzziteh | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/explosions-4/explosions-4.zip) | 2026-11-09 |

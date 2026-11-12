@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@70b55f9fb600edf3352b17b3e2879566e651cee5`
+> generated from `catalog.csv@ab6819fff44983c286e45e36fd63e259a5c8ce36`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **1809개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **1812개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -16,8 +16,8 @@
 
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
-| cc0 | CC0 | 1687 | 0 | 예 |
-| cc-by | CC-BY | 107 | 107 | 예 |
+| cc0 | CC0 | 1688 | 0 | 예 |
+| cc-by | CC-BY | 109 | 109 | 예 |
 | mit | MIT | 3 | 3 | 예 |
 | gpl | GPL 2.0/3.0 | 9 | 9 | 예 |
 | other | 기타(허용 목록 밖) | 3 | 0 | 아니오 |
@@ -28,9 +28,9 @@
 
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
-| CC0 | cc0 | X | 1686 |
-| CC-BY 3.0 | cc-by | O | 52 |
-| CC-BY 4.0 | cc-by | O | 48 |
+| CC0 | cc0 | X | 1687 |
+| CC-BY 3.0 | cc-by | O | 53 |
+| CC-BY 4.0 | cc-by | O | 49 |
 | GPL 3.0 | gpl | O | 9 |
 | CC-BY 3.0 / GPL 2.0 (원본 페이지 이중 표기, 둘 다 허용 라이선스; CC-BY 3.0 선택) | cc-by | O | 3 |
 | MIT | mit | O | 3 |
@@ -44,7 +44,7 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 119개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 121개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
@@ -52,10 +52,12 @@
 | [Elemental Charge Effects](https://opengameart.org/content/elemental-charge-effects) | Kelvin Shadewing | GPL 3.0 | required (GPL 3.0 copyleft): Kelvin Shadewing — Elemental Charge Effects (https://opengameart.org/content/elemental-charge-effects). 파생물 재배포 시 GPL 3.0 전문·고지 유지 및 소스 공개 필요(카피레프트) | 2026-11-12 |
 | [Explolsion V2](https://opengameart.org/content/explolsion-v2) | davididev | CC-BY 3.0 | required: davididev — "Explolsion V2" (https://opengameart.org/content/explolsion-v2), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지 Copyright/Attribution Notice: "Attribute davididev or davididev.com if you use this" | 2026-11-12 |
 | [GDQuest 3D Characters Repository](https://opengameart.org/content/gdquest-3d-characters-repository) | GDQuest (Thibaud Goiffon); OGA: hardboileduser | CC-BY 4.0 | required: GDQuest — "GDQuest 3D Characters Repository" (https://opengameart.org/content/gdquest-3d-characters-repository), CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/); 페이지 문구: "\[Asset's Name\] (image textures and 3D models) by GDQuest licensed CC-BY 4.0: https://github.com/gdquest-demos/godot-4-3D-Characters"; 캐릭터 제작 Thibaud Goiffon | 2026-11-12 |
+| [Low-Poly Mushrooms](https://opengameart.org/content/low-poly-mushrooms) | Clint Bellanger | CC-BY 3.0 | required: Clint Bellanger — "Low-Poly Mushrooms" (https://opengameart.org/content/low-poly-mushrooms), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지에 별도 귀속 문구 없음 | 2026-11-12 |
 | [Low-poly Swords](https://opengameart.org/content/low-poly-swords) | Lamoot | CC-BY 3.0 | required: Lamoot — "Low-poly Swords" (https://opengameart.org/content/low-poly-swords), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지에 별도 귀속 문구 없음 | 2026-11-12 |
 | [Medieval Dungeon – Modular Base Kit (Free)](https://opengameart.org/content/medieval-dungeon-%E2%80%93-modular-base-kit-free) | Nodex3D | CC-BY 4.0 | required: Nodex3D — "Medieval Dungeon – Modular Base Kit (Free)" (https://opengameart.org/content/medieval-dungeon-%E2%80%93-modular-base-kit-free), CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/); 페이지 문구: "Medieval Dungeon – Modular Base Kit by Nodex3D (nodex3d.itch.io)" | 2026-11-12 |
 | [Punch SFX](https://opengameart.org/content/punch-sfx) | DavidW | CC-BY 4.0 (페이지에 CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 병기, CC-BY 4.0 선택) | required: DavidW — "Punch SFX" (https://opengameart.org/content/punch-sfx), CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/); 페이지에 별도 귀속 문구 없음 | 2026-11-12 |
 | [Sci-Fi Rotary Turret](https://opengameart.org/content/sci-fi-rotary-turret) | David W CG | CC-BY 4.0 | required: David W CG — "Sci-Fi Rotary Turret" (https://opengameart.org/content/sci-fi-rotary-turret), CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/); 페이지에 별도 귀속 문구 없음 | 2026-11-12 |
+| [Sci-Fi Shipping Crate](https://opengameart.org/content/sci-fi-shipping-crate) | David W CG | CC-BY 4.0 | required: David W CG — "Sci-Fi Shipping Crate" (https://opengameart.org/content/sci-fi-shipping-crate), CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/); 페이지에 별도 귀속 문구 없음 | 2026-11-12 |
 | [Animated Fireball](https://opengameart.org/content/animated-fireball) | cemkalyoncu | CC-BY 3.0 | required: cemkalyoncu — "Animated Fireball" (https://opengameart.org/content/animated-fireball), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지에 별도 귀속 문구 없음 | 2026-11-11 |
 | [Big Explosion](https://opengameart.org/content/big-explosion) | Blender Foundation | CC-BY 3.0 | required: Blender Foundation — "Big Explosion" (https://opengameart.org/content/big-explosion), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지에 별도 귀속 문구 없음 | 2026-11-11 |
 | [Boom Pack 2](https://opengameart.org/content/boom-pack-2) | dklon | CC-BY 3.0 | required: dklon — "Boom Pack 2" (https://opengameart.org/content/boom-pack-2), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지 문구 "If you do use this, all I ask is that you credit me as dklon somewhere." | 2026-11-11 |

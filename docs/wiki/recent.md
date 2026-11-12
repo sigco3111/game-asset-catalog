@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@ab6819fff44983c286e45e36fd63e259a5c8ce36`
+> generated from `catalog.csv@b78891df985c1e88fa36775ffa103796a7f15a16`
 
 # 최근 추가된 에셋 (최신 100개)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-08.
+추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-09.
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
@@ -42,11 +42,15 @@
 | [Sci-Fi Rotary Turret](https://opengameart.org/content/sci-fi-rotary-turret) | `model-3d` | David W CG | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/sci-fi-rotary-turret.zip) | 2026-11-12 |
 | [Sci-Fi Shipping Crate](https://opengameart.org/content/sci-fi-shipping-crate) | `model-3d` | David W CG | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sci-fi-shipping-crate/sci-fi-shipping-crate.zip) | 2026-11-12 |
 | [Shape Particles](https://opengameart.org/content/shape-particles) | `effect` | iyol | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/shape-particles/shape-particles.zip) | 2026-11-12 |
+| [Shimmer glitter magic](https://opengameart.org/content/shimmer-glitter-magic) | `sfx` | The Berklee College of Music | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/shimmer-glitter-magic/shimmer-glitter-magic.zip) | 2026-11-12 |
+| [Spell 4 (fire)](https://opengameart.org/content/spell-4-fire) | `sfx` | Bart K. | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/spell-4-fire/spell-4-fire.zip) | 2026-11-12 |
 | [Swinging blade trap](https://opengameart.org/content/swinging-blade-trap) | `model-3d` | Q2DENJINDREW | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/swinging-blade-trap/swinging-blade-trap.zip) | 2026-11-12 |
 | [Synthesized Fire Sound Effect](https://opengameart.org/content/synthesized-fire-sound-effect) | `sfx` | Spring Spring | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/synthesized-fire-sound-effect/synthesized-fire-sound-effect.zip) | 2026-11-12 |
 | [Ultimate 3D Car Assets Pack (w Interiors and Animations)](https://opengameart.org/content/ultimate-3d-car-assets-pack-w-interiors-and-animations) | `vehicle-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ultimate-3d-car-assets-pack/ultimate-3d-car-assets-pack.zip) | 2026-11-12 |
+| [Undead male](https://opengameart.org/content/undead-male) | `character-3d` | TiZiana | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/undead-male/undead-male.zip) | 2026-11-12 |
 | [Weoh-Weoh-Weoh...](https://opengameart.org/content/weoh-weoh-weoh) | `sfx` | viwooh | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/weoh-weoh-weoh/weoh-weoh-weoh.zip) | 2026-11-12 |
 | [Wolf Mutant 3D](https://opengameart.org/content/wolf-mutant-3d) | `character-3d` | Prjsj8guge | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/wolf-mutant-3d/wolf-mutant-3d.zip) | 2026-11-12 |
+| [Wooden crate](https://opengameart.org/content/wooden-crate-0) | `model-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/wooden-crate.zip) | 2026-11-12 |
 | [불씨의 서약 아트](https://readasesang-lab.vercel.app/v16/) | `other` | 리드어세상 | 원작자 허용 (수정·사용 자유; 그대로 다시 올려 파는 것 금지) | X | O | 3개 분할 | 2026-11-12 |
 | [Angel Wings Effect](https://opengameart.org/content/angel-wings-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/angel-wings-effect/angel-wings-effect.zip) | 2026-11-11 |
 | [Animated bomb explosion](https://opengameart.org/content/animated-bomb-explosion) | `effect` | Bobjt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/animated-bomb-explosion/animated-bomb-explosion.zip) | 2026-11-11 |
@@ -109,7 +113,3 @@
 | [Heal effect](https://opengameart.org/content/heal-effect) | `effect` | John2k | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/heal-effect/heal-effect.zip) | 2026-11-09 |
 | [High resolution slash effects](https://opengameart.org/content/high-resolution-slash-effects) | `effect` | MetaShinryu | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/high-resolution-slash-effects/high-res-slashes.zip) | 2026-11-09 |
 | [Junk Food Pack](https://quaternius.com/packs/junkfood.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/junk-food-pack/junk-food-pack.zip) | 2026-11-09 |
-| [Lightning effect](https://opengameart.org/content/lightning-effect) | `effect` | John2k | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lightning-effect/lightning-effect.zip) | 2026-11-09 |
-| [Magic Words + Healing Sound Effect](https://opengameart.org/content/magic-words-healing-sound-effect) | `sfx` | Spring Spring | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/magic-words-healing-sound-effect/magic-words-healing-sound-effect.zip) | 2026-11-09 |
-| [Mini Shop](https://kenney.nl/assets/mini-shop) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-shop/kenney_mini-shop_2.1.zip) | 2026-11-09 |
-| [10 Impact/Shield Blocks](https://opengameart.org/content/10-impactshield-blocks) | `sfx` | StarNinjas | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/10-impactshield-blocks/10-impactshield-blocks.zip) | 2026-11-08 |

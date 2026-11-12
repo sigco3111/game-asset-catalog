@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@ab6819fff44983c286e45e36fd63e259a5c8ce36`
-- 데이터 행 수: **1812**
+- 원본: `catalog.csv@b78891df985c1e88fa36775ffa103796a7f15a16`
+- 데이터 행 수: **1816**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 2,694,414 bytes, `assets-index.min.json` 2,181,974 bytes
+- 파일 크기: `assets-index.json` 2,703,220 bytes, `assets-index.min.json` 2,189,420 bytes
 
 ## 2. 집계
 
@@ -17,8 +17,8 @@
 | repo | 개수 |
 |---|---|
 | assets-2d-pixel | 654 |
-| assets-3d-lowpoly | 470 |
-| assets-audio | 459 |
+| assets-3d-lowpoly | 472 |
+| assets-audio | 461 |
 | assets-ui-icons | 226 |
 | assets-2d-portraits | 3 |
 
@@ -26,9 +26,9 @@
 
 | category | 개수 |
 |---|---|
-| model-3d | 411 |
+| model-3d | 412 |
 | music | 230 |
-| sfx | 227 |
+| sfx | 229 |
 | ui | 205 |
 | tileset-2d | 146 |
 | sprite-2d | 132 |
@@ -37,7 +37,7 @@
 | texture | 70 |
 | icon | 40 |
 | background-2d | 27 |
-| character-3d | 26 |
+| character-3d | 27 |
 | building-3d | 23 |
 | vehicle-3d | 10 |
 | board | 5 |
@@ -51,7 +51,7 @@
 
 | type(원본) | category | 개수 |
 |---|---|---|
-| 효과음 | sfx | 227 |
+| 효과음 | sfx | 229 |
 | 3D | model-3d | 226 |
 | 음악 | music | 211 |
 | UI·아이콘 | ui | 187 |
@@ -64,15 +64,15 @@
 | 2D | tileset-2d | 48 |
 | 아이콘 | icon | 39 |
 | 2D | sprite-2d | 29 |
+| 3D 캐릭터 | character-3d | 27 |
 | 3D 모듈 키트 | model-3d | 26 |
-| 3D 캐릭터 | character-3d | 26 |
 | 3D 건물 | building-3d | 23 |
 | 2D | effect | 19 |
 | 배경음악 | music | 19 |
 | 2D 배경 | background-2d | 17 |
 | 2D UI | ui | 13 |
 | 2D 캐릭터 | sprite-2d | 12 |
-| 3D 소품 | model-3d | 11 |
+| 3D 소품 | model-3d | 12 |
 | 2D | background-2d | 10 |
 | 3D 탈것 | vehicle-3d | 10 |
 | 3D 무기 | model-3d | 7 |
@@ -119,8 +119,8 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license_family | 개수 |
 |---|---|
-| cc0 | 1688 |
-| cc-by | 109 |
+| cc0 | 1689 |
+| cc-by | 112 |
 | gpl | 9 |
 | mit | 3 |
 | other | 3 |
@@ -129,8 +129,8 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license | 개수 |
 |---|---|
-| CC0 | 1687 |
-| CC-BY 3.0 | 53 |
+| CC0 | 1688 |
+| CC-BY 3.0 | 56 |
 | CC-BY 4.0 | 49 |
 | GPL 3.0 | 9 |
 | CC-BY 3.0 / GPL 2.0 (원본 페이지 이중 표기, 둘 다 허용 라이선스; CC-BY 3.0 선택) | 3 |
@@ -157,7 +157,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2026-11-09 | 9 |
 | 2026-11-10 | 14 |
 | 2026-11-11 | 41 |
-| 2026-11-12 | 35 |
+| 2026-11-12 | 39 |
 
 ### 상위 태그 30
 
@@ -165,25 +165,25 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 |---|---|
 | 2d | 243 |
 | music | 229 |
+| sfx | 229 |
 | 3d | 228 |
-| sfx | 227 |
 | ui·아이콘 | 182 |
-| rpg | 143 |
-| fantasy | 102 |
+| rpg | 146 |
+| fantasy | 105 |
 | pixel | 93 |
 | platformer | 84 |
+| lowpoly | 80 |
 | icons | 78 |
-| lowpoly | 78 |
 | tileset | 67 |
 | animated | 66 |
 | texture | 66 |
+| magic | 63 |
 | effect | 62 |
 | ui | 62 |
 | effects | 61 |
-| magic | 61 |
 | modular | 59 |
 | medieval | 57 |
-| spell | 54 |
+| spell | 56 |
 | isometric | 49 |
 | tiles | 47 |
 | animation | 44 |
@@ -200,10 +200,10 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 |---|---|
 | hit | 39 |
 | impact | 45 |
-| magic | 83 |
+| magic | 85 |
 | explosion | 57 |
 | lightning | 26 |
-| fire | 46 |
+| fire | 47 |
 | ice | 20 |
 | wind | 9 |
 | heal | 16 |
@@ -214,9 +214,9 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | projectile | 25 |
 | slash | 7 |
 
-- effect_kind가 하나 이상인 에셋: 218 / 1812
+- effect_kind가 하나 이상인 에셋: 220 / 1816
 
-- attribution_required=true: 121, ai_generated=true: 4, preview 있음: 1366, 분할(split) 행: 147
+- attribution_required=true: 124, ai_generated=true: 4, preview 있음: 1370, 분할(split) 행: 147
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
@@ -249,7 +249,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 ### 3.4 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 라이선스 표기 — 값은 수정하지 않음
 
-- 허용 목록과 정확히 일치: 1801행
+- 허용 목록과 정확히 일치: 1805행
 - 허용 라이선스로 시작하지만 부가 설명이 붙은 표기: 8행 (6종)
 - 허용 목록에 해당하지 않음: **3행** (2종)
 
@@ -273,7 +273,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 - 참고: license_family가 cc-by/mit/gpl인데 attribution이 `optional`로 시작하는 행: 0건 (규칙상 attribution_required=false 처리됨; 확인 필요)
 - 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 0건
 - 참고: attribution이 `불요`로 시작하거나 `없음`/`none`/`n/a`인 행: 2건 — attribution_required=false 처리 (정제 2차 변경; 이전에는 `불요` 2행이 true였음: assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56)
-- 참고: attribution_required=true인 행 121건 (cc0인데 true: 0건)
+- 참고: attribution_required=true인 행 124건 (cc0인데 true: 0건)
 
 ### 3.6 file 열 경로 형식 이상: 1건
 
@@ -281,15 +281,15 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 |---|---|---|
 | 1682 | https://raw.githubusercontent.com/sigco3111/assets-2d-pixel/main/cheonha-sambun/cheonha-sambun-assets.zip | 중복 슬래시 |
 - file 열이 저장소 상대경로가 아니라 전체 URL인 행 1건: 색인의 download_path는 같은 저장소의 상대경로로 환산(cheonha-sambun/cheonha-sambun-assets.zip), 원본 file 값은 `file`에 그대로 유지.
-- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1528행, 저장소 트리 경로 284행
+- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1529행, 저장소 트리 경로 287행
 - split 열 값이 `Y`(파트 파일명 미나열, 폴더 내 part1~N zip)인 행: 11건 — `multipart=true`, download_url은 file 열(part1) 기준.
 - 파트 파일명이 나열된 분할 업로드(split 열) 147행: file 열의 단일 파일명은 릴리스에 존재하지 않을 수 있고 실제 파일은 `split_parts`임 (예: `assets-3d-lowpoly/kaykit-skeletons-1-0`). 이 행들의 `download_url`은 null, 대신 `download_urls`에 분할 파일 URL 목록을 둠.
-- file 확장자 분포: .zip 1730, .part01 47, .png 16, .ogg 7, .mp3 6, .svg 2, .wav 2, .gif 1, .jpg 1
+- file 확장자 분포: .zip 1734, .part01 47, .png 16, .ogg 7, .mp3 6, .svg 2, .wav 2, .gif 1, .jpg 1
 
 ### 3.7 기타 관찰
 
 - category가 `other`인 행: 124 (원본 type 분포: 2D 120, 2D 일러스트 2, 2D 컨셉아트 1, 2D 초상화 1) — 원본 type이 `2D`처럼 모호하면 추측하지 않고 other로 둠.
-- notes에 `AI 생성` 문자열이 있는 행 126건 중 `AI 생성 아님`/`AI 생성 여부 …` 형태의 부정·불명 표현을 제외한 행 2건, 그리고 license/notes에 `AI-generated`/`AI generated`/`AI 생성물`이 긍정 의미로 있는 행을 ai_generated=true로 판정: 총 4건.
+- notes에 `AI 생성` 문자열이 있는 행 130건 중 `AI 생성 아님`/`AI 생성 여부 …` 형태의 부정·불명 표현을 제외한 행 2건, 그리고 license/notes에 `AI-generated`/`AI generated`/`AI 생성물`이 긍정 의미로 있는 행을 ai_generated=true로 판정: 총 4건.
 - `AI 생성 아님`/`AI 생성 여부` 표기만 있는 행 중 true가 된 행: 0건
 
 | CSV 줄 | name | repo | 근거 |

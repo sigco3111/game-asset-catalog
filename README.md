@@ -5,7 +5,21 @@
 
 ## 📸 실제 실행 화면
 
-![게임 에셋 도서관 실제 화면 - 1,820개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+![게임 에셋 도서관 실제 화면 - 1,823개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+
+## 2026-11-12 A71 추가 (3팩, 총 1823팩)
+
+소유자의 짧은 수집 라운드(3~4팩, 약 14분) 지시로 A70에서 보류한 2D 이펙트 후보 Pixel Art Explosion Animation과, OpenGameArt 3D Art 인기순에서 새로 찾은 3D 2팩 Destroyed Walls - 3D models·Bone Golem(모두 opengameart.org)을 수집했습니다. 시작 전 library index(assets-index.min.json 1820팩)와 catalog.csv(1820행)에서 제목과 source_url로 3개 모두 없음을 확인했고, 각 페이지의 라이선스 표기·파일 크기·AI 언급 여부를 읽어 확인했습니다(AI 생성 언급 없음). 3팩 모두 zip 5MB 이하라 저장소 트리에 올렸습니다. Pixel Art Explosion Animation은 페이지에 zip이 없어 PNG 2개를 바이트 그대로 무압축 zip으로 묶었고, 나머지 2팩은 페이지 zip을 수정 없이 보관했습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Destroyed Walls - 3D models](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/destroyed-walls-3d-models) | assets-3d-lowpoly | LFA | CC-BY 3.0 | 파괴된 벽 3D 모델(텍스처·UV 포함) FBX 1 + Maya MA 1 + OBJ 2 + 텍스처 BMP 2, zip 1개 3.21MB(페이지 zip 그대로); 페이지 CC-BY 3.0 단독; 귀속 필수(CREDITS.txt); AI 생성 아님 |
+| [Bone Golem](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/bone-golem) | assets-3d-lowpoly | Mophs | CC-BY 3.0 | 핸드페인트 뼈 골렘 몬스터(약 4k 삼각형) OBJ 1 + 디퓨즈 텍스처 PNG 1, zip 1개 0.48MB(페이지 OBJ zip 그대로); 페이지 CC-BY 3.0 / GPL 3.0 병기 → CC-BY 3.0 선택; 귀속 필수(CREDITS.txt); AI 생성 아님 |
+| [Pixel Art Explosion Animation](https://github.com/sigco3111/assets-2d-pixel/tree/main/pixel-art-explosion-animation) | assets-2d-pixel | 9KeyStudio | CC0 | 픽셀 폭발 애니메이션 스프라이트시트 2종(Large 128x128·Medium 64x64, 6프레임) PNG 2, zip 1개 0.04MB(무압축 zip); 페이지 CC0 단독; 귀속 불필요(페이지에 크레딧 요청 있음); AI 생성 아님 |
+
+종류: 3D 2팩(assets-3d-lowpoly; 환경 1·몬스터 1), 2D 이펙트 1팩(assets-2d-pixel). 라이선스: CC0 1팩, CC-BY 3.0 2팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가; 새 폴더 주소(/upload/main/<폴더>)에서 대소문자를 유지하는 File 객체로 첨부), 업로드 후 저장소 파일 14개를 로컬과 git blob 해시로 대조해 모두 일치. 용량(GitHub API size): assets-3d-lowpoly 약 558MB, assets-2d-pixel 약 370MB(모두 700MB 미만), 새 저장소 생성 없음. 색인(assets-index*.json)·위키·llms.txt는 손대지 않고 Actions 자동 갱신에 맡김. 미수집: Fantasy Sound Effects Library(CC-BY 3.0, 31MB, assets-audio 릴리스 필요해 보류), 3rd person blender sci-fi pack(CC0이나 zip 33.2MB로 파일 한도 25MB 초과), Sheep (rigged, textured and animated)·Sci-Fi light tank·Magic Sword·Spell Book Pack(CC-BY-SA 3.0 단독이라 제외), 시간상 보류한 후보: Oozey the Slime·Rock Golem·Elemental Golem·Scifi plane·Turret(CC-BY 3.0)과 3d old jeep(GPL 병기). '천하삼분 게임 에셋 56'은 수집 대상이 아님.
+
+실제 팩 수(catalog.csv 기준): 2D 654 · 3D 476 · UI/아이콘 226 · 오디오 462 · 기타 5 (합계 1823).
 
 ## 2026-11-12 A70 추가 (4팩, 총 1820팩)
 
@@ -384,8 +398,8 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 655팩 |
-| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 474팩 (대부분 릴리스 첨부) |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 656팩 |
+| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 476팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
 | [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 462팩 |

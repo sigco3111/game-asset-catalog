@@ -5,7 +5,22 @@
 
 ## 📸 실제 실행 화면
 
-![게임 에셋 도서관 실제 화면 - 1,816개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+![게임 에셋 도서관 실제 화면 - 1,820개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+
+## 2026-11-12 A70 추가 (4팩, 총 1820팩)
+
+소유자의 짧은 수집 라운드(3~4팩, 약 14분) 지시로 A69에서 보류한 3D 후보 Wizard·Crate와 효과음 Short impact, OpenGameArt 2D Art 이펙트 검색에서 새로 찾은 Basic Pixel Animated Spells(모두 opengameart.org)를 수집했습니다. 시작 전 library index(assets-index.min.json 1816팩)와 catalog.csv(1816행)에서 제목과 source_url로 4개 모두 없음을 확인했고, 각 페이지의 라이선스 표기·파일 크기·AI 언급 여부를 읽어 확인했습니다(전부 페이지 단독 표기, AI 생성 언급 없음). Wizard(zip 25.64MB)는 5MB를 넘어 docs/capacity.md 규칙 1에 따라 assets-3d-lowpoly 릴리스 v9.1의 첨부로 추가했고(업로드 후 크기 26,881,599바이트가 로컬과 일치, 릴리스 설명에 한 줄 추가), 폴더에는 pack.md·preview.gif·LICENSE-SOURCE.txt·CREDITS.txt만 둡니다. 나머지 3팩은 저장소 트리에 올렸습니다. Crate는 페이지 파일이 7z라 해제한 뒤 내용 파일을 수정 없이 zip으로 다시 묶었습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Wizard](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/wizard) | assets-3d-lowpoly | AnthonyMyers | CC-BY 3.0 | 리깅·애니메이션된 마법사 캐릭터(지팡이·검 포함) Blend 1 + OBJ 2 + 3DS 1 + MTL 2 + 텍스처 PNG 4·BMP 5, zip 1개 25.64MB(페이지 zip 그대로, 릴리스 v9.1 첨부); 페이지 CC-BY 3.0 단독; 귀속 필수(CREDITS.txt); AI 생성 아님 |
+| [Crate](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/crate) | assets-3d-lowpoly | Kutejnikov | CC0 | 손그림 텍스처 나무 상자(12 삼각형) Blend 1 + FBX 1 + OBJ 1 + MTL 1 + 텍스처 PNG 4 + 2D용 아이소메트릭 렌더 PNG 4, zip 1개 2.54MB(페이지 7z를 해제해 zip으로 재압축, 저장소 트리); 페이지 CC0 단독; 귀속 불필요; AI 생성 아님 |
+| [Short impact](https://github.com/sigco3111/assets-audio/tree/main/short-impact) | assets-audio | Soundsnap | GPL 3.0 | 짧은 금속 타격 효과음 WAV 1종(모노 96kHz 24bit, 0.94초), zip 1개 0.27MB(무압축 zip) + sample.wav; 페이지 GPL 3.0 단독; 귀속 필수·카피레프트(LICENSE-GPL-3.0.txt 전문·CREDITS.txt 동봉); AI 생성 아님 |
+| [Basic Pixel Animated Spells](https://github.com/sigco3111/assets-2d-pixel/tree/main/basic-pixel-animated-spells) | assets-2d-pixel | beddedOtaku | CC0 | 픽셀 마법 이펙트 4종(불 2·땅·물/얼음, 140x90) GIF 8 + 스프라이트시트 PNG 1 + 원본 PSD 5, zip 1개 76.9KB(페이지 zip 그대로, 저장소 트리); 페이지 CC0 단독; 귀속 불필요; AI 생성 아님 |
+
+종류: 3D 2팩(assets-3d-lowpoly; 캐릭터 1·소품 1), 효과음 1팩(assets-audio), 2D 이펙트 1팩(assets-2d-pixel). 라이선스: CC0 2팩, CC-BY 3.0 1팩, GPL 3.0 1팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가; Wizard의 zip은 먼저 v9.1 릴리스에 올림; 새 폴더 주소(/upload/main/<폴더>)에서 대소문자를 유지하는 File 객체로 첨부), 업로드 후 저장소 파일 19개를 로컬과 git blob 해시로 대조해 모두 일치. assets-audio README 첫 줄의 팩 수(459)를 실제 수(462)로 고쳤고 assets-2d-pixel README의 팩 수도 655로 갱신했습니다(assets-3d-lowpoly README에는 팩 수 줄이 없음). 용량(GitHub API size): assets-3d-lowpoly 약 554MB, assets-2d-pixel 약 370MB, assets-audio 약 381MB(모두 700MB 미만), 새 저장소 생성 없음. 색인(assets-index*.json)·위키·llms.txt는 손대지 않고 Actions 자동 갱신에 맡김. 미수집: Pixel Art Explosion Animation(CC0, PNG 2개 단일 시트라 보류), Fantasy Sound Effects Library(CC-BY 3.0, 31MB, assets-audio 릴리스 필요해 보류). '천하삼분 게임 에셋 56'은 수집 대상이 아님.
+
+실제 팩 수(catalog.csv 기준): 2D 653 · 3D 474 · UI/아이콘 226 · 오디오 462 · 기타 5 (합계 1820).
 
 ## 2026-11-12 A69 추가 (4팩, 총 1816팩)
 
@@ -369,11 +384,11 @@
 
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 654팩 |
-| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 472팩 (대부분 릴리스 첨부) |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 655팩 |
+| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 474팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 461팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 462팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (소유자의 AI 어시스턴트 Instinct가 생성한 자체 작업물, 소유자 결정으로 유지, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.

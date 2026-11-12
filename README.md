@@ -5,7 +5,22 @@
 
 ## 📸 실제 실행 화면
 
-![게임 에셋 도서관 실제 화면 - 1,794개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+![게임 에셋 도서관 실제 화면 - 1,798개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+
+## 2026-11-12 A64 추가 (4팩, 총 1798팩)
+
+소유자의 짧은 수집 라운드(3~4팩, 약 14분) 지시로 A63 이전에 보류한 후보 중 low poly iron ore·Pine Tree·Low-poly Swords(이상 3D)와 효과음 Weoh-Weoh-Weoh...(모두 opengameart.org) 4팩을 수집했습니다. 시작 전 library index(assets-index.min.json 1794팩)에서 제목과 source_url로 4개 모두 없음을 확인했고, 각 페이지의 라이선스 표기를 읽어 확인했습니다(전부 단독 표기, AI 생성 언급 없음).
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [low poly iron ore](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/low-poly-iron-ore) | assets-3d-lowpoly | musher3004 | CC0 | 로우폴리 철광석 OBJ + MTL + Blend, zip 1개 0.29MB(페이지 zip 그대로); 페이지 CC0 단독; 귀속 불필요 |
+| [Pine Tree](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/pine-tree) | assets-3d-lowpoly | trent_taray | CC0 | 로우폴리 소나무(129 삼각형) Blend 1 + 텍스처 PNG 1, zip 1개 0.95MB(페이지 파일을 바이트 그대로 zip으로 묶음); 페이지 CC0 단독; 귀속 불필요 |
+| [Low-poly Swords](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/low-poly-swords) | assets-3d-lowpoly | Lamoot | CC-BY 3.0 | 로우폴리 검 6종(각 약 350 삼각형, 텍스처 없음) Blend 1, zip 1개 0.25MB; 페이지 CC-BY 3.0 단독; 귀속 필수(CREDITS.txt) |
+| [Weoh-Weoh-Weoh...](https://github.com/sigco3111/assets-audio/tree/main/weoh-weoh-weoh) | assets-audio | viwooh | CC0 | SF·마법용 초현실 효과음 FLAC 1종, zip 1개 0.13MB(무압축 zip) + sample.flac; 페이지 CC0 단독; 귀속 불필요 |
+
+종류: 3D 3팩(assets-3d-lowpoly; 소품 1·환경 1·무기 1), 효과음 1팩(assets-audio). 라이선스: CC0 3팩, CC-BY 3.0 1팩. AI 생성 명시 팩 없음. 4커밋(팩당 1커밋: 에셋: <팩 이름> 추가), 업로드 후 저장소 파일 18개를 로컬과 sha256으로 대조해 모두 일치. 용량: assets-3d-lowpoly 약 538MB, assets-audio 약 380MB(700MB 미만), 새 저장소 생성 없음. 색인(assets-index*.json)·위키·llms.txt는 손대지 않고 Actions 자동 갱신에 맡김. 미수집(시간상): Swinging blade trap, Lightning Strike, Shape Particles, Short impact, 3rd version of Sparkle, Elemental Charge Effects, Cloud spark action VFX (low_poly_swords 슬러그는 404, 실제 slug low-poly-swords).
+
+실제 팩 수(catalog.csv 기준): 2D 649 · 3D 459 · UI/아이콘 226 · 오디오 459 · 기타 5 (합계 1798).
 
 ## 2026-11-12 A63 추가 (4팩, 총 1794팩)
 
@@ -282,10 +297,10 @@
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
 | [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 651팩 |
-| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 456팩 (대부분 릴리스 첨부) |
+| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 459팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 458팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 459팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (소유자의 AI 어시스턴트 Instinct가 생성한 자체 작업물, 소유자 결정으로 유지, 조건 없이 사용 가능) | 3팩 |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@5236cfad5b7f77f99d8b807ed935422c5f8c1afa`
+> generated from `catalog.csv@a199b99b59a7fec17f1a6bf68598aea8a269d290`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -14,9 +14,13 @@
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Explolsion V2](https://opengameart.org/content/explolsion-v2) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explolsion-v2/explolsion-v2.zip) | 2026-11-12 |
+| [flash bang sound](https://opengameart.org/content/flash-bang-sound) | `sfx` | teeeece | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/flash-bang-sound/flash-bang-sound.zip) | 2026-11-12 |
+| [GDQuest 3D Characters Repository](https://opengameart.org/content/gdquest-3d-characters-repository) | `character-3d` | GDQuest (Thibaud Goiffon); OGA: hardboileduser | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/gdquest-3d-characters-repository.zip) | 2026-11-12 |
+| [Horror Monster](https://opengameart.org/content/horror-monster-0) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/horror-monster.zip) | 2026-11-12 |
 | [Laser Sound Effects](https://opengameart.org/content/laser-sound-effects) | `sfx` | EZduzziteh | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/laser-sound-effects/laser-sound-effects.zip) | 2026-11-12 |
 | [Lightning (low quality)](https://opengameart.org/content/lightning-low-quality) | `effect` | cogitollc | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lightning-low-quality/lightning-low-quality.zip) | 2026-11-12 |
 | [Synthesized Fire Sound Effect](https://opengameart.org/content/synthesized-fire-sound-effect) | `sfx` | Spring Spring | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/synthesized-fire-sound-effect/synthesized-fire-sound-effect.zip) | 2026-11-12 |
+| [Ultimate 3D Car Assets Pack (w Interiors and Animations)](https://opengameart.org/content/ultimate-3d-car-assets-pack-w-interiors-and-animations) | `vehicle-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ultimate-3d-car-assets-pack/ultimate-3d-car-assets-pack.zip) | 2026-11-12 |
 | [불씨의 서약 아트](https://readasesang-lab.vercel.app/v16/) | `other` | 리드어세상 | 원작자 허용 (수정·사용 자유; 그대로 다시 올려 파는 것 금지) | X | O | 3개 분할 | 2026-11-12 |
 | [Angel Wings Effect](https://opengameart.org/content/angel-wings-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/angel-wings-effect/angel-wings-effect.zip) | 2026-11-11 |
 | [Animated bomb explosion](https://opengameart.org/content/animated-bomb-explosion) | `effect` | Bobjt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/animated-bomb-explosion/animated-bomb-explosion.zip) | 2026-11-11 |
@@ -109,7 +113,3 @@
 | [AlotofImpacts - 6 Frame Impacts - 4 Additional variations](https://opengameart.org/content/alotofimpacts-6-frame-impacts-4-additional-variations) | `effect` | JoesAlotofthings | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/alotofimpacts-6-frame-impacts-4-additional-variations/alotofimpacts-6-frame-impacts-4-additional-variations.zip) | 2026-11-08 |
 | [AlotofImpacts - 6 Frame Impacts - 4 variations](https://opengameart.org/content/alotofimpacts-6-frame-impacts-4-variations) | `effect` | JoesAlotofthings | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/alotofimpacts-6-frame-impacts-4-variations/alotofimpacts-6-frame-impacts-4-variations.zip) | 2026-11-08 |
 | [AlotofImpacts - 8 Frame Impacts. (2 Colors) 11of20](https://opengameart.org/content/alotofimpacts-8-frame-impacts-2-colors-11of20) | `effect` | JoesAlotofthings | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/alotofimpacts-8-frame-impacts-2-colors-11of20/alotofimpacts-8-frame-impacts-2-colors-11of20.zip) | 2026-11-08 |
-| [AlotofImpacts - Quick 4 Frame Impacts - Impacts001 - 004](https://opengameart.org/content/alotofimpacts-quick-4-frame-impacts-impacts001-004) | `effect` | JoesAlotofthings | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/alotofimpacts-quick-4-frame-impacts-impacts001-004/alotofimpacts-quick-4-frame-impacts-impacts001-004.zip) | 2026-11-08 |
-| [AlotofImpacts - Something Different - 15 Frame Dual Color Impact/explosion. Impacts-12of20](https://opengameart.org/content/alotofimpacts-something-different-15-frame-dual-color-impactexplosion-impacts-12of20) | `effect` | JoesAlotofthings | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/alotofimpacts-something-different-15-frame-dual-color-impactexplosion-impacts-12of20/alotofimpacts-something-different-15-frame-dual-color-impactexplosion-impacts-12of20.zip) | 2026-11-08 |
-| [Angel Shield Effect](https://opengameart.org/content/angel-shield-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/angel-shield-effect/angel-shield-effect.zip) | 2026-11-08 |
-| [Arcane Magic Effect](https://opengameart.org/content/arcane-magic-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/arcane-magic-effect/arcane-magic-effect.zip) | 2026-11-08 |

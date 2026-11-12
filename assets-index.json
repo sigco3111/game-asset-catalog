@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@b78891df985c1e88fa36775ffa103796a7f15a16",
-  "count": 1816,
+  "generated_from": "catalog.csv@16f4b26b73a2ad5462deda71ec769cf7fa9e966e",
+  "count": 1820,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -64634,6 +64634,176 @@
         "https://github.com/sigco3111/assets-audio/raw/main/shimmer-glitter-magic/shimmer-glitter-magic.zip"
       ],
       "sample": "https://raw.githubusercontent.com/sigco3111/assets-audio/main/shimmer-glitter-magic/sample.flac",
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/wizard",
+      "name": "Wizard",
+      "repo": "assets-3d-lowpoly",
+      "file": "releases/download/v9.1/wizard.zip",
+      "type": "3D 캐릭터",
+      "category": "character-3d",
+      "tags": [
+        "wizard",
+        "animation",
+        "blender",
+        "rigged",
+        "staff",
+        "sword",
+        "character",
+        "human",
+        "fantasy",
+        "rpg",
+        "obj",
+        "3ds",
+        "blend"
+      ],
+      "effect_kind": [
+        "magic"
+      ],
+      "author": "AnthonyMyers",
+      "source_url": "https://opengameart.org/content/wizard-4",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: AnthonyMyers — \"Wizard\" (https://opengameart.org/content/wizard-4), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지에 별도 귀속 문구 없음",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-12",
+      "notes": "리깅·애니메이션된 마법사 캐릭터(지팡이·검 포함) Blend 1 + OBJ 2 + 3DS 1 + MTL 2 + 텍스처 PNG 4·BMP 5; 파일 15개 (zip 안 폴더 Wizard/); zip 1개 25.64MB(assets-3d-lowpoly 릴리스 v9.1 첨부, 저장소 트리에는 없음); OGA 페이지 라이선스 CC-BY 3.0 단독; AI 생성 아님(페이지에 AI 언급 없음); 페이지의 Wizard.zip을(를) 수정 없이 그대로 보관(바이트 동일, 파일명만 wizard.zip으로 변경); 참고: 제작자는 검이 영화 속 Glamdring과 닮아 교체를 권장, 다른 Blender 애니메이션은 이 팩에 없음; 원본 라이선스 파일 없음; 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt 동봉; preview는 페이지의 첫 번째 미리보기 이미지(wizard.gif, 461x366 GIF)를 바이트 그대로 복사; 폴더에 pack.md",
+      "preview": "wizard/preview.gif",
+      "download_path": "releases/download/v9.1/wizard.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/wizard.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/wizard.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/crate",
+      "name": "Crate",
+      "repo": "assets-3d-lowpoly",
+      "file": "crate/crate.zip",
+      "type": "3D 소품",
+      "category": "model-3d",
+      "tags": [
+        "crate",
+        "box",
+        "hand-painted",
+        "wooden",
+        "prop",
+        "isometric",
+        "sprite",
+        "fbx",
+        "obj",
+        "blend",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Kutejnikov",
+      "source_url": "https://opengameart.org/content/crate-5",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Kutejnikov (opengameart.org, 필수 아님)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-12",
+      "notes": "손그림 텍스처 나무 상자 3D 모델(12 삼각형) Blend 1 + FBX 1 + OBJ 1 + MTL 1 + 텍스처 PNG 4(256x256) + 2D용 아이소메트릭 렌더 PNG 4(512x512) + ReadMe.txt; 파일 13개 (zip 안 폴더 Crate/); zip 1개 2.54MB; OGA 페이지 라이선스 CC0 단독(동봉 ReadMe.txt도 CC0); AI 생성 아님(페이지에 AI 언급 없음); 페이지의 crate.7z(2.5 Mb)를 해제해 내용 파일을 수정 없이 crate.zip으로 재압축; 수집자 작성 LICENSE-SOURCE.txt 동봉; preview는 페이지의 첫 번째 미리보기 이미지(preview_309.jpg, 712x712 JPEG)를 바이트 그대로 복사; 폴더에 pack.md",
+      "preview": "crate/preview.jpg",
+      "download_path": "crate/crate.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/crate/crate.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/crate/crate.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/short-impact",
+      "name": "Short impact",
+      "repo": "assets-audio",
+      "file": "short-impact/short-impact.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sfx",
+        "impact",
+        "hit",
+        "metal",
+        "action",
+        "wav"
+      ],
+      "effect_kind": [
+        "hit",
+        "impact"
+      ],
+      "author": "Soundsnap",
+      "source_url": "https://opengameart.org/content/short-impact",
+      "license": "GPL 3.0",
+      "license_note": null,
+      "license_family": "gpl",
+      "attribution": "required (GPL 3.0 copyleft): Soundsnap — \"Short impact.\" (https://opengameart.org/content/short-impact), GPL 3.0 (https://www.gnu.org/licenses/gpl-3.0.html). 파생물 재배포 시 GPL 3.0 전문·고지 유지 및 소스 공개 필요(카피레프트)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-12",
+      "notes": "짧은 금속 타격(임팩트) 효과음 WAV 1종(모노 96kHz 24bit, 0.94초); 파일 WAV 1개 (424911-impactshort78.wav); zip 1개 0.27MB; OGA 페이지 라이선스 GPL 3.0 단독; AI 생성 아님(페이지에 AI 언급 없음); 페이지에 zip이 없어 첨부 WAV 1개를 수집자가 바이트 그대로 무압축 zip으로 묶음; sample.wav는 424911-impactshort78.wav 복사본; 원본 라이선스 파일 없음; 수집자 작성 LICENSE-SOURCE.txt, CREDITS.txt, LICENSE-GPL-3.0.txt(GPL 3.0 전문) 동봉; preview는 페이지의 미리보기 이미지(OGA 오디오 미리보기 이미지 424911-impactshort78.wav.png, 160x120 PNG)를 바이트 그대로 복사; 폴더에 pack.md",
+      "preview": "short-impact/preview.png",
+      "download_path": "short-impact/short-impact.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/short-impact/short-impact.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/short-impact/short-impact.zip"
+      ],
+      "sample": "https://raw.githubusercontent.com/sigco3111/assets-audio/main/short-impact/sample.wav",
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/basic-pixel-animated-spells",
+      "name": "Basic Pixel Animated Spells",
+      "repo": "assets-2d-pixel",
+      "file": "basic-pixel-animated-spells/basic-pixel-animated-spells.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "spell",
+        "magic",
+        "fire",
+        "earth",
+        "water",
+        "ice",
+        "animation",
+        "pixel",
+        "vfx",
+        "spritesheet"
+      ],
+      "effect_kind": [
+        "magic",
+        "fire",
+        "ice"
+      ],
+      "author": "beddedOtaku",
+      "source_url": "https://opengameart.org/content/basic-pixel-animated-spells",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: beddedOtaku (opengameart.org, 필수 아님)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-12",
+      "notes": "기본 픽셀아트 애니메이션 마법 이펙트 4종(불 마법 2·땅·물/얼음; 140x90 GIF) — 개별 GIF 8개(v1·v2) + 전체 프레임 스프라이트시트 PNG 1개 + 원본 PSD 5개; 파일 14개 (GIF 8, PNG 1, PSD 5; zip 안 폴더 Pixel Animated Spells/); zip 1개 0.08MB; OGA 페이지 라이선스 CC0 단독; AI 생성 아님(페이지에 AI 언급 없음); 페이지의 Pixel Animated Spells.zip(78.7 Kb)을 수정 없이 그대로 보관(바이트 동일, 파일명만 basic-pixel-animated-spells.zip으로 변경); 원본 라이선스 파일 없음; 수집자 작성 LICENSE-SOURCE.txt 동봉; preview.gif는 페이지의 첫 번째 미리보기 이미지(FireSpell2.gif, 140x90 GIF)를 바이트 그대로 복사; 폴더에 pack.md",
+      "preview": "basic-pixel-animated-spells/preview.gif",
+      "download_path": "basic-pixel-animated-spells/basic-pixel-animated-spells.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/basic-pixel-animated-spells/basic-pixel-animated-spells.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/basic-pixel-animated-spells/basic-pixel-animated-spells.zip"
+      ],
+      "sample": null,
       "multipart": false,
       "split_parts": []
     }

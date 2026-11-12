@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@cdb373b05f1c8ee93b3e83f931d9cdeec9d86edd`
+> generated from `catalog.csv@70b55f9fb600edf3352b17b3e2879566e651cee5`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -14,7 +14,10 @@
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [3rd version of Sparkle](https://opengameart.org/content/3rd-version-of-sparkle) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/3rd-version-of-sparkle/3rd-version-of-sparkle.zip) | 2026-11-12 |
+| [Bald Man - Rigged](https://opengameart.org/content/bald-man-rigged) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/bald-man-rigged.zip) | 2026-11-12 |
+| [Basic Female](https://opengameart.org/content/basic-female-0) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/basic-female.zip) | 2026-11-12 |
 | [Chibi Neko by cosmix](https://opengameart.org/content/chibi-neko-by-cosmix) | `character-3d` | zodiepupper (모델 제작: cosmix) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/chibi-neko-by-cosmix/chibi-neko-by-cosmix.zip) | 2026-11-12 |
+| [Crate 3](https://opengameart.org/content/crate-3) | `model-3d` | plaggy | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/crate-3/crate-3.zip) | 2026-11-12 |
 | [desert castle/tower](https://opengameart.org/content/desert-castletower) | `building-3d` | unForastero | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/desert-castle-tower/desert-castle-tower.zip) | 2026-11-12 |
 | [Elemental Charge Effects](https://opengameart.org/content/elemental-charge-effects) | `effect` | Kelvin Shadewing | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/elemental-charge-effects/elemental-charge-effects.zip) | 2026-11-12 |
 | [Energy Sword](https://opengameart.org/content/energy-sword) | `model-3d` | ova Xen | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/energy-sword.zip) | 2026-11-12 |
@@ -110,6 +113,3 @@
 | [150 Combat Sound Effects](https://opengameart.org/content/150-combat-sound-effects) | `sfx` | untamedpixels | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/150-combat-sound-effects/150-combat-sound-effects-part1.zip) | 2026-11-08 |
 | [2 High Quality Explosions](https://opengameart.org/content/2-high-quality-explosions) | `sfx` | Michel Baradari | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/2-high-quality-explosions/2-high-quality-explosions.zip) | 2026-11-08 |
 | [2D Explosion Animations #3 \| Frame by frame](https://opengameart.org/content/2d-explosion-animations-3-frame-by-frame) | `effect` | Sinestesia | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/2d-explosion-animations-3-frame-by-frame/2d-explosion-animations-3-frame-by-frame.zip) | 2026-11-08 |
-| [2DFX Impact spritesheets!](https://opengameart.org/content/2dfx-impact-spritesheets) | `effect` | Inguz Media | CC0 (페이지에 CC-BY 3.0/4.0·CC-BY-SA·GPL 2.0/3.0·OGA-BY 3.0 병기, CC0 선택) | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/2dfx-impact-spritesheets/2dfx-impact-spritesheets.zip) | 2026-11-08 |
-| [3 Heal Spells](https://opengameart.org/content/3-heal-spells) | `sfx` | DoKashiteru | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/3-heal-spells/3-heal-spells.zip) | 2026-11-08 |
-| [3 Lasers](https://opengameart.org/content/3-lasers) | `effect` | StarNinjas | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/3-lasers/3-lasers.zip) | 2026-11-08 |

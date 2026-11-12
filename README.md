@@ -5,7 +5,22 @@
 
 ## 📸 실제 실행 화면
 
-![게임 에셋 도서관 실제 화면 - 1,786개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+![게임 에셋 도서관 실제 화면 - 1,790개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+
+## 2026-11-12 A62 추가 (4팩, 총 1790팩)
+
+소유자의 짧은 수집 라운드(3~4팩, 약 15분) 지시로 A61에서 보류한 3D 후보 중 Heavy Tank[extra low poly, RTS]·Locomotive·Wolf Mutant 3D·Energy Sword(모두 opengameart.org, CC0 단독) 4팩을 수집했습니다. 시작 전 library index(assets-index.min.json 1786팩)와 catalog.csv(1786행)에서 제목과 source_url로 4개 모두 없음을 확인했고(Locomotive는 같은 제목의 다른 팩 없음, Modular Train Pack은 Quaternius 별개 팩), 각 팩 페이지의 라이선스 표기·파일 크기·AI 언급 여부를 읽어 확인했습니다. Energy Sword(zip 6.2MB)는 5MB를 넘어 docs/capacity.md 규칙 1에 따라 기존 assets-3d-lowpoly 릴리스 v9.1의 첨부로 추가했고(업로드 후 GitHub 표시 sha256이 로컬과 일치), 폴더에는 pack.md·preview.png·LICENSE-SOURCE.txt만 둡니다. 나머지 3팩의 zip은 5MB 이하라 저장소 트리에 올렸습니다. 이번 라운드에서 다루지 않은 보류 후보(허용 라이선스, 팩 수 한도): Medieval Dungeon – Modular Base Kit (Free)(CC-BY 4.0, zip 33.1MB), Sci-fi Rotary Turret(CC-BY 4.0, 5.4MB), 3D Dungeon Tileset(CC-BY-SA 3.0 / GPL 3.0 병기, zip 24.3MB), Dwarf - fixed(GPL 2.0/3.0 등 병기, zip 38.9MB), KayKit: Dungeon Pack 1.0(구버전). '천하삼분 게임 에셋 56'은 수집 대상이 아님.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Heavy Tank[extra low poly, RTS]](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/heavy-tank-extra-low-poly-rts) | assets-3d-lowpoly | 32kda | CC0 | 중전차 3D 모델(극저폴리 792 정점, 3색 텍스처) Blend 1 + GLB 1 + PNG 1, zip 1개 0.16MB(페이지 zip 그대로, 저장소 트리); 페이지 CC0 단독; 귀속 불필요(선택: 32kda); AI 생성 아님 |
+| [Locomotive](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/locomotive-1) | assets-3d-lowpoly | 32kda | CC0 | 기관차 3D 모델(약 10,300 정점, 텍스처 아틀라스) Blend 1 + GLB 1 + TSCN 1 + PNG 3, zip 1개 3.32MB(페이지 zip 그대로, 저장소 트리); 페이지 CC0 단독; 귀속 불필요(선택: 32kda); AI 생성 아님 |
+| [Wolf Mutant 3D](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/wolf-mutant-3d) | assets-3d-lowpoly | Prjsj8guge | CC0 | 늑대 돌연변이 몬스터 FBX 모델 1 + 애니메이션 FBX 3(걷기·타격·점프 공격), zip 1개 0.52MB(페이지 zip 그대로, 저장소 트리); 페이지 CC0 단독; 귀속 불필요; AI 생성 아님 |
+| [Energy Sword](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/energy-sword) | assets-3d-lowpoly | ova Xen | CC0 | 에너지 소드 GLB 1 + 텍스처 PNG 2, zip 1개 5.93MB(페이지 zip 그대로, 릴리스 v9.1 첨부); 페이지 CC0 단독; 귀속 불필요(작가 언급 환영); AI 생성 아님 |
+
+종류: 3D 4팩(assets-3d-lowpoly; 탈것 2·캐릭터(몬스터) 1·무기 1). 라이선스: CC0 4팩. AI 생성 명시 팩 없음. 4커밋(팩당 1커밋: 에셋: Heavy Tank[extra low poly, RTS] 추가 / 에셋: Locomotive 추가 / 에셋: Wolf Mutant 3D 추가 / 에셋: Energy Sword 추가; 새 폴더 주소(/upload/main/<폴더>)에서 업로드), 업로드 후 저장소 파일을 로컬과 sha256으로 대조해 일치(릴리스 첨부 1개는 GitHub 표시 sha256 일치). 용량: assets-3d-lowpoly 약 530MB(양호, 700MB 미만; 새 저장소 불필요). 색인(assets-index*.json)·위키는 Actions 자동 갱신에 맡김.
+
+실제 팩 수(catalog.csv 기준): 2D 649 · 3D 453 · UI/아이콘 226 · 오디오 457 · 기타 5 (합계 1790).
 
 ## 2026-11-12 A61 추가 (4팩, 총 1786팩)
 
@@ -252,7 +267,7 @@
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
 | [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 651팩 |
-| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 449팩 (대부분 릴리스 첨부) |
+| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 453팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
 | [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 457팩 |

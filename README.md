@@ -5,7 +5,21 @@
 
 ## 📸 실제 실행 화면
 
-![게임 에셋 도서관 실제 화면 - 1,806개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+![게임 에셋 도서관 실제 화면 - 1,809개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+
+## 2026-11-12 A67 추가 (3팩, 총 1809팩)
+
+소유자의 짧은 수집 라운드(3~4팩, 약 14분) 지시로 A66에서 보류한 3D 후보 Bald Man - Rigged·Basic Female(이상 릴리스)과 새로 찾은 Crate 3(모두 opengameart.org, CC0 단독) 3팩을 수집했습니다. 시작 전 library index와 catalog.csv(1806행)에서 제목과 source_url로 3개 모두 없음을 확인했고, 각 페이지의 라이선스 표기·파일 크기·AI 언급 여부를 읽어 확인했습니다(전부 CC0 단독, AI 생성 언급 없음). Bald Man - Rigged(zip 7.09MB)와 Basic Female(zip 24.76MB)은 5MB를 넘어 docs/capacity.md 규칙 1에 따라 assets-3d-lowpoly 릴리스 v9.1의 첨부로 추가했고(내려받은 파일의 sha256이 로컬과 일치, 릴리스 설명에 두 줄 추가), 폴더에는 pack.md·preview.png·LICENSE-SOURCE.txt만 둡니다. Crate 3(zip 0.46MB)은 저장소 트리에 올렸습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Bald Man - Rigged](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/bald-man-rigged) | assets-3d-lowpoly | EmoPreben | CC0 | 대머리 남성 캐릭터 FBX 1(Mixamo 리깅, 8.8k 폴리) + 2048 텍스처 PNG 3, zip 1개 7.09MB(페이지 zip 그대로, 릴리스 v9.1 첨부); 페이지 CC0 단독; 귀속 불필요; AI 생성 아님 |
+| [Basic Female](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/basic-female) | assets-3d-lowpoly | EmoPreben | CC0 | 기본 여성 캐릭터 FBX 1(Mixamo 리깅, 8.5k 폴리) + 텍스처 PNG 3, zip 1개 24.76MB(페이지 zip 그대로, 릴리스 v9.1 첨부); 페이지 CC0 단독; 귀속 불필요(원하면 "EmoPreben" 크레딧 가능); AI 생성 아님 |
+| [Crate 3](https://github.com/sigco3111/assets-3d-lowpoly/tree/main/crate-3) | assets-3d-lowpoly | plaggy | CC0 | 나무 상자 로우폴리 모델 OBJ 1 + DAE 1 + 텍스처 JPG 3 + 미리보기 JPG 1, zip 1개 0.46MB(페이지 zip 그대로, 저장소 트리); 페이지 CC0 단독; 귀속 불필요; AI 생성 아님 |
+
+종류: 3D 3팩(assets-3d-lowpoly; 캐릭터 2·소품 1). 라이선스: CC0 3팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가; 릴리스 첨부 2개는 먼저 v9.1에 올림; 새 폴더 주소(/upload/main/<폴더>)에서 파일 이름 대소문자를 유지하는 File 객체로 LICENSE-SOURCE.txt 첨부), 업로드 후 저장소 파일 10개를 로컬과 sha256으로 대조해 모두 일치. 용량(GitHub API size): assets-3d-lowpoly 약 543MB(700MB 미만), 새 저장소 생성 없음. 색인(assets-index*.json)·위키·llms.txt는 손대지 않고 Actions 자동 갱신에 맡김. 미수집: Cartoon Character(s)(CC-BY 3.0이나 페이지 zip fatman_toon_fbx.zip 30.9MB 안에 FBX 모델이 없고 텍스처 PNG 10개뿐이라 3D 모델 팩으로 부적합), Wooden crate는 같은 이름의 페이지를 찾지 못해 대신 Crate 3 수집(다른 Crate 후보: Crate(Kutejnikov, 7z)·Cc0 crates + wooden pallet(16.1MB)은 시간상 보류). '천하삼분 게임 에셋 56'은 수집 대상이 아님.
+
+실제 팩 수(catalog.csv 기준): 2D 652 · 3D 467 · UI/아이콘 226 · 오디오 459 · 기타 5 (합계 1809).
 
 ## 2026-11-12 A66 추가 (4팩, 총 1806팩)
 
@@ -327,7 +341,7 @@
 | 저장소 | 내용 | 수록 |
 | --- | --- | --- |
 | [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 텍스처 | 654팩 |
-| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 464팩 (대부분 릴리스 첨부) |
+| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 467팩 (대부분 릴리스 첨부) |
 | [assets-3d-quaternius](https://github.com/sigco3111/assets-3d-quaternius) | Quaternius의 CC0 로우폴리 3D 팩 모음 (A7부터 신규 Quaternius 팩 전용, 폴더별 zip 분할) | 0팩 (신규) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 226팩 |
 | [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 459팩 |

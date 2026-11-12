@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@4409e612f173ca06e10b76087ffa28b119a44568`
+> generated from `catalog.csv@cdb373b05f1c8ee93b3e83f931d9cdeec9d86edd`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -14,10 +14,14 @@
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [3rd version of Sparkle](https://opengameart.org/content/3rd-version-of-sparkle) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/3rd-version-of-sparkle/3rd-version-of-sparkle.zip) | 2026-11-12 |
+| [Chibi Neko by cosmix](https://opengameart.org/content/chibi-neko-by-cosmix) | `character-3d` | zodiepupper (모델 제작: cosmix) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/chibi-neko-by-cosmix/chibi-neko-by-cosmix.zip) | 2026-11-12 |
+| [desert castle/tower](https://opengameart.org/content/desert-castletower) | `building-3d` | unForastero | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/desert-castle-tower/desert-castle-tower.zip) | 2026-11-12 |
+| [Elemental Charge Effects](https://opengameart.org/content/elemental-charge-effects) | `effect` | Kelvin Shadewing | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/elemental-charge-effects/elemental-charge-effects.zip) | 2026-11-12 |
 | [Energy Sword](https://opengameart.org/content/energy-sword) | `model-3d` | ova Xen | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/energy-sword.zip) | 2026-11-12 |
 | [Explolsion V2](https://opengameart.org/content/explolsion-v2) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explolsion-v2/explolsion-v2.zip) | 2026-11-12 |
 | [flash bang sound](https://opengameart.org/content/flash-bang-sound) | `sfx` | teeeece | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/flash-bang-sound/flash-bang-sound.zip) | 2026-11-12 |
 | [GDQuest 3D Characters Repository](https://opengameart.org/content/gdquest-3d-characters-repository) | `character-3d` | GDQuest (Thibaud Goiffon); OGA: hardboileduser | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/gdquest-3d-characters-repository.zip) | 2026-11-12 |
+| [Germanic style castle](https://opengameart.org/content/germanic-style-castle) | `building-3d` | \_Creature\_ | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/germanic-style-castle/germanic-style-castle.zip) | 2026-11-12 |
 | [Heavy Tank\[extra low poly, RTS\]](https://opengameart.org/content/heavy-tankextra-low-poly-rts) | `vehicle-3d` | 32kda | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/heavy-tank-extra-low-poly-rts/heavy-tank-extra-low-poly-rts.zip) | 2026-11-12 |
 | [Horror Monster](https://opengameart.org/content/horror-monster-0) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/horror-monster.zip) | 2026-11-12 |
 | [Laser Sound Effects](https://opengameart.org/content/laser-sound-effects) | `sfx` | EZduzziteh | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/laser-sound-effects/laser-sound-effects.zip) | 2026-11-12 |
@@ -109,7 +113,3 @@
 | [2DFX Impact spritesheets!](https://opengameart.org/content/2dfx-impact-spritesheets) | `effect` | Inguz Media | CC0 (페이지에 CC-BY 3.0/4.0·CC-BY-SA·GPL 2.0/3.0·OGA-BY 3.0 병기, CC0 선택) | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/2dfx-impact-spritesheets/2dfx-impact-spritesheets.zip) | 2026-11-08 |
 | [3 Heal Spells](https://opengameart.org/content/3-heal-spells) | `sfx` | DoKashiteru | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/3-heal-spells/3-heal-spells.zip) | 2026-11-08 |
 | [3 Lasers](https://opengameart.org/content/3-lasers) | `effect` | StarNinjas | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/3-lasers/3-lasers.zip) | 2026-11-08 |
-| [8 Heals and Buffs SFX](https://opengameart.org/content/8-heals-and-buffs-sfx) | `sfx` | leohpaz | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/8-heals-and-buffs-sfx/8-heals-and-buffs-sfx.zip) | 2026-11-08 |
-| [8 Magic Attacks](https://opengameart.org/content/8-magic-attacks) | `sfx` | leohpaz | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/8-magic-attacks/8-magic-attacks.zip) | 2026-11-08 |
-| [AlotofImpacts - 15 Frame Impacts w/smoke - 3 variations](https://opengameart.org/content/alotofimpacts-15-frame-impacts-wsmoke-3-variations) | `effect` | JoesAlotofthings | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/alotofimpacts-15-frame-impacts-wsmoke-3-variations/alotofimpacts-15-frame-impacts-wsmoke-3-variations.zip) | 2026-11-08 |
-| [AlotofImpacts - 4 Frame Impacts - 8 variations (4color x 2seeds each) 10of20](https://opengameart.org/content/alotofimpacts-4-frame-impacts-8-variations-4color-x-2seeds-each-10of20) | `effect` | JoesAlotofthings | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/alotofimpacts-4-frame-impacts-8-variations-4color-x-2seeds-each-10of20/alotofimpacts-4-frame-impacts-8-variations-4color-x-2seeds-each-10of20.zip) | 2026-11-08 |

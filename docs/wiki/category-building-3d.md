@@ -1,20 +1,22 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@4409e612f173ca06e10b76087ffa28b119a44568`
+> generated from `catalog.csv@cdb373b05f1c8ee93b3e83f931d9cdeec9d86edd`
 
 # 3D 건물 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `building-3d`(3D 건물)에 해당하는 에셋 **21개**입니다. 라이브러리에서 보기: [?cat=building-3d](https://sigco3111.github.io/game-asset-catalog/?cat=building-3d)
+분류 `building-3d`(3D 건물)에 해당하는 에셋 **23개**입니다. 라이브러리에서 보기: [?cat=building-3d](https://sigco3111.github.io/game-asset-catalog/?cat=building-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 21행 (전체 21개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 23행 (전체 23개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [desert castle/tower](https://opengameart.org/content/desert-castletower) | `building-3d` | unForastero | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/desert-castle-tower/desert-castle-tower.zip) | 2026-11-12 |
+| [Germanic style castle](https://opengameart.org/content/germanic-style-castle) | `building-3d` | \_Creature\_ | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/germanic-style-castle/germanic-style-castle.zip) | 2026-11-12 |
 | [Basic Procedural Building Kit](https://github.com/achrefelouafi/BasicProceduralBuilding) | `building-3d` | Chiro Studio (achrefelouafi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.0/basic-procedural-building-kit.zip) | 2026-11-06 |
 | [CyberCity Modular Kit](https://github.com/achrefelouafi/CyberCityThreeJS) | `building-3d` | Chiro Studio (achrefelouafi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.0/cybercity-modular-kit.zip) | 2026-11-06 |
 | [Hong Kong Building Kit](https://sketchfab.com/3d-models/procedural-hong-kong-building-528a732e84c44fd49c4726f341014a23) | `building-3d` | udayjeet (kit 변환: Chiro Studio) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.0/hong-kong-building-kit.zip) | 2026-11-06 |

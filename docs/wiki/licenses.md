@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@a199b99b59a7fec17f1a6bf68598aea8a269d290`
+> generated from `catalog.csv@7ee2056086b7422e0d658ef2b6200479f4f650ba`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **1786개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **1790개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -16,7 +16,7 @@
 
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
-| cc0 | CC0 | 1670 | 0 | 예 |
+| cc0 | CC0 | 1674 | 0 | 예 |
 | cc-by | CC-BY | 102 | 102 | 예 |
 | mit | MIT | 3 | 3 | 예 |
 | gpl | GPL 2.0/3.0 | 8 | 8 | 예 |
@@ -28,7 +28,7 @@
 
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
-| CC0 | cc0 | X | 1669 |
+| CC0 | cc0 | X | 1673 |
 | CC-BY 3.0 | cc-by | O | 50 |
 | CC-BY 4.0 | cc-by | O | 46 |
 | GPL 3.0 | gpl | O | 8 |

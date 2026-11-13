@@ -5,8 +5,20 @@
 
 ## 📸 실제 실행 화면
 
-![게임 에셋 도서관 실제 화면 - 1,845개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-13 A79 추가 (4팩, 총 1849팩)
+
+A79 라운드에서 OpenGameArt 3D 최신순의 3D 3팩 Cremation Urn·Sumo Arena·Character Guy (Rigged)와 효과음 1팩 Cozy Space SFX: 46 Retro Sound Effects(모두 opengameart.org)를 수집했습니다. 중복은 카탈로그 저장소 코드 검색으로 제목을 확인했습니다(모두 0건, 신규).
+
+| 팩 | 라이선스 |
+| --- | --- |
+| Cremation Urn | CC0 |
+| Sumo Arena | CC0 |
+| Character Guy (Rigged) | CC0 |
+| Cozy Space SFX: 46 Retro Sound Effects | CC-BY 4.0 |
+
+종류: 3D 3팩(assets-3d-lowpoly; 소품 1·환경 1·캐릭터 1), 효과음 1팩(assets-audio). 라이선스: CC0 3팩, CC-BY 4.0 1팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가, 임시 워크플로 ingest-pack.yml 수동 실행). 용량: GitHub API size 기준 assets-3d-lowpoly 약 610MB(700MB 미만), assets-audio 약 383MB, 새 저장소 생성 없음. 색인(assets-index*.json)·위키·llms.txt는 손대지 않고 Actions 자동 갱신에 맡김. '천하삼분 게임 에셋 56'은 수집 대상이 아님.
 ## 2026-11-13 A78 추가 (4팩, 총 1845팩)
 
 A78 라운드에서 OpenGameArt 3D 최신순의 3D 3팩 Lock·Stylized Coin·Dice와 효과음 1팩 Pocket Bleeps – 31 Retro 8-Bit SFX(모두 opengameart.org)를 수집했습니다. 중복은 라이브러리 검색(https://sigco3111.github.io/game-asset-catalog/)에서 제목으로 확인했습니다(모두 신규; low poly iron ore·Mini Dungeon·flash bang sound·Pixel art sword slash effect·Spark effect는 이미 수록되어 제외; Cartoon Character(s)는 zip 30.9MB로 제외). 4팩 모두 5MB 이하라 저장소 트리에 올렸습니다.

@@ -1,0 +1,31 @@
+name: dedup-catalog
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          python3 - <<'PY'
+          lines = open('catalog.csv',encoding='utf-8').read().split('\n')
+          keep = [l for l in lines if 'city-kit-roads/city-kit-roads.zip' not in l]
+          open('catalog.csv','w',encoding='utf-8').write('\n'.join(keep))
+          rd = open('README.md',encoding='utf-8').read()
+          rd = rd.replace('3팩, 총 1852팩','2팩, 총 1851팩')
+          rd = '\n'.join([l for l in rd.split('\n') if l.strip() != '| City Kit (Roads) | CC0 |'])
+          rd = rd.replace('City Kit (Roads)·Ghost lady model','Ghost lady model')
+          open('README.md','w',encoding='utf-8').write(rd)
+          lg = open('docs/log.md',encoding='utf-8').read()
+          lg = lg.replace('총 1852팩','총 1851팩').replace('City Kit (Roads) (Kenney, CC0), ','').replace('3D 모델 2','3D 모델 1')
+          open('docs/log.md','w',encoding='utf-8').write(lg)
+          print(len(lines), len(keep))
+          PY
+          rm -f .github/workflows/dedup-catalog.yml
+          git config user.name "sigco3111"
+          git config user.email "sigco3111@users.noreply.github.com"
+          git add -A
+          git commit -m "카탈로그: A80 중복 City Kit (Roads) 제거"
+          git push

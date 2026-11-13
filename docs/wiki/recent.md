@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@1536684754c1091802fd12197c1775dd5f4a44f5`
+> generated from `catalog.csv@e6832fca9b2ebc757fa4368feacec57cf67ed8c9`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -27,10 +27,12 @@
 | [Cremation Urn](https://opengameart.org/content/cremation-urn) | `model-3d` | ARoachIFoundOnMyPillow | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/cremation-urn/cremation_urn.zip) | 2026-11-13 |
 | [Dice](https://opengameart.org/content/dice-6) | `model-3d` | gearfox98 | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/dice/dice.zip) | 2026-11-13 |
 | [Elemental Golem](https://opengameart.org/content/elemental-golem) | `model-3d` | Grefuntor | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/elemental-golem/ElementalGolem-obj.zip) | 2026-11-13 |
+| [explosion (2D VFX)](https://opengameart.org/content/explosion-10) | `effect` | johndekale | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion/explosion.zip) | 2026-11-13 |
 | [Ghost lady model (UNTEXTURED)](https://opengameart.org/content/ghost-lady-model-untextured) | `model-3d` | Kabrolkin | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ghost-lady-model-untextured/ghost-lady-model-untextured.zip) | 2026-11-13 |
 | [Humanoid SoulsLike Animations](https://opengameart.org/content/humanoid-soulslike-animations) | `model-3d` | Gres | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/humanoid-soulslike-animations/fistweaponanimationpack.zip) | 2026-11-13 |
 | [Lava Waves](https://opengameart.org/content/lava-waves) | `effect` | StalwartBlue | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lava-waves/lava_wave.zip) | 2026-11-13 |
 | [Lock](https://opengameart.org/content/lock-1) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/lock/lock.zip) | 2026-11-13 |
+| [Low Poly Penguin (Rigged)](https://opengameart.org/content/low-poly-penguin-w-skeleton) | `model-3d` | WarmHoneyBun | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-penguin-w-skeleton/low-poly-penguin-w-skeleton.zip) | 2026-11-13 |
 | [Magic Flameblade - Pixel Art Animation](https://opengameart.org/content/%F0%9F%94%A5-magic-flameblade-pixel-art-animation) | `effect` | VoyPix | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/magic-flameblade/magic-flameblade.zip) | 2026-11-13 |
 | [Medieval Castle Manor](https://opengameart.org/content/medieval-castlemanor) | `model-3d` | unForastero | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/medieval-castle-manor/castle_001.zip) | 2026-11-13 |
 | [Mini Forest](https://opengameart.org/content/mini-forest) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-forest/mini-forest.zip) | 2026-11-13 |
@@ -40,6 +42,7 @@
 | [Packsmithy SFX sampler: 30 synthesised sound effects](https://opengameart.org/content/packsmithy-sfx-sampler-30-synthesised-sound-effects-ui-retro-horror-sci-fi-glitch) | `sfx` | packsmithy | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/packsmithy-sfx-sampler/packsmithy-sfx-sampler.zip) | 2026-11-13 |
 | [Pocket Bleeps – 31 Retro 8-Bit SFX](https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by) | `sfx` | Pocket Bleeps | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip) | 2026-11-13 |
 | [Rail Post](https://opengameart.org/content/rail-post) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/rail-post/post.zip) | 2026-11-13 |
+| [Roulette Wheel and Board](https://opengameart.org/content/roulette-wheel-and-board) | `model-3d` | Klooverice | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/roulette-wheel-and-board/roulette-wheel-and-board.zip) | 2026-11-13 |
 | [Shipping Containers](https://opengameart.org/content/shipping-containers) | `model-3d` | miniforall | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/shipping-containers/shipping-containers.zip) | 2026-11-13 |
 | [Sofa and Bench](https://opengameart.org/content/sofa-and-bench) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sofa-and-bench/sofa-and-bench.zip) | 2026-11-13 |
 | [Space port kit](https://opengameart.org/content/space-port-kit) | `model-3d` | Ludrol | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/space-port-kit/space_port_kit_glb.zip) | 2026-11-13 |
@@ -110,6 +113,3 @@
 | [Fireball Particle Sheet](https://opengameart.org/content/fireball-particle-sheet) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/fireball-particle-sheet/fireball-particle-sheet.zip) | 2026-11-11 |
 | [Heal](https://opengameart.org/content/heal) | `sfx` | Zoltan Mihalyi | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/heal/heal.zip) | 2026-11-11 |
 | [Hit Animation 2 - Frame by frame](https://opengameart.org/content/hit-animation-2-frame-by-frame) | `effect` | Sinestesia | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/hit-animation-2-frame-by-frame/hit-animation-2-frame-by-frame.zip) | 2026-11-11 |
-| [Ice Sparkles Overlay Effect](https://opengameart.org/content/ice-sparkles-overlay-effect) | `effect` | AntumDeluge (Jordan Irwin) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/ice-sparkles-overlay-effect/ice-sparkles-overlay-effect.zip) | 2026-11-11 |
-| [JC Sounds - Fantasy SFX Pack Vol 1](https://opengameart.org/content/jc-sounds-fantasy-sfx-pack-vol-1) | `sfx` | JC Sounds | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/releases/download/v6.25/fantasy-sfx-pack-vol-1.zip) | 2026-11-11 |
-| [Jingling heal](https://opengameart.org/content/jingling-heal) | `sfx` | Zoltan Mihalyi | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/jingling-heal/jingling-heal.zip) | 2026-11-11 |

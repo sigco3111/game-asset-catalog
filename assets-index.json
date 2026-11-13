@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@1536684754c1091802fd12197c1775dd5f4a44f5",
-  "count": 1857,
+  "generated_from": "catalog.csv@e6832fca9b2ebc757fa4368feacec57cf67ed8c9",
+  "count": 1860,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -66163,6 +66163,115 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/magic-flameblade/magic-flameblade.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/magic-flameblade/magic-flameblade.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/low-poly-penguin-rigged",
+      "name": "Low Poly Penguin (Rigged)",
+      "repo": "assets-3d-lowpoly",
+      "file": "low-poly-penguin-w-skeleton/low-poly-penguin-w-skeleton.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "penguin",
+        "lowpoly",
+        "model",
+        "rigged",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "WarmHoneyBun",
+      "source_url": "https://opengameart.org/content/low-poly-penguin-w-skeleton",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: WarmHoneyBun (CC-BY 4.0)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "파일 1개(.blend); zip 168KB; 미리보기 preview.jpg",
+      "preview": "preview.jpg",
+      "download_path": "low-poly-penguin-w-skeleton/low-poly-penguin-w-skeleton.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-penguin-w-skeleton/low-poly-penguin-w-skeleton.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-penguin-w-skeleton/low-poly-penguin-w-skeleton.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/roulette-wheel-and-board",
+      "name": "Roulette Wheel and Board",
+      "repo": "assets-3d-lowpoly",
+      "file": "roulette-wheel-and-board/roulette-wheel-and-board.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "roulette",
+        "casino",
+        "board",
+        "prop",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "Klooverice",
+      "source_url": "https://opengameart.org/content/roulette-wheel-and-board",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Klooverice (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "파일 1개(.obj); zip 12KB; 미리보기 preview.jpg",
+      "preview": "preview.jpg",
+      "download_path": "roulette-wheel-and-board/roulette-wheel-and-board.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/roulette-wheel-and-board/roulette-wheel-and-board.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/roulette-wheel-and-board/roulette-wheel-and-board.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/explosion-2d-vfx",
+      "name": "explosion (2D VFX)",
+      "repo": "assets-2d-pixel",
+      "file": "explosion/explosion.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "explosion",
+        "blast",
+        "fire",
+        "animated",
+        "effect",
+        "pixel"
+      ],
+      "effect_kind": [
+        "explosion",
+        "fire"
+      ],
+      "author": "johndekale",
+      "source_url": "https://opengameart.org/content/explosion-10",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: johndekale (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "zip 386KB; 256x256 폭발 애니메이션; 미리보기 preview.jpg",
+      "preview": "preview.jpg",
+      "download_path": "explosion/explosion.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion/explosion.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion/explosion.zip"
       ],
       "sample": null,
       "multipart": false,

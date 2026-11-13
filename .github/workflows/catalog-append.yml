@@ -1,0 +1,69 @@
+name: catalog-append
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  append:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: 카탈로그 갱신
+        run: |
+          python3 - <<'PY'
+          import csv, io, re, sys
+          ROWS = [
+          ["Cremation Urn","assets-3d-lowpoly","cremation-urn/cremation_urn.zip","3D 소품","pot,pottery,dead,urn,lowpoly,3d","ARoachIFoundOnMyPillow","https://opengameart.org/content/cremation-urn","CC0","없음","2026-11-13","zip 수록(urn_lowpoly·highpoly 포함); CC0 단독; AI 생성 언급 없음"],
+          ["Sumo Arena","assets-3d-lowpoly","sumo-arena/sumo_arena_1.zip","3D 모델","japan,arena,building,sumo,lowpoly,3d","unForastero","https://opengameart.org/content/sumo-arena","CC0","없음","2026-11-13","zip 수록; CC0 단독; AI 생성 언급 없음"],
+          ["Character Guy (Rigged)","assets-3d-lowpoly","character-guy-rigged/emopreben_man_model_1.zip","3D 캐릭터","people,character,rigged,humanoid,lowpoly,3d","EmoPreben","https://opengameart.org/content/character-guy-rigged","CC0","없음","2026-11-13","zip 수록(rigged 모델); CC0 단독; AI 생성 언급 없음"],
+          ["Cozy Space SFX: 46 Retro Sound Effects","assets-audio","cozy-space-sfx/cozy-space-sfx-cc-by.zip","효과음","retro,chiptune,space,sfx,weapon,explosion,pickup","roberto mellado","https://opengameart.org/content/cozy-space-sfx-46-retro-sound-effects","CC-BY 4.0","roberto mellado (OpenGameArt.org)","2026-11-13","zip 수록(46종 WAV); CC-BY 4.0; CREDITS.txt 동봉; AI 생성 언급 없음"],
+          ]
+          with open("catalog.csv", newline="", encoding="utf-8") as f:
+              rows = list(csv.reader(f))
+          data = rows[1:]
+          before = len(data)
+          buf = io.StringIO()
+          w = csv.writer(buf, lineterminator="\n")
+          for r in ROWS:
+              w.writerow(r)
+          with open("catalog.csv", "a", encoding="utf-8", newline="") as f:
+              f.write(buf.getvalue())
+          total = before + len(ROWS)
+          cnt3 = sum(1 for r in data if r[1] == "assets-3d-lowpoly") + 3
+          cnta = sum(1 for r in data if r[1] == "assets-audio") + 1
+          print("total", total, "3d", cnt3, "audio", cnta)
+          sec = """## 2026-11-13 A79 추가 (4팩, 총 %d팩)
+          
+          A79 라운드에서 OpenGameArt 3D 최신순의 3D 3팩 Cremation Urn·Sumo Arena·Character Guy (Rigged)와 효과음 1팩 Cozy Space SFX: 46 Retro Sound Effects(모두 opengameart.org)를 수집했습니다. 중복은 카탈로그 저장소 코드 검색으로 제목을 확인했습니다(모두 0건, 신규).
+          
+          | 팩 | 라이선스 |
+          | --- | --- |
+          | Cremation Urn | CC0 |
+          | Sumo Arena | CC0 |
+          | Character Guy (Rigged) | CC0 |
+          | Cozy Space SFX: 46 Retro Sound Effects | CC-BY 4.0 |
+          
+          종류: 3D 3팩(assets-3d-lowpoly; 소품 1·환경 1·캐릭터 1), 효과음 1팩(assets-audio). 라이선스: CC0 3팩, CC-BY 4.0 1팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가, 임시 워크플로 ingest-pack.yml 수동 실행). 용량: GitHub API size 기준 assets-3d-lowpoly 약 610MB(700MB 미만), assets-audio 약 383MB, 새 저장소 생성 없음. 색인(assets-index*.json)·위키·llms.txt는 손대지 않고 Actions 자동 갱신에 맡김. '천하삼분 게임 에셋 56'은 수집 대상이 아님.
+          """ % total
+          rd = open("README.md", encoding="utf-8").read()
+          rd = re.sub(r"(게임 에셋 도서관 실제 화면 - )[\d,]+(개 에셋)", lambda m: m.group(1) + format(total, ",") + m.group(2), rd)
+          marker = "## 2026-11-13 A78 추가"
+          assert marker in rd, "marker missing"
+          rd = rd.replace(marker, sec + marker, 1)
+          open("README.md", "w", encoding="utf-8", newline="\n").write(rd)
+          logline = "- 2026-11-13 A79: Cremation Urn (ARoachIFoundOnMyPillow, CC0), Sumo Arena (unForastero, CC0), Character Guy (Rigged) (EmoPreben, CC0), Cozy Space SFX: 46 Retro Sound Effects (roberto mellado, CC-BY 4.0) (4팩, 총 %d팩; 3D 3팩 assets-3d-lowpoly + 효과음 1팩 assets-audio). 중복은 제목 코드 검색으로 0건 확인. 팩당 1커밋, 임시 워크플로 ingest-pack.yml 수동 실행. catalog.csv 4행 추가(%d->%d행)." % (total, before, total)
+          with open("docs/log.md", "a", encoding="utf-8", newline="") as f:
+              f.write(logline + "\n")
+          print("done")
+          
+          PY
+      - name: 커밋
+        run: |
+          git config user.name sigco3111
+          git config user.email sigco3111@users.noreply.github.com
+          git add -A
+          git commit -m "카탈로그: A79 4팩 추가"
+          git push

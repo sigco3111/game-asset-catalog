@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@e6832fca9b2ebc757fa4368feacec57cf67ed8c9",
-  "count": 1860,
+  "generated_from": "catalog.csv@fc67f2f0fd77f354431e798e475187b1e154b68d",
+  "count": 1863,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -66272,6 +66272,112 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion/explosion.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion/explosion.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/low-poly-camping-assets",
+      "name": "Low Poly Camping Assets",
+      "repo": "assets-3d-lowpoly",
+      "file": "low-poly-camping-assets/low-poly-camping-assets.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "camping",
+        "tent",
+        "prop",
+        "lowpoly",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "Saraskau",
+      "source_url": "https://opengameart.org/content/low-poly-camping-assets",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Saraskau (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "zip 1.4MB; 미리보기 preview.jpg",
+      "preview": "preview.jpg",
+      "download_path": "low-poly-camping-assets/low-poly-camping-assets.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-camping-assets/low-poly-camping-assets.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-camping-assets/low-poly-camping-assets.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/low-poly-retro-psx-skeleton",
+      "name": "Low-poly Retro PSX Skeleton",
+      "repo": "assets-3d-lowpoly",
+      "file": "low-poly-retro-psx-skeleton/low-poly-retro-psx-skeleton.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "skeleton",
+        "character",
+        "psx",
+        "retro",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "LonesomeDucky",
+      "source_url": "https://opengameart.org/content/low-poly-retro-psx-skeleton",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: LonesomeDucky (CC-BY 4.0)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "파일 1개(.blend); zip 약 903KB; 미리보기 preview.jpg",
+      "preview": "preview.jpg",
+      "download_path": "low-poly-retro-psx-skeleton/low-poly-retro-psx-skeleton.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-retro-psx-skeleton/low-poly-retro-psx-skeleton.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-retro-psx-skeleton/low-poly-retro-psx-skeleton.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/circular-effect-animations",
+      "name": "Circular effect animations",
+      "repo": "assets-2d-pixel",
+      "file": "circular-effect-animations/circular-effect-animations.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "magic",
+        "circle",
+        "spritesheet"
+      ],
+      "effect_kind": [
+        "magic"
+      ],
+      "author": "Vircon32 (Carra)",
+      "source_url": "https://opengameart.org/content/circular-effect-animations",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: Vircon32 (Carra) (CC-BY 4.0)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "zip 약 14KB; 원형 이펙트 스프라이트시트; 미리보기 preview.jpg",
+      "preview": "preview.jpg",
+      "download_path": "circular-effect-animations/circular-effect-animations.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/circular-effect-animations/circular-effect-animations.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/circular-effect-animations/circular-effect-animations.zip"
       ],
       "sample": null,
       "multipart": false,

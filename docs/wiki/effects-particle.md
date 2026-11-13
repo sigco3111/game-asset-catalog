@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e6832fca9b2ebc757fa4368feacec57cf67ed8c9`
+> generated from `catalog.csv@fc67f2f0fd77f354431e798e475187b1e154b68d`
 
 # 입자 이펙트 모음
 

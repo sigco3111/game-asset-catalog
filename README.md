@@ -5,8 +5,19 @@
 
 ## 📸 실제 실행 화면
 
-![게임 에셋 도서관 실제 화면 - 1,832개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+![게임 에셋 도서관 실제 화면 - 1,835개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-13 A75 추가 (3팩, 총 1835팩)
+
+A75 라운드에서 OpenGameArt 3D 최신순 목록의 3D 2팩 Asian Girl·Space port kit와 2D 최신순의 폭발 이펙트 1팩 512x512 explosion(모두 opengameart.org)을 수집했습니다. 중복은 라이브러리 검색(https://sigco3111.github.io/game-asset-catalog/)에서 제목으로 확인했고(모두 신규), 각 페이지의 라이선스 표기·파일·AI 언급 여부를 읽어 확인했습니다(AI 생성 언급 없음). 512x512 explosion의 zip은 7.2MB라 Releases v4.0 첨부로 올렸고, 나머지 2팩은 저장소 트리에 올렸습니다.
+
+| 팩 | 라이선스 |
+| --- | --- |
+| [Asian Girl](https://opengameart.org/content/asian-girl) | CC-BY 4.0 |
+| [Space port kit](https://opengameart.org/content/space-port-kit) | CC-BY 4.0 |
+| [512x512 explosion](https://opengameart.org/content/512x512-explosion) | CC0 |
+
+종류: 3D 2팩(assets-3d-lowpoly; 캐릭터 1·환경 1), 2D 이펙트 1팩(assets-2d-pixel). 라이선스: CC-BY 4.0 2팩, CC0 1팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가, 임시 워크플로 ingest-pack.yml 수동 실행). 색인(assets-index*.json)·위키·llms.txt는 손대지 않고 Actions 자동 갱신에 맡김. '천하삼분 게임 에셋 56'은 수집 대상이 아님.
 ## 2026-11-13 A74 추가 (3팩, 총 1832팩)
 
 소유자의 짧은 수집 라운드(3~4팩) 지시로 3D 2팩 Bird Bath·Medieval Castle Manor와 마법·불 이펙트 1팩 Lava Waves(모두 opengameart.org)를 수집했습니다. 중복은 라이브러리 검색(https://sigco3111.github.io/game-asset-catalog/)에서 제목으로 확인했고(후보 Vehicles Assets pt1·Modular Village·5x Special Effects - 2D·PSX Style Cars·Germanic style castle·Chibi Neko 등은 이미 수록되어 제외), 각 페이지의 라이선스 표기·파일·AI 언급 여부를 읽어 확인했습니다(AI 생성 언급 없음). 3팩 모두 zip 5MB 이하라 저장소 트리에 올렸습니다.

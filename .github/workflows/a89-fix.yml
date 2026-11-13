@@ -1,0 +1,17 @@
+name: A89 fix
+on: push
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: bash .github/scripts/a89fix.sh
+      - name: 커밋
+        run: |
+          git config user.name "sigco3111"
+          git config user.email "sigco3111@gmail.com"
+          git add README.md
+          git commit -m "카탈로그: A89 README 절 정리"
+          git push

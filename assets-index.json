@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@76ae22fb56f399bbfcae0392957c3c2571255e3b",
-  "count": 1854,
+  "generated_from": "catalog.csv@1536684754c1091802fd12197c1775dd5f4a44f5",
+  "count": 1857,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -66055,6 +66055,114 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/zombiepacksfx-3/zombiepacksfx-3.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/zombiepacksfx-3/zombiepacksfx-3.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/shipping-containers",
+      "name": "Shipping Containers",
+      "repo": "assets-3d-lowpoly",
+      "file": "shipping-containers/shipping-containers.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "shipping",
+        "container",
+        "prop",
+        "industrial",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "miniforall",
+      "source_url": "https://opengameart.org/content/shipping-containers",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: miniforall (CC-BY 4.0)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "파일 9개; zip 2.4MB; 미리보기 preview.jpg",
+      "preview": "preview.jpg",
+      "download_path": "shipping-containers/shipping-containers.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/shipping-containers/shipping-containers.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/shipping-containers/shipping-containers.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/cast-iron-stove",
+      "name": "Cast Iron Stove",
+      "repo": "assets-3d-lowpoly",
+      "file": "cast-iron-stove/cast-iron-stove.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "stove",
+        "prop",
+        "furniture",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "Firefly in the Dusk",
+      "source_url": "https://opengameart.org/content/cast-iron-stove",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Firefly in the Dusk (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "파일 4개; zip 124KB; 미리보기 preview.jpg",
+      "preview": "preview.jpg",
+      "download_path": "cast-iron-stove/cast-iron-stove.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/cast-iron-stove/cast-iron-stove.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/cast-iron-stove/cast-iron-stove.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/magic-flameblade-pixel-art-animation",
+      "name": "Magic Flameblade - Pixel Art Animation",
+      "repo": "assets-2d-pixel",
+      "file": "magic-flameblade/magic-flameblade.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "magic",
+        "sword",
+        "flame",
+        "effect",
+        "animation",
+        "pixel"
+      ],
+      "effect_kind": [
+        "magic",
+        "fire"
+      ],
+      "author": "VoyPix",
+      "source_url": "https://opengameart.org/content/%F0%9F%94%A5-magic-flameblade-pixel-art-animation",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: VoyPix (CC-BY 4.0)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "파일 6개; zip 1.2MB; 마법 검 이펙트 애니메이션; 미리보기 preview.jpg",
+      "preview": "preview.jpg",
+      "download_path": "magic-flameblade/magic-flameblade.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/magic-flameblade/magic-flameblade.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/magic-flameblade/magic-flameblade.zip"
       ],
       "sample": null,
       "multipart": false,

@@ -7,6 +7,10 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-14 A89 추가 (3팩, 총 1878팩)
+
+A89 라운드에서 OpenGameArt의 3D 3팩 low_poly_swords(Q2DENJINDREW, CC0), 3D Character Pack(byzmod3d, CC0), 3D Human Parts Pack(byzmod3d, CC0)을 수집했습니다. 중복은 저장소 코드 검색으로 확인했습니다(세 팩 모두 0건).
+
 ## 2026-11-14 A88 추가 (1팩, 총 1875팩)
 
 A88 라운드에서 OpenGameArt의 3D 1팩 Low Poly Stalls(lightdreamerlabs, CC0)를 수집했습니다. 중복은 카탈로그 저장소 코드 검색으로 확인했습니다(Low Poly Stalls 0건). 이번 라운드는 시간 제한으로 1팩만 수집했습니다.
@@ -1317,9 +1321,3 @@ A17 실행이 GitHub 커밋 오류("You can't perform that action at this time."
 종류: 2D 이펙트 1팩(assets-2d-pixel). 라이선스: CC-BY 3.0 1팩. AI 생성 명시 팩 없음. 1커밋(에셋: Magic sprite effects (Ardentryst) 추가, 5개 파일: zip, pack.md, preview.png, LICENSE-SOURCE.txt, CREDITS.txt; 텍스트 파일은 파일명 대소문자 유지를 위해 스크립트로 첨부), 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 5개 파일 전부 일치. 'You can't perform that action at this time.' 오류 없음. assets-2d-pixel README 첫 줄 팩 수는 617팩에서 618팩으로 갱신(별도 문서 커밋; GitHub Copilot이 커밋 메시지를 자동 생성해 제목이 표준 형식과 다름). 새 저장소 없음.
 
 실제 팩 수(catalog.csv 기준): 2D 617 · 3D 446 · UI/아이콘 226 · 오디오 439 · 기타 4 (합계 1732).
-
-## A89 (2026-11-14)
-- low_poly_swords (Q2DENJINDREW, CC0) - assets-3d-lowpoly-2
-- 3D Character Pack (byzmod3d, CC0) - assets-3d-lowpoly-2
-- 3D Human Parts Pack (byzmod3d, CC0) - assets-3d-lowpoly-2
-- 3팩 추가, 총 1,875팩 (3D 3)

@@ -7,6 +7,16 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-14 A88 추가 (1팩, 총 1872팩)
+
+A88 라운드에서 OpenGameArt의 3D 1팩 Low Poly Stalls(lightdreamerlabs, CC0)를 수집했습니다. 중복은 카탈로그 저장소 코드 검색으로 확인했습니다(Low Poly Stalls 0건). 이번 라운드는 시간 제한으로 1팩만 수집했습니다.
+
+| 팩 | 라이선스 |
+| --- | --- |
+| Low Poly Stalls | CC0 |
+
+종류: 3D 1팩(assets-3d-lowpoly-2). 라이선스: CC0 1팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: Low Poly Stalls 추가, 임시 워크플로 a88-ingest.yml). 용량: zip 703.1KB로 저장소 트리에 직접 포함. 색인은 rebuild-index.yml 수동 실행으로 갱신.
+
 ## 2026-11-14 A87 추가 (3팩, 총 1871팩)
 
 ![A87 3D/효과음 팩 미리보기](https://raw.githubusercontent.com/sigco3111/assets-3d-lowpoly-2/main/crates-chests-coins-barrels/preview.jpg)
@@ -15,7 +25,7 @@ A87 라운드에서 OpenGameArt의 3D 2팩 Crates Chests Coins and Barrels Colle
 
 종류: 3D 2팩(assets-3d-lowpoly-2), 효과음 1팩(assets-audio). 라이선스: CC0 3팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가, 임시 워크플로 a87-init.yml·a87-ingest.yml 수동 실행). 용량: assets-3d-lowpoly가 약 692MB로 700MB에 근접해 이번 라운드에서 3D 팩은 새 저장소 assets-3d-lowpoly-2에 넣었습니다. 이번 팩은 모두 5MB 이하로 릴리스 첨부 없이 저장소에 직접 포함했습니다.
 
-## 2026-11-14 A86 추가 (4팩, 총 1871팩)
+## 2026-11-14 A86 추가 (4팩, 총 1868팩)
 
 A86 라운드에서 OpenGameArt의 3D 3팩 Tool Pack 1·Toolbox·3D Cobblestone Texture와 효과음 1팩 IgnisForge Free SFX Sampler를 수집했습니다. 중복은 카탈로그 저장소 코드 검색으로 확인했습니다(Mushroom Enemy·Rail Post·Pine Tree·Swinging blade trap·Plasma Electric Effect Animations·Gun Muzzle Flash Effects·150 Combat Sound Effects는 이미 수록되어 제외).
 

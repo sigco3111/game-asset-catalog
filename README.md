@@ -5,7 +5,19 @@
 
 ## 📸 실제 실행 화면
 
-![게임 에셋 도서관 실제 화면 - 1,826개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+![게임 에셋 도서관 실제 화면 - 1,829개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+
+## 2026-11-13 A73 추가 (3팩, 총 1829팩)
+
+소유자의 짧은 수집 라운드(3~4팩, 약 15분) 지시로 3D 3팩 Oozey the Slime·Elemental Golem·Armadillo Foe(모두 opengameart.org)를 수집했습니다. 시작 전 library index와 catalog.csv에서 제목·source_url로 중복이 없음을 확인했고(모두 신규), 각 페이지의 라이선스 표기·파일·AI 언급 여부를 읽어 확인했습니다(AI 생성 언급 없음). 3팩 모두 zip 5MB 이하라 저장소 트리에 올렸습니다.
+
+| 팩 | 라이선스 |
+| --- | --- |
+| [Oozey the Slime](https://opengameart.org/content/oozey-the-slime) | CC-BY 3.0 |
+| [Elemental Golem](https://opengameart.org/content/elemental-golem) | CC-BY 3.0 |
+| [Armadillo Foe](https://opengameart.org/content/armadillo-foe) | CC0 |
+
+종류: 3D 3팩(assets-3d-lowpoly; 몬스터 3). 라이선스: CC-BY 3.0 2팩, CC0 1팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가, 임시 워크플로 ingest-pack.yml 수동 실행). 용량(GitHub API size): assets-3d-lowpoly 약 560MB(700MB 미만), 새 저장소 생성 없음. 색인(assets-index*.json)·위키·llms.txt는 손대지 않고 Actions 자동 갱신에 맡김. 미수집: Rock Golem(페이지 파일이 .blend 단일이라 zip 아님), 80 CC0 RPG SFX·20 Sword Sound Effects·Gothicvania Magic Pack 9(모두 이미 카탈로그에 있음). '천하삼분 게임 에셋 56'은 수집 대상이 아님.
 
 ## 2026-11-13 A72 추가 (3팩, 총 1826팩)
 

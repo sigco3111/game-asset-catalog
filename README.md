@@ -7,13 +7,12 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
-## 2026-11-13 A80 추가 (3팩, 총 1852팩)
+## 2026-11-13 A80 추가 (2팩, 총 1851팩)
 
-A80 라운드에서 OpenGameArt 3D 최신순의 3D 2팩 City Kit (Roads)·Ghost lady model (UNTEXTURED)와 효과음 1팩 Packsmithy SFX sampler: 30 synthesised sound effects(모두 opengameart.org)를 수집했습니다. 중복은 저장소 raw 경로와 카탈로그 코드 검색으로 팩 슬러그를 확인했습니다.
+A80 라운드에서 OpenGameArt 3D 최신순의 3D 2팩 Ghost lady model (UNTEXTURED)와 효과음 1팩 Packsmithy SFX sampler: 30 synthesised sound effects(모두 opengameart.org)를 수집했습니다. 중복은 저장소 raw 경로와 카탈로그 코드 검색으로 팩 슬러그를 확인했습니다.
 
 | 팩 | 라이선스 |
 | --- | --- |
-| City Kit (Roads) | CC0 |
 | Ghost lady model (UNTEXTURED) | CC-BY 4.0 |
 | Packsmithy SFX sampler: 30 synthesised sound effects | CC-BY 4.0 |
 

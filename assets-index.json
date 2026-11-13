@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@3c547a14f20b383bcf5b68604007f651f6814f40",
-  "count": 1841,
+  "generated_from": "catalog.csv@b91888eaeb58a7d5a190bedfc817bd3b36f431b4",
+  "count": 1845,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -65587,6 +65587,152 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/b-chan/bchan_edited.blend",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/b-chan/bchan_edited.blend"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/lock",
+      "name": "Lock",
+      "repo": "assets-3d-lowpoly",
+      "file": "lock/lock.zip",
+      "type": "3D 소품",
+      "category": "model-3d",
+      "tags": [
+        "lock",
+        "low poly",
+        "retro",
+        "blockbench",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "Q2DENJINDREW",
+      "source_url": "https://opengameart.org/content/lock-1",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "없음",
+      "attribution_required": false,
+      "ai_generated": true,
+      "added": "2026-11-13",
+      "notes": "zip 1KB; CC0 단독; AI 생성 언급 없음",
+      "preview": null,
+      "download_path": "lock/lock.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/lock/lock.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/lock/lock.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/stylized-coin",
+      "name": "Stylized Coin",
+      "repo": "assets-3d-lowpoly",
+      "file": "stylized-coin/coin.blend",
+      "type": "3D 소품",
+      "category": "model-3d",
+      "tags": [
+        "coin",
+        "gold",
+        "stylized",
+        "prop",
+        "blend",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "optimuspryne",
+      "source_url": "https://opengameart.org/content/stylized-coin",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "없음",
+      "attribution_required": false,
+      "ai_generated": true,
+      "added": "2026-11-13",
+      "notes": "blend 134.4KB; CC0 단독; AI 생성 언급 없음",
+      "preview": null,
+      "download_path": "stylized-coin/coin.blend",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/stylized-coin/coin.blend",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/stylized-coin/coin.blend"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/dice",
+      "name": "Dice",
+      "repo": "assets-3d-lowpoly",
+      "file": "dice/dice.zip",
+      "type": "3D 소품",
+      "category": "model-3d",
+      "tags": [
+        "dice",
+        "board game",
+        "prop",
+        "blender",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "gearfox98",
+      "source_url": "https://opengameart.org/content/dice-6",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "없음",
+      "attribution_required": false,
+      "ai_generated": true,
+      "added": "2026-11-13",
+      "notes": "zip 148.2KB; CC0 단독; AI 생성 언급 없음",
+      "preview": null,
+      "download_path": "dice/dice.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/dice/dice.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/dice/dice.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/pocket-bleeps-31-retro-8-bit-sfx",
+      "name": "Pocket Bleeps – 31 Retro 8-Bit SFX",
+      "repo": "assets-audio",
+      "file": "pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sfx",
+        "8-bit",
+        "chiptune",
+        "retro",
+        "hit",
+        "explosion",
+        "ui"
+      ],
+      "effect_kind": [
+        "hit",
+        "explosion"
+      ],
+      "author": "Pocket Bleeps",
+      "source_url": "https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Pocket Bleeps (OpenGameArt.org)",
+      "attribution_required": true,
+      "ai_generated": true,
+      "added": "2026-11-13",
+      "notes": "zip 97.5KB(WAV 31종); CC-BY 4.0; CREDITS.txt 동봉; AI 생성 언급 없음",
+      "preview": null,
+      "download_path": "pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip"
       ],
       "sample": null,
       "multipart": false,

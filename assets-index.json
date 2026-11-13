@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@27a648a59e7cd1d7c0c591284c5ad428b5e99700",
+  "generated_from": "catalog.csv@c45cc43c6441616b73d462e34b4f8e28a272005f",
   "count": 1875,
   "assets": [
     {
@@ -65097,7 +65097,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "파일 3개; OBJ 팩(내려받은 zip 21.2KB",
-      "preview": "페이지 표기 1.5MB); 라이선스 파일 미동봉(LICENSE-SOURCE.txt 대체); CREDITS.txt 동봉",
+      "preview": null,
       "download_path": "elemental-golem/ElementalGolem-obj.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/elemental-golem/ElementalGolem-obj.zip",
       "download_urls": [

@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@346eb7aebdf63e1ac4de67698c49dd84194709fa`
-- 데이터 행 수: **1871**
+- 원본: `catalog.csv@54d445cbce227c7a17f52d901e9bdb57a041f886`
+- 데이터 행 수: **1872**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 2,779,142 bytes, `assets-index.min.json` 2,249,279 bytes
+- 파일 크기: `assets-index.json` 2,780,317 bytes, `assets-index.min.json` 2,250,185 bytes
 
 ## 2. 집계
 
@@ -21,13 +21,13 @@
 | assets-audio | 468 |
 | assets-ui-icons | 226 |
 | assets-2d-portraits | 3 |
-| assets-3d-lowpoly-2 | 2 |
+| assets-3d-lowpoly-2 | 3 |
 
 ### 카테고리(category)별
 
 | category | 개수 |
 |---|---|
-| model-3d | 443 |
+| model-3d | 444 |
 | sfx | 234 |
 | music | 230 |
 | ui | 205 |
@@ -70,8 +70,8 @@
 | 3D 건물 | building-3d | 23 |
 | 2D | effect | 19 |
 | 배경음악 | music | 19 |
+| 3D 소품 | model-3d | 18 |
 | 2D 배경 | background-2d | 17 |
-| 3D 소품 | model-3d | 17 |
 | 2D UI | ui | 13 |
 | 2D 캐릭터 | sprite-2d | 12 |
 | 2D | background-2d | 10 |
@@ -123,7 +123,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license_family | 개수 |
 |---|---|
-| cc0 | 1723 |
+| cc0 | 1724 |
 | cc-by | 132 |
 | gpl | 10 |
 | mit | 3 |
@@ -133,7 +133,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license | 개수 |
 |---|---|
-| CC0 | 1722 |
+| CC0 | 1723 |
 | CC-BY 3.0 | 64 |
 | CC-BY 4.0 | 61 |
 | GPL 3.0 | 10 |
@@ -163,7 +163,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2026-11-11 | 41 |
 | 2026-11-12 | 46 |
 | 2026-11-13 | 41 |
-| 2026-11-14 | 7 |
+| 2026-11-14 | 8 |
 
 ### 상위 태그 30
 
@@ -220,9 +220,9 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | projectile | 27 |
 | slash | 8 |
 
-- effect_kind가 하나 이상인 에셋: 234 / 1871
+- effect_kind가 하나 이상인 에셋: 234 / 1872
 
-- attribution_required=true: 145, ai_generated=true: 21, preview 있음: 1401, 분할(split) 행: 147
+- attribution_required=true: 145, ai_generated=true: 22, preview 있음: 1401, 분할(split) 행: 147
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
@@ -260,7 +260,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 ### 3.4 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 라이선스 표기 — 값은 수정하지 않음
 
-- 허용 목록과 정확히 일치: 1860행
+- 허용 목록과 정확히 일치: 1861행
 - 허용 라이선스로 시작하지만 부가 설명이 붙은 표기: 8행 (6종)
 - 허용 목록에 해당하지 않음: **3행** (2종)
 
@@ -282,7 +282,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 
 - 참고: license_family가 cc-by/mit/gpl인데 attribution이 `optional`로 시작하는 행: 0건 (규칙상 attribution_required=false 처리됨; 확인 필요)
-- 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 18건
+- 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 19건
 - 참고: attribution이 `불요`로 시작하거나 `없음`/`none`/`n/a`인 행: 13건 — attribution_required=false 처리 (정제 2차 변경; 이전에는 `불요` 2행이 true였음: assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56)
 - 참고: attribution_required=true인 행 145건 (cc0인데 true: 0건)
 
@@ -292,15 +292,15 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 |---|---|---|
 | 1682 | https://raw.githubusercontent.com/sigco3111/assets-2d-pixel/main/cheonha-sambun/cheonha-sambun-assets.zip | 중복 슬래시 |
 - file 열이 저장소 상대경로가 아니라 전체 URL인 행 1건: 색인의 download_path는 같은 저장소의 상대경로로 환산(cheonha-sambun/cheonha-sambun-assets.zip), 원본 file 값은 `file`에 그대로 유지.
-- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1531행, 저장소 트리 경로 340행
+- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1531행, 저장소 트리 경로 341행
 - split 열 값이 `Y`(파트 파일명 미나열, 폴더 내 part1~N zip)인 행: 11건 — `multipart=true`, download_url은 file 열(part1) 기준.
 - 파트 파일명이 나열된 분할 업로드(split 열) 147행: file 열의 단일 파일명은 릴리스에 존재하지 않을 수 있고 실제 파일은 `split_parts`임 (예: `assets-3d-lowpoly/kaykit-skeletons-1-0`). 이 행들의 `download_url`은 null, 대신 `download_urls`에 분할 파일 URL 목록을 둠.
-- file 확장자 분포: .zip 1785, .part01 47, .png 16, .ogg 7, .mp3 6, .wav 3, .blend 2, .svg 2, .gif 1, .gz 1, .jpg 1
+- file 확장자 분포: .zip 1786, .part01 47, .png 16, .ogg 7, .mp3 6, .wav 3, .blend 2, .svg 2, .gif 1, .gz 1, .jpg 1
 
 ### 3.7 기타 관찰
 
 - category가 `other`인 행: 129 (원본 type 분포: 2D 120, model-3d 3, 2D 일러스트 2, 2D 컨셉아트 1, 2D 초상화 1, sfx 1, 오디오 1) — 원본 type이 `2D`처럼 모호하면 추측하지 않고 other로 둠.
-- notes에 `AI 생성` 문자열이 있는 행 154건 중 `AI 생성 아님`/`AI 생성 여부 …` 형태의 부정·불명 표현을 제외한 행 19건, 그리고 license/notes에 `AI-generated`/`AI generated`/`AI 생성물`이 긍정 의미로 있는 행을 ai_generated=true로 판정: 총 21건.
+- notes에 `AI 생성` 문자열이 있는 행 155건 중 `AI 생성 아님`/`AI 생성 여부 …` 형태의 부정·불명 표현을 제외한 행 20건, 그리고 license/notes에 `AI-generated`/`AI generated`/`AI 생성물`이 긍정 의미로 있는 행을 ai_generated=true로 판정: 총 22건.
 - `AI 생성 아님`/`AI 생성 여부` 표기만 있는 행 중 true가 된 행: 0건
 
 | CSV 줄 | name | repo | 근거 |
@@ -326,9 +326,10 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 1848 | Sumo Arena | assets-3d-lowpoly | notes `AI 생성` |
 | 1849 | Character Guy (Rigged) | assets-3d-lowpoly | notes `AI 생성` |
 | 1850 | Cozy Space SFX: 46 Retro Sound Effects | assets-audio | notes `AI 생성` |
+| 1873 | Low Poly Stalls | assets-3d-lowpoly-2 | notes `AI 생성` |
 
 - notes에 `AI`가 있으나 `AI 생성` 문구가 없어 false로 둔 행: 8건 (assets-ui-icons/game-icons, assets-ui-icons/game-icons-expansion, assets-3d-lowpoly/modular-dungeon-2-3d-models-2, assets-3d-lowpoly/base-human-models-low-poly, assets-2d-pixel/weapon-slash-effect-2)
-- preview가 없는 행: 470건
+- preview가 없는 행: 471건
 
 ## 4. 샘플 링크 점검 (전수 점검 아님, 표본)
 

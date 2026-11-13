@@ -7,6 +7,18 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-14 A86 추가 (4팩, 총 1868팩)
+
+A86 라운드에서 OpenGameArt의 3D 3팩 Tool Pack 1·Toolbox·3D Cobblestone Texture와 효과음 1팩 IgnisForge Free SFX Sampler를 수집했습니다. 중복은 카탈로그 저장소 코드 검색으로 확인했습니다(Mushroom Enemy·Rail Post·Pine Tree·Swinging blade trap·Plasma Electric Effect Animations·Gun Muzzle Flash Effects·150 Combat Sound Effects는 이미 수록되어 제외).
+
+| 팩 | 라이선스 |
+| --- | --- |
+| Tool Pack 1 | CC0 |
+| Toolbox | CC0 |
+| 3D Cobblestone Texture | CC0 |
+| IgnisForge Free SFX Sampler - 43 Synthesized Retro Sound Effects | CC0 |
+
+종류: 3D 3팩(assets-3d-lowpoly), 효과음 1팩(assets-audio). 라이선스: CC0 4팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가, 임시 워크플로 a86-ingest.yml 수동 실행). 용량: assets-3d-lowpoly 약 692MB, assets-audio 약 385MB(700MB 미만, 새 저장소 생성 없음). 색인(assets-index*.json)·위키·llms.txt는 직접 손대지 않고 Actions 자동 갱신에 맡김. '천하삼분 게임 에셋 56'은 수집 대상이 아님.
 ## 2026-11-13 A85 추가 (1팩, 총 1864팩)
 
 A85 라운드에서 OpenGameArt 2D 이펙트 1팩 Rocket Thruster Effect Animations(Reactorcore, CC0)를 수집했습니다. 중복은 카탈로그 저장소 코드 검색으로 확인했습니다.

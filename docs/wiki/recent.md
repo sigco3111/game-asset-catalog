@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@fe75d6b976345ee0d00268ab8322fc2544f4e945`
+> generated from `catalog.csv@346eb7aebdf63e1ac4de67698c49dd84194709fa`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -14,6 +14,9 @@
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [3D Cobblestone Texture](https://opengameart.org/content/3d-cobblestone-texture) | `other` | ZaninDevelopers | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-cobblestone-texture/cobblestone.zip) | 2026-11-14 |
+| [Crates Chests Coins and Barrels Collection](https://opengameart.org/content/crates-chests-coins-and-barrels-collection) | `model-3d` | mabaci | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/crates-chests-coins-barrels/medieval_items.zip) | 2026-11-14 |
+| [Dungeon interior kit](https://opengameart.org/content/dungeon-interior-kit) | `model-3d` | humble squirrel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dungeon-interior-kit/dungeon_interior_kit.tar.gz) | 2026-11-14 |
+| [Gem collect SFX](https://opengameart.org/content/gem-collect-sfx) | `other` | Bobjt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/gem-collect-sfx/gem-gather-stereo.wav) | 2026-11-14 |
 | [IgnisForge Free SFX Sampler - 43 Synthesized Retro Sound Effects](https://opengameart.org/content/ignisforge-free-sfx-sampler-43-synthesized-retro-sound-effects) | `other` | ignisforge | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/ignisforge-free-sfx-sampler/ignisforge-oga-sampler-cc0_7.zip) | 2026-11-14 |
 | [Tool Pack 1](https://opengameart.org/content/tool-pack-1) | `other` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/tool-pack-1/tool_pack_1.zip) | 2026-11-14 |
 | [Toolbox](https://opengameart.org/content/toolbox-0) | `other` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/toolbox/toolbox.zip) | 2026-11-14 |
@@ -110,6 +113,3 @@
 | [Big Explosion](https://opengameart.org/content/big-explosion) | `sfx` | Blender Foundation | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/big-explosion/big-explosion.zip) | 2026-11-11 |
 | [Boom Pack 2](https://opengameart.org/content/boom-pack-2) | `sfx` | dklon | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/boom-pack-2/boom-pack-2.zip) | 2026-11-11 |
 | [Burst fx](https://opengameart.org/content/burst-fx) | `effect` | ashishlko11 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/burst-fx/burst-fx.zip) | 2026-11-11 |
-| [Electricity Overlay Effect](https://opengameart.org/content/electricity-overlay-effect) | `effect` | AntumDeluge (Jordan Irwin) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/electricity-overlay-effect/electricity-overlay-effect.zip) | 2026-11-11 |
-| [Elemental Spell](https://opengameart.org/content/elemental-spell) | `sfx` | qubodup | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/elemental-spell/elemental-spell.zip) | 2026-11-11 |
-| [Energy Ball](https://opengameart.org/content/energy-ball) | `effect` | yiannisd | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/energy-ball/energy-ball.zip) | 2026-11-11 |

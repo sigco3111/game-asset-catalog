@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@fe75d6b976345ee0d00268ab8322fc2544f4e945",
-  "count": 1868,
+  "generated_from": "catalog.csv@346eb7aebdf63e1ac4de67698c49dd84194709fa",
+  "count": 1871,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -66546,6 +66546,108 @@
         "https://github.com/sigco3111/assets-audio/raw/main/ignisforge-free-sfx-sampler/ignisforge-oga-sampler-cc0_7.zip"
       ],
       "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/crates-chests-coins-and-barrels-collection",
+      "name": "Crates Chests Coins and Barrels Collection",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "crates-chests-coins-barrels/medieval_items.zip",
+      "type": "3D",
+      "category": "model-3d",
+      "tags": [
+        "crate",
+        "chest",
+        "barrel",
+        "prop",
+        "loot"
+      ],
+      "effect_kind": [],
+      "author": "mabaci",
+      "source_url": "https://opengameart.org/content/crates-chests-coins-and-barrels-collection",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "없음 (CC0)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "A87 수집; 저장소 내 포함 (902KB); OpenGameArt 3D",
+      "preview": "crates-chests-coins-barrels/preview.jpg",
+      "download_path": "crates-chests-coins-barrels/medieval_items.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/crates-chests-coins-barrels/medieval_items.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/crates-chests-coins-barrels/medieval_items.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/dungeon-interior-kit",
+      "name": "Dungeon interior kit",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "dungeon-interior-kit/dungeon_interior_kit.tar.gz",
+      "type": "3D",
+      "category": "model-3d",
+      "tags": [
+        "dungeon",
+        "interior",
+        "prop"
+      ],
+      "effect_kind": [],
+      "author": "humble squirrel",
+      "source_url": "https://opengameart.org/content/dungeon-interior-kit",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "없음 (CC0)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "A87 수집; 저장소 내 포함 (1.9MB); OpenGameArt 3D",
+      "preview": "dungeon-interior-kit/preview.jpg",
+      "download_path": "dungeon-interior-kit/dungeon_interior_kit.tar.gz",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dungeon-interior-kit/dungeon_interior_kit.tar.gz",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dungeon-interior-kit/dungeon_interior_kit.tar.gz"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/gem-collect-sfx",
+      "name": "Gem collect SFX",
+      "repo": "assets-audio",
+      "file": "gem-collect-sfx/gem-gather-stereo.wav",
+      "type": "오디오",
+      "category": "other",
+      "tags": [
+        "sfx",
+        "collect",
+        "gem",
+        "ui"
+      ],
+      "effect_kind": [],
+      "author": "Bobjt",
+      "source_url": "https://opengameart.org/content/gem-collect-sfx",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "없음 (CC0)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "A87 수집; wav 2 + zip 1; OpenGameArt 효과음",
+      "preview": "gem-collect-sfx/preview.jpg",
+      "download_path": "gem-collect-sfx/gem-gather-stereo.wav",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/gem-collect-sfx/gem-gather-stereo.wav",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/gem-collect-sfx/gem-gather-stereo.wav"
+      ],
+      "sample": "https://raw.githubusercontent.com/sigco3111/assets-audio/main/short-impact/sample.wav",
       "multipart": false,
       "split_parts": []
     }

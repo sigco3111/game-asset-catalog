@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@54d445cbce227c7a17f52d901e9bdb57a041f886`
+> generated from `catalog.csv@85dd623f5599a7cfeaa26a05b6ea040a0b56b143`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,12 +13,15 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [3D Character Pack](https://opengameart.org/content/3d-character-pack) | `character-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bravos_game_br_2024.zip) | 2026-11-14 |
 | [3D Cobblestone Texture](https://opengameart.org/content/3d-cobblestone-texture) | `other` | ZaninDevelopers | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-cobblestone-texture/cobblestone.zip) | 2026-11-14 |
+| [3D Human Parts Pack](https://opengameart.org/content/3d-human-parts-pack) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d_human_parts_pack.zip) | 2026-11-14 |
 | [Crates Chests Coins and Barrels Collection](https://opengameart.org/content/crates-chests-coins-and-barrels-collection) | `model-3d` | mabaci | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/crates-chests-coins-barrels/medieval_items.zip) | 2026-11-14 |
 | [Dungeon interior kit](https://opengameart.org/content/dungeon-interior-kit) | `model-3d` | humble squirrel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dungeon-interior-kit/dungeon_interior_kit.tar.gz) | 2026-11-14 |
 | [Gem collect SFX](https://opengameart.org/content/gem-collect-sfx) | `other` | Bobjt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/gem-collect-sfx/gem-gather-stereo.wav) | 2026-11-14 |
 | [IgnisForge Free SFX Sampler - 43 Synthesized Retro Sound Effects](https://opengameart.org/content/ignisforge-free-sfx-sampler-43-synthesized-retro-sound-effects) | `other` | ignisforge | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/ignisforge-free-sfx-sampler/ignisforge-oga-sampler-cc0_7.zip) | 2026-11-14 |
 | [Low Poly Stalls](https://opengameart.org/content/low-poly-stalls) | `model-3d` | lightdreamerlabs | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lightdreamerlabs-3d-stalls.zip) | 2026-11-14 |
+| [low\_poly\_swords](https://opengameart.org/content/lowpolyswords) | `model-3d` | Q2DENJINDREW | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/swords_obj.zip) | 2026-11-14 |
 | [Tool Pack 1](https://opengameart.org/content/tool-pack-1) | `other` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/tool-pack-1/tool_pack_1.zip) | 2026-11-14 |
 | [Toolbox](https://opengameart.org/content/toolbox-0) | `other` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/toolbox/toolbox.zip) | 2026-11-14 |
 | [3D Sara - Wizard](https://opengameart.org/content/3d-sara-wizard) | `model-3d` | Mish7913 | CC-BY 3.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-sara-wizard/sara_glb.zip) | 2026-11-13 |
@@ -110,6 +113,3 @@
 | [불씨의 서약 아트](https://readasesang-lab.vercel.app/v16/) | `other` | 리드어세상 | 원작자 허용 (수정·사용 자유; 그대로 다시 올려 파는 것 금지) | X | O | 3개 분할 | 2026-11-12 |
 | [Angel Wings Effect](https://opengameart.org/content/angel-wings-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/angel-wings-effect/angel-wings-effect.zip) | 2026-11-11 |
 | [Animated bomb explosion](https://opengameart.org/content/animated-bomb-explosion) | `effect` | Bobjt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/animated-bomb-explosion/animated-bomb-explosion.zip) | 2026-11-11 |
-| [Animated Fireball](https://opengameart.org/content/animated-fireball) | `effect` | cemkalyoncu | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.42/animated-fireball.zip) | 2026-11-11 |
-| [Big Explosion](https://opengameart.org/content/big-explosion) | `sfx` | Blender Foundation | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/big-explosion/big-explosion.zip) | 2026-11-11 |
-| [Boom Pack 2](https://opengameart.org/content/boom-pack-2) | `sfx` | dklon | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/boom-pack-2/boom-pack-2.zip) | 2026-11-11 |

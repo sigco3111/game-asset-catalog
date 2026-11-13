@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@54d445cbce227c7a17f52d901e9bdb57a041f886",
-  "count": 1872,
+  "generated_from": "catalog.csv@85dd623f5599a7cfeaa26a05b6ea040a0b56b143",
+  "count": 1875,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -66680,6 +66680,109 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lightdreamerlabs-3d-stalls.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lightdreamerlabs-3d-stalls.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/low-poly-swords",
+      "name": "low_poly_swords",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "swords_obj.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "sword",
+        "weapon",
+        "lowpoly",
+        "obj"
+      ],
+      "effect_kind": [],
+      "author": "Q2DENJINDREW",
+      "source_url": "https://opengameart.org/content/lowpolyswords",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: none",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "OBJ 로우폴리 검 모음; zip 원본 그대로",
+      "preview": null,
+      "download_path": "swords_obj.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/swords_obj.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/swords_obj.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/3d-character-pack",
+      "name": "3D Character Pack",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "bravos_game_br_2024.zip",
+      "type": "3D 캐릭터",
+      "category": "character-3d",
+      "tags": [
+        "character",
+        "humanoid",
+        "lowpoly",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "byzmod3d",
+      "source_url": "https://opengameart.org/content/3d-character-pack",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: none",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "zip 원본 그대로",
+      "preview": null,
+      "download_path": "bravos_game_br_2024.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bravos_game_br_2024.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bravos_game_br_2024.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/3d-human-parts-pack",
+      "name": "3D Human Parts Pack",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "3d_human_parts_pack.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "human",
+        "body",
+        "parts",
+        "lowpoly",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "byzmod3d",
+      "source_url": "https://opengameart.org/content/3d-human-parts-pack",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: none",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "zip 원본 그대로",
+      "preview": null,
+      "download_path": "3d_human_parts_pack.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d_human_parts_pack.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d_human_parts_pack.zip"
       ],
       "sample": null,
       "multipart": false,

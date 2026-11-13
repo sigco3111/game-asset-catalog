@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@02c75f0b8695b0cdd55384809e74d42e589ec9c6",
-  "count": 1851,
+  "generated_from": "catalog.csv@76ae22fb56f399bbfcae0392957c3c2571255e3b",
+  "count": 1854,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -65950,6 +65950,111 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/packsmithy-sfx-sampler/packsmithy-sfx-sampler.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/packsmithy-sfx-sampler/packsmithy-sfx-sampler.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/mini-forest-2",
+      "name": "Mini Forest",
+      "repo": "assets-3d-lowpoly",
+      "file": "mini-forest/mini-forest.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "forest",
+        "environment",
+        "lowpoly",
+        "3d",
+        "kenney"
+      ],
+      "effect_kind": [],
+      "author": "Kenney",
+      "source_url": "https://opengameart.org/content/mini-forest",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Kenney (kenney.nl)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "파일 120개; zip 1.1MB; 미리보기 preview.jpg",
+      "preview": "preview.jpg",
+      "download_path": "mini-forest/mini-forest.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-forest/mini-forest.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-forest/mini-forest.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/sofa-and-bench",
+      "name": "Sofa and Bench",
+      "repo": "assets-3d-lowpoly",
+      "file": "sofa-and-bench/sofa-and-bench.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "furniture",
+        "sofa",
+        "bench",
+        "prop",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "Lyricsz",
+      "source_url": "https://opengameart.org/content/sofa-and-bench",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Lyricsz (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "파일 6개; zip 960KB; 미리보기 preview.jpg",
+      "preview": "preview.jpg",
+      "download_path": "sofa-and-bench/sofa-and-bench.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sofa-and-bench/sofa-and-bench.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sofa-and-bench/sofa-and-bench.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/zombiepacksfx-3",
+      "name": "ZombiePackSFX 3",
+      "repo": "assets-audio",
+      "file": "zombiepacksfx-3/zombiepacksfx-3.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "zombie",
+        "creature",
+        "sfx",
+        "horror",
+        "growl"
+      ],
+      "effect_kind": [],
+      "author": "Colodical",
+      "source_url": "https://opengameart.org/content/zombiepacksfx-3",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: Colodical (CC-BY 3.0)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "파일 11개; zip 3.9MB; CREDITS.txt 포함",
+      "preview": null,
+      "download_path": "zombiepacksfx-3/zombiepacksfx-3.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/zombiepacksfx-3/zombiepacksfx-3.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/zombiepacksfx-3/zombiepacksfx-3.zip"
       ],
       "sample": null,
       "multipart": false,

@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@02c75f0b8695b0cdd55384809e74d42e589ec9c6`
-- 데이터 행 수: **1851**
+- 원본: `catalog.csv@76ae22fb56f399bbfcae0392957c3c2571255e3b`
+- 데이터 행 수: **1854**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 2,753,767 bytes, `assets-index.min.json` 2,229,422 bytes
+- 파일 크기: `assets-index.json` 2,757,267 bytes, `assets-index.min.json` 2,232,088 bytes
 
 ## 2. 집계
 
@@ -17,8 +17,8 @@
 | repo | 개수 |
 |---|---|
 | assets-2d-pixel | 660 |
-| assets-3d-lowpoly | 497 |
-| assets-audio | 465 |
+| assets-3d-lowpoly | 499 |
+| assets-audio | 466 |
 | assets-ui-icons | 226 |
 | assets-2d-portraits | 3 |
 
@@ -26,8 +26,8 @@
 
 | category | 개수 |
 |---|---|
-| model-3d | 433 |
-| sfx | 233 |
+| model-3d | 435 |
+| sfx | 234 |
 | music | 230 |
 | ui | 205 |
 | tileset-2d | 146 |
@@ -51,11 +51,11 @@
 
 | type(원본) | category | 개수 |
 |---|---|---|
-| 효과음 | sfx | 233 |
+| 효과음 | sfx | 234 |
 | 3D | model-3d | 226 |
 | 음악 | music | 211 |
 | UI·아이콘 | ui | 187 |
-| 3D 모델 | model-3d | 139 |
+| 3D 모델 | model-3d | 141 |
 | 2D | other | 120 |
 | 2D 이펙트 | effect | 108 |
 | 2D 타일셋 | tileset-2d | 98 |
@@ -119,8 +119,8 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license_family | 개수 |
 |---|---|
-| cc0 | 1709 |
-| cc-by | 126 |
+| cc0 | 1711 |
+| cc-by | 127 |
 | gpl | 10 |
 | mit | 3 |
 | other | 3 |
@@ -129,8 +129,8 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license | 개수 |
 |---|---|
-| CC0 | 1708 |
-| CC-BY 3.0 | 63 |
+| CC0 | 1710 |
+| CC-BY 3.0 | 64 |
 | CC-BY 4.0 | 56 |
 | GPL 3.0 | 10 |
 | CC-BY 3.0 / GPL 2.0 (원본 페이지 이중 표기, 둘 다 허용 라이선스; CC-BY 3.0 선택) | 3 |
@@ -158,20 +158,20 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2026-11-10 | 14 |
 | 2026-11-11 | 41 |
 | 2026-11-12 | 46 |
-| 2026-11-13 | 28 |
+| 2026-11-13 | 31 |
 
 ### 상위 태그 30
 
 | tag | 개수 |
 |---|---|
-| 3d | 248 |
+| 3d | 250 |
 | 2d | 245 |
-| sfx | 233 |
+| sfx | 234 |
 | music | 229 |
 | ui·아이콘 | 182 |
 | rpg | 147 |
 | fantasy | 109 |
-| lowpoly | 96 |
+| lowpoly | 97 |
 | pixel | 95 |
 | platformer | 84 |
 | icons | 78 |
@@ -215,9 +215,9 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | projectile | 27 |
 | slash | 8 |
 
-- effect_kind가 하나 이상인 에셋: 231 / 1851
+- effect_kind가 하나 이상인 에셋: 231 / 1854
 
-- attribution_required=true: 139, ai_generated=true: 21, preview 있음: 1386, 분할(split) 행: 147
+- attribution_required=true: 140, ai_generated=true: 21, preview 있음: 1388, 분할(split) 행: 147
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
@@ -233,7 +233,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | https://opengameart.org/content/sci-fi-essentials-kit | 2 | assets-3d-lowpoly/sci-fi-essentials-kit, assets-2d-pixel/sci-fi-essentials-kit-4k-textures |
 | https://opengameart.org/content/weapon-slash-effect | 2 | assets-2d-pixel/weapon-slash-effect, assets-2d-pixel/weapon-slash-effect-2 |
 
-### 3.3 (name, repo) 중복: 14쌍, 28행
+### 3.3 (name, repo) 중복: 15쌍, 30행
 
 | name | repo | 행 수 | file |
 |---|---|---|---|
@@ -243,6 +243,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | Hexagon Tiles | assets-2d-pixel | 2 | releases/download/v4.0/hexagon-tiles.zip; releases/download/v8.23/hexagon-tiles-0.zip |
 | Interface Sounds | assets-audio | 2 | kenney_interfacesounds.zip; releases/download/v6.8/interface-sounds.zip |
 | Medals | assets-2d-pixel | 2 | releases/download/v8.28/medals-2.zip; releases/download/v8.36/medals-3.zip |
+| Mini Forest | assets-3d-lowpoly | 2 | releases/download/v8.10/mini-forest.zip; mini-forest/mini-forest.zip |
 | Mobile Controls | assets-2d-pixel | 2 | releases/download/v8.11/mobile-controls.zip; releases/download/v8.19/mobile-controls.zip |
 | Modular Dungeon 2 - 3D Models | assets-3d-lowpoly | 2 | releases/download/v8.10/modular-dungeon-2-3d-models.zip; modular-dungeon-2/dungeon_collection_2.zip |
 | Pirate Kit | assets-3d-lowpoly | 2 | releases/download/v3.0/pirate-kit.zip; releases/download/v8.9/pirate-kit.zip |
@@ -254,7 +255,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 ### 3.4 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 라이선스 표기 — 값은 수정하지 않음
 
-- 허용 목록과 정확히 일치: 1840행
+- 허용 목록과 정확히 일치: 1843행
 - 허용 라이선스로 시작하지만 부가 설명이 붙은 표기: 8행 (6종)
 - 허용 목록에 해당하지 않음: **3행** (2종)
 
@@ -278,7 +279,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 - 참고: license_family가 cc-by/mit/gpl인데 attribution이 `optional`로 시작하는 행: 0건 (규칙상 attribution_required=false 처리됨; 확인 필요)
 - 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 15건
 - 참고: attribution이 `불요`로 시작하거나 `없음`/`none`/`n/a`인 행: 13건 — attribution_required=false 처리 (정제 2차 변경; 이전에는 `불요` 2행이 true였음: assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56)
-- 참고: attribution_required=true인 행 139건 (cc0인데 true: 0건)
+- 참고: attribution_required=true인 행 140건 (cc0인데 true: 0건)
 
 ### 3.6 file 열 경로 형식 이상: 1건
 
@@ -286,10 +287,10 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 |---|---|---|
 | 1682 | https://raw.githubusercontent.com/sigco3111/assets-2d-pixel/main/cheonha-sambun/cheonha-sambun-assets.zip | 중복 슬래시 |
 - file 열이 저장소 상대경로가 아니라 전체 URL인 행 1건: 색인의 download_path는 같은 저장소의 상대경로로 환산(cheonha-sambun/cheonha-sambun-assets.zip), 원본 file 값은 `file`에 그대로 유지.
-- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1531행, 저장소 트리 경로 320행
+- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1531행, 저장소 트리 경로 323행
 - split 열 값이 `Y`(파트 파일명 미나열, 폴더 내 part1~N zip)인 행: 11건 — `multipart=true`, download_url은 file 열(part1) 기준.
 - 파트 파일명이 나열된 분할 업로드(split 열) 147행: file 열의 단일 파일명은 릴리스에 존재하지 않을 수 있고 실제 파일은 `split_parts`임 (예: `assets-3d-lowpoly/kaykit-skeletons-1-0`). 이 행들의 `download_url`은 null, 대신 `download_urls`에 분할 파일 URL 목록을 둠.
-- file 확장자 분포: .zip 1767, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 2, .svg 2, .wav 2, .gif 1, .jpg 1
+- file 확장자 분포: .zip 1770, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 2, .svg 2, .wav 2, .gif 1, .jpg 1
 
 ### 3.7 기타 관찰
 
@@ -322,7 +323,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 1850 | Cozy Space SFX: 46 Retro Sound Effects | assets-audio | notes `AI 생성` |
 
 - notes에 `AI`가 있으나 `AI 생성` 문구가 없어 false로 둔 행: 8건 (assets-ui-icons/game-icons, assets-ui-icons/game-icons-expansion, assets-3d-lowpoly/modular-dungeon-2-3d-models-2, assets-3d-lowpoly/base-human-models-low-poly, assets-2d-pixel/weapon-slash-effect-2)
-- preview가 없는 행: 465건
+- preview가 없는 행: 466건
 
 ## 4. 샘플 링크 점검 (전수 점검 아님, 표본)
 
@@ -407,7 +408,7 @@ catalog.csv·license 값은 수정하지 않았습니다. 아래는 소유자의
 
 ### (a) 중복 행 (삭제하지 않음)
 
-- (name, repo)가 같은 쌍 14쌍(28행):
+- (name, repo)가 같은 쌍 15쌍(30행):
 
 | name | repo | CSV 줄 | file |
 |---|---|---|---|
@@ -417,6 +418,7 @@ catalog.csv·license 값은 수정하지 않았습니다. 아래는 소유자의
 | Hexagon Tiles | assets-2d-pixel | 93, 769 | releases/download/v4.0/hexagon-tiles.zip; releases/download/v8.23/hexagon-tiles-0.zip |
 | Interface Sounds | assets-audio | 14, 832 | kenney_interfacesounds.zip; releases/download/v6.8/interface-sounds.zip |
 | Medals | assets-2d-pixel | 982, 1337 | releases/download/v8.28/medals-2.zip; releases/download/v8.36/medals-3.zip |
+| Mini Forest | assets-3d-lowpoly | 380, 1853 | releases/download/v8.10/mini-forest.zip; mini-forest/mini-forest.zip |
 | Mobile Controls | assets-2d-pixel | 384, 601 | releases/download/v8.11/mobile-controls.zip; releases/download/v8.19/mobile-controls.zip |
 | Modular Dungeon 2 - 3D Models | assets-3d-lowpoly | 613, 1825 | releases/download/v8.10/modular-dungeon-2-3d-models.zip; modular-dungeon-2/dungeon_collection_2.zip |
 | Pirate Kit | assets-3d-lowpoly | 66, 328 | releases/download/v3.0/pirate-kit.zip; releases/download/v8.9/pirate-kit.zip |

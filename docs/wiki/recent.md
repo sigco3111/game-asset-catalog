@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@02c75f0b8695b0cdd55384809e74d42e589ec9c6`
+> generated from `catalog.csv@76ae22fb56f399bbfcae0392957c3c2571255e3b`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -31,16 +31,19 @@
 | [Lava Waves](https://opengameart.org/content/lava-waves) | `effect` | StalwartBlue | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lava-waves/lava_wave.zip) | 2026-11-13 |
 | [Lock](https://opengameart.org/content/lock-1) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/lock/lock.zip) | 2026-11-13 |
 | [Medieval Castle Manor](https://opengameart.org/content/medieval-castlemanor) | `model-3d` | unForastero | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/medieval-castle-manor/castle_001.zip) | 2026-11-13 |
+| [Mini Forest](https://opengameart.org/content/mini-forest) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-forest/mini-forest.zip) | 2026-11-13 |
 | [Mini Rocket](https://opengameart.org/content/mini-rocket) | `model-3d` | David W CG | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-rocket/mini_rocket.zip) | 2026-11-13 |
 | [Modular Dungeon 2 - 3D Models](https://opengameart.org/content/modular-dungeon-2-3d-models) | `model-3d` | Keith at Fertile Soil Productions | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/modular-dungeon-2/dungeon_collection_2.zip) | 2026-11-13 |
 | [Oozey the Slime](https://opengameart.org/content/oozey-the-slime) | `model-3d` | Mophs | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/oozey-the-slime/Oozey.zip) | 2026-11-13 |
 | [Packsmithy SFX sampler: 30 synthesised sound effects](https://opengameart.org/content/packsmithy-sfx-sampler-30-synthesised-sound-effects-ui-retro-horror-sci-fi-glitch) | `sfx` | packsmithy | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/packsmithy-sfx-sampler/packsmithy-sfx-sampler.zip) | 2026-11-13 |
 | [Pocket Bleeps – 31 Retro 8-Bit SFX](https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by) | `sfx` | Pocket Bleeps | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip) | 2026-11-13 |
 | [Rail Post](https://opengameart.org/content/rail-post) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/rail-post/post.zip) | 2026-11-13 |
+| [Sofa and Bench](https://opengameart.org/content/sofa-and-bench) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sofa-and-bench/sofa-and-bench.zip) | 2026-11-13 |
 | [Space port kit](https://opengameart.org/content/space-port-kit) | `model-3d` | Ludrol | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/space-port-kit/space_port_kit_glb.zip) | 2026-11-13 |
 | [Stylized Coin](https://opengameart.org/content/stylized-coin) | `model-3d` | optimuspryne | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/stylized-coin/coin.blend) | 2026-11-13 |
 | [Sumo Arena](https://opengameart.org/content/sumo-arena) | `model-3d` | unForastero | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sumo-arena/sumo_arena_1.zip) | 2026-11-13 |
 | [Weapon Slash - Effect](https://opengameart.org/content/weapon-slash-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/weapon-slash-effect/weapon-slash-everything.zip) | 2026-11-13 |
+| [ZombiePackSFX 3](https://opengameart.org/content/zombiepacksfx-3) | `sfx` | Colodical | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/zombiepacksfx-3/zombiepacksfx-3.zip) | 2026-11-13 |
 | [3rd version of Sparkle](https://opengameart.org/content/3rd-version-of-sparkle) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/3rd-version-of-sparkle/3rd-version-of-sparkle.zip) | 2026-11-12 |
 | [Bald Man - Rigged](https://opengameart.org/content/bald-man-rigged) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/bald-man-rigged.zip) | 2026-11-12 |
 | [Basic Female](https://opengameart.org/content/basic-female-0) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/basic-female.zip) | 2026-11-12 |
@@ -110,6 +113,3 @@
 | [Laser Fire](https://opengameart.org/content/laser-fire) | `sfx` | dklon | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/laser-fire/laser-fire.zip) | 2026-11-11 |
 | [Lightning Cloud](https://opengameart.org/content/lightning-cloud) | `effect` | dorkster | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lightning-cloud/lightning-cloud.zip) | 2026-11-11 |
 | [Lightning Effect (Varkalandar)](https://opengameart.org/content/lightning-effect-0) | `effect` | Hansjörg Malthaner (Varkalandar) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lightning-effect-varkalandar/lightning-effect-varkalandar.zip) | 2026-11-11 |
-| [M484 Explosion Set 3](https://opengameart.org/content/m484-explosion-set-3) | `effect` | Master484 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/m484-explosion-set-3/m484-explosion-set-3.zip) | 2026-11-11 |
-| [M484 Lightning Weapon](https://opengameart.org/content/m484-lightning-weapon) | `effect` | Master484 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/m484-lightning-weapon/m484-lightning-weapon.zip) | 2026-11-11 |
-| [Magic Effect Particle System](https://opengameart.org/content/magic-effect-particle-system) | `effect` | HenriqueGibi | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.42/magic-effect-particle-system.zip) | 2026-11-11 |

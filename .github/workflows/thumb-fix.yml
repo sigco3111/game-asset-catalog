@@ -1,0 +1,98 @@
+name: 썸네일 정리 (임시)
+on: push
+permissions:
+  contents: write
+  actions: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 실행
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import csv, os, re, io, json, base64, subprocess
+
+          TOKEN = os.environ["GH_TOKEN"]
+          USER = "sigco3111"
+          REPO = "sigco3111/game-asset-catalog"
+          API = "https://api.github.com"
+
+          def api(path, method="GET", payload=None):
+              cmd = ["curl", "-sS", "--max-time", "120", "-X", method,
+                     "-H", "Authorization: Bearer " + TOKEN,
+                     "-H", "Accept: application/vnd.github+json", API + path]
+              data = None
+              if payload is not None:
+                  cmd = cmd + ["-H", "Content-Type: application/json", "--data-binary", "@-"]
+                  data = json.dumps(payload)
+              r = subprocess.run(cmd, input=data, capture_output=True, text=True)
+              try:
+                  return json.loads(r.stdout or "{}")
+              except Exception:
+                  return {"_raw": r.stdout[:200]}
+
+          def file_sha(repo, path):
+              r = api("/repos/" + USER + "/" + repo + "/contents/" + path)
+              if isinstance(r, dict):
+                  return r.get("sha")
+              return None
+
+          def rel(p):
+              m = re.search(r"/main/(.+)$", p)
+              return m.group(1) if m else p
+
+          raw = open("catalog.csv", encoding="utf-8").read()
+          had_nl = raw.endswith("\n")
+          lines = raw.split("\n")
+          if lines and lines[-1] == "":
+              lines.pop()
+          rows = lines[1:]
+
+          cleared = []
+          kept = 0
+          for i, line in enumerate(rows):
+              if not line.strip():
+                  continue
+              try:
+                  f = next(csv.reader([line]))
+              except Exception:
+                  continue
+              while len(f) < 16:
+                  f.append("")
+              repo, added, prev = f[1], f[9], f[11].strip()
+              if added < "2026-11-11" or repo == "assets-audio" or not prev:
+                  continue
+              p = rel(prev)
+              if file_sha(repo, p):
+                  kept += 1
+                  continue
+              f[11] = ""
+              buf = io.StringIO()
+              csv.writer(buf, lineterminator="").writerow(f)
+              rows[i] = buf.getvalue()
+              cleared.append(f[0] + " | " + repo + " | " + p)
+
+          print("kept", kept, "cleared", len(cleared))
+          for x in cleared:
+              print("-", x)
+
+          meta = api("/repos/" + REPO + "/contents/catalog.csv")
+          if cleared and isinstance(meta, dict) and meta.get("sha"):
+              newcsv = "\n".join([lines[0]] + rows) + ("\n" if had_nl else "")
+              api("/repos/" + REPO + "/contents/catalog.csv", "PUT",
+                  {"message": "썸네일: 없는 미리보기 경로 " + str(len(cleared)) + "행 정리",
+                   "branch": "main", "sha": meta["sha"],
+                   "content": base64.b64encode(newcsv.encode("utf-8")).decode()})
+
+          for rm in ("thumb-report.md", ".github/workflows/thumb-a89.yml", ".github/workflows/thumb-a89b.yml"):
+              m = api("/repos/" + REPO + "/contents/" + rm)
+              if isinstance(m, dict) and m.get("sha"):
+                  api("/repos/" + REPO + "/contents/" + rm, "DELETE",
+                      {"message": "썸네일: 임시 파일 삭제 (" + rm.split("/")[-1] + ")", "branch": "main", "sha": m["sha"]})
+
+          api("/repos/" + REPO + "/actions/workflows/rebuild-index.yml/dispatches", "POST", {"ref": "main"})
+          print("done")
+          PY

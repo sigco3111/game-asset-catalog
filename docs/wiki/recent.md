@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@fc67f2f0fd77f354431e798e475187b1e154b68d`
+> generated from `catalog.csv@e2d938bb31cc76255eed6ce3dadefa2597ec50f5`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -45,6 +45,7 @@
 | [Packsmithy SFX sampler: 30 synthesised sound effects](https://opengameart.org/content/packsmithy-sfx-sampler-30-synthesised-sound-effects-ui-retro-horror-sci-fi-glitch) | `sfx` | packsmithy | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/packsmithy-sfx-sampler/packsmithy-sfx-sampler.zip) | 2026-11-13 |
 | [Pocket Bleeps – 31 Retro 8-Bit SFX](https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by) | `sfx` | Pocket Bleeps | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip) | 2026-11-13 |
 | [Rail Post](https://opengameart.org/content/rail-post) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/rail-post/post.zip) | 2026-11-13 |
+| [Rocket Thruster Effect Animations](https://opengameart.org/content/rocket-thruster-effect-animations) | `effect` | Reactorcore | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/rocket-thruster-effect-animations/rocket-thruster-effect-animations.zip) | 2026-11-13 |
 | [Roulette Wheel and Board](https://opengameart.org/content/roulette-wheel-and-board) | `model-3d` | Klooverice | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/roulette-wheel-and-board/roulette-wheel-and-board.zip) | 2026-11-13 |
 | [Shipping Containers](https://opengameart.org/content/shipping-containers) | `model-3d` | miniforall | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/shipping-containers/shipping-containers.zip) | 2026-11-13 |
 | [Sofa and Bench](https://opengameart.org/content/sofa-and-bench) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sofa-and-bench/sofa-and-bench.zip) | 2026-11-13 |
@@ -112,4 +113,3 @@
 | [Explosion effects and more](https://opengameart.org/content/explosion-effects-and-more) | `effect` | Soluna Software | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion-effects-and-more/explosion-effects-and-more.zip) | 2026-11-11 |
 | [Extended LPC Magic pack](https://opengameart.org/content/extended-lpc-magic-pack) | `effect` | daneeklu (Daniel Eddeland) | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/extended-lpc-magic-pack/extended-lpc-magic-pack.zip) | 2026-11-11 |
 | [Fantasy Magic Spell](https://opengameart.org/content/fantasy-magic-spell) | `sfx` | Almitory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/fantasy-magic-spell/fantasy-magic-spell.zip) | 2026-11-11 |
-| [Fire & Evil Spell](https://opengameart.org/content/fire-evil-spell) | `sfx` | artisticdude | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/fire-evil-spell/fire-evil-spell.zip) | 2026-11-11 |

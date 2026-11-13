@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@fc67f2f0fd77f354431e798e475187b1e154b68d",
-  "count": 1863,
+  "generated_from": "catalog.csv@e2d938bb31cc76255eed6ce3dadefa2597ec50f5",
+  "count": 1864,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -66378,6 +66378,40 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/circular-effect-animations/circular-effect-animations.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/circular-effect-animations/circular-effect-animations.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/rocket-thruster-effect-animations",
+      "name": "Rocket Thruster Effect Animations",
+      "repo": "assets-2d-pixel",
+      "file": "rocket-thruster-effect-animations/rocket-thruster-effect-animations.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "thruster",
+        "animation",
+        "spritesheet"
+      ],
+      "effect_kind": [],
+      "author": "Reactorcore",
+      "source_url": "https://opengameart.org/content/rocket-thruster-effect-animations",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Reactorcore (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "zip 약 74KB; 미리보기 preview.jpg",
+      "preview": "preview.jpg",
+      "download_path": "rocket-thruster-effect-animations/rocket-thruster-effect-animations.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/rocket-thruster-effect-animations/rocket-thruster-effect-animations.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/rocket-thruster-effect-animations/rocket-thruster-effect-animations.zip"
       ],
       "sample": null,
       "multipart": false,

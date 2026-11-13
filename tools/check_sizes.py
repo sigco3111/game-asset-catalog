@@ -9,7 +9,7 @@ import json, os, urllib.request
 from datetime import datetime, timedelta, timezone
 
 OWNER = "sigco3111"
-REPOS = ["assets-2d-pixel", "assets-audio", "assets-3d-lowpoly", "assets-ui-icons", "assets-2d-portraits"]
+REPOS = ["assets-2d-pixel", "assets-audio", "assets-3d-lowpoly", "assets-3d-lowpoly-2", "assets-ui-icons", "assets-2d-portraits"]
 LIMIT_MB = 900
 # (기준 MB 이상, 상태) — 큰 값부터
 THRESHOLDS = [(900, "추가 중단"), (850, "분리 준비"), (700, "주의")]

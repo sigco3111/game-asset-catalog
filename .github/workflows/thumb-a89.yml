@@ -1,0 +1,221 @@
+name: 썸네일 보완 (임시)
+on: push
+permissions:
+  contents: write
+  actions: write
+jobs:
+  thumb:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 도구 설치
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq imagemagick unzip
+      - name: 실행
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import csv, os, re, io, json, base64, tempfile, subprocess
+
+          TOKEN = os.environ["GH_TOKEN"]
+          USER = "sigco3111"
+          API = "https://api.github.com"
+          RAW = "https://raw.githubusercontent.com"
+          WORK = tempfile.mkdtemp()
+
+          def run(args):
+              return subprocess.run(args, capture_output=True, text=True)
+
+          def api(path, method="GET", payload=None):
+              cmd = ["curl", "-sS", "--max-time", "180", "-X", method,
+                     "-H", "Authorization: Bearer " + TOKEN,
+                     "-H", "Accept: application/vnd.github+json",
+                     API + path]
+              if payload is not None:
+                  cmd = cmd + ["-H", "Content-Type: application/json", "-d", json.dumps(payload)]
+              r = run(cmd)
+              try:
+                  return json.loads(r.stdout or "{}")
+              except Exception:
+                  return {"_raw": r.stdout[:300]}
+
+          def exists(repo, path):
+              r = api("/repos/" + USER + "/" + repo + "/contents/" + path)
+              return isinstance(r, dict) and r.get("sha") is not None
+
+          def put_file(repo, path, data, message):
+              r = api("/repos/" + USER + "/" + repo + "/contents/" + path, "PUT",
+                      {"message": message, "branch": "main",
+                       "content": base64.b64encode(data).decode()})
+              c = r.get("commit") if isinstance(r, dict) else None
+              if c:
+                  return c.get("sha", "")[:8]
+              return "ERR " + json.dumps(r)[:160]
+
+          def dl(url, dest, cap):
+              r = run(["curl", "-fsSL", "--max-time", "240", "--max-filesize", cap, "-o", dest, url])
+              return r.returncode == 0 and os.path.exists(dest) and os.path.getsize(dest) > 0
+
+          def slugify(s):
+              s = re.sub(r"[^0-9a-z가-힣]+", "-", s.lower()).strip("-")
+              return s or "pack"
+
+          def pick_images(d):
+              exts = (".png", ".jpg", ".jpeg", ".webp", ".bmp", ".gif")
+              found = []
+              for root, dirs, files in os.walk(d):
+                  for f in files:
+                      if not f.lower().endswith(exts):
+                          continue
+                      p = os.path.join(root, f)
+                      try:
+                          sz = os.path.getsize(p)
+                      except OSError:
+                          sz = 0
+                      pri = 1 if re.search("preview|render|screenshot|thumb", f, re.I) else 0
+                      found.append((pri, sz, p))
+              found.sort(reverse=True)
+              return [p for _, _, p in found[:4]]
+
+          def make_thumb(srcs, out):
+              if len(srcs) == 1:
+                  run(["convert", srcs[0] + "[0]", "-resize", "480x480>", "-strip", "png24:" + out])
+              else:
+                  run(["montage"] + [s + "[0]" for s in srcs] + ["-background", "none", "-tile", "2x2",
+                       "-geometry", "240x240+4+4", "-strip", "png24:" + out])
+              if not os.path.exists(out) or os.path.getsize(out) == 0:
+                  return None
+              if os.path.getsize(out) <= 200000:
+                  return out
+              jpg = out[:-4] + ".jpg"
+              run(["convert", out, "-strip", "-quality", "85", jpg])
+              os.remove(out)
+              if os.path.exists(jpg) and os.path.getsize(jpg) <= 200000:
+                  return jpg
+              if os.path.exists(jpg):
+                  run(["convert", jpg, "-resize", "320x320>", "-strip", "-quality", "80", jpg])
+                  if os.path.getsize(jpg) <= 200000:
+                      return jpg
+              return None
+
+          def rel(p):
+              m = re.search(r"/main/(.+)$", p)
+              return m.group(1) if m else p
+
+          raw = open("catalog.csv", encoding="utf-8").read()
+          had_nl = raw.endswith("\n")
+          lines = raw.split("\n")
+          if lines and lines[-1] == "":
+              lines.pop()
+          rows = lines[1:]
+
+          ok = []
+          made = []
+          bad = []
+          total = 0
+          used = set()
+          for i, line in enumerate(rows):
+              if not line.strip():
+                  continue
+              try:
+                  f = next(csv.reader([line]))
+              except Exception:
+                  continue
+              while len(f) < 16:
+                  f.append("")
+              name, repo, filep, typ = f[0], f[1], f[2], f[3]
+              added, notes, prev = f[9], f[10], f[11].strip()
+              if added < "2026-11-11" or repo == "assets-audio":
+                  continue
+              if any(k in typ for k in ("오디오", "효과음", "음악", "음성", "sfx")):
+                  continue
+              if not prev and "previews/" in notes:
+                  continue
+              prev_rel = rel(prev) if prev else ""
+              s = slugify(name)
+              base = s
+              k = 2
+              while (repo, s) in used:
+                  s = base + "-" + str(k)
+                  k += 1
+              used.add((repo, s))
+              target = prev_rel if prev_rel else "previews/" + s + ".png"
+              total += 1
+              if prev_rel and exists(repo, prev_rel):
+                  ok.append(name + " | " + repo)
+                  continue
+              tmpd = tempfile.mkdtemp(dir=WORK)
+              srcs = []
+              if "/" in filep and not filep.startswith("releases/"):
+                  folder = filep.split("/")[0]
+                  for fn in ("preview.jpg", "preview.png", "preview.jpeg", "screenshot.png", "thumb.png"):
+                      dest = os.path.join(tmpd, fn)
+                      if dl(RAW + "/" + USER + "/" + repo + "/main/" + folder + "/" + fn, dest, "10M"):
+                          srcs = [dest]
+                          break
+              if not srcs:
+                  if filep.startswith("releases/"):
+                      zurl = "https://github.com/" + USER + "/" + repo + "/" + filep
+                  else:
+                      zurl = RAW + "/" + USER + "/" + repo + "/main/" + filep
+                  z = os.path.join(tmpd, "pack.zip")
+                  if dl(zurl, z, "60M"):
+                      ex = os.path.join(tmpd, "x")
+                      os.makedirs(ex, exist_ok=True)
+                      run(["unzip", "-qq", "-o", z, "-d", ex])
+                      srcs = pick_images(ex)
+              if not srcs:
+                  bad.append(name + " | " + repo + " | 이미지 없음 또는 내려받기 실패")
+                  continue
+              out = os.path.join(WORK, "t-" + str(i) + ".png")
+              got = make_thumb(srcs, out)
+              if not got:
+                  bad.append(name + " | " + repo + " | 썸네일 생성 실패")
+                  continue
+              if got.endswith(".jpg") and target.endswith(".png"):
+                  target = target[:-4] + ".jpg"
+              if exists(repo, target):
+                  stem, ext = target.rsplit(".", 1)
+                  k = 2
+                  while exists(repo, stem + "-" + str(k) + "." + ext):
+                      k += 1
+                  target = stem + "-" + str(k) + "." + ext
+              sha = put_file(repo, target, open(got, "rb").read(), "썸네일: " + name + " 추가")
+              f[11] = target
+              buf = io.StringIO()
+              csv.writer(buf, lineterminator="").writerow(f)
+              rows[i] = buf.getvalue()
+              made.append(name + " | " + repo + " | " + target + " | commit " + sha)
+
+          if made:
+              newcsv = "\n".join([lines[0]] + rows) + ("\n" if had_nl else "")
+              meta = api("/repos/" + USER + "/game-asset-catalog/contents/catalog.csv")
+              if isinstance(meta, dict) and meta.get("sha"):
+                  api("/repos/" + USER + "/game-asset-catalog/contents/catalog.csv", "PUT",
+                      {"message": "썸네일: 미리보기 열 " + str(len(made)) + "행 채우기",
+                       "branch": "main", "sha": meta["sha"],
+                       "content": base64.b64encode(newcsv.encode("utf-8")).decode()})
+                  api("/repos/" + USER + "/game-asset-catalog/actions/workflows/rebuild-index.yml/dispatches",
+                      "POST", {"ref": "main"})
+
+          rep = []
+          rep.append("# 썸네일 점검·보완 보고서")
+          rep.append("")
+          rep.append("- 점검 대상(최근 행: added 2026-11-11 이후, 사운드 제외): " + str(total) + "팩")
+          rep.append("- 이미 썸네일 있음: " + str(len(ok)) + "팩")
+          rep.append("- 새로 만듦: " + str(len(made)) + "팩")
+          rep.append("- 불가: " + str(len(bad)) + "팩")
+          rep.append("")
+          rep.append("## 새로 만든 썸네일")
+          rep.extend(["- " + x for x in made])
+          rep.append("")
+          rep.append("## 불가")
+          rep.extend(["- " + x for x in bad])
+          rep.append("")
+          rep.append("## 이미 있던 썸네일")
+          rep.extend(["- " + x for x in ok])
+
+          data = "\n".join(rep) + "\n"
+          put_file("game-asset-catalog", "thumb-report.md", data.encode("utf-8"), "썸네일: 점검 보고서")
+          print(data)
+          PY

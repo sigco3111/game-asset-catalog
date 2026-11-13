@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e2d938bb31cc76255eed6ce3dadefa2597ec50f5`
+> generated from `catalog.csv@fe75d6b976345ee0d00268ab8322fc2544f4e945`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,6 +13,10 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [3D Cobblestone Texture](https://opengameart.org/content/3d-cobblestone-texture) | `other` | ZaninDevelopers | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-cobblestone-texture/cobblestone.zip) | 2026-11-14 |
+| [IgnisForge Free SFX Sampler - 43 Synthesized Retro Sound Effects](https://opengameart.org/content/ignisforge-free-sfx-sampler-43-synthesized-retro-sound-effects) | `other` | ignisforge | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/ignisforge-free-sfx-sampler/ignisforge-oga-sampler-cc0_7.zip) | 2026-11-14 |
+| [Tool Pack 1](https://opengameart.org/content/tool-pack-1) | `other` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/tool-pack-1/tool_pack_1.zip) | 2026-11-14 |
+| [Toolbox](https://opengameart.org/content/toolbox-0) | `other` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/toolbox/toolbox.zip) | 2026-11-14 |
 | [3D Sara - Wizard](https://opengameart.org/content/3d-sara-wizard) | `model-3d` | Mish7913 | CC-BY 3.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-sara-wizard/sara_glb.zip) | 2026-11-13 |
 | [512x512 explosion](https://opengameart.org/content/512x512-explosion) | `effect` | johndekale | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/explosion_512.zip) | 2026-11-13 |
 | [Animated Charged Bolt](https://opengameart.org/content/animated-charged-bolt) | `effect` | Varkalandar | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/animated-charged-bolt/hjm-charged_bolt_v4_0.zip) | 2026-11-13 |
@@ -109,7 +113,3 @@
 | [Electricity Overlay Effect](https://opengameart.org/content/electricity-overlay-effect) | `effect` | AntumDeluge (Jordan Irwin) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/electricity-overlay-effect/electricity-overlay-effect.zip) | 2026-11-11 |
 | [Elemental Spell](https://opengameart.org/content/elemental-spell) | `sfx` | qubodup | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/elemental-spell/elemental-spell.zip) | 2026-11-11 |
 | [Energy Ball](https://opengameart.org/content/energy-ball) | `effect` | yiannisd | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/energy-ball/energy-ball.zip) | 2026-11-11 |
-| [Explosion (ashishlko11)](https://opengameart.org/content/explosion-4) | `effect` | ashishlko11 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion-ashishlko11/explosion-ashishlko11.zip) | 2026-11-11 |
-| [Explosion effects and more](https://opengameart.org/content/explosion-effects-and-more) | `effect` | Soluna Software | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion-effects-and-more/explosion-effects-and-more.zip) | 2026-11-11 |
-| [Extended LPC Magic pack](https://opengameart.org/content/extended-lpc-magic-pack) | `effect` | daneeklu (Daniel Eddeland) | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/extended-lpc-magic-pack/extended-lpc-magic-pack.zip) | 2026-11-11 |
-| [Fantasy Magic Spell](https://opengameart.org/content/fantasy-magic-spell) | `sfx` | Almitory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/fantasy-magic-spell/fantasy-magic-spell.zip) | 2026-11-11 |

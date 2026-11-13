@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@e2d938bb31cc76255eed6ce3dadefa2597ec50f5",
-  "count": 1864,
+  "generated_from": "catalog.csv@fe75d6b976345ee0d00268ab8322fc2544f4e945",
+  "count": 1868,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -66412,6 +66412,138 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/rocket-thruster-effect-animations/rocket-thruster-effect-animations.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/rocket-thruster-effect-animations/rocket-thruster-effect-animations.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/tool-pack-1",
+      "name": "Tool Pack 1",
+      "repo": "assets-3d-lowpoly",
+      "file": "tool-pack-1/tool_pack_1.zip",
+      "type": "model-3d",
+      "category": "other",
+      "tags": [
+        "tool",
+        "prop",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "LonesomeDucky",
+      "source_url": "https://opengameart.org/content/tool-pack-1",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: LonesomeDucky (opengameart.org)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "도구 3종(blend+GLB, PBR 1024); 원본 zip 그대로; LICENSE-SOURCE.txt 동봉; 미러 바이트(공식 미대조)",
+      "preview": null,
+      "download_path": "tool-pack-1/tool_pack_1.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/tool-pack-1/tool_pack_1.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/tool-pack-1/tool_pack_1.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/toolbox",
+      "name": "Toolbox",
+      "repo": "assets-3d-lowpoly",
+      "file": "toolbox/toolbox.zip",
+      "type": "model-3d",
+      "category": "other",
+      "tags": [
+        "tool",
+        "prop",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "LonesomeDucky",
+      "source_url": "https://opengameart.org/content/toolbox-0",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: LonesomeDucky (opengameart.org)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "원본 toolbox60.blend(13MB)를 zip으로 묶음; LICENSE-SOURCE.txt 동봉; 미러 바이트(공식 미대조)",
+      "preview": null,
+      "download_path": "toolbox/toolbox.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/toolbox/toolbox.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/toolbox/toolbox.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/3d-cobblestone-texture",
+      "name": "3D Cobblestone Texture",
+      "repo": "assets-3d-lowpoly",
+      "file": "3d-cobblestone-texture/cobblestone.zip",
+      "type": "model-3d",
+      "category": "other",
+      "tags": [
+        "texture",
+        "cobblestone",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "ZaninDevelopers",
+      "source_url": "https://opengameart.org/content/3d-cobblestone-texture",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: ZaninDevelopers (opengameart.org)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "원본 cobblestone.zip(34.7MB) 그대로; LICENSE-SOURCE.txt 동봉; 미러 바이트(공식 미대조)",
+      "preview": null,
+      "download_path": "3d-cobblestone-texture/cobblestone.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-cobblestone-texture/cobblestone.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-cobblestone-texture/cobblestone.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/ignisforge-free-sfx-sampler-43-synthesized-retro-sound-effects",
+      "name": "IgnisForge Free SFX Sampler - 43 Synthesized Retro Sound Effects",
+      "repo": "assets-audio",
+      "file": "ignisforge-free-sfx-sampler/ignisforge-oga-sampler-cc0_7.zip",
+      "type": "sfx",
+      "category": "other",
+      "tags": [
+        "sfx",
+        "retro",
+        "synth"
+      ],
+      "effect_kind": [],
+      "author": "ignisforge",
+      "source_url": "https://opengameart.org/content/ignisforge-free-sfx-sampler-43-synthesized-retro-sound-effects",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: ignisforge (opengameart.org)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "원본 zip(1.2MB) 그대로; LICENSE-SOURCE.txt 동봉; 미러 바이트(공식 미대조)",
+      "preview": null,
+      "download_path": "ignisforge-free-sfx-sampler/ignisforge-oga-sampler-cc0_7.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/ignisforge-free-sfx-sampler/ignisforge-oga-sampler-cc0_7.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/ignisforge-free-sfx-sampler/ignisforge-oga-sampler-cc0_7.zip"
       ],
       "sample": null,
       "multipart": false,

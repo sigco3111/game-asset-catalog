@@ -7,6 +7,18 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-13 A81 추가 (3팩, 총 1854팩)
+
+A81 라운드에서 OpenGameArt 3D 최신순의 3D 2팩 Mini Forest·Sofa and Bench와 효과음 1팩 ZombiePackSFX 3(모두 opengameart.org)를 수집했습니다. 중복은 저장소 raw 경로와 카탈로그 코드 검색으로 팩 슬러그를 확인했습니다.
+
+| 팩 | 라이선스 |
+| --- | --- |
+| Mini Forest | CC0 |
+| Sofa and Bench | CC0 |
+| ZombiePackSFX 3 | CC-BY 3.0 |
+
+종류: 3D 2팩(assets-3d-lowpoly; 환경 1·소품 1), 효과음 1팩(assets-audio). 라이선스: CC0 2팩, CC-BY 3.0 1팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가, 임시 워크플로 ingest-pack.yml 수동 실행). 용량: assets-3d-lowpoly 약 621MB, assets-audio 약 384MB(700MB 미만, 새 저장소 생성 없음). 색인(assets-index*.json)·위키·llms.txt는 직접 손대지 않고 Actions 자동 갱신에 맡김. 천하삼분 게임 에셋 56은 수집 대상이 아님.
+
 ## 2026-11-13 A80 추가 (2팩, 총 1851팩)
 
 A80 라운드에서 OpenGameArt 3D 최신순의 3D 2팩 Ghost lady model (UNTEXTURED)와 효과음 1팩 Packsmithy SFX sampler: 30 synthesised sound effects(모두 opengameart.org)를 수집했습니다. 중복은 저장소 raw 경로와 카탈로그 코드 검색으로 팩 슬러그를 확인했습니다.

@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@c1b50286d00e9e85b9edad4aa729acb24ac117e3`
+> generated from `catalog.csv@46041ae4fecab714d1707f7b67842f03f9eb91b2`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **1823개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **1829개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -16,8 +16,8 @@
 
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
-| cc0 | CC0 | 1692 | 0 | 예 |
-| cc-by | CC-BY | 115 | 115 | 예 |
+| cc0 | CC0 | 1695 | 0 | 예 |
+| cc-by | CC-BY | 118 | 118 | 예 |
 | mit | MIT | 3 | 3 | 예 |
 | gpl | GPL 2.0/3.0 | 10 | 10 | 예 |
 | other | 기타(허용 목록 밖) | 3 | 0 | 아니오 |
@@ -28,8 +28,8 @@
 
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
-| CC0 | cc0 | X | 1691 |
-| CC-BY 3.0 | cc-by | O | 59 |
+| CC0 | cc0 | X | 1694 |
+| CC-BY 3.0 | cc-by | O | 62 |
 | CC-BY 4.0 | cc-by | O | 49 |
 | GPL 3.0 | gpl | O | 10 |
 | CC-BY 3.0 / GPL 2.0 (원본 페이지 이중 표기, 둘 다 허용 라이선스; CC-BY 3.0 선택) | cc-by | O | 3 |
@@ -44,10 +44,13 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 128개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 131개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
+| [Base Human Models (Low Poly)](https://opengameart.org/content/base-human-models-low-poly) | Clint Bellanger | CC-BY 3.0 | Clint Bellanger (OpenGameArt) | 2026-11-13 |
+| [Elemental Golem](https://opengameart.org/content/elemental-golem) | Grefuntor | CC-BY 3.0 | 필수: Grefuntor (OpenGameArt) | 2026-11-13 |
+| [Oozey the Slime](https://opengameart.org/content/oozey-the-slime) | Mophs | CC-BY 3.0 | 필수: Mophs (OpenGameArt) | 2026-11-13 |
 | [3rd version of Sparkle](https://opengameart.org/content/3rd-version-of-sparkle) | davididev | CC-BY 3.0 | required: davididev — "3rd version of Sparkle" (https://opengameart.org/content/3rd-version-of-sparkle), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지 Copyright/Attribution Notice: "Sparkle particle by DavidiDev.com" | 2026-11-12 |
 | [Bone Golem](https://opengameart.org/content/bone-golem) | Mophs | CC-BY 3.0 | required: Mophs — "Bone Golem" (https://opengameart.org/content/bone-golem), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지에 별도 귀속 문구 없음 | 2026-11-12 |
 | [Destroyed Walls - 3D models](https://opengameart.org/content/destroyed-walls-3d-models) | LFA | CC-BY 3.0 | required: LFA — "Destroyed Walls - 3D models" (https://opengameart.org/content/destroyed-walls-3d-models), CC-BY 3.0 (https://creativecommons.org/licenses/by/3.0/); 페이지에 별도 귀속 문구 없음 | 2026-11-12 |

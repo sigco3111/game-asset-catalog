@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@c1b50286d00e9e85b9edad4aa729acb24ac117e3`
+> generated from `catalog.csv@46041ae4fecab714d1707f7b67842f03f9eb91b2`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,6 +13,12 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Armadillo Foe](https://opengameart.org/content/armadillo-foe) | `model-3d` | overactiongamestudio | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/armadillo-foe/Armadillo-3D-Pack-Fbx-Obj.zip) | 2026-11-13 |
+| [Base Human Models (Low Poly)](https://opengameart.org/content/base-human-models-low-poly) | `character-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/base-human-models-low-poly/human.zip) | 2026-11-13 |
+| [Elemental Golem](https://opengameart.org/content/elemental-golem) | `model-3d` | Grefuntor | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/elemental-golem/ElementalGolem-obj.zip) | 2026-11-13 |
+| [Modular Dungeon 2 - 3D Models](https://opengameart.org/content/modular-dungeon-2-3d-models) | `model-3d` | Keith at Fertile Soil Productions | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/modular-dungeon-2/dungeon_collection_2.zip) | 2026-11-13 |
+| [Oozey the Slime](https://opengameart.org/content/oozey-the-slime) | `model-3d` | Mophs | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/oozey-the-slime/Oozey.zip) | 2026-11-13 |
+| [Weapon Slash - Effect](https://opengameart.org/content/weapon-slash-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/weapon-slash-effect/weapon-slash-everything.zip) | 2026-11-13 |
 | [3rd version of Sparkle](https://opengameart.org/content/3rd-version-of-sparkle) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/3rd-version-of-sparkle/3rd-version-of-sparkle.zip) | 2026-11-12 |
 | [Bald Man - Rigged](https://opengameart.org/content/bald-man-rigged) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/bald-man-rigged.zip) | 2026-11-12 |
 | [Basic Female](https://opengameart.org/content/basic-female-0) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/basic-female.zip) | 2026-11-12 |
@@ -107,9 +113,3 @@
 | [Fire Aura (Compatible with FLARE)](https://opengameart.org/content/fire-aura-compatible-with-flare) | `effect` | astiar\_rpg | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/fire-aura-compatible-with-flare/fire-aura-compatible-with-flare.zip) | 2026-11-10 |
 | [Gun Muzzle Flash Effects (Fire and Ion and Melee)](https://opengameart.org/content/gun-muzzle-flash-effects-fire-and-ion-and-melee) | `effect` | Reactorcore | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/gun-muzzle-flash-effects-fire-and-ion-and-melee/gun-muzzle-flash-effects-fire-and-ion-and-melee.zip) | 2026-11-10 |
 | [Impact Flash](https://opengameart.org/content/impact-flash) | `sfx` | darkmg | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/impact-flash/impact-flash.zip) | 2026-11-10 |
-| [Magic sprite effects (Ardentryst)](https://opengameart.org/content/magic-sprite-effects-ardentryst) | `effect` | Elle Trudgett | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/magic-sprite-effects-ardentryst/magic-sprite-effects-ardentryst.zip) | 2026-11-10 |
-| [Modular Streets Pack (March 2018)](https://quaternius.com/packs/modularstreets.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/modular-streets-pack/modular-streets-pack.zip) | 2026-11-10 |
-| [Modular Train Pack (April 2019)](https://quaternius.com/packs/modulartrain.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/modular-train-pack/modular-train-pack.zip) | 2026-11-10 |
-| [Pixelated Hit Animations](https://opengameart.org/content/pixelated-hit-animations) | `effect` | Viktor Hahn (Unnamed) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixelated-hit-animations/pixelated-hit-animations.zip) | 2026-11-10 |
-| [Simple Buildings Pack (August 2017)](https://quaternius.com/packs/simplebuildings.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/simple-buildings-pack/simple-buildings-pack.zip) | 2026-11-10 |
-| [Teleporter Circle](https://opengameart.org/content/teleporter-circle) | `effect` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/teleporter-circle/teleporter-circle.zip) | 2026-11-10 |

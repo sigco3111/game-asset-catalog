@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@32ccdba0825e233423af94c6c6764ebff3b6cd32",
-  "count": 1835,
+  "generated_from": "catalog.csv@fc4e2356975440b8ab6cd2f7b9266f0d44bddc6c",
+  "count": 1838,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -65360,6 +65360,122 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/explosion_512.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/explosion_512.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/mini-rocket",
+      "name": "Mini Rocket",
+      "repo": "assets-3d-lowpoly",
+      "file": "mini-rocket/mini_rocket.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "scifi",
+        "rocket",
+        "missile",
+        "weapon",
+        "3d",
+        "lowpoly"
+      ],
+      "effect_kind": [
+        "projectile"
+      ],
+      "author": "David W CG",
+      "source_url": "https://opengameart.org/content/mini-rocket",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "없음",
+      "attribution_required": false,
+      "ai_generated": true,
+      "added": "2026-11-13",
+      "notes": "zip 1.7MB(blend·glb·PBR 텍스처 포함); CC0 단독; AI 생성 언급 없음",
+      "preview": null,
+      "download_path": "mini-rocket/mini_rocket.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-rocket/mini_rocket.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-rocket/mini_rocket.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/3d-sara-wizard",
+      "name": "3D Sara - Wizard",
+      "repo": "assets-3d-lowpoly",
+      "file": "3d-sara-wizard/sara_glb.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "sara",
+        "mascot",
+        "wizard",
+        "character",
+        "rigged",
+        "animated",
+        "3d",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Mish7913",
+      "source_url": "https://opengameart.org/content/3d-sara-wizard",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "3D model created by Mish7913, based on Mandi Paugh image.",
+      "attribution_required": true,
+      "ai_generated": true,
+      "added": "2026-11-13",
+      "notes": "sara.blend 2.6MB·sara_fbx.zip 3.2MB·sara_glb.zip 1.6MB 함께 수록; CC-BY 3.0; CREDITS.txt 동봉; AI 생성 언급 없음",
+      "preview": null,
+      "download_path": "3d-sara-wizard/sara_glb.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-sara-wizard/sara_glb.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-sara-wizard/sara_glb.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/animated-charged-bolt",
+      "name": "Animated Charged Bolt",
+      "repo": "assets-2d-pixel",
+      "file": "animated-charged-bolt/hjm-charged_bolt_v4_0.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "magic",
+        "spell",
+        "bolt",
+        "projectile",
+        "effect",
+        "animated",
+        "2d"
+      ],
+      "effect_kind": [
+        "magic",
+        "projectile"
+      ],
+      "author": "Varkalandar",
+      "source_url": "https://opengameart.org/content/animated-charged-bolt",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "For attribution, please state my name, Hansjörg Malthaner, and link here: http://opengameart.org/users/varkalandar",
+      "attribution_required": true,
+      "ai_generated": true,
+      "added": "2026-11-13",
+      "notes": "48프레임 PNG 400x300; zip 4.2MB; 페이지 표기 중 CC-BY 4.0으로 수록; CREDITS.txt 동봉; AI 생성 언급 없음",
+      "preview": null,
+      "download_path": "animated-charged-bolt/hjm-charged_bolt_v4_0.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/animated-charged-bolt/hjm-charged_bolt_v4_0.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/animated-charged-bolt/hjm-charged_bolt_v4_0.zip"
       ],
       "sample": null,
       "multipart": false,

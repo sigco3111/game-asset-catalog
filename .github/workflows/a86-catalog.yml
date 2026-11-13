@@ -1,0 +1,44 @@
+name: A86 카탈로그 갱신
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 갱신
+        run: |
+          cat >> catalog.csv <<'CSV'
+          Tool Pack 1,assets-3d-lowpoly,tool-pack-1/tool_pack_1.zip,model-3d,"tool,prop,3d",LonesomeDucky,https://opengameart.org/content/tool-pack-1,CC0,optional: LonesomeDucky (opengameart.org),2026-11-14,"도구 3종(blend+GLB, PBR 1024); 원본 zip 그대로; LICENSE-SOURCE.txt 동봉; 미러 바이트(공식 미대조)"
+          Toolbox,assets-3d-lowpoly,toolbox/toolbox.zip,model-3d,"tool,prop,3d",LonesomeDucky,https://opengameart.org/content/toolbox-0,CC0,optional: LonesomeDucky (opengameart.org),2026-11-14,"원본 toolbox60.blend(13MB)를 zip으로 묶음; LICENSE-SOURCE.txt 동봉; 미러 바이트(공식 미대조)"
+          3D Cobblestone Texture,assets-3d-lowpoly,3d-cobblestone-texture/cobblestone.zip,model-3d,"texture,cobblestone,3d",ZaninDevelopers,https://opengameart.org/content/3d-cobblestone-texture,CC0,optional: ZaninDevelopers (opengameart.org),2026-11-14,"원본 cobblestone.zip(34.7MB) 그대로; LICENSE-SOURCE.txt 동봉; 미러 바이트(공식 미대조)"
+          IgnisForge Free SFX Sampler - 43 Synthesized Retro Sound Effects,assets-audio,ignisforge-free-sfx-sampler/ignisforge-oga-sampler-cc0.zip,sfx,"sfx,retro,synth",ignisforge,https://opengameart.org/content/ignisforge-free-sfx-sampler-43-synthesized-retro-sound-effects,CC0,optional: ignisforge (opengameart.org),2026-11-14,"원본 zip(1.2MB) 그대로; LICENSE-SOURCE.txt 동봉; 미러 바이트(공식 미대조)"
+          CSV
+          cat > /tmp/sec.md <<'MD'
+          ## 2026-11-14 A86 추가 (4팩, 총 1868팩)
+
+          A86 라운드에서 OpenGameArt의 3D 3팩 Tool Pack 1·Toolbox·3D Cobblestone Texture와 효과음 1팩 IgnisForge Free SFX Sampler를 수집했습니다. 중복은 카탈로그 저장소 코드 검색으로 확인했습니다(Mushroom Enemy·Rail Post·Pine Tree·Swinging blade trap·Plasma Electric Effect Animations·Gun Muzzle Flash Effects·150 Combat Sound Effects는 이미 수록되어 제외).
+
+          | 팩 | 라이선스 |
+          | --- | --- |
+          | Tool Pack 1 | CC0 |
+          | Toolbox | CC0 |
+          | 3D Cobblestone Texture | CC0 |
+          | IgnisForge Free SFX Sampler - 43 Synthesized Retro Sound Effects | CC0 |
+
+          종류: 3D 3팩(assets-3d-lowpoly), 효과음 1팩(assets-audio). 라이선스: CC0 4팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가, 임시 워크플로 a86-ingest.yml 수동 실행). 용량: assets-3d-lowpoly 약 692MB, assets-audio 약 385MB(700MB 미만, 새 저장소 생성 없음). 색인(assets-index*.json)·위키·llms.txt는 직접 손대지 않고 Actions 자동 갱신에 맡김. '천하삼분 게임 에셋 56'은 수집 대상이 아님.
+          MD
+          python3 - <<'PY'
+          r=open('README.md').read()
+          sec=open('/tmp/sec.md').read()
+          m='## 2026-11-13 A85 추가'
+          assert m in r
+          open('README.md','w').write(r.replace(m, sec+m, 1))
+          PY
+          printf '%s\n' '- 2026-11-14 A86: Tool Pack 1(LonesomeDucky, CC0), Toolbox(LonesomeDucky, CC0), 3D Cobblestone Texture(ZaninDevelopers, CC0), IgnisForge Free SFX Sampler(ignisforge, CC0) (4팩, 총 1868팩; 3D 모델 3(assets-3d-lowpoly), 효과음 1(assets-audio); 팩당 1커밋, 임시 워크플로 a86-ingest.yml로 업로드; 중복 확인 완료; 실제 팩 수 갱신).' >> docs/log.md
+          git config user.name "sigco3111"
+          git config user.email "sigco3111@gmail.com"
+          git add catalog.csv README.md docs/log.md
+          git commit -m "카탈로그: A86 4팩 추가"
+          git push

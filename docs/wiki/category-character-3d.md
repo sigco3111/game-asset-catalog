@@ -1,21 +1,22 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b91888eaeb58a7d5a190bedfc817bd3b36f431b4`
+> generated from `catalog.csv@cca24402ff9fe3de2d059e0b8675be3f390f3512`
 
 # 3D 캐릭터 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `character-3d`(3D 캐릭터)에 해당하는 에셋 **30개**입니다. 라이브러리에서 보기: [?cat=character-3d](https://sigco3111.github.io/game-asset-catalog/?cat=character-3d)
+분류 `character-3d`(3D 캐릭터)에 해당하는 에셋 **31개**입니다. 라이브러리에서 보기: [?cat=character-3d](https://sigco3111.github.io/game-asset-catalog/?cat=character-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 30행 (전체 30개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 31행 (전체 31개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Base Human Models (Low Poly)](https://opengameart.org/content/base-human-models-low-poly) | `character-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/base-human-models-low-poly/human.zip) | 2026-11-13 |
+| [Character Guy (Rigged)](https://opengameart.org/content/character-guy-rigged) | `character-3d` | EmoPreben | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/character-guy-rigged/emopreben_man_model_1.zip) | 2026-11-13 |
 | [Bald Man - Rigged](https://opengameart.org/content/bald-man-rigged) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/bald-man-rigged.zip) | 2026-11-12 |
 | [Basic Female](https://opengameart.org/content/basic-female-0) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/basic-female.zip) | 2026-11-12 |
 | [Bone Golem](https://opengameart.org/content/bone-golem) | `character-3d` | Mophs | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/bone-golem/bone-golem.zip) | 2026-11-12 |

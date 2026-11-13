@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b91888eaeb58a7d5a190bedfc817bd3b36f431b4`
+> generated from `catalog.csv@cca24402ff9fe3de2d059e0b8675be3f390f3512`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **1845개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **1849개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -16,8 +16,8 @@
 
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
-| cc0 | CC0 | 1706 | 0 | 예 |
-| cc-by | CC-BY | 123 | 123 | 예 |
+| cc0 | CC0 | 1709 | 0 | 예 |
+| cc-by | CC-BY | 124 | 124 | 예 |
 | mit | MIT | 3 | 3 | 예 |
 | gpl | GPL 2.0/3.0 | 10 | 10 | 예 |
 | other | 기타(허용 목록 밖) | 3 | 0 | 아니오 |
@@ -28,9 +28,9 @@
 
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
-| CC0 | cc0 | X | 1705 |
+| CC0 | cc0 | X | 1708 |
 | CC-BY 3.0 | cc-by | O | 63 |
-| CC-BY 4.0 | cc-by | O | 53 |
+| CC-BY 4.0 | cc-by | O | 54 |
 | GPL 3.0 | gpl | O | 10 |
 | CC-BY 3.0 / GPL 2.0 (원본 페이지 이중 표기, 둘 다 허용 라이선스; CC-BY 3.0 선택) | cc-by | O | 3 |
 | MIT | mit | O | 3 |
@@ -44,7 +44,7 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 136개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 137개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Animated Charged Bolt](https://opengameart.org/content/animated-charged-bolt) | Varkalandar | CC-BY 4.0 | For attribution, please state my name, Hansjörg Malthaner, and link here: http://opengameart.org/users/varkalandar | 2026-11-13 |
 | [Asian Girl](https://opengameart.org/content/asian-girl) | McPato | CC-BY 4.0 | Asian Girl by McPato licensed CC-BY 4.0: https://mcpato.itch.io/asian-girl-ps2-style-character | 2026-11-13 |
 | [Base Human Models (Low Poly)](https://opengameart.org/content/base-human-models-low-poly) | Clint Bellanger | CC-BY 3.0 | Clint Bellanger (OpenGameArt) | 2026-11-13 |
+| [Cozy Space SFX: 46 Retro Sound Effects](https://opengameart.org/content/cozy-space-sfx-46-retro-sound-effects) | roberto mellado | CC-BY 4.0 | roberto mellado (OpenGameArt.org) | 2026-11-13 |
 | [Elemental Golem](https://opengameart.org/content/elemental-golem) | Grefuntor | CC-BY 3.0 | 필수: Grefuntor (OpenGameArt) | 2026-11-13 |
 | [Oozey the Slime](https://opengameart.org/content/oozey-the-slime) | Mophs | CC-BY 3.0 | 필수: Mophs (OpenGameArt) | 2026-11-13 |
 | [Pocket Bleeps – 31 Retro 8-Bit SFX](https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by) | Pocket Bleeps | CC-BY 4.0 | Pocket Bleeps (OpenGameArt.org) | 2026-11-13 |
@@ -212,7 +213,7 @@ license_family가 `cc0`·`cc-by`·`mit`·`gpl`이 아닌 에셋 3개입니다. *
 
 ## AI 생성 표시 에셋
 
-`ai_generated`가 참인 에셋 17개입니다. 라이브러리에서는 `?ai=0`으로 제외할 수 있습니다.
+`ai_generated`가 참인 에셋 21개입니다. 라이브러리에서는 `?ai=0`으로 제외할 수 있습니다.
 
 | 이름 | 분류 | 라이선스 계열 | 추가일 |
 |---|---|---|---|
@@ -221,6 +222,9 @@ license_family가 `cc0`·`cc-by`·`mit`·`gpl`이 아닌 에셋 3개입니다. *
 | [Animated Charged Bolt](https://opengameart.org/content/animated-charged-bolt) | `effect` | cc-by | 2026-11-13 |
 | [Asian Girl](https://opengameart.org/content/asian-girl) | `model-3d` | cc-by | 2026-11-13 |
 | [B-chan](https://opengameart.org/content/b-chan) | `model-3d` | cc0 | 2026-11-13 |
+| [Character Guy (Rigged)](https://opengameart.org/content/character-guy-rigged) | `character-3d` | cc0 | 2026-11-13 |
+| [Cozy Space SFX: 46 Retro Sound Effects](https://opengameart.org/content/cozy-space-sfx-46-retro-sound-effects) | `sfx` | cc-by | 2026-11-13 |
+| [Cremation Urn](https://opengameart.org/content/cremation-urn) | `model-3d` | cc0 | 2026-11-13 |
 | [Dice](https://opengameart.org/content/dice-6) | `model-3d` | cc0 | 2026-11-13 |
 | [Humanoid SoulsLike Animations](https://opengameart.org/content/humanoid-soulslike-animations) | `model-3d` | cc0 | 2026-11-13 |
 | [Lock](https://opengameart.org/content/lock-1) | `model-3d` | cc0 | 2026-11-13 |
@@ -229,6 +233,7 @@ license_family가 `cc0`·`cc-by`·`mit`·`gpl`이 아닌 에셋 3개입니다. *
 | [Rail Post](https://opengameart.org/content/rail-post) | `model-3d` | cc0 | 2026-11-13 |
 | [Space port kit](https://opengameart.org/content/space-port-kit) | `model-3d` | cc-by | 2026-11-13 |
 | [Stylized Coin](https://opengameart.org/content/stylized-coin) | `model-3d` | cc0 | 2026-11-13 |
+| [Sumo Arena](https://opengameart.org/content/sumo-arena) | `model-3d` | cc0 | 2026-11-13 |
 | [불씨의 서약 아트](https://readasesang-lab.vercel.app/v16/) | `other` | other | 2026-11-12 |
 | [Fish Model Gallery](https://cda-social.github.io/fish/gallery.html) | `model-3d` | cc0 | 2026-11-09 |
 | [천하삼분 게임 에셋 56](https://github.com/sigco3111/cheonha-sambun) | `sprite-2d` | other | 2026-11-08 |

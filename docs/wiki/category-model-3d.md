@@ -1,19 +1,19 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b91888eaeb58a7d5a190bedfc817bd3b36f431b4`
+> generated from `catalog.csv@cca24402ff9fe3de2d059e0b8675be3f390f3512`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **430개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **432개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 430개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 432개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Asian Girl](https://opengameart.org/content/asian-girl) | `model-3d` | McPato | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/asian-girl/dorposefbx.zip) | 2026-11-13 |
 | [B-chan](https://opengameart.org/content/b-chan) | `model-3d` | hardboileduser (원작 AmarilloArts) | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/b-chan/bchan_edited.blend) | 2026-11-13 |
 | [Bird Bath](https://opengameart.org/content/bird-bath) | `model-3d` | JeremyWoods | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/bird-bath/birdbath_0.zip) | 2026-11-13 |
+| [Cremation Urn](https://opengameart.org/content/cremation-urn) | `model-3d` | ARoachIFoundOnMyPillow | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/cremation-urn/cremation_urn.zip) | 2026-11-13 |
 | [Dice](https://opengameart.org/content/dice-6) | `model-3d` | gearfox98 | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/dice/dice.zip) | 2026-11-13 |
 | [Elemental Golem](https://opengameart.org/content/elemental-golem) | `model-3d` | Grefuntor | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/elemental-golem/ElementalGolem-obj.zip) | 2026-11-13 |
 | [Humanoid SoulsLike Animations](https://opengameart.org/content/humanoid-soulslike-animations) | `model-3d` | Gres | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/humanoid-soulslike-animations/fistweaponanimationpack.zip) | 2026-11-13 |
@@ -33,6 +34,7 @@
 | [Rail Post](https://opengameart.org/content/rail-post) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/rail-post/post.zip) | 2026-11-13 |
 | [Space port kit](https://opengameart.org/content/space-port-kit) | `model-3d` | Ludrol | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/space-port-kit/space_port_kit_glb.zip) | 2026-11-13 |
 | [Stylized Coin](https://opengameart.org/content/stylized-coin) | `model-3d` | optimuspryne | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/stylized-coin/coin.blend) | 2026-11-13 |
+| [Sumo Arena](https://opengameart.org/content/sumo-arena) | `model-3d` | unForastero | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sumo-arena/sumo_arena_1.zip) | 2026-11-13 |
 | [Cc0 crates + wooden pallet](https://opengameart.org/content/cc0-crates-wooden-pallet) | `model-3d` | Lucian Pavel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/cc0-crates-wooden-pallet.zip) | 2026-11-12 |
 | [Crate](https://opengameart.org/content/crate-5) | `model-3d` | Kutejnikov | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/crate/crate.zip) | 2026-11-12 |
 | [Crate 3](https://opengameart.org/content/crate-3) | `model-3d` | plaggy | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/crate-3/crate-3.zip) | 2026-11-12 |
@@ -415,5 +417,3 @@
 | [LowPoly Modular Sci-Fi Environments](https://opengameart.org/content/lowpoly-modular-sci-fi-environments) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-modular-sci-fi-environments.zip) | 2026-10-28 |
 | [LowPoly Modular Street Pack](https://opengameart.org/content/lowpoly-modular-street-pack) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-modular-street-pack.zip) | 2026-10-28 |
 | [LowPoly Posed Humans](https://opengameart.org/content/lowpoly-posed-humans) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-posed-humans.zip) | 2026-10-28 |
-| [LowPoly Public Transport](https://opengameart.org/content/lowpoly-public-transport) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-public-transport.zip) | 2026-10-28 |
-| [LowPoly Ship Pack](https://opengameart.org/content/lowpoly-ship-pack) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-ship-pack.zip) | 2026-10-28 |

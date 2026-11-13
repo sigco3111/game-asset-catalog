@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b91888eaeb58a7d5a190bedfc817bd3b36f431b4`
+> generated from `catalog.csv@cca24402ff9fe3de2d059e0b8675be3f390f3512`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -21,6 +21,9 @@
 | [B-chan](https://opengameart.org/content/b-chan) | `model-3d` | hardboileduser (원작 AmarilloArts) | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/b-chan/bchan_edited.blend) | 2026-11-13 |
 | [Base Human Models (Low Poly)](https://opengameart.org/content/base-human-models-low-poly) | `character-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/base-human-models-low-poly/human.zip) | 2026-11-13 |
 | [Bird Bath](https://opengameart.org/content/bird-bath) | `model-3d` | JeremyWoods | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/bird-bath/birdbath_0.zip) | 2026-11-13 |
+| [Character Guy (Rigged)](https://opengameart.org/content/character-guy-rigged) | `character-3d` | EmoPreben | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/character-guy-rigged/emopreben_man_model_1.zip) | 2026-11-13 |
+| [Cozy Space SFX: 46 Retro Sound Effects](https://opengameart.org/content/cozy-space-sfx-46-retro-sound-effects) | `sfx` | roberto mellado | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cozy-space-sfx/cozy-space-sfx-cc-by.zip) | 2026-11-13 |
+| [Cremation Urn](https://opengameart.org/content/cremation-urn) | `model-3d` | ARoachIFoundOnMyPillow | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/cremation-urn/cremation_urn.zip) | 2026-11-13 |
 | [Dice](https://opengameart.org/content/dice-6) | `model-3d` | gearfox98 | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/dice/dice.zip) | 2026-11-13 |
 | [Elemental Golem](https://opengameart.org/content/elemental-golem) | `model-3d` | Grefuntor | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/elemental-golem/ElementalGolem-obj.zip) | 2026-11-13 |
 | [Humanoid SoulsLike Animations](https://opengameart.org/content/humanoid-soulslike-animations) | `model-3d` | Gres | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/humanoid-soulslike-animations/fistweaponanimationpack.zip) | 2026-11-13 |
@@ -34,6 +37,7 @@
 | [Rail Post](https://opengameart.org/content/rail-post) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/rail-post/post.zip) | 2026-11-13 |
 | [Space port kit](https://opengameart.org/content/space-port-kit) | `model-3d` | Ludrol | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/space-port-kit/space_port_kit_glb.zip) | 2026-11-13 |
 | [Stylized Coin](https://opengameart.org/content/stylized-coin) | `model-3d` | optimuspryne | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/stylized-coin/coin.blend) | 2026-11-13 |
+| [Sumo Arena](https://opengameart.org/content/sumo-arena) | `model-3d` | unForastero | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sumo-arena/sumo_arena_1.zip) | 2026-11-13 |
 | [Weapon Slash - Effect](https://opengameart.org/content/weapon-slash-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/weapon-slash-effect/weapon-slash-everything.zip) | 2026-11-13 |
 | [3rd version of Sparkle](https://opengameart.org/content/3rd-version-of-sparkle) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/3rd-version-of-sparkle/3rd-version-of-sparkle.zip) | 2026-11-12 |
 | [Bald Man - Rigged](https://opengameart.org/content/bald-man-rigged) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/bald-man-rigged.zip) | 2026-11-12 |
@@ -109,7 +113,3 @@
 | [Magic Effect Particle System](https://opengameart.org/content/magic-effect-particle-system) | `effect` | HenriqueGibi | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.42/magic-effect-particle-system.zip) | 2026-11-11 |
 | [Magic Missiles](https://opengameart.org/content/magic-missiles) | `sfx` | spookymodem | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/magic-missiles/magic-missiles.zip) | 2026-11-11 |
 | [Magic SFX Sample](https://opengameart.org/content/magic-sfx-sample) | `sfx` | ViRiX (David Mckee) | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/magic-sfx-sample/magic-sfx-sample.zip) | 2026-11-11 |
-| [Magic Smite](https://opengameart.org/content/magic-smite) | `sfx` | spookymodem | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/magic-smite/magic-smite.zip) | 2026-11-11 |
-| [Metal Impact Sounds](https://opengameart.org/content/metal-impact-sounds) | `sfx` | BMacZero (Brian MacIntosh) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/metal-impact-sounds/metal-impact-sounds.zip) | 2026-11-11 |
-| [Multiple Colors of Sparkle Animations](https://opengameart.org/content/multiple-colors-of-sparkle-animations) | `effect` | VWolfdog | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/multiple-colors-of-sparkle-animations/multiple-colors-of-sparkle-animations.zip) | 2026-11-11 |
-| [Particle Effects](https://opengameart.org/content/particle-effects) | `effect` | hc | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/particle-effects/particle-effects.zip) | 2026-11-11 |

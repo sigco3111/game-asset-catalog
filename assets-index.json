@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@85dd623f5599a7cfeaa26a05b6ea040a0b56b143",
+  "generated_from": "catalog.csv@27a648a59e7cd1d7c0c591284c5ad428b5e99700",
   "count": 1875,
   "assets": [
     {
@@ -64954,7 +64954,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "zip 269.5KB; preview.jpg; 출처 페이지 AI 언급 없음",
-      "preview": "preview.jpg",
+      "preview": "previews/modular-dungeon-2-3d-models-2.png",
       "download_path": "modular-dungeon-2/dungeon_collection_2.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/modular-dungeon-2/dungeon_collection_2.zip",
       "download_urls": [
@@ -64988,7 +64988,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "zip 97.6KB; preview.jpg; CREDITS.txt 동봉; 출처 페이지 AI 언급 없음",
-      "preview": "preview.jpg",
+      "preview": "previews/base-human-models-low-poly.png",
       "download_path": "base-human-models-low-poly/human.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/base-human-models-low-poly/human.zip",
       "download_urls": [
@@ -65026,7 +65026,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "Everything_0.zip 2.1MB; preview.png; 출처 페이지 AI 언급 없음",
-      "preview": "preview.png",
+      "preview": "previews/weapon-slash-effect-2.png",
       "download_path": "weapon-slash-effect/weapon-slash-everything.zip",
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/weapon-slash-effect/weapon-slash-everything.zip",
       "download_urls": [
@@ -65280,7 +65280,7 @@
       "ai_generated": true,
       "added": "2026-11-13",
       "notes": "FBX 1(리깅, 애니메이션 없음, 약 15.5k 삼각형); zip 1.88MB 페이지 zip 그대로; CC-BY 4.0 단독; CREDITS.txt 동봉; AI 생성 언급 없음",
-      "preview": null,
+      "preview": "previews/asian-girl.png",
       "download_path": "asian-girl/dorposefbx.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/asian-girl/dorposefbx.zip",
       "download_urls": [
@@ -65316,7 +65316,7 @@
       "ai_generated": true,
       "added": "2026-11-13",
       "notes": "GLB zip 57KB + Blend zip 878KB(둘 다 폴더 보관); CC-BY 4.0 단독; CREDITS.txt 동봉; AI 생성 언급 없음",
-      "preview": null,
+      "preview": "previews/space-port-kit.png",
       "download_path": "space-port-kit/space_port_kit_glb.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/space-port-kit/space_port_kit_glb.zip",
       "download_urls": [
@@ -65355,7 +65355,7 @@
       "ai_generated": true,
       "added": "2026-11-13",
       "notes": "512x512 PNG 프레임 애니메이션(연기 페이드, 투명 배경); zip 7.2MB로 5MB 초과라 Releases v4.0 첨부; CC0 단독; AI 생성 언급 없음",
-      "preview": null,
+      "preview": "previews/512x512-explosion.png",
       "download_path": "releases/download/v4.0/explosion_512.zip",
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/explosion_512.zip",
       "download_urls": [
@@ -65393,7 +65393,7 @@
       "ai_generated": true,
       "added": "2026-11-13",
       "notes": "zip 1.7MB(blend·glb·PBR 텍스처 포함); CC0 단독; AI 생성 언급 없음",
-      "preview": null,
+      "preview": "previews/mini-rocket.png",
       "download_path": "mini-rocket/mini_rocket.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-rocket/mini_rocket.zip",
       "download_urls": [
@@ -65431,7 +65431,7 @@
       "ai_generated": true,
       "added": "2026-11-13",
       "notes": "sara.blend 2.6MB·sara_fbx.zip 3.2MB·sara_glb.zip 1.6MB 함께 수록; CC-BY 3.0; CREDITS.txt 동봉; AI 생성 언급 없음",
-      "preview": null,
+      "preview": "previews/3d-sara-wizard.png",
       "download_path": "3d-sara-wizard/sara_glb.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-sara-wizard/sara_glb.zip",
       "download_urls": [
@@ -65471,7 +65471,7 @@
       "ai_generated": true,
       "added": "2026-11-13",
       "notes": "48프레임 PNG 400x300; zip 4.2MB; 페이지 표기 중 CC-BY 4.0으로 수록; CREDITS.txt 동봉; AI 생성 언급 없음",
-      "preview": null,
+      "preview": "previews/animated-charged-bolt.png",
       "download_path": "animated-charged-bolt/hjm-charged_bolt_v4_0.zip",
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/animated-charged-bolt/hjm-charged_bolt_v4_0.zip",
       "download_urls": [
@@ -65508,7 +65508,7 @@
       "ai_generated": true,
       "added": "2026-11-13",
       "notes": "zip 14.8KB; CC0 단독; AI 생성 언급 없음",
-      "preview": null,
+      "preview": "previews/rail-post.png",
       "download_path": "rail-post/post.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/rail-post/post.zip",
       "download_urls": [
@@ -65546,7 +65546,7 @@
       "ai_generated": true,
       "added": "2026-11-13",
       "notes": "blend 1.7MB·2.4MB와 zip 3.2MB 함께 수록; CC0 단독; AI 생성 언급 없음",
-      "preview": null,
+      "preview": "previews/humanoid-soulslike-animations.png",
       "download_path": "humanoid-soulslike-animations/fistweaponanimationpack.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/humanoid-soulslike-animations/fistweaponanimationpack.zip",
       "download_urls": [
@@ -65582,7 +65582,7 @@
       "ai_generated": true,
       "added": "2026-11-13",
       "notes": "blend 23.6MB·rig 도구 zip 58KB; CC0 단독; AI 생성 언급 없음",
-      "preview": null,
+      "preview": "previews/b-chan.png",
       "download_path": "b-chan/bchan_edited.blend",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/b-chan/bchan_edited.blend",
       "download_urls": [
@@ -65617,7 +65617,7 @@
       "ai_generated": true,
       "added": "2026-11-13",
       "notes": "zip 1KB; CC0 단독; AI 생성 언급 없음",
-      "preview": null,
+      "preview": "previews/lock.png",
       "download_path": "lock/lock.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/lock/lock.zip",
       "download_urls": [
@@ -65653,7 +65653,7 @@
       "ai_generated": true,
       "added": "2026-11-13",
       "notes": "blend 134.4KB; CC0 단독; AI 생성 언급 없음",
-      "preview": null,
+      "preview": "previews/stylized-coin.png",
       "download_path": "stylized-coin/coin.blend",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/stylized-coin/coin.blend",
       "download_urls": [
@@ -65688,7 +65688,7 @@
       "ai_generated": true,
       "added": "2026-11-13",
       "notes": "zip 148.2KB; CC0 단독; AI 생성 언급 없음",
-      "preview": null,
+      "preview": "previews/dice.png",
       "download_path": "dice/dice.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/dice/dice.zip",
       "download_urls": [
@@ -65764,7 +65764,7 @@
       "ai_generated": true,
       "added": "2026-11-13",
       "notes": "zip 수록(urn_lowpoly·highpoly 포함); CC0 단독; AI 생성 언급 없음",
-      "preview": null,
+      "preview": "previews/cremation-urn.png",
       "download_path": "cremation-urn/cremation_urn.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/cremation-urn/cremation_urn.zip",
       "download_urls": [
@@ -65800,7 +65800,7 @@
       "ai_generated": true,
       "added": "2026-11-13",
       "notes": "zip 수록; CC0 단독; AI 생성 언급 없음",
-      "preview": null,
+      "preview": "previews/sumo-arena.png",
       "download_path": "sumo-arena/sumo_arena_1.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sumo-arena/sumo_arena_1.zip",
       "download_urls": [
@@ -65836,7 +65836,7 @@
       "ai_generated": true,
       "added": "2026-11-13",
       "notes": "zip 수록(rigged 모델); CC0 단독; AI 생성 언급 없음",
-      "preview": null,
+      "preview": "previews/character-guy-rigged.png",
       "download_path": "character-guy-rigged/emopreben_man_model_1.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/character-guy-rigged/emopreben_man_model_1.zip",
       "download_urls": [
@@ -65909,7 +65909,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "파일 6개; zip 112KB; CREDITS.txt 포함",
-      "preview": null,
+      "preview": "previews/ghost-lady-model-untextured.png",
       "download_path": "ghost-lady-model-untextured/ghost-lady-model-untextured.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ghost-lady-model-untextured/ghost-lady-model-untextured.zip",
       "download_urls": [
@@ -65980,7 +65980,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "파일 120개; zip 1.1MB; 미리보기 preview.jpg",
-      "preview": "preview.jpg",
+      "preview": "previews/mini-forest-2.png",
       "download_path": "mini-forest/mini-forest.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-forest/mini-forest.zip",
       "download_urls": [
@@ -66015,7 +66015,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "파일 6개; zip 960KB; 미리보기 preview.jpg",
-      "preview": "preview.jpg",
+      "preview": "previews/sofa-and-bench.png",
       "download_path": "sofa-and-bench/sofa-and-bench.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sofa-and-bench/sofa-and-bench.zip",
       "download_urls": [
@@ -66085,7 +66085,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "파일 9개; zip 2.4MB; 미리보기 preview.jpg",
-      "preview": "preview.jpg",
+      "preview": "previews/shipping-containers.png",
       "download_path": "shipping-containers/shipping-containers.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/shipping-containers/shipping-containers.zip",
       "download_urls": [
@@ -66119,7 +66119,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "파일 4개; zip 124KB; 미리보기 preview.jpg",
-      "preview": "preview.jpg",
+      "preview": "previews/cast-iron-stove.png",
       "download_path": "cast-iron-stove/cast-iron-stove.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/cast-iron-stove/cast-iron-stove.zip",
       "download_urls": [
@@ -66158,7 +66158,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "파일 6개; zip 1.2MB; 마법 검 이펙트 애니메이션; 미리보기 preview.jpg",
-      "preview": "preview.jpg",
+      "preview": "previews/magic-flameblade-pixel-art-animation.jpg",
       "download_path": "magic-flameblade/magic-flameblade.zip",
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/magic-flameblade/magic-flameblade.zip",
       "download_urls": [
@@ -66193,7 +66193,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "파일 1개(.blend); zip 168KB; 미리보기 preview.jpg",
-      "preview": "preview.jpg",
+      "preview": "previews/low-poly-penguin-rigged.png",
       "download_path": "low-poly-penguin-w-skeleton/low-poly-penguin-w-skeleton.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-penguin-w-skeleton/low-poly-penguin-w-skeleton.zip",
       "download_urls": [
@@ -66228,7 +66228,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "파일 1개(.obj); zip 12KB; 미리보기 preview.jpg",
-      "preview": "preview.jpg",
+      "preview": "previews/roulette-wheel-and-board.png",
       "download_path": "roulette-wheel-and-board/roulette-wheel-and-board.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/roulette-wheel-and-board/roulette-wheel-and-board.zip",
       "download_urls": [
@@ -66267,7 +66267,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "zip 386KB; 256x256 폭발 애니메이션; 미리보기 preview.jpg",
-      "preview": "preview.jpg",
+      "preview": "previews/explosion-2d-vfx.png",
       "download_path": "explosion/explosion.zip",
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion/explosion.zip",
       "download_urls": [
@@ -66302,7 +66302,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "zip 1.4MB; 미리보기 preview.jpg",
-      "preview": "preview.jpg",
+      "preview": "previews/low-poly-camping-assets.png",
       "download_path": "low-poly-camping-assets/low-poly-camping-assets.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-camping-assets/low-poly-camping-assets.zip",
       "download_urls": [
@@ -66337,7 +66337,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "파일 1개(.blend); zip 약 903KB; 미리보기 preview.jpg",
-      "preview": "preview.jpg",
+      "preview": "previews/low-poly-retro-psx-skeleton.png",
       "download_path": "low-poly-retro-psx-skeleton/low-poly-retro-psx-skeleton.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-retro-psx-skeleton/low-poly-retro-psx-skeleton.zip",
       "download_urls": [
@@ -66373,7 +66373,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "zip 약 14KB; 원형 이펙트 스프라이트시트; 미리보기 preview.jpg",
-      "preview": "preview.jpg",
+      "preview": "previews/circular-effect-animations.png",
       "download_path": "circular-effect-animations/circular-effect-animations.zip",
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/circular-effect-animations/circular-effect-animations.zip",
       "download_urls": [
@@ -66407,7 +66407,7 @@
       "ai_generated": false,
       "added": "2026-11-13",
       "notes": "zip 약 74KB; 미리보기 preview.jpg",
-      "preview": "preview.jpg",
+      "preview": "previews/rocket-thruster-effect-animations.png",
       "download_path": "rocket-thruster-effect-animations/rocket-thruster-effect-animations.zip",
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/rocket-thruster-effect-animations/rocket-thruster-effect-animations.zip",
       "download_urls": [
@@ -66440,7 +66440,7 @@
       "ai_generated": false,
       "added": "2026-11-14",
       "notes": "도구 3종(blend+GLB, PBR 1024); 원본 zip 그대로; LICENSE-SOURCE.txt 동봉; 미러 바이트(공식 미대조)",
-      "preview": null,
+      "preview": "previews/tool-pack-1.png",
       "download_path": "tool-pack-1/tool_pack_1.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/tool-pack-1/tool_pack_1.zip",
       "download_urls": [
@@ -66473,7 +66473,7 @@
       "ai_generated": false,
       "added": "2026-11-14",
       "notes": "원본 toolbox60.blend(13MB)를 zip으로 묶음; LICENSE-SOURCE.txt 동봉; 미러 바이트(공식 미대조)",
-      "preview": null,
+      "preview": "previews/toolbox.png",
       "download_path": "toolbox/toolbox.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/toolbox/toolbox.zip",
       "download_urls": [
@@ -66506,7 +66506,7 @@
       "ai_generated": false,
       "added": "2026-11-14",
       "notes": "원본 cobblestone.zip(34.7MB) 그대로; LICENSE-SOURCE.txt 동봉; 미러 바이트(공식 미대조)",
-      "preview": null,
+      "preview": "previews/3d-cobblestone-texture.png",
       "download_path": "3d-cobblestone-texture/cobblestone.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-cobblestone-texture/cobblestone.zip",
       "download_urls": [

@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@85dd623f5599a7cfeaa26a05b6ea040a0b56b143`
+- 원본: `catalog.csv@27a648a59e7cd1d7c0c591284c5ad428b5e99700`
 - 데이터 행 수: **1875**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 2,783,605 bytes, `assets-index.min.json` 2,252,657 bytes
+- 파일 크기: `assets-index.json` 2,784,451 bytes, `assets-index.min.json` 2,253,503 bytes
 
 ## 2. 집계
 
@@ -222,7 +222,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 - effect_kind가 하나 이상인 에셋: 234 / 1875
 
-- attribution_required=true: 145, ai_generated=true: 22, preview 있음: 1401, 분할(split) 행: 147
+- attribution_required=true: 145, ai_generated=true: 22, preview 있음: 1420, 분할(split) 행: 147
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
@@ -329,7 +329,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 1873 | Low Poly Stalls | assets-3d-lowpoly-2 | notes `AI 생성` |
 
 - notes에 `AI`가 있으나 `AI 생성` 문구가 없어 false로 둔 행: 8건 (assets-ui-icons/game-icons, assets-ui-icons/game-icons-expansion, assets-3d-lowpoly/modular-dungeon-2-3d-models-2, assets-3d-lowpoly/base-human-models-low-poly, assets-2d-pixel/weapon-slash-effect-2)
-- preview가 없는 행: 474건
+- preview가 없는 행: 455건
 
 ## 4. 샘플 링크 점검 (전수 점검 아님, 표본)
 

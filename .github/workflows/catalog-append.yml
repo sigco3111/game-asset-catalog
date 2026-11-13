@@ -1,0 +1,48 @@
+name: catalog-append
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  append:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: append
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import csv
+          rows = [
+            ('Mini Forest','assets-3d-lowpoly','mini-forest/mini-forest.zip','3D 모델','forest,environment,lowpoly,3d,kenney','Kenney','https://opengameart.org/content/mini-forest','CC0','optional: Kenney (kenney.nl)','2026-11-13','파일 120개; zip 1.1MB; 미리보기 preview.jpg'),
+            ('Sofa and Bench','assets-3d-lowpoly','sofa-and-bench/sofa-and-bench.zip','3D 모델','furniture,sofa,bench,prop,3d','Lyricsz','https://opengameart.org/content/sofa-and-bench','CC0','optional: Lyricsz (OpenGameArt)','2026-11-13','파일 6개; zip 960KB; 미리보기 preview.jpg'),
+            ('ZombiePackSFX 3','assets-audio','zombiepacksfx-3/zombiepacksfx-3.zip','효과음','zombie,creature,sfx,horror,growl','Colodical','https://opengameart.org/content/zombiepacksfx-3','CC-BY 3.0','required: Colodical (CC-BY 3.0)','2026-11-13','파일 11개; zip 3.9MB; CREDITS.txt 포함'),
+          ]
+          with open('catalog.csv','a',newline='',encoding='utf-8') as f:
+              w = csv.writer(f, lineterminator='\n')
+              for r in rows:
+                  w.writerow(r)
+          total = sum(1 for _ in open('catalog.csv',encoding='utf-8')) - 1
+          sec = "## 2026-11-13 A81 추가 (3팩, 총 %d팩)\n\nA81 라운드에서 OpenGameArt 3D 최신순의 3D 2팩 Mini Forest·Sofa and Bench와 효과음 1팩 ZombiePackSFX 3(모두 opengameart.org)를 수집했습니다. 중복은 저장소 raw 경로와 카탈로그 코드 검색으로 팩 슬러그를 확인했습니다.\n\n| 팩 | 라이선스 |\n| --- | --- |\n| Mini Forest | CC0 |\n| Sofa and Bench | CC0 |\n| ZombiePackSFX 3 | CC-BY 3.0 |\n\n종류: 3D 2팩(assets-3d-lowpoly; 환경 1·소품 1), 효과음 1팩(assets-audio). 라이선스: CC0 2팩, CC-BY 3.0 1팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가, 임시 워크플로 ingest-pack.yml 수동 실행). 용량: assets-3d-lowpoly 약 621MB, assets-audio 약 384MB(700MB 미만, 새 저장소 생성 없음). 색인(assets-index*.json)·위키·llms.txt는 직접 손대지 않고 Actions 자동 갱신에 맡김. 천하삼분 게임 에셋 56은 수집 대상이 아님.\n\n" % total
+          rd = open('README.md',encoding='utf-8').read()
+          idx = rd.find('## 2026-11-13 A80')
+          if idx < 0:
+              idx = rd.find('## 2026-')
+          rd = rd[:idx] + sec + rd[idx:]
+          open('README.md','w',encoding='utf-8').write(rd)
+          entry = '- 2026-11-13 A81: Mini Forest (Kenney, CC0), Sofa and Bench (Lyricsz, CC0), ZombiePackSFX 3 (Colodical, CC-BY 3.0) (3팩, 총 %d팩; 3D 모델 2(assets-3d-lowpoly), 효과음 1(assets-audio)). 소유자 지시의 1회 수집 라운드. OGA 3D 최신순 2~3페이지 후보를 저장소 raw 경로와 카탈로그 코드 검색으로 중복 확인하고 미수록 2팩을 골랐다. 팩당 zip·pack.md·preview.jpg·LICENSE-SOURCE.txt(+CC-BY 1팩은 CREDITS.txt) 생성, 임시 ingest-pack.yml(workflow_dispatch, ImageMagick 설치)로 실행. catalog.csv 행 3개 추가, README 절 추가, 색인은 Actions 자동 갱신.' % total
+          lg = open('docs/log.md',encoding='utf-8').read()
+          k = lg.find('A80')
+          if k >= 0:
+              e = lg.find('\n', k)
+              lg = lg[:e+1] + entry + '\n' + lg[e+1:]
+          else:
+              lg = lg.rstrip('\n') + '\n' + entry + '\n'
+          open('docs/log.md','w',encoding='utf-8').write(lg)
+          print('total rows', total)
+          PY
+          git config user.name "sigco3111"
+          git config user.email "sigco3111@users.noreply.github.com"
+          git add catalog.csv README.md docs/log.md
+          git commit -m "카탈로그: A81 3팩 추가"
+          git push

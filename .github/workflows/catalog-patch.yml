@@ -1,42 +1,42 @@
 name: patch-once
 on:
- workflow_dispatch:
-  inputs:
-   steps_b64:
-    required: true
-   message:
-    required: true
+  workflow_dispatch:
+    inputs:
+      steps_b64:
+        required: true
+      message:
+        required: true
 permissions:
- contents: write
+  contents: write
 jobs:
- patch:
-  runs-on: ubuntu-latest
-  steps:
-   - uses: actions/checkout@v4
-   - name: patch
-    env:
-     STEPS_B64: ${{ inputs.steps_b64 }}
-     MESSAGE: ${{ inputs.message }}
-    run: |
-     set -euo pipefail
-     python3 <<'PY'
-     import base64, json, os
-     steps = json.loads(base64.b64decode(os.environ["STEPS_B64"]).decode("utf-8"))
-     for s in steps:
-      p = s["file"]
-      t = open(p, encoding="utf-8").read()
-      if "append" in s:
-       if not t.endswith("\n"):
-        t += "\n"
-       t += s["append"]
-      if "replace" in s:
-       a = s["replace"]["from"]
-       b = s["replace"]["to"]
-       t = t.replace(a, b) if s["replace"].get("all") else t.replace(a, b, 1)
-      open(p, "w", encoding="utf-8").write(t)
-     PY
-   git config user.name "sigco3111"
-   git config user.email "sigco3111@users.noreply.github.com"
-   git add -A
-   git commit -m "$MESSAGE"
-   git push
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: patch
+        env:
+          STEPS_B64: ${{ inputs.steps_b64 }}
+          MESSAGE: ${{ inputs.message }}
+        run: |
+          set -euo pipefail
+          python3 <<'PY'
+          import base64, json, os
+          steps = json.loads(base64.b64decode(os.environ["STEPS_B64"]).decode("utf-8"))
+          for s in steps:
+              p = s["file"]
+              t = open(p, encoding="utf-8").read()
+              if "append" in s:
+                  if not t.endswith("\n"):
+                      t += "\n"
+                  t += s["append"]
+              if "replace" in s:
+                  a = s["replace"]["from"]
+                  b = s["replace"]["to"]
+                  t = t.replace(a, b) if s["replace"].get("all") else t.replace(a, b, 1)
+              open(p, "w", encoding="utf-8").write(t)
+          PY
+          git config user.name "sigco3111"
+          git config user.email "sigco3111@users.noreply.github.com"
+          git add -A
+          git commit -m "$MESSAGE"
+          git push

@@ -90,3 +90,4 @@
 - 2026-11-14 A87: Crates Chests Coins and Barrels Collection, Dungeon interior kit, Gem collect SFX (모두 CC0, 3팩, 총 1871팩; 3D 2팩은 새 저장소 assets-3d-lowpoly-2, 효과음 1팩은 assets-audio; assets-3d-lowpoly 약 692MB로 700MB 근접해 분리; 새 저장소 README·카탈로그 표·check_sizes.py·capacity.md 갱신; 5MB 넘는 zip 없어 릴리스 미사용; 중복 코드 검색 0건 확인; AI 생성 명시 없음)
 
 - 2026-11-14 A88: Low Poly Stalls(3D, CC0, assets-3d-lowpoly-2) 추가. 카탈로그 1872팩. README에 A88 절·assets-3d-lowpoly-2 행 추가, A86 총계 1868로 정정.
+- 2026-11-14 A89: low_poly_swords (Q2DENJINDREW, CC0), 3D Character Pack (byzmod3d, CC0), 3D Human Parts Pack (byzmod3d, CC0) (3팩, 총 1875팩; 3D 3, assets-3d-lowpoly-2). OGA 최신 3D 목록과 코드 검색으로 중복 확인 후 수집, 팩마다 커밋.

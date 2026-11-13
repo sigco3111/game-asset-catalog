@@ -5,8 +5,19 @@
 
 ## 📸 실제 실행 화면
 
-![게임 에셋 도서관 실제 화면 - 1,838개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+![게임 에셋 도서관 실제 화면 - 1,841개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-13 A77 추가 (3팩, 총 1841팩)
+
+A77 라운드에서 OpenGameArt 3D 최신순의 3D 3팩 Rail Post·Humanoid SoulsLike Animations·B-chan(모두 opengameart.org)을 수집했습니다. 중복은 라이브러리 검색(https://sigco3111.github.io/game-asset-catalog/)에서 제목으로 확인했습니다(모두 신규; Swinging blade trap·Wooden crate·Germanic style castle·desert castle/tower·Chibi Neko·Bird Bath·Asian Girl·Bald Man·Basic Female·Pine Tree·Mushroom Enemy·Mini Shop는 이미 수록되어 제외; A5 Carbine·P50 Heavy Pistol·R90 Bullpup SMG는 CC-BY 4.0이지만 AI 협업 아트워크 표기 또는 파일 미제공으로 제외; Low Poly Medieval Models 163 CC0는 파일 미제공으로 제외; 효과음 IgnisForge Free SFX Sampler는 원본 파일 내려받기가 실패해 이번 라운드에서 제외). 3팩 모두 CC0이며 zip 또는 25MB 이하 파일이라 저장소 트리에 올렸습니다.
+
+| 팩 | 라이선스 |
+| --- | --- |
+| [Rail Post](https://opengameart.org/content/rail-post) | CC0 |
+| [Humanoid SoulsLike Animations](https://opengameart.org/content/humanoid-soulslike-animations) | CC0 |
+| [B-chan](https://opengameart.org/content/b-chan) | CC0 |
+
+종류: 3D 3팩(assets-3d-lowpoly; 소품 1·애니메이션 1·캐릭터 1). 라이선스: CC0 3팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가, 임시 워크플로 ingest-pack.yml 수동 실행). 용량(GitHub API size): assets-3d-lowpoly 약 590MB(700MB 미만), 새 저장소 생성 없음. 색인(assets-index*.json)·위키·llms.txt는 손대지 않고 Actions 자동 갱신에 맡김. '천하삼분 게임 에셋 56'은 수집 대상이 아님.
 ## 2026-11-13 A76 추가 (3팩, 총 1838팩)
 
 A76 라운드에서 OpenGameArt 3D 최신순의 3D 2팩 Mini Rocket·3D Sara - Wizard와 2D 마법 이펙트 최신순의 Animated Charged Bolt(모두 opengameart.org)를 수집했습니다. 중복은 라이브러리 검색(https://sigco3111.github.io/game-asset-catalog/)에서 제목으로 확인했고(모두 신규; Mini Shop·Mini Forest·Modular Cave Kit·Pine Tree·Mushroom Enemy·Weapon Slash - Effect·Earth Impact - Magic Effect·Tiny Magic Glyphs·Pure Projectile·150 Combat Sound Effects는 이미 수록되어 제외, Dungeon Building Kit은 tar.gz 31.4MB라 이번 라운드에서 제외), 각 페이지의 라이선스 표기·파일·AI 언급 여부를 확인했습니다(AI 생성 언급 없음). 3팩 모두 zip 5MB 이하라 저장소 트리에 올렸습니다.

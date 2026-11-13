@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@cca24402ff9fe3de2d059e0b8675be3f390f3512",
-  "count": 1849,
+  "generated_from": "catalog.csv@b73f81768166d8d20f4a581932a4cc5653d4f907",
+  "count": 1852,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -65880,6 +65880,111 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/cozy-space-sfx/cozy-space-sfx-cc-by.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/cozy-space-sfx/cozy-space-sfx-cc-by.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/city-kit-roads-2",
+      "name": "City Kit (Roads)",
+      "repo": "assets-3d-lowpoly",
+      "file": "city-kit-roads/city-kit-roads.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "city",
+        "road",
+        "kit",
+        "modular",
+        "kenney"
+      ],
+      "effect_kind": [],
+      "author": "Kenney",
+      "source_url": "https://opengameart.org/content/city-kit-roads",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Kenney (kenney.nl)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "파일 487개; zip 2.8MB; 미리보기 preview.jpg",
+      "preview": "preview.jpg",
+      "download_path": "city-kit-roads/city-kit-roads.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/city-kit-roads/city-kit-roads.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/city-kit-roads/city-kit-roads.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/ghost-lady-model-untextured",
+      "name": "Ghost lady model (UNTEXTURED)",
+      "repo": "assets-3d-lowpoly",
+      "file": "ghost-lady-model-untextured/ghost-lady-model-untextured.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "ghost",
+        "character",
+        "untextured",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "Kabrolkin",
+      "source_url": "https://opengameart.org/content/ghost-lady-model-untextured",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: Kabrolkin (CC-BY 4.0)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "파일 6개; zip 112KB; CREDITS.txt 포함",
+      "preview": null,
+      "download_path": "ghost-lady-model-untextured/ghost-lady-model-untextured.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ghost-lady-model-untextured/ghost-lady-model-untextured.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ghost-lady-model-untextured/ghost-lady-model-untextured.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/packsmithy-sfx-sampler-30-synthesised-sound-effects",
+      "name": "Packsmithy SFX sampler: 30 synthesised sound effects",
+      "repo": "assets-audio",
+      "file": "packsmithy-sfx-sampler/packsmithy-sfx-sampler.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sfx",
+        "ui",
+        "retro",
+        "horror",
+        "sci-fi",
+        "glitch"
+      ],
+      "effect_kind": [],
+      "author": "packsmithy",
+      "source_url": "https://opengameart.org/content/packsmithy-sfx-sampler-30-synthesised-sound-effects-ui-retro-horror-sci-fi-glitch",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: packsmithy (CC-BY 4.0)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "파일 31개; zip 2.0MB; CREDITS.txt 포함",
+      "preview": null,
+      "download_path": "packsmithy-sfx-sampler/packsmithy-sfx-sampler.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/packsmithy-sfx-sampler/packsmithy-sfx-sampler.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/packsmithy-sfx-sampler/packsmithy-sfx-sampler.zip"
       ],
       "sample": null,
       "multipart": false,

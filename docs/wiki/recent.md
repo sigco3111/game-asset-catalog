@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@cca24402ff9fe3de2d059e0b8675be3f390f3512`
+> generated from `catalog.csv@b73f81768166d8d20f4a581932a4cc5653d4f907`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -22,10 +22,12 @@
 | [Base Human Models (Low Poly)](https://opengameart.org/content/base-human-models-low-poly) | `character-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/base-human-models-low-poly/human.zip) | 2026-11-13 |
 | [Bird Bath](https://opengameart.org/content/bird-bath) | `model-3d` | JeremyWoods | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/bird-bath/birdbath_0.zip) | 2026-11-13 |
 | [Character Guy (Rigged)](https://opengameart.org/content/character-guy-rigged) | `character-3d` | EmoPreben | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/character-guy-rigged/emopreben_man_model_1.zip) | 2026-11-13 |
+| [City Kit (Roads)](https://opengameart.org/content/city-kit-roads) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/city-kit-roads/city-kit-roads.zip) | 2026-11-13 |
 | [Cozy Space SFX: 46 Retro Sound Effects](https://opengameart.org/content/cozy-space-sfx-46-retro-sound-effects) | `sfx` | roberto mellado | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cozy-space-sfx/cozy-space-sfx-cc-by.zip) | 2026-11-13 |
 | [Cremation Urn](https://opengameart.org/content/cremation-urn) | `model-3d` | ARoachIFoundOnMyPillow | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/cremation-urn/cremation_urn.zip) | 2026-11-13 |
 | [Dice](https://opengameart.org/content/dice-6) | `model-3d` | gearfox98 | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/dice/dice.zip) | 2026-11-13 |
 | [Elemental Golem](https://opengameart.org/content/elemental-golem) | `model-3d` | Grefuntor | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/elemental-golem/ElementalGolem-obj.zip) | 2026-11-13 |
+| [Ghost lady model (UNTEXTURED)](https://opengameart.org/content/ghost-lady-model-untextured) | `model-3d` | Kabrolkin | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ghost-lady-model-untextured/ghost-lady-model-untextured.zip) | 2026-11-13 |
 | [Humanoid SoulsLike Animations](https://opengameart.org/content/humanoid-soulslike-animations) | `model-3d` | Gres | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/humanoid-soulslike-animations/fistweaponanimationpack.zip) | 2026-11-13 |
 | [Lava Waves](https://opengameart.org/content/lava-waves) | `effect` | StalwartBlue | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lava-waves/lava_wave.zip) | 2026-11-13 |
 | [Lock](https://opengameart.org/content/lock-1) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/lock/lock.zip) | 2026-11-13 |
@@ -33,6 +35,7 @@
 | [Mini Rocket](https://opengameart.org/content/mini-rocket) | `model-3d` | David W CG | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-rocket/mini_rocket.zip) | 2026-11-13 |
 | [Modular Dungeon 2 - 3D Models](https://opengameart.org/content/modular-dungeon-2-3d-models) | `model-3d` | Keith at Fertile Soil Productions | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/modular-dungeon-2/dungeon_collection_2.zip) | 2026-11-13 |
 | [Oozey the Slime](https://opengameart.org/content/oozey-the-slime) | `model-3d` | Mophs | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/oozey-the-slime/Oozey.zip) | 2026-11-13 |
+| [Packsmithy SFX sampler: 30 synthesised sound effects](https://opengameart.org/content/packsmithy-sfx-sampler-30-synthesised-sound-effects-ui-retro-horror-sci-fi-glitch) | `sfx` | packsmithy | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/packsmithy-sfx-sampler/packsmithy-sfx-sampler.zip) | 2026-11-13 |
 | [Pocket Bleeps – 31 Retro 8-Bit SFX](https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by) | `sfx` | Pocket Bleeps | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip) | 2026-11-13 |
 | [Rail Post](https://opengameart.org/content/rail-post) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/rail-post/post.zip) | 2026-11-13 |
 | [Space port kit](https://opengameart.org/content/space-port-kit) | `model-3d` | Ludrol | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/space-port-kit/space_port_kit_glb.zip) | 2026-11-13 |
@@ -110,6 +113,3 @@
 | [Lightning Effect (Varkalandar)](https://opengameart.org/content/lightning-effect-0) | `effect` | Hansjörg Malthaner (Varkalandar) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lightning-effect-varkalandar/lightning-effect-varkalandar.zip) | 2026-11-11 |
 | [M484 Explosion Set 3](https://opengameart.org/content/m484-explosion-set-3) | `effect` | Master484 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/m484-explosion-set-3/m484-explosion-set-3.zip) | 2026-11-11 |
 | [M484 Lightning Weapon](https://opengameart.org/content/m484-lightning-weapon) | `effect` | Master484 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/m484-lightning-weapon/m484-lightning-weapon.zip) | 2026-11-11 |
-| [Magic Effect Particle System](https://opengameart.org/content/magic-effect-particle-system) | `effect` | HenriqueGibi | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.42/magic-effect-particle-system.zip) | 2026-11-11 |
-| [Magic Missiles](https://opengameart.org/content/magic-missiles) | `sfx` | spookymodem | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/magic-missiles/magic-missiles.zip) | 2026-11-11 |
-| [Magic SFX Sample](https://opengameart.org/content/magic-sfx-sample) | `sfx` | ViRiX (David Mckee) | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/magic-sfx-sample/magic-sfx-sample.zip) | 2026-11-11 |

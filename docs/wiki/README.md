@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@cca24402ff9fe3de2d059e0b8675be3f390f3512`
+> generated from `catalog.csv@b73f81768166d8d20f4a581932a4cc5653d4f907`
 
 # 게임 에셋 카탈로그 위키
 
@@ -12,7 +12,7 @@
 - 이 위키의 자동 생성 문서는 직접 고치지 않습니다. 에셋이 바뀌면 두 스크립트를 다시 실행합니다(표준 라이브러리만 사용, 같은 입력이면 같은 출력).
 - 에셋마다 쪽을 따로 만들지 않습니다. 표의 이름을 누르면 제작자의 출처 페이지로 갑니다.
 - 손으로 쓰는 문서는 [사용 장부](usage-ledger.md) 하나뿐이며 생성기가 덮어쓰지 않습니다.
-- 현재 색인: 에셋 **1849개** (`catalog.csv@cca24402ff9fe3de2d059e0b8675be3f390f3512`).
+- 현재 색인: 에셋 **1852개** (`catalog.csv@b73f81768166d8d20f4a581932a4cc5653d4f907`).
 
 ## 링크
 
@@ -29,7 +29,7 @@
 
 ## 표기(attribution) 규칙
 
-- 색인의 `attribution_required`가 참이면(137개: CC-BY·MIT·GPL) 에셋을 쓰는 프로젝트의 `CREDITS.md`에 제작자·출처·라이선스를 적습니다. 문구 예시는 색인의 `attribution` 값입니다.
+- 색인의 `attribution_required`가 참이면(139개: CC-BY·MIT·GPL) 에셋을 쓰는 프로젝트의 `CREDITS.md`에 제작자·출처·라이선스를 적습니다. 문구 예시는 색인의 `attribution` 값입니다.
 - CC0는 표기가 필수가 아니며, 색인에는 선택 표기 문구만 있습니다.
 - 쓴 에셋은 [사용 장부](usage-ledger.md)에도 한 줄 기록합니다.
 
@@ -42,7 +42,7 @@
 | 분류 | 이름 | 개수 | 목록 |
 |---|---|---|---|
 | `effect` | 이펙트 | 131 | [category-effect.md](category-effect.md) |
-| `sfx` | 효과음 | 232 | [category-sfx.md](category-sfx.md) |
+| `sfx` | 효과음 | 233 | [category-sfx.md](category-sfx.md) |
 | `music` | 음악 | 230 | [category-music.md](category-music.md) |
 | `voice` | 음성 | 2 | [category-voice.md](category-voice.md) |
 | `tileset-2d` | 2D 타일셋 | 146 | [category-tileset-2d.md](category-tileset-2d.md) |
@@ -54,7 +54,7 @@
 | `portrait` | 초상화 | 2 | [category-portrait.md](category-portrait.md) |
 | `font` | 폰트 | 2 | [category-font.md](category-font.md) |
 | `texture` | 텍스처 | 70 | [category-texture.md](category-texture.md) |
-| `model-3d` | 3D 모델 | 432 | [category-model-3d.md](category-model-3d.md) |
+| `model-3d` | 3D 모델 | 434 | [category-model-3d.md](category-model-3d.md) |
 | `character-3d` | 3D 캐릭터 | 31 | [category-character-3d.md](category-character-3d.md) |
 | `vehicle-3d` | 3D 탈것 | 10 | [category-vehicle-3d.md](category-vehicle-3d.md) |
 | `building-3d` | 3D 건물 | 23 | [category-building-3d.md](category-building-3d.md) |
@@ -62,7 +62,7 @@
 | `puzzle` | 퍼즐 | 2 | [category-puzzle.md](category-puzzle.md) |
 | `other` | 기타 | 124 | [category-other.md](category-other.md) |
 
-합계 1849개. 분류가 400행을 넘는 목록은 `-2` 쪽으로 이어집니다.
+합계 1852개. 분류가 400행을 넘는 목록은 `-2` 쪽으로 이어집니다.
 
 ## 효과 종류별 개수
 

@@ -1,0 +1,52 @@
+name: catalog-append
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  append:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: append
+        run: |
+          set -e
+          python3 - <<'PY'
+          import csv
+          rows = [
+            ("Low Poly Penguin (Rigged)", "assets-3d-lowpoly", "low-poly-penguin-w-skeleton/low-poly-penguin-w-skeleton.zip", "3D 모델", "penguin,lowpoly,model,rigged,3d", "WarmHoneyBun", "https://opengameart.org/content/low-poly-penguin-w-skeleton", "CC-BY 4.0", "required: WarmHoneyBun (CC-BY 4.0)", "2026-11-13", "파일 1개(.blend); zip 168KB; 미리보기 preview.jpg"),
+            ("Roulette Wheel and Board", "assets-3d-lowpoly", "roulette-wheel-and-board/roulette-wheel-and-board.zip", "3D 모델", "roulette,casino,board,prop,3d", "Klooverice", "https://opengameart.org/content/roulette-wheel-and-board", "CC0", "optional: Klooverice (OpenGameArt)", "2026-11-13", "파일 1개(.obj); zip 12KB; 미리보기 preview.jpg"),
+            ("explosion (2D VFX)", "assets-2d-pixel", "explosion/explosion.zip", "2D 이펙트", "explosion,blast,fire,animated,effect,pixel", "johndekale", "https://opengameart.org/content/explosion-10", "CC0", "optional: johndekale (OpenGameArt)", "2026-11-13", "zip 386KB; 256x256 폭발 애니메이션; 미리보기 preview.jpg"),
+          ]
+          with open("catalog.csv", "a", newline="", encoding="utf-8") as f:
+              w = csv.writer(f)
+              for r in rows:
+                  w.writerow(r)
+          total = sum(1 for _ in open("catalog.csv", encoding="utf-8")) - 1
+          sec = "## 2026-11-13 A83 추가 (3팩, 총 %d팩)\n\n" % total
+          sec += "A83 라운드에서 OpenGameArt 3D 최신순의 3D 2팩 Low Poly Penguin w/ Skeleton·Roulette Wheel and Board와 2D 최신순의 폭발 이펙트 1팩 explosion(모두 opengameart.org)을 수집했습니다. 중복은 저장소 팩 폴더 경로로 확인했습니다(512x512 explosion·Lava Waves는 이미 수록되어 제외).\n\n"
+          sec += "| 팩 | 라이선스 |\n| --- | --- |\n| Low Poly Penguin w/ Skeleton | CC-BY 4.0 |\n| Roulette Wheel and Board | CC0 |\n| explosion | CC0 |\n\n"
+          sec += "종류: 3D 2팩(assets-3d-lowpoly; 캐릭터/리깅 1·소품 1), 2D 폭발 이펙트 1팩(assets-2d-pixel). 라이선스: CC0 2팩, CC-BY 4.0 1팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가, 임시 워크플로 ingest-pack.yml 수동 실행). 용량: assets-3d-lowpoly 약 624MB, assets-2d-pixel 약 384MB(700MB 미만, 새 저장소 생성 없음). 색인(assets-index*.json)·위키·llms.txt는 직접 손대지 않고 Actions 자동 갱신에 맡김. '천하삼분 게임 에셋 56'은 수집 대상이 아님.\n"
+          rd = open("README.md", encoding="utf-8").read()
+          i = rd.find("## 2026-11-13 A82")
+          if i < 0:
+              i = rd.find("## 2026-")
+          rd = rd[:i] + sec + rd[i:]
+          open("README.md", "w", encoding="utf-8").write(rd)
+          entry = "- 2026-11-13 A83: Low Poly Penguin w/ Skeleton (WarmHoneyBun, CC-BY 4.0), Roulette Wheel and Board (Klooverice, CC0), explosion (johndekale, CC0) (3팩, 총 %d팩; 3D 모델 2(assets-3d-lowpoly), 2D 이펙트 1(assets-2d-pixel)). 임시 ingest-pack.yml(workflow_dispatch, ImageMagick 설치)로 팩 업로드, catalog-append.yml로 catalog.csv 행 3개·README 절·docs/log.md 추가. 색인은 Actions 자동 갱신." % total
+          lg = open("docs/log.md", encoding="utf-8").read()
+          k = lg.find("A82")
+          if k >= 0:
+              e = lg.find("\n", k)
+              lg = lg[:e+1] + entry + "\n" + lg[e+1:]
+          else:
+              lg = lg.rstrip("\n") + "\n" + entry + "\n"
+          open("docs/log.md", "w", encoding="utf-8").write(lg)
+          print("total rows", total)
+          
+          PY
+          git config user.name "sigco3111"
+          git config user.email "sigco3111@users.noreply.github.com"
+          git add catalog.csv README.md docs/log.md
+          git commit -m "카탈로그: A83 3팩 추가"
+          git push

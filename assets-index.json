@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@46041ae4fecab714d1707f7b67842f03f9eb91b2",
-  "count": 1829,
+  "generated_from": "catalog.csv@5937389af2099520c35c802192ec5b6e4c98ac57",
+  "count": 1832,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -65138,6 +65138,117 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/armadillo-foe/Armadillo-3D-Pack-Fbx-Obj.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/armadillo-foe/Armadillo-3D-Pack-Fbx-Obj.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/bird-bath",
+      "name": "Bird Bath",
+      "repo": "assets-3d-lowpoly",
+      "file": "bird-bath/birdbath_0.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "birdbath",
+        "bird",
+        "garden",
+        "brass",
+        "prop",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "JeremyWoods",
+      "source_url": "https://opengameart.org/content/bird-bath",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "없음 (CC0)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "파일 3개; 원본 zip 그대로; 라이선스 파일 미동봉(LICENSE-SOURCE.txt 대체); 출처 페이지 AI 언급 없음",
+      "preview": "bird-bath/preview.jpg",
+      "download_path": "bird-bath/birdbath_0.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/bird-bath/birdbath_0.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/bird-bath/birdbath_0.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/medieval-castle-manor",
+      "name": "Medieval Castle Manor",
+      "repo": "assets-3d-lowpoly",
+      "file": "medieval-castle-manor/castle_001.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "castle",
+        "medieval",
+        "building",
+        "3d",
+        "lowpoly",
+        "fbx"
+      ],
+      "effect_kind": [],
+      "author": "unForastero",
+      "source_url": "https://opengameart.org/content/medieval-castlemanor",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "없음 (CC0)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "파일 1개(FBX); 원본 zip 그대로; 라이선스 파일 미동봉(LICENSE-SOURCE.txt 대체); 출처 페이지 AI 언급 없음",
+      "preview": "medieval-castle-manor/preview.png",
+      "download_path": "medieval-castle-manor/castle_001.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/medieval-castle-manor/castle_001.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/medieval-castle-manor/castle_001.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/lava-waves",
+      "name": "Lava Waves",
+      "repo": "assets-2d-pixel",
+      "file": "lava-waves/lava_wave.zip",
+      "type": "이펙트",
+      "category": "effect",
+      "tags": [
+        "lava",
+        "fire",
+        "wave",
+        "effect",
+        "animation",
+        "magic"
+      ],
+      "effect_kind": [
+        "magic",
+        "fire"
+      ],
+      "author": "StalwartBlue",
+      "source_url": "https://opengameart.org/content/lava-waves",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "없음 (CC0)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-13",
+      "notes": "파일 120개; 원본 zip 그대로; 라이선스 파일 미동봉(LICENSE-SOURCE.txt 대체); 출처 페이지 AI 언급 없음",
+      "preview": "lava-waves/preview.gif",
+      "download_path": "lava-waves/lava_wave.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/lava-waves/lava_wave.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/lava-waves/lava_wave.zip"
       ],
       "sample": null,
       "multipart": false,

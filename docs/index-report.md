@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@46041ae4fecab714d1707f7b67842f03f9eb91b2`
-- 데이터 행 수: **1829**
+- 원본: `catalog.csv@5937389af2099520c35c802192ec5b6e4c98ac57`
+- 데이터 행 수: **1832**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 2,726,082 bytes, `assets-index.min.json` 2,208,219 bytes
+- 파일 크기: `assets-index.json` 2,729,883 bytes, `assets-index.min.json` 2,211,134 bytes
 
 ## 2. 집계
 
@@ -16,8 +16,8 @@
 
 | repo | 개수 |
 |---|---|
-| assets-2d-pixel | 657 |
-| assets-3d-lowpoly | 481 |
+| assets-2d-pixel | 658 |
+| assets-3d-lowpoly | 483 |
 | assets-audio | 462 |
 | assets-ui-icons | 226 |
 | assets-2d-portraits | 3 |
@@ -26,13 +26,13 @@
 
 | category | 개수 |
 |---|---|
-| model-3d | 418 |
+| model-3d | 420 |
 | music | 230 |
 | sfx | 230 |
 | ui | 205 |
 | tileset-2d | 146 |
 | sprite-2d | 132 |
-| effect | 128 |
+| effect | 129 |
 | other | 124 |
 | texture | 70 |
 | icon | 40 |
@@ -55,7 +55,7 @@
 | 3D | model-3d | 226 |
 | 음악 | music | 211 |
 | UI·아이콘 | ui | 187 |
-| 3D 모델 | model-3d | 128 |
+| 3D 모델 | model-3d | 130 |
 | 2D | other | 120 |
 | 2D 이펙트 | effect | 106 |
 | 2D 타일셋 | tileset-2d | 98 |
@@ -80,9 +80,9 @@
 | 보드게임 | board | 5 |
 | 2D | texture | 4 |
 | UI 키트 | ui | 4 |
+| 이펙트 | effect | 4 |
 | 2D 맵 | map-2d | 3 |
 | 3D 자연 | model-3d | 3 |
-| 이펙트 | effect | 3 |
 | 2D | portrait | 2 |
 | 2D 일러스트 | other | 2 |
 | 2D 퍼즐 | puzzle | 2 |
@@ -119,7 +119,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license_family | 개수 |
 |---|---|
-| cc0 | 1695 |
+| cc0 | 1698 |
 | cc-by | 118 |
 | gpl | 10 |
 | mit | 3 |
@@ -129,7 +129,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license | 개수 |
 |---|---|
-| CC0 | 1694 |
+| CC0 | 1697 |
 | CC-BY 3.0 | 62 |
 | CC-BY 4.0 | 49 |
 | GPL 3.0 | 10 |
@@ -158,42 +158,42 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2026-11-10 | 14 |
 | 2026-11-11 | 41 |
 | 2026-11-12 | 46 |
-| 2026-11-13 | 6 |
+| 2026-11-13 | 9 |
 
 ### 상위 태그 30
 
 | tag | 개수 |
 |---|---|
 | 2d | 243 |
-| 3d | 232 |
+| 3d | 234 |
 | sfx | 230 |
 | music | 229 |
 | ui·아이콘 | 182 |
 | rpg | 147 |
 | fantasy | 109 |
 | pixel | 95 |
-| lowpoly | 88 |
+| lowpoly | 89 |
 | platformer | 84 |
 | icons | 78 |
 | tileset | 67 |
 | animated | 66 |
+| effect | 66 |
 | texture | 66 |
-| effect | 65 |
-| magic | 64 |
+| magic | 65 |
 | ui | 62 |
 | effects | 61 |
 | modular | 60 |
-| medieval | 57 |
+| medieval | 58 |
 | spell | 57 |
 | isometric | 50 |
-| animation | 47 |
+| animation | 48 |
 | tiles | 47 |
 | character | 42 |
 | explosion | 42 |
 | vfx | 42 |
 | impact | 41 |
 | sound | 41 |
-| space | 40 |
+| fire | 40 |
 
 ### effect_kind별 (키워드 일치 기준, 하나의 에셋이 여러 종류에 속할 수 있음)
 
@@ -201,10 +201,10 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 |---|---|
 | hit | 41 |
 | impact | 46 |
-| magic | 87 |
+| magic | 88 |
 | explosion | 58 |
 | lightning | 26 |
-| fire | 49 |
+| fire | 50 |
 | ice | 21 |
 | wind | 9 |
 | heal | 16 |
@@ -215,9 +215,9 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | projectile | 25 |
 | slash | 8 |
 
-- effect_kind가 하나 이상인 에셋: 225 / 1829
+- effect_kind가 하나 이상인 에셋: 226 / 1832
 
-- attribution_required=true: 131, ai_generated=true: 4, preview 있음: 1383, 분할(split) 행: 147
+- attribution_required=true: 131, ai_generated=true: 4, preview 있음: 1386, 분할(split) 행: 147
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
@@ -254,7 +254,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 ### 3.4 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 라이선스 표기 — 값은 수정하지 않음
 
-- 허용 목록과 정확히 일치: 1818행
+- 허용 목록과 정확히 일치: 1821행
 - 허용 라이선스로 시작하지만 부가 설명이 붙은 표기: 8행 (6종)
 - 허용 목록에 해당하지 않음: **3행** (2종)
 
@@ -276,7 +276,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 
 - 참고: license_family가 cc-by/mit/gpl인데 attribution이 `optional`로 시작하는 행: 0건 (규칙상 attribution_required=false 처리됨; 확인 필요)
-- 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 1건
+- 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 4건
 - 참고: attribution이 `불요`로 시작하거나 `없음`/`none`/`n/a`인 행: 2건 — attribution_required=false 처리 (정제 2차 변경; 이전에는 `불요` 2행이 true였음: assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56)
 - 참고: attribution_required=true인 행 131건 (cc0인데 true: 0건)
 
@@ -286,10 +286,10 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 |---|---|---|
 | 1682 | https://raw.githubusercontent.com/sigco3111/assets-2d-pixel/main/cheonha-sambun/cheonha-sambun-assets.zip | 중복 슬래시 |
 - file 열이 저장소 상대경로가 아니라 전체 URL인 행 1건: 색인의 download_path는 같은 저장소의 상대경로로 환산(cheonha-sambun/cheonha-sambun-assets.zip), 원본 file 값은 `file`에 그대로 유지.
-- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1530행, 저장소 트리 경로 299행
+- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1530행, 저장소 트리 경로 302행
 - split 열 값이 `Y`(파트 파일명 미나열, 폴더 내 part1~N zip)인 행: 11건 — `multipart=true`, download_url은 file 열(part1) 기준.
 - 파트 파일명이 나열된 분할 업로드(split 열) 147행: file 열의 단일 파일명은 릴리스에 존재하지 않을 수 있고 실제 파일은 `split_parts`임 (예: `assets-3d-lowpoly/kaykit-skeletons-1-0`). 이 행들의 `download_url`은 null, 대신 `download_urls`에 분할 파일 URL 목록을 둠.
-- file 확장자 분포: .zip 1747, .part01 47, .png 16, .ogg 7, .mp3 6, .svg 2, .wav 2, .gif 1, .jpg 1
+- file 확장자 분포: .zip 1750, .part01 47, .png 16, .ogg 7, .mp3 6, .svg 2, .wav 2, .gif 1, .jpg 1
 
 ### 3.7 기타 관찰
 
@@ -304,7 +304,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 1715 | Fish Model Gallery | assets-3d-lowpoly | notes `AI 생성` |
 | 1779 | 불씨의 서약 아트 | assets-2d-pixel | notes `AI 생성` |
 
-- notes에 `AI`가 있으나 `AI 생성` 문구가 없어 false로 둔 행: 5건 (assets-ui-icons/game-icons, assets-ui-icons/game-icons-expansion, assets-3d-lowpoly/modular-dungeon-2-3d-models-2, assets-3d-lowpoly/base-human-models-low-poly, assets-2d-pixel/weapon-slash-effect-2)
+- notes에 `AI`가 있으나 `AI 생성` 문구가 없어 false로 둔 행: 8건 (assets-ui-icons/game-icons, assets-ui-icons/game-icons-expansion, assets-3d-lowpoly/modular-dungeon-2-3d-models-2, assets-3d-lowpoly/base-human-models-low-poly, assets-2d-pixel/weapon-slash-effect-2)
 - preview가 없는 행: 446건
 
 ## 4. 샘플 링크 점검 (전수 점검 아님, 표본)

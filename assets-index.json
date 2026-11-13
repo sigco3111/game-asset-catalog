@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@fc4e2356975440b8ab6cd2f7b9266f0d44bddc6c",
-  "count": 1838,
+  "generated_from": "catalog.csv@3c547a14f20b383bcf5b68604007f651f6814f40",
+  "count": 1841,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -65476,6 +65476,117 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/animated-charged-bolt/hjm-charged_bolt_v4_0.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/animated-charged-bolt/hjm-charged_bolt_v4_0.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/rail-post",
+      "name": "Rail Post",
+      "repo": "assets-3d-lowpoly",
+      "file": "rail-post/post.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "rail",
+        "post",
+        "fence",
+        "wood",
+        "dungeon",
+        "3d",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Q2DENJINDREW",
+      "source_url": "https://opengameart.org/content/rail-post",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "없음",
+      "attribution_required": false,
+      "ai_generated": true,
+      "added": "2026-11-13",
+      "notes": "zip 14.8KB; CC0 단독; AI 생성 언급 없음",
+      "preview": null,
+      "download_path": "rail-post/post.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/rail-post/post.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/rail-post/post.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/humanoid-soulslike-animations",
+      "name": "Humanoid SoulsLike Animations",
+      "repo": "assets-3d-lowpoly",
+      "file": "humanoid-soulslike-animations/fistweaponanimationpack.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "soulslike",
+        "character",
+        "animation",
+        "blend",
+        "fist",
+        "sword",
+        "3d",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Gres",
+      "source_url": "https://opengameart.org/content/humanoid-soulslike-animations",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "없음",
+      "attribution_required": false,
+      "ai_generated": true,
+      "added": "2026-11-13",
+      "notes": "blend 1.7MB·2.4MB와 zip 3.2MB 함께 수록; CC0 단독; AI 생성 언급 없음",
+      "preview": null,
+      "download_path": "humanoid-soulslike-animations/fistweaponanimationpack.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/humanoid-soulslike-animations/fistweaponanimationpack.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/humanoid-soulslike-animations/fistweaponanimationpack.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly/b-chan",
+      "name": "B-chan",
+      "repo": "assets-3d-lowpoly",
+      "file": "b-chan/bchan_edited.blend",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "character",
+        "female",
+        "rigged",
+        "chibi",
+        "blend",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "hardboileduser (원작 AmarilloArts)",
+      "source_url": "https://opengameart.org/content/b-chan",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "없음",
+      "attribution_required": false,
+      "ai_generated": true,
+      "added": "2026-11-13",
+      "notes": "blend 23.6MB·rig 도구 zip 58KB; CC0 단독; AI 생성 언급 없음",
+      "preview": null,
+      "download_path": "b-chan/bchan_edited.blend",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/b-chan/bchan_edited.blend",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly/raw/main/b-chan/bchan_edited.blend"
       ],
       "sample": null,
       "multipart": false,

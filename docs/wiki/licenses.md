@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@fc4e2356975440b8ab6cd2f7b9266f0d44bddc6c`
+> generated from `catalog.csv@3c547a14f20b383bcf5b68604007f651f6814f40`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **1838개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **1841개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -16,7 +16,7 @@
 
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
-| cc0 | CC0 | 1700 | 0 | 예 |
+| cc0 | CC0 | 1703 | 0 | 예 |
 | cc-by | CC-BY | 122 | 122 | 예 |
 | mit | MIT | 3 | 3 | 예 |
 | gpl | GPL 2.0/3.0 | 10 | 10 | 예 |
@@ -28,7 +28,7 @@
 
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
-| CC0 | cc0 | X | 1699 |
+| CC0 | cc0 | X | 1702 |
 | CC-BY 3.0 | cc-by | O | 63 |
 | CC-BY 4.0 | cc-by | O | 52 |
 | GPL 3.0 | gpl | O | 10 |
@@ -211,7 +211,7 @@ license_family가 `cc0`·`cc-by`·`mit`·`gpl`이 아닌 에셋 3개입니다. *
 
 ## AI 생성 표시 에셋
 
-`ai_generated`가 참인 에셋 10개입니다. 라이브러리에서는 `?ai=0`으로 제외할 수 있습니다.
+`ai_generated`가 참인 에셋 13개입니다. 라이브러리에서는 `?ai=0`으로 제외할 수 있습니다.
 
 | 이름 | 분류 | 라이선스 계열 | 추가일 |
 |---|---|---|---|
@@ -219,7 +219,10 @@ license_family가 `cc0`·`cc-by`·`mit`·`gpl`이 아닌 에셋 3개입니다. *
 | [512x512 explosion](https://opengameart.org/content/512x512-explosion) | `effect` | cc0 | 2026-11-13 |
 | [Animated Charged Bolt](https://opengameart.org/content/animated-charged-bolt) | `effect` | cc-by | 2026-11-13 |
 | [Asian Girl](https://opengameart.org/content/asian-girl) | `model-3d` | cc-by | 2026-11-13 |
+| [B-chan](https://opengameart.org/content/b-chan) | `model-3d` | cc0 | 2026-11-13 |
+| [Humanoid SoulsLike Animations](https://opengameart.org/content/humanoid-soulslike-animations) | `model-3d` | cc0 | 2026-11-13 |
 | [Mini Rocket](https://opengameart.org/content/mini-rocket) | `model-3d` | cc0 | 2026-11-13 |
+| [Rail Post](https://opengameart.org/content/rail-post) | `model-3d` | cc0 | 2026-11-13 |
 | [Space port kit](https://opengameart.org/content/space-port-kit) | `model-3d` | cc-by | 2026-11-13 |
 | [불씨의 서약 아트](https://readasesang-lab.vercel.app/v16/) | `other` | other | 2026-11-12 |
 | [Fish Model Gallery](https://cda-social.github.io/fish/gallery.html) | `model-3d` | cc0 | 2026-11-09 |

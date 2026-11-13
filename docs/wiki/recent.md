@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@fc4e2356975440b8ab6cd2f7b9266f0d44bddc6c`
+> generated from `catalog.csv@3c547a14f20b383bcf5b68604007f651f6814f40`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -18,14 +18,17 @@
 | [Animated Charged Bolt](https://opengameart.org/content/animated-charged-bolt) | `effect` | Varkalandar | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/animated-charged-bolt/hjm-charged_bolt_v4_0.zip) | 2026-11-13 |
 | [Armadillo Foe](https://opengameart.org/content/armadillo-foe) | `model-3d` | overactiongamestudio | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/armadillo-foe/Armadillo-3D-Pack-Fbx-Obj.zip) | 2026-11-13 |
 | [Asian Girl](https://opengameart.org/content/asian-girl) | `model-3d` | McPato | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/asian-girl/dorposefbx.zip) | 2026-11-13 |
+| [B-chan](https://opengameart.org/content/b-chan) | `model-3d` | hardboileduser (원작 AmarilloArts) | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/b-chan/bchan_edited.blend) | 2026-11-13 |
 | [Base Human Models (Low Poly)](https://opengameart.org/content/base-human-models-low-poly) | `character-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/base-human-models-low-poly/human.zip) | 2026-11-13 |
 | [Bird Bath](https://opengameart.org/content/bird-bath) | `model-3d` | JeremyWoods | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/bird-bath/birdbath_0.zip) | 2026-11-13 |
 | [Elemental Golem](https://opengameart.org/content/elemental-golem) | `model-3d` | Grefuntor | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/elemental-golem/ElementalGolem-obj.zip) | 2026-11-13 |
+| [Humanoid SoulsLike Animations](https://opengameart.org/content/humanoid-soulslike-animations) | `model-3d` | Gres | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/humanoid-soulslike-animations/fistweaponanimationpack.zip) | 2026-11-13 |
 | [Lava Waves](https://opengameart.org/content/lava-waves) | `effect` | StalwartBlue | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lava-waves/lava_wave.zip) | 2026-11-13 |
 | [Medieval Castle Manor](https://opengameart.org/content/medieval-castlemanor) | `model-3d` | unForastero | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/medieval-castle-manor/castle_001.zip) | 2026-11-13 |
 | [Mini Rocket](https://opengameart.org/content/mini-rocket) | `model-3d` | David W CG | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-rocket/mini_rocket.zip) | 2026-11-13 |
 | [Modular Dungeon 2 - 3D Models](https://opengameart.org/content/modular-dungeon-2-3d-models) | `model-3d` | Keith at Fertile Soil Productions | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/modular-dungeon-2/dungeon_collection_2.zip) | 2026-11-13 |
 | [Oozey the Slime](https://opengameart.org/content/oozey-the-slime) | `model-3d` | Mophs | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/oozey-the-slime/Oozey.zip) | 2026-11-13 |
+| [Rail Post](https://opengameart.org/content/rail-post) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/rail-post/post.zip) | 2026-11-13 |
 | [Space port kit](https://opengameart.org/content/space-port-kit) | `model-3d` | Ludrol | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/space-port-kit/space_port_kit_glb.zip) | 2026-11-13 |
 | [Weapon Slash - Effect](https://opengameart.org/content/weapon-slash-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/weapon-slash-effect/weapon-slash-everything.zip) | 2026-11-13 |
 | [3rd version of Sparkle](https://opengameart.org/content/3rd-version-of-sparkle) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/3rd-version-of-sparkle/3rd-version-of-sparkle.zip) | 2026-11-12 |
@@ -110,6 +113,3 @@
 | [Pixel Explosion (12 Frames)](https://opengameart.org/content/pixel-explosion-12-frames) | `effect` | JROB774 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-explosion-12-frames/pixel-explosion-12-frames.zip) | 2026-11-11 |
 | [Pixel Lightning](https://opengameart.org/content/pixel-lightning) | `effect` | Marco L. | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-lightning/pixel-lightning.zip) | 2026-11-11 |
 | [Resurrection Spell \[SFX\]](https://opengameart.org/content/resurrection-spell-sfx) | `effect` | One Man Army | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/resurrection-spell-sfx/resurrection-spell-sfx.zip) | 2026-11-11 |
-| [Shield effect](https://opengameart.org/content/shield-effect) | `effect` | Bonsaiheldin | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/shield-effect/shield-effect.zip) | 2026-11-11 |
-| [Slash hit 01 Animation VFX](https://opengameart.org/content/slash-hit-01-animation-vfx) | `effect` | GustavoPlima | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/slash-hit-01-animation-vfx/slash-hit-01-animation-vfx.zip) | 2026-11-11 |
-| [Spark effect](https://opengameart.org/content/spark-effect) | `effect` | kurohina | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/spark-effect/spark-effect.zip) | 2026-11-11 |

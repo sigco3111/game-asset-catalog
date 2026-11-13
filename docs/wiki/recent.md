@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@5937389af2099520c35c802192ec5b6e4c98ac57`
+> generated from `catalog.csv@32ccdba0825e233423af94c6c6764ebff3b6cd32`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,7 +13,9 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [512x512 explosion](https://opengameart.org/content/512x512-explosion) | `effect` | johndekale | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/explosion_512.zip) | 2026-11-13 |
 | [Armadillo Foe](https://opengameart.org/content/armadillo-foe) | `model-3d` | overactiongamestudio | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/armadillo-foe/Armadillo-3D-Pack-Fbx-Obj.zip) | 2026-11-13 |
+| [Asian Girl](https://opengameart.org/content/asian-girl) | `model-3d` | McPato | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/asian-girl/dorposefbx.zip) | 2026-11-13 |
 | [Base Human Models (Low Poly)](https://opengameart.org/content/base-human-models-low-poly) | `character-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/base-human-models-low-poly/human.zip) | 2026-11-13 |
 | [Bird Bath](https://opengameart.org/content/bird-bath) | `model-3d` | JeremyWoods | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/bird-bath/birdbath_0.zip) | 2026-11-13 |
 | [Elemental Golem](https://opengameart.org/content/elemental-golem) | `model-3d` | Grefuntor | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/elemental-golem/ElementalGolem-obj.zip) | 2026-11-13 |
@@ -21,6 +23,7 @@
 | [Medieval Castle Manor](https://opengameart.org/content/medieval-castlemanor) | `model-3d` | unForastero | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/medieval-castle-manor/castle_001.zip) | 2026-11-13 |
 | [Modular Dungeon 2 - 3D Models](https://opengameart.org/content/modular-dungeon-2-3d-models) | `model-3d` | Keith at Fertile Soil Productions | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/modular-dungeon-2/dungeon_collection_2.zip) | 2026-11-13 |
 | [Oozey the Slime](https://opengameart.org/content/oozey-the-slime) | `model-3d` | Mophs | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/oozey-the-slime/Oozey.zip) | 2026-11-13 |
+| [Space port kit](https://opengameart.org/content/space-port-kit) | `model-3d` | Ludrol | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/space-port-kit/space_port_kit_glb.zip) | 2026-11-13 |
 | [Weapon Slash - Effect](https://opengameart.org/content/weapon-slash-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/weapon-slash-effect/weapon-slash-everything.zip) | 2026-11-13 |
 | [3rd version of Sparkle](https://opengameart.org/content/3rd-version-of-sparkle) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/3rd-version-of-sparkle/3rd-version-of-sparkle.zip) | 2026-11-12 |
 | [Bald Man - Rigged](https://opengameart.org/content/bald-man-rigged) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/bald-man-rigged.zip) | 2026-11-12 |
@@ -110,6 +113,3 @@
 | [Thunder sprite](https://opengameart.org/content/thunder-sprite) | `effect` | Gutima15 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/thunder-sprite/thunder-sprite.zip) | 2026-11-11 |
 | [Tiny Magic Glyphs](https://opengameart.org/content/tiny-magic-glyphs) | `effect` | Emcee Flesher | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/tiny-magic-glyphs/tiny-magic-glyphs.zip) | 2026-11-11 |
 | [Battle at sea](https://opengameart.org/content/battle-at-sea) | `sfx` | Thimras | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/battle-at-sea/battle-at-sea.zip) | 2026-11-10 |
-| [Blue projectile](https://opengameart.org/content/blue-projectile) | `effect` | greengiant67 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/blue-projectile/blue-projectile.zip) | 2026-11-10 |
-| [Enchanted Festival](https://opengameart.org/content/enchanted-festival) | `music` | Matthew Pablo | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/enchanted-festival/enchanted-festival.zip) | 2026-11-10 |
-| [Explosions (chabull)](https://opengameart.org/content/explosions-0) | `effect` | chabull | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explosions-0/explosions-0.zip) | 2026-11-10 |

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@5937389af2099520c35c802192ec5b6e4c98ac57`
+> generated from `catalog.csv@32ccdba0825e233423af94c6c6764ebff3b6cd32`
 
 # 3D 탈것 모음
 

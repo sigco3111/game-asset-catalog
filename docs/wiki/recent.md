@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b73f81768166d8d20f4a581932a4cc5653d4f907`
+> generated from `catalog.csv@02c75f0b8695b0cdd55384809e74d42e589ec9c6`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -22,7 +22,6 @@
 | [Base Human Models (Low Poly)](https://opengameart.org/content/base-human-models-low-poly) | `character-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/base-human-models-low-poly/human.zip) | 2026-11-13 |
 | [Bird Bath](https://opengameart.org/content/bird-bath) | `model-3d` | JeremyWoods | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/bird-bath/birdbath_0.zip) | 2026-11-13 |
 | [Character Guy (Rigged)](https://opengameart.org/content/character-guy-rigged) | `character-3d` | EmoPreben | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/character-guy-rigged/emopreben_man_model_1.zip) | 2026-11-13 |
-| [City Kit (Roads)](https://opengameart.org/content/city-kit-roads) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/city-kit-roads/city-kit-roads.zip) | 2026-11-13 |
 | [Cozy Space SFX: 46 Retro Sound Effects](https://opengameart.org/content/cozy-space-sfx-46-retro-sound-effects) | `sfx` | roberto mellado | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cozy-space-sfx/cozy-space-sfx-cc-by.zip) | 2026-11-13 |
 | [Cremation Urn](https://opengameart.org/content/cremation-urn) | `model-3d` | ARoachIFoundOnMyPillow | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/cremation-urn/cremation_urn.zip) | 2026-11-13 |
 | [Dice](https://opengameart.org/content/dice-6) | `model-3d` | gearfox98 | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/dice/dice.zip) | 2026-11-13 |
@@ -113,3 +112,4 @@
 | [Lightning Effect (Varkalandar)](https://opengameart.org/content/lightning-effect-0) | `effect` | Hansjörg Malthaner (Varkalandar) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lightning-effect-varkalandar/lightning-effect-varkalandar.zip) | 2026-11-11 |
 | [M484 Explosion Set 3](https://opengameart.org/content/m484-explosion-set-3) | `effect` | Master484 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/m484-explosion-set-3/m484-explosion-set-3.zip) | 2026-11-11 |
 | [M484 Lightning Weapon](https://opengameart.org/content/m484-lightning-weapon) | `effect` | Master484 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/m484-lightning-weapon/m484-lightning-weapon.zip) | 2026-11-11 |
+| [Magic Effect Particle System](https://opengameart.org/content/magic-effect-particle-system) | `effect` | HenriqueGibi | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v8.42/magic-effect-particle-system.zip) | 2026-11-11 |

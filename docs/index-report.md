@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@b73f81768166d8d20f4a581932a4cc5653d4f907`
-- 데이터 행 수: **1852**
+- 원본: `catalog.csv@02c75f0b8695b0cdd55384809e74d42e589ec9c6`
+- 데이터 행 수: **1851**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 2,754,949 bytes, `assets-index.min.json` 2,230,326 bytes
+- 파일 크기: `assets-index.json` 2,753,767 bytes, `assets-index.min.json` 2,229,422 bytes
 
 ## 2. 집계
 
@@ -17,7 +17,7 @@
 | repo | 개수 |
 |---|---|
 | assets-2d-pixel | 660 |
-| assets-3d-lowpoly | 498 |
+| assets-3d-lowpoly | 497 |
 | assets-audio | 465 |
 | assets-ui-icons | 226 |
 | assets-2d-portraits | 3 |
@@ -26,7 +26,7 @@
 
 | category | 개수 |
 |---|---|
-| model-3d | 434 |
+| model-3d | 433 |
 | sfx | 233 |
 | music | 230 |
 | ui | 205 |
@@ -55,7 +55,7 @@
 | 3D | model-3d | 226 |
 | 음악 | music | 211 |
 | UI·아이콘 | ui | 187 |
-| 3D 모델 | model-3d | 140 |
+| 3D 모델 | model-3d | 139 |
 | 2D | other | 120 |
 | 2D 이펙트 | effect | 108 |
 | 2D 타일셋 | tileset-2d | 98 |
@@ -119,7 +119,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license_family | 개수 |
 |---|---|
-| cc0 | 1710 |
+| cc0 | 1709 |
 | cc-by | 126 |
 | gpl | 10 |
 | mit | 3 |
@@ -129,7 +129,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license | 개수 |
 |---|---|
-| CC0 | 1709 |
+| CC0 | 1708 |
 | CC-BY 3.0 | 63 |
 | CC-BY 4.0 | 56 |
 | GPL 3.0 | 10 |
@@ -158,7 +158,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2026-11-10 | 14 |
 | 2026-11-11 | 41 |
 | 2026-11-12 | 46 |
-| 2026-11-13 | 29 |
+| 2026-11-13 | 28 |
 
 ### 상위 태그 30
 
@@ -182,7 +182,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | texture | 66 |
 | ui | 64 |
 | effects | 61 |
-| modular | 61 |
+| modular | 60 |
 | medieval | 58 |
 | spell | 58 |
 | isometric | 50 |
@@ -215,9 +215,9 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | projectile | 27 |
 | slash | 8 |
 
-- effect_kind가 하나 이상인 에셋: 231 / 1852
+- effect_kind가 하나 이상인 에셋: 231 / 1851
 
-- attribution_required=true: 139, ai_generated=true: 21, preview 있음: 1387, 분할(split) 행: 147
+- attribution_required=true: 139, ai_generated=true: 21, preview 있음: 1386, 분할(split) 행: 147
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
@@ -233,11 +233,10 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | https://opengameart.org/content/sci-fi-essentials-kit | 2 | assets-3d-lowpoly/sci-fi-essentials-kit, assets-2d-pixel/sci-fi-essentials-kit-4k-textures |
 | https://opengameart.org/content/weapon-slash-effect | 2 | assets-2d-pixel/weapon-slash-effect, assets-2d-pixel/weapon-slash-effect-2 |
 
-### 3.3 (name, repo) 중복: 15쌍, 30행
+### 3.3 (name, repo) 중복: 14쌍, 28행
 
 | name | repo | 행 수 | file |
 |---|---|---|---|
-| City Kit (Roads) | assets-3d-lowpoly | 2 | releases/download/v8.10/city-kit-roads.zip; city-kit-roads/city-kit-roads.zip |
 | Cursor Pack | assets-ui-icons | 2 | releases/download/v6.7/cursor-pack-1.zip; releases/download/v6.10/cursor-pack.zip |
 | Forest Tiles | assets-2d-pixel | 2 | releases/download/v8.22/forest-tiles.zip; releases/download/v8.32/forest-tiles-0.zip |
 | Furniture Kit | assets-3d-lowpoly | 2 | releases/download/v3.0/furniture-kit.zip; releases/download/v8.10/furniture-kit.zip |
@@ -255,7 +254,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 ### 3.4 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 라이선스 표기 — 값은 수정하지 않음
 
-- 허용 목록과 정확히 일치: 1841행
+- 허용 목록과 정확히 일치: 1840행
 - 허용 라이선스로 시작하지만 부가 설명이 붙은 표기: 8행 (6종)
 - 허용 목록에 해당하지 않음: **3행** (2종)
 
@@ -287,10 +286,10 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 |---|---|---|
 | 1682 | https://raw.githubusercontent.com/sigco3111/assets-2d-pixel/main/cheonha-sambun/cheonha-sambun-assets.zip | 중복 슬래시 |
 - file 열이 저장소 상대경로가 아니라 전체 URL인 행 1건: 색인의 download_path는 같은 저장소의 상대경로로 환산(cheonha-sambun/cheonha-sambun-assets.zip), 원본 file 값은 `file`에 그대로 유지.
-- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1531행, 저장소 트리 경로 321행
+- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1531행, 저장소 트리 경로 320행
 - split 열 값이 `Y`(파트 파일명 미나열, 폴더 내 part1~N zip)인 행: 11건 — `multipart=true`, download_url은 file 열(part1) 기준.
 - 파트 파일명이 나열된 분할 업로드(split 열) 147행: file 열의 단일 파일명은 릴리스에 존재하지 않을 수 있고 실제 파일은 `split_parts`임 (예: `assets-3d-lowpoly/kaykit-skeletons-1-0`). 이 행들의 `download_url`은 null, 대신 `download_urls`에 분할 파일 URL 목록을 둠.
-- file 확장자 분포: .zip 1768, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 2, .svg 2, .wav 2, .gif 1, .jpg 1
+- file 확장자 분포: .zip 1767, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 2, .svg 2, .wav 2, .gif 1, .jpg 1
 
 ### 3.7 기타 관찰
 
@@ -408,11 +407,10 @@ catalog.csv·license 값은 수정하지 않았습니다. 아래는 소유자의
 
 ### (a) 중복 행 (삭제하지 않음)
 
-- (name, repo)가 같은 쌍 15쌍(30행):
+- (name, repo)가 같은 쌍 14쌍(28행):
 
 | name | repo | CSV 줄 | file |
 |---|---|---|---|
-| City Kit (Roads) | assets-3d-lowpoly | 350, 1851 | releases/download/v8.10/city-kit-roads.zip; city-kit-roads/city-kit-roads.zip |
 | Cursor Pack | assets-ui-icons | 969, 1113 | releases/download/v6.7/cursor-pack-1.zip; releases/download/v6.10/cursor-pack.zip |
 | Forest Tiles | assets-2d-pixel | 725, 1165 | releases/download/v8.22/forest-tiles.zip; releases/download/v8.32/forest-tiles-0.zip |
 | Furniture Kit | assets-3d-lowpoly | 71, 621 | releases/download/v3.0/furniture-kit.zip; releases/download/v8.10/furniture-kit.zip |

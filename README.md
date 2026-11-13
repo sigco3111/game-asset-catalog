@@ -7,6 +7,17 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-13 A84 추가 (3팩, 총 1863팩)
+
+A84 라운드에서 OpenGameArt 3D 최신순의 3D 2팩 Low Poly Camping Assets·Low-poly Retro PSX Skeleton과 2D 최신순의 원형 이펙트 1팩 Circular effect animations(모두 opengameart.org)을 수집했습니다. 중복은 카탈로그 저장소 코드 검색으로 확인했습니다.
+
+| 팩 | 라이선스 |
+| --- | --- |
+| Low Poly Camping Assets | CC0 |
+| Low-poly Retro PSX Skeleton | CC-BY 4.0 |
+| Circular effect animations | CC-BY 4.0 |
+
+종류: 3D 2팩(assets-3d-lowpoly), 2D 이펙트 1팩(assets-2d-pixel). 라이선스: CC0 1팩, CC-BY 4.0 2팩. AI 생성 명시 팩 없음. 팩당 1커밋(에셋: <팩 이름> 추가, 임시 워크플로 ingest-pack.yml 수동 실행). 용량: assets-3d-lowpoly 약 627MB, assets-2d-pixel 약 383MB(700MB 미만, 새 저장소 생성 없음). 색인(assets-index*.json)·위키·llms.txt는 직접 손대지 않고 Actions 자동 갱신에 맡김. '천하삼분 게임 에셋 56'은 수집 대상이 아님.
 ## 2026-11-13 A83 추가 (3팩, 총 1860팩)
 
 A83 라운드에서 OpenGameArt 3D 최신순의 3D 2팩 Low Poly Penguin w/ Skeleton·Roulette Wheel and Board와 2D 최신순의 폭발 이펙트 1팩 explosion(모두 opengameart.org)을 수집했습니다. 중복은 저장소 팩 폴더 경로로 확인했습니다(512x512 explosion·Lava Waves는 이미 수록되어 제외).

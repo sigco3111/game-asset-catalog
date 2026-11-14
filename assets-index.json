@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@97b613be39db352ba349cb8f23d27366e0fa52a1",
-  "count": 1875,
+  "generated_from": "catalog.csv@a3640c352cfccb782f4c4b9bf43ee6400e392a27",
+  "count": 1876,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -66675,7 +66675,7 @@
       "ai_generated": true,
       "added": "2026-11-14",
       "notes": "zip 1개 703.1KB(출처 페이지 zip 그대로); A88 라운드 수집; AI 생성 언급 없음",
-      "preview": null,
+      "preview": "previews/low-poly-stalls.png",
       "download_path": "lightdreamerlabs-3d-stalls.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lightdreamerlabs-3d-stalls.zip",
       "download_urls": [
@@ -66709,7 +66709,7 @@
       "ai_generated": false,
       "added": "2026-11-14",
       "notes": "OBJ 로우폴리 검 모음; zip 원본 그대로",
-      "preview": null,
+      "preview": "previews/low-poly-swords.png",
       "download_path": "swords_obj.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/swords_obj.zip",
       "download_urls": [
@@ -66743,7 +66743,7 @@
       "ai_generated": false,
       "added": "2026-11-14",
       "notes": "zip 원본 그대로",
-      "preview": null,
+      "preview": "previews/3d-character-pack.png",
       "download_path": "bravos_game_br_2024.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bravos_game_br_2024.zip",
       "download_urls": [
@@ -66778,11 +66778,45 @@
       "ai_generated": false,
       "added": "2026-11-14",
       "notes": "zip 원본 그대로",
-      "preview": null,
+      "preview": "previews/3d-human-parts-pack.png",
       "download_path": "3d_human_parts_pack.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d_human_parts_pack.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d_human_parts_pack.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/pocket-bleeps-31-retro-8-bit-sfx-free-sampler-cc-by",
+      "name": "Pocket Bleeps - 31 Retro 8-Bit SFX (Free Sampler, CC-BY)",
+      "repo": "assets-audio",
+      "file": "pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sfx",
+        "retro",
+        "8bit",
+        "ui"
+      ],
+      "effect_kind": [],
+      "author": "Pocket Bleeps",
+      "source_url": "https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: Pocket Bleeps",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "WAV 효과음 샘플러 31개; zip 원본 포함; 사운드 팩이라 썸네일 없음",
+      "preview": null,
+      "download_path": "pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip"
       ],
       "sample": null,
       "multipart": false,

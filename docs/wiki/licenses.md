@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@97b613be39db352ba349cb8f23d27366e0fa52a1`
+> generated from `catalog.csv@a3640c352cfccb782f4c4b9bf43ee6400e392a27`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **1875개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **1876개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -17,7 +17,7 @@
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
 | cc0 | CC0 | 1727 | 0 | 예 |
-| cc-by | CC-BY | 132 | 132 | 예 |
+| cc-by | CC-BY | 133 | 133 | 예 |
 | mit | MIT | 3 | 3 | 예 |
 | gpl | GPL 2.0/3.0 | 10 | 10 | 예 |
 | other | 기타(허용 목록 밖) | 3 | 0 | 아니오 |
@@ -30,7 +30,7 @@
 |---|---|---|---|
 | CC0 | cc0 | X | 1726 |
 | CC-BY 3.0 | cc-by | O | 64 |
-| CC-BY 4.0 | cc-by | O | 61 |
+| CC-BY 4.0 | cc-by | O | 62 |
 | GPL 3.0 | gpl | O | 10 |
 | CC-BY 3.0 / GPL 2.0 (원본 페이지 이중 표기, 둘 다 허용 라이선스; CC-BY 3.0 선택) | cc-by | O | 3 |
 | MIT | mit | O | 3 |
@@ -44,10 +44,11 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 145개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 146개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
+| [Pocket Bleeps - 31 Retro 8-Bit SFX (Free Sampler, CC-BY)](https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by) | Pocket Bleeps | CC-BY 4.0 | required: Pocket Bleeps | 2026-11-14 |
 | [3D Sara - Wizard](https://opengameart.org/content/3d-sara-wizard) | Mish7913 | CC-BY 3.0 | 3D model created by Mish7913, based on Mandi Paugh image. | 2026-11-13 |
 | [Animated Charged Bolt](https://opengameart.org/content/animated-charged-bolt) | Varkalandar | CC-BY 4.0 | For attribution, please state my name, Hansjörg Malthaner, and link here: http://opengameart.org/users/varkalandar | 2026-11-13 |
 | [Asian Girl](https://opengameart.org/content/asian-girl) | McPato | CC-BY 4.0 | Asian Girl by McPato licensed CC-BY 4.0: https://mcpato.itch.io/asian-girl-ps2-style-character | 2026-11-13 |

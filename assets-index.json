@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@f5ad960ad39c7bfa62f5b70c91a645a28c614a96",
-  "count": 1882,
+  "generated_from": "catalog.csv@dcfe4c7e23a7f90f042a5a15137d050a1912af28",
+  "count": 1886,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -67026,6 +67026,143 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/2d-explosion-animations-2-frame-by-frame/2d-explosion-animations-2-frame-by-frame.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/2d-explosion-animations-2-frame-by-frame/2d-explosion-animations-2-frame-by-frame.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/various-small-arms-assault-rifles-sniper-pistol",
+      "name": "Various Small Arms (Assault Rifles, Sniper, Pistol)",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "various-small-arms-assault-rifles-sniper-pistol/various-small-arms-assault-rifles-sniper-pistol.zip",
+      "type": "3D",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "lowpoly",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "tabasco",
+      "source_url": "https://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "3D 팩; OGA 페이지 라이선스 CC0; 원본 파일 바이트 그대로 보관; 썸네일 480x480 이하 축소·strip",
+      "preview": "previews/various-small-arms-assault-rifles-sniper-pistol.png",
+      "download_path": "various-small-arms-assault-rifles-sniper-pistol/various-small-arms-assault-rifles-sniper-pistol.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/various-small-arms-assault-rifles-sniper-pistol/various-small-arms-assault-rifles-sniper-pistol.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/various-small-arms-assault-rifles-sniper-pistol/various-small-arms-assault-rifles-sniper-pistol.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/dinnerware",
+      "name": "Dinnerware",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "dinnerware/dinnerware.zip",
+      "type": "3D",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "lowpoly",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "clint-bellanger",
+      "source_url": "https://opengameart.org/content/dinnerware",
+      "license": "CC-BY",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "3D 팩; OGA 페이지 라이선스 CC-BY; 원본 파일 바이트 그대로 보관; 썸네일 480x480 이하 축소·strip",
+      "preview": "previews/dinnerware.png",
+      "download_path": "dinnerware/dinnerware.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dinnerware/dinnerware.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dinnerware/dinnerware.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/knight",
+      "name": "Knight",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "knight-2/knight-2.zip",
+      "type": "3D",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "lowpoly",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "piacenti",
+      "source_url": "https://opengameart.org/content/knight-2",
+      "license": "CC-BY",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "3D 팩; OGA 페이지 라이선스 CC-BY; 원본 파일 바이트 그대로 보관; 썸네일 480x480 이하 축소·strip",
+      "preview": "previews/knight-2.png",
+      "download_path": "knight-2/knight-2.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/knight-2/knight-2.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/knight-2/knight-2.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/platformer-animations",
+      "name": "Platformer Animations",
+      "repo": "assets-2d-pixel",
+      "file": "platformer-animations/platformer-animations.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "vfx",
+        "hit",
+        "magic",
+        "pixel"
+      ],
+      "effect_kind": [
+        "hit",
+        "magic"
+      ],
+      "author": "clint-bellanger",
+      "source_url": "https://opengameart.org/content/platformer-animations",
+      "license": "CC-BY",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "2D 이펙트 팩; OGA 페이지 라이선스 CC-BY; 원본 파일 바이트 그대로 보관; 썸네일 480x480 이하 축소·strip",
+      "preview": "previews/platformer-animations.png",
+      "download_path": "platformer-animations/platformer-animations.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/platformer-animations/platformer-animations.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/platformer-animations/platformer-animations.zip"
       ],
       "sample": null,
       "multipart": false,

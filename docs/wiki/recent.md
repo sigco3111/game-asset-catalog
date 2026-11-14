@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@f5ad960ad39c7bfa62f5b70c91a645a28c614a96`
+> generated from `catalog.csv@dcfe4c7e23a7f90f042a5a15137d050a1912af28`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -18,19 +18,23 @@
 | [3D Cobblestone Texture](https://opengameart.org/content/3d-cobblestone-texture) | `other` | ZaninDevelopers | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-cobblestone-texture/cobblestone.zip) | 2026-11-14 |
 | [3D Human Parts Pack](https://opengameart.org/content/3d-human-parts-pack) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d_human_parts_pack.zip) | 2026-11-14 |
 | [Crates Chests Coins and Barrels Collection](https://opengameart.org/content/crates-chests-coins-and-barrels-collection) | `model-3d` | mabaci | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/crates-chests-coins-barrels/medieval_items.zip) | 2026-11-14 |
+| [Dinnerware](https://opengameart.org/content/dinnerware) | `model-3d` | clint-bellanger | CC-BY | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dinnerware/dinnerware.zip) | 2026-11-14 |
 | [Dungeon interior kit](https://opengameart.org/content/dungeon-interior-kit) | `model-3d` | humble squirrel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dungeon-interior-kit/dungeon_interior_kit.tar.gz) | 2026-11-14 |
 | [Food Pack: Cooking](https://opengameart.org/content/food-pack-cooking) | `model-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/food-pack-cooking/food-pack-cooking.blend) | 2026-11-14 |
 | [Gem collect SFX](https://opengameart.org/content/gem-collect-sfx) | `other` | Bobjt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/gem-collect-sfx/gem-gather-stereo.wav) | 2026-11-14 |
 | [IgnisForge Free SFX Sampler - 43 Synthesized Retro Sound Effects](https://opengameart.org/content/ignisforge-free-sfx-sampler-43-synthesized-retro-sound-effects) | `other` | ignisforge | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/ignisforge-free-sfx-sampler/ignisforge-oga-sampler-cc0_7.zip) | 2026-11-14 |
+| [Knight](https://opengameart.org/content/knight-2) | `model-3d` | piacenti | CC-BY | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/knight-2/knight-2.zip) | 2026-11-14 |
 | [Low Poly Stalls](https://opengameart.org/content/low-poly-stalls) | `model-3d` | lightdreamerlabs | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lightdreamerlabs-3d-stalls.zip) | 2026-11-14 |
 | [low\_poly\_swords](https://opengameart.org/content/lowpolyswords) | `model-3d` | Q2DENJINDREW | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/swords_obj.zip) | 2026-11-14 |
 | [LowPoly Modular Dungeon](https://opengameart.org/content/lowpoly-modular-dungeon) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-modular-dungeon/lowpoly-modular-dungeon.zip) | 2026-11-14 |
 | [More Explosions](https://opengameart.org/content/more-explosions) | `effect` | StumpyStrust | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/more-explosions/more-explosions.zip) | 2026-11-14 |
+| [Platformer Animations](https://opengameart.org/content/platformer-animations) | `effect` | clint-bellanger | CC-BY | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/platformer-animations/platformer-animations.zip) | 2026-11-14 |
 | [Pocket Bleeps - 31 Retro 8-Bit SFX (Free Sampler, CC-BY)](https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by) | `sfx` | Pocket Bleeps | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip) | 2026-11-14 |
 | [RTS medieval props](https://opengameart.org/content/rts-medieval-props) | `model-3d` | Lamoot | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rts-medieval-props/rts-medieval-props.blend) | 2026-11-14 |
 | [Stylised Fantasy Weapons](https://opengameart.org/content/stylised-fantasy-weapons) | `model-3d` | mastahcez | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stylised-fantasy-weapons/stylised-fantasy-weapons.zip) | 2026-11-14 |
 | [Tool Pack 1](https://opengameart.org/content/tool-pack-1) | `other` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/tool-pack-1/tool_pack_1.zip) | 2026-11-14 |
 | [Toolbox](https://opengameart.org/content/toolbox-0) | `other` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/toolbox/toolbox.zip) | 2026-11-14 |
+| [Various Small Arms (Assault Rifles, Sniper, Pistol)](https://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol) | `model-3d` | tabasco | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/various-small-arms-assault-rifles-sniper-pistol/various-small-arms-assault-rifles-sniper-pistol.zip) | 2026-11-14 |
 | [3D Sara - Wizard](https://opengameart.org/content/3d-sara-wizard) | `model-3d` | Mish7913 | CC-BY 3.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-sara-wizard/sara_glb.zip) | 2026-11-13 |
 | [512x512 explosion](https://opengameart.org/content/512x512-explosion) | `effect` | johndekale | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/explosion_512.zip) | 2026-11-13 |
 | [Animated Charged Bolt](https://opengameart.org/content/animated-charged-bolt) | `effect` | Varkalandar | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/animated-charged-bolt/hjm-charged_bolt_v4_0.zip) | 2026-11-13 |
@@ -109,7 +113,3 @@
 | [Shimmer glitter magic](https://opengameart.org/content/shimmer-glitter-magic) | `sfx` | The Berklee College of Music | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/shimmer-glitter-magic/shimmer-glitter-magic.zip) | 2026-11-12 |
 | [Short impact](https://opengameart.org/content/short-impact) | `sfx` | Soundsnap | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/short-impact/short-impact.zip) | 2026-11-12 |
 | [Spell 4 (fire)](https://opengameart.org/content/spell-4-fire) | `sfx` | Bart K. | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/spell-4-fire/spell-4-fire.zip) | 2026-11-12 |
-| [Swinging blade trap](https://opengameart.org/content/swinging-blade-trap) | `model-3d` | Q2DENJINDREW | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/swinging-blade-trap/swinging-blade-trap.zip) | 2026-11-12 |
-| [Synthesized Fire Sound Effect](https://opengameart.org/content/synthesized-fire-sound-effect) | `sfx` | Spring Spring | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/synthesized-fire-sound-effect/synthesized-fire-sound-effect.zip) | 2026-11-12 |
-| [Ultimate 3D Car Assets Pack (w Interiors and Animations)](https://opengameart.org/content/ultimate-3d-car-assets-pack-w-interiors-and-animations) | `vehicle-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ultimate-3d-car-assets-pack/ultimate-3d-car-assets-pack.zip) | 2026-11-12 |
-| [Undead male](https://opengameart.org/content/undead-male) | `character-3d` | TiZiana | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/undead-male/undead-male.zip) | 2026-11-12 |

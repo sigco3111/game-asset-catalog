@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@f5ad960ad39c7bfa62f5b70c91a645a28c614a96`
+> generated from `catalog.csv@dcfe4c7e23a7f90f042a5a15137d050a1912af28`
 
 # 3D 모델 모음 (2쪽)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **450개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **453개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): [1쪽](category-model-3d.md) · **2쪽**
 
-현재 쪽: 50행 (전체 450개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 53행 (전체 453개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Industrial Extension Pack 4: more tanks](https://opengameart.org/content/industrial-extension-pack-4-more-tanks) | `model-3d` | rubberduck | CC0 | X | X | 3개 분할 | 2026-10-28 |
+| [isometric render resource pack](https://opengameart.org/content/isometric-render-resource-pack) | `model-3d` | rubberduck | CC0 | X | X | 4개 분할 | 2026-10-28 |
+| [KayKit Dungeon Remastered 1.0](https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v1.1/kaykit-dungeon-remastered-1.0.zip) | 2026-10-28 |
 | [KayKit Furniture Bits 1.0](https://github.com/KayKit-Game-Assets/KayKit-Furniture-Bits-1.0) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-furniture-bits-1.0.zip) | 2026-10-28 |
 | [KayKit Halloween Bits 1.0](https://github.com/KayKit-Game-Assets/KayKit-Halloween-Bits-1.0) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-halloween-bits-1.0.zip) | 2026-10-28 |
 | [KayKit Medieval Hexagon Pack 1.0](https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-medieval-hexagon-pack-1.0.zip) | 2026-10-28 |

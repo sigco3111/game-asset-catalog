@@ -1,0 +1,82 @@
+name: a93-cat
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: catalog
+        run: |
+          set -euo pipefail
+          curl -sSL -o /tmp/r3.txt https://raw.githubusercontent.com/sigco3111/assets-3d-lowpoly-2/main/a93-res.txt || true
+          curl -sSL -o /tmp/r2.txt https://raw.githubusercontent.com/sigco3111/assets-2d-pixel/main/a93-res.txt || true
+          python3 - <<'PY'
+          import csv, os
+
+          rows = []
+          for path, repo in (("/tmp/r3.txt", "assets-3d-lowpoly-2"), ("/tmp/r2.txt", "assets-2d-pixel")):
+              try:
+                  lines = open(path, encoding="utf-8").read().splitlines()
+              except FileNotFoundError:
+                  continue
+              for l in lines:
+                  f = l.split("|")
+                  if len(f) < 9:
+                      continue
+                  rows.append(dict(name=f[0], repo=f[1] or repo, file=f[2], pv=f[3], lic=f[4], typ=f[5], author=f[6], page=f[7], tags=f[8]))
+
+          body = open("catalog.csv", encoding="utf-8").read()
+          lines = body.splitlines()
+
+          added = []
+          for r in rows:
+              if ('"' + r["name"] + '",') in body or ("\n" + r["name"] + ",") in body:
+                  print("SKIP dup", r["name"]); continue
+              notes = r["typ"] + " 팩; OGA 페이지 라이선스 " + r["lic"] + "; 원본 파일 바이트 그대로 보관; 썸네일 preview는 " + ("480x480 이하 축소·strip" if r["pv"] else "없음")
+              pv = ("https://raw.githubusercontent.com/sigco3111/" + r["repo"] + "/main/" + r["pv"]) if r["pv"] else ""
+              added.append([r["name"], r["repo"], r["file"], r["typ"], r["tags"], r["author"], r["page"], r["lic"], "", "2026-11-14", notes, pv, ""])
+
+          if not added:
+              print("NOTHING ADDED"); raise SystemExit(1)
+
+          with open("catalog.csv", "a", newline="", encoding="utf-8") as f:
+              w = csv.writer(f, lineterminator="\n")
+              for r in added:
+                  w.writerow(r)
+
+          n = len(added)
+          total = len([l for l in lines if l.strip()]) - 1 + n
+          n3 = sum(1 for r in added if r[3].startswith("3D"))
+          n2 = n - n3
+
+          rd = open("README.md", encoding="utf-8").read().splitlines()
+          sec = ["## 2026-11-14 A93 추가 (" + str(n) + "팩, 총 " + str(total) + "팩)", ""]
+          sec.append("A93 라운드에서 OpenGameArt의 " + ", ".join(r[0] + "(" + r[5] + ", " + r[7] + ")" for r in added) + "를 수집했습니다. 후보 60개를 이름 대조 프로브로 걸러 NEW만 업로드한 결과입니다.")
+          sec += ["", "| 팩 | 라이선스 |", "| --- | --- |"]
+          sec += ["| " + r[0] + " | " + r[7] + " |" for r in added]
+          sec += ["", "종류: 3D " + str(n3) + "팩, 2D 이펙트 " + str(n2) + "팩. 썸네일: " + ", ".join(r[0] + "=" + ("있음" if r[11] else "없음") for r in added) + ". 색인은 rebuild-index.yml 수동 실행으로 갱신합니다.", ""]
+          idx = None
+          for i, l in enumerate(rd):
+              if l.startswith("## 2026-11-14 A92"):
+                  idx = i; break
+          if idx is None:
+              for i, l in enumerate(rd):
+                  if l.startswith("## "):
+                      idx = i; break
+          rd[idx:idx] = sec
+          open("README.md", "w", encoding="utf-8").write("\n".join(rd) + "\n")
+
+          entry = "- 2026-11-14 A93: " + ", ".join(r[0] + " (" + r[5] + ", " + r[7] + ")" for r in added) + " (" + str(n) + "팩, 총 " + str(total) + "팩; 3D " + str(n3) + ", 2D 이펙트 " + str(n2) + "). 후보 60개를 카탈로그 이름 대조로 걸러 업로드."
+          with open("docs/log.md", "a", encoding="utf-8") as f:
+              f.write("\n" + entry + "\n")
+          open("a93n.txt", "w").write(str(n))
+          print("DONE", n, total)
+          PY
+          git config user.name sigco3111
+          git config user.email sigco3111@gmail.com
+          N=$(cat a93n.txt); rm -f a93n.txt
+          git add catalog.csv README.md docs/log.md
+          git commit -q -m "카탈로그: A93 ${N}팩 추가"
+          git push origin HEAD:main

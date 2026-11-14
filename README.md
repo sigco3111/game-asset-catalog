@@ -9,11 +9,13 @@
 
 ## 2026-11-14 A94 추가 (1팩, 총 1887팩)
 
+A94 라운드: OpenGameArt의 Nature & Seasonal Enemy Monsters — 2D Pixel Art Animation Pack(qwerty2723, CC-BY)를 수집했습니다. 후보를 러너 안에서 전체 catalog.csv와 이름·출처 URL로 대조하고, 받은 압축 파일 안의 확장자로 유형을 확인해 NEW만 업로드했습니다.
 
 | 팩 | 라이선스 |
 | --- | --- |
-| Nature &amp; Seasonal Enemy Monsters — 2D Pixel Art Animation Pack | CC-BY |
+| Nature & Seasonal Enemy Monsters — 2D Pixel Art Animation Pack | CC-BY |
 
+종류: 3D 0팩, 2D 이펙트 1팩. 썸네일: Nature & Seasonal Enemy Monsters — 2D Pixel Art Animation Pack=있음. 색인은 rebuild-index.yml 수동 실행으로 갱신합니다.
 
 ## 2026-11-14 A93 추가 (4팩, 총 1886팩)
 

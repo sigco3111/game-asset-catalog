@@ -7,11 +7,21 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
-## 2026-11-14 A89 추가 (3팩, 총 1878팩)
+## 2026-11-14 A90 추가 (1팩, 총 1876팩)
+
+A90 라운드에서 OpenGameArt의 효과음 1팩 Pocket Bleeps - 31 Retro 8-Bit SFX(Pocket Bleeps, CC-BY 4.0)를 수집했습니다. 3D 후보였던 Bird Bath, low poly iron ore, Chibi Neko by cosmix, Bald Man - Rigged은 카탈로그 코드 검사(catalog.csv 팩 이름)에서 이미 수록된 팩으로 확인되어 제외했습니다.
+
+| 팩 | 라이선스 |
+| --- | --- |
+| Pocket Bleeps - 31 Retro 8-Bit SFX | CC-BY 4.0 |
+
+종류: 효과음 1팩(assets-audio). 라이선스: CC-BY 4.0 1팩. AI 생성 명시 팩 없음. 팩 1커밋(에셋: <팩 이름> 추가). 사운드 팩은 썸네일 대상이 아닙니다. 지난 A88·A89의 네 팩(Low Poly Stalls, low_poly_swords, 3D Character Pack, 3D Human Parts Pack)은 OGA 원본 페이지 미리보기 이미지로 previews/<슬러그>.png 썸네일을 만들어 preview 열을 채웠습니다. 색인은 rebuild-index.yml 수동 실행으로 갱신합니다.
+
+## 2026-11-14 A89 추가 (3팩, 총 1875팩)
 
 A89 라운드에서 OpenGameArt의 3D 3팩 low_poly_swords(Q2DENJINDREW, CC0), 3D Character Pack(byzmod3d, CC0), 3D Human Parts Pack(byzmod3d, CC0)을 수집했습니다. 중복은 저장소 코드 검색으로 확인했습니다(세 팩 모두 0건).
 
-## 2026-11-14 A88 추가 (1팩, 총 1875팩)
+## 2026-11-14 A88 추가 (1팩, 총 1872팩)
 
 A88 라운드에서 OpenGameArt의 3D 1팩 Low Poly Stalls(lightdreamerlabs, CC0)를 수집했습니다. 중복은 카탈로그 저장소 코드 검색으로 확인했습니다(Low Poly Stalls 0건). 이번 라운드는 시간 제한으로 1팩만 수집했습니다.
 

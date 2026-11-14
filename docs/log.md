@@ -91,3 +91,10 @@
 
 - 2026-11-14 A88: Low Poly Stalls(3D, CC0, assets-3d-lowpoly-2) 추가. 카탈로그 1872팩. README에 A88 절·assets-3d-lowpoly-2 행 추가, A86 총계 1868로 정정.
 - 2026-11-14 A89: low_poly_swords (Q2DENJINDREW, CC0), 3D Character Pack (byzmod3d, CC0), 3D Human Parts Pack (byzmod3d, CC0) (3팩, 총 1875팩; 3D 3, assets-3d-lowpoly-2). OGA 최신 3D 목록과 코드 검색으로 중복 확인 후 수집, 팩마다 커밋.
+
+## 2026-11-14 A90 (1팩, 총 1876팩)
+
+- Pocket Bleeps - 31 Retro 8-Bit SFX (Pocket Bleeps, CC-BY 4.0) -> assets-audio
+- 3D 후보 4종(Bird Bath, low poly iron ore, Chibi Neko by cosmix, Bald Man - Rigged)은 이미 수록되어 제외
+- 썸네일: 지난 4팩 previews/<슬러그>.png 커밋, catalog.csv preview 열 갱신
+- README 제목 숫자 정정: A88 1872, A89 1875, A90 1876

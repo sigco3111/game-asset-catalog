@@ -110,3 +110,5 @@
 - 2026-11-14 A93: Various Small Arms (Assault Rifles, Sniper, Pistol) (tabasco, CC0), Dinnerware (clint-bellanger, CC-BY), Knight (piacenti, CC-BY), Platformer Animations (clint-bellanger, CC-BY) (4팩, 총 1886팩; 3D 3, 2D 이펙트 1).
 
 - 2026-11-14 A94: Nature & Seasonal Enemy Monsters — 2D Pixel Art Animation Pack (qwerty2723, CC-BY) (1팩, 총 1887팩; 3D 0, 2D 이펙트 1). 잘못 수집된 Technical Specifications 행 제거.
+
+- 2026-11-14 A95: Fjordfall Boats & Vehicles, Fjordfall Buildings, Fjordfall Characters, Skybound Six Synthesized SFX (4팩, 총 1891팩; 3D 3팩은 assets-3d-lowpoly-2, 효과음 1팩은 assets-audio; 출처 AgenticGameDevs/generated-assets, AI 생성 표기·생성 도구·CC BY 4.0 조건 기록; 이름·출처 URL 전체 catalog.csv 대조로 중복 제거).

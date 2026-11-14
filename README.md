@@ -7,6 +7,19 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-14 A95 추가 (4팩, 총 1891팩)
+
+A95 라운드: GitHub의 AgenticGameDevs/generated-assets(AI 생성 에셋 라이브러리; 미디어 CC BY 4.0·CC0, 코드 MIT)에서 Fjordfall 컬렉션의 3D 모델과 Skybound 효과음을 팩 단위로 모았습니다. 후보는 러너 안에서 전체 catalog.csv(csv.reader, name+source URL)와 대조해 걸러냈고, 팩마다 원본 파일 바이트와 sha256을 확인했습니다.
+
+| 팩 | 라이선스 |
+| --- | --- |
+| Fjordfall Boats & Vehicles | CC BY 4.0 |
+| Fjordfall Buildings | CC BY 4.0 |
+| Fjordfall Characters | CC BY 4.0 |
+| Skybound Six Synthesized SFX | CC BY 4.0 |
+
+종류: 3D 3팩, 효과음 1팩. AI 생성 표기는 각 팩 pack.md에 있고, 생성 도구와 출처 조건도 함께 적었습니다. 썸네일: Fjordfall Boats & Vehicles=있음, Fjordfall Buildings=있음, Fjordfall Characters=있음, Skybound Six Synthesized SFX=해당 없음(오디오). 색인은 rebuild-index.yml 수동 실행으로 갱신합니다.
+
 ## 2026-11-14 A94 추가 (1팩, 총 1887팩)
 
 A94 라운드: OpenGameArt의 Nature & Seasonal Enemy Monsters — 2D Pixel Art Animation Pack(qwerty2723, CC-BY)를 수집했습니다. 후보를 러너 안에서 전체 catalog.csv와 이름·출처 URL로 대조하고, 받은 압축 파일 안의 확장자로 유형을 확인해 NEW만 업로드했습니다.

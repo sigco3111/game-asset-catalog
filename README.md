@@ -7,6 +7,16 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-14 A92 추가 (1팩, 총 1879팩)
+
+A92 라운드에서 OpenGameArt의 Stylised Fantasy Weapons(mastahcez, CC-BY 3.0)를 수집했습니다. OGA 3D 목록 뒷 페이지와 2D 이펙트 태그에서 후보 16개를 뽑아 업로드 전 카탈로그 이름 대조로 걸러낸 결과입니다.
+
+| 팩 | 라이선스 |
+| --- | --- |
+| Stylised Fantasy Weapons | CC-BY 3.0 |
+
+종류: 3D 1팩, 2D 이펙트 0팩. 썸네일: Stylised Fantasy Weapons=있음. 색인은 rebuild-index.yml 수동 실행으로 갱신합니다.
+
 ## 2026-11-14 A91 추가 (2팩, 총 1878팩)
 
 A91 라운드에서 OpenGameArt의 LowPoly Modular Dungeon(quaternius, CC0), More Explosions(StumpyStrust, CC0)를 수집했습니다. 후보였던 LowPoly Buildings, 2D Spell Effects, sparkling fireball effect, 3TD Furniture Pack, Dungeon Arena, Water Magic Effect 등은 업로드 전 catalog.csv 이름 대조에서 이미 수록된 팩으로 확인되어 제외했습니다.

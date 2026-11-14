@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@a3640c352cfccb782f4c4b9bf43ee6400e392a27`
-- 데이터 행 수: **1876**
+- 원본: `catalog.csv@5c37d15d36026593bdcc1d4efb5d96f6d273fc2d`
+- 데이터 행 수: **1878**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 2,785,893 bytes, `assets-index.min.json` 2,254,676 bytes
+- 파일 크기: `assets-index.json` 2,788,692 bytes, `assets-index.min.json` 2,256,912 bytes
 
 ## 2. 집계
 
@@ -16,23 +16,23 @@
 
 | repo | 개수 |
 |---|---|
-| assets-2d-pixel | 664 |
+| assets-2d-pixel | 665 |
 | assets-3d-lowpoly | 508 |
 | assets-audio | 469 |
 | assets-ui-icons | 226 |
-| assets-3d-lowpoly-2 | 6 |
+| assets-3d-lowpoly-2 | 7 |
 | assets-2d-portraits | 3 |
 
 ### 카테고리(category)별
 
 | category | 개수 |
 |---|---|
-| model-3d | 446 |
+| model-3d | 447 |
 | sfx | 235 |
 | music | 230 |
 | ui | 205 |
 | tileset-2d | 146 |
-| effect | 135 |
+| effect | 136 |
 | sprite-2d | 132 |
 | other | 129 |
 | texture | 70 |
@@ -58,7 +58,7 @@
 | UI·아이콘 | ui | 187 |
 | 3D 모델 | model-3d | 149 |
 | 2D | other | 120 |
-| 2D 이펙트 | effect | 112 |
+| 2D 이펙트 | effect | 113 |
 | 2D 타일셋 | tileset-2d | 98 |
 | 2D 스프라이트 | sprite-2d | 90 |
 | 2D 텍스처 | texture | 66 |
@@ -76,8 +76,8 @@
 | 2D 캐릭터 | sprite-2d | 12 |
 | 2D | background-2d | 10 |
 | 3D 탈것 | vehicle-3d | 10 |
+| 3D 환경 | model-3d | 8 |
 | 3D 무기 | model-3d | 7 |
-| 3D 환경 | model-3d | 7 |
 | 보드게임 | board | 5 |
 | 2D | texture | 4 |
 | UI 키트 | ui | 4 |
@@ -123,7 +123,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license_family | 개수 |
 |---|---|
-| cc0 | 1727 |
+| cc0 | 1729 |
 | cc-by | 133 |
 | gpl | 10 |
 | mit | 3 |
@@ -133,7 +133,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license | 개수 |
 |---|---|
-| CC0 | 1726 |
+| CC0 | 1728 |
 | CC-BY 3.0 | 64 |
 | CC-BY 4.0 | 62 |
 | GPL 3.0 | 10 |
@@ -163,7 +163,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2026-11-11 | 41 |
 | 2026-11-12 | 46 |
 | 2026-11-13 | 41 |
-| 2026-11-14 | 12 |
+| 2026-11-14 | 14 |
 
 ### 상위 태그 30
 
@@ -175,30 +175,30 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | music | 229 |
 | ui·아이콘 | 182 |
 | rpg | 147 |
-| fantasy | 109 |
-| lowpoly | 102 |
+| fantasy | 110 |
+| lowpoly | 103 |
 | pixel | 97 |
 | platformer | 84 |
 | icons | 78 |
-| effect | 71 |
+| effect | 72 |
 | animated | 69 |
 | magic | 68 |
 | texture | 67 |
 | tileset | 67 |
 | ui | 66 |
 | effects | 61 |
-| modular | 60 |
+| modular | 61 |
 | medieval | 58 |
 | spell | 58 |
-| animation | 51 |
+| animation | 52 |
 | character | 50 |
 | isometric | 50 |
+| explosion | 47 |
 | tiles | 47 |
-| explosion | 46 |
+| vfx | 43 |
 | fire | 42 |
 | space | 42 |
-| vfx | 42 |
-| impact | 41 |
+| dungeon | 41 |
 
 ### effect_kind별 (키워드 일치 기준, 하나의 에셋이 여러 종류에 속할 수 있음)
 
@@ -207,7 +207,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | hit | 42 |
 | impact | 46 |
 | magic | 91 |
-| explosion | 62 |
+| explosion | 63 |
 | lightning | 26 |
 | fire | 53 |
 | ice | 21 |
@@ -220,20 +220,21 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | projectile | 27 |
 | slash | 8 |
 
-- effect_kind가 하나 이상인 에셋: 234 / 1876
+- effect_kind가 하나 이상인 에셋: 235 / 1878
 
-- attribution_required=true: 146, ai_generated=true: 22, preview 있음: 1424, 분할(split) 행: 147
+- attribution_required=true: 146, ai_generated=true: 22, preview 있음: 1426, 분할(split) 행: 147
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
 ### 3.1 필수 필드가 빈 행: 0건
 
 
-### 3.2 source_url 중복: 5개 URL에 걸쳐 10행 (한 페이지에서 여러 팩을 만든 경우 포함)
+### 3.2 source_url 중복: 6개 URL에 걸쳐 12행 (한 페이지에서 여러 팩을 만든 경우 포함)
 
 | source_url | 행 수 | id 예시 |
 |---|---|---|
 | https://github.com/achrefelouafi/CyberCityThreeJS | 2 | assets-3d-lowpoly/cybercity-modular-kit, assets-3d-lowpoly/cybercity-hover-car |
+| https://opengameart.org/content/lowpoly-modular-dungeon | 2 | assets-3d-lowpoly/modular-dungeon-pack, assets-3d-lowpoly-2/lowpoly-modular-dungeon |
 | https://opengameart.org/content/modular-dungeon-2-3d-models | 2 | assets-3d-lowpoly/modular-dungeon-2-3d-models, assets-3d-lowpoly/modular-dungeon-2-3d-models-2 |
 | https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by | 2 | assets-audio/pocket-bleeps-31-retro-8-bit-sfx, assets-audio/pocket-bleeps-31-retro-8-bit-sfx-free-sampler-cc-by |
 | https://opengameart.org/content/sci-fi-essentials-kit | 2 | assets-3d-lowpoly/sci-fi-essentials-kit, assets-2d-pixel/sci-fi-essentials-kit-4k-textures |
@@ -261,7 +262,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 ### 3.4 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 라이선스 표기 — 값은 수정하지 않음
 
-- 허용 목록과 정확히 일치: 1865행
+- 허용 목록과 정확히 일치: 1867행
 - 허용 라이선스로 시작하지만 부가 설명이 붙은 표기: 8행 (6종)
 - 허용 목록에 해당하지 않음: **3행** (2종)
 
@@ -283,7 +284,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 
 - 참고: license_family가 cc-by/mit/gpl인데 attribution이 `optional`로 시작하는 행: 0건 (규칙상 attribution_required=false 처리됨; 확인 필요)
-- 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 19건
+- 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 21건
 - 참고: attribution이 `불요`로 시작하거나 `없음`/`none`/`n/a`인 행: 13건 — attribution_required=false 처리 (정제 2차 변경; 이전에는 `불요` 2행이 true였음: assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56)
 - 참고: attribution_required=true인 행 146건 (cc0인데 true: 0건)
 
@@ -293,10 +294,10 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 |---|---|---|
 | 1682 | https://raw.githubusercontent.com/sigco3111/assets-2d-pixel/main/cheonha-sambun/cheonha-sambun-assets.zip | 중복 슬래시 |
 - file 열이 저장소 상대경로가 아니라 전체 URL인 행 1건: 색인의 download_path는 같은 저장소의 상대경로로 환산(cheonha-sambun/cheonha-sambun-assets.zip), 원본 file 값은 `file`에 그대로 유지.
-- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1531행, 저장소 트리 경로 345행
+- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1531행, 저장소 트리 경로 347행
 - split 열 값이 `Y`(파트 파일명 미나열, 폴더 내 part1~N zip)인 행: 11건 — `multipart=true`, download_url은 file 열(part1) 기준.
 - 파트 파일명이 나열된 분할 업로드(split 열) 147행: file 열의 단일 파일명은 릴리스에 존재하지 않을 수 있고 실제 파일은 `split_parts`임 (예: `assets-3d-lowpoly/kaykit-skeletons-1-0`). 이 행들의 `download_url`은 null, 대신 `download_urls`에 분할 파일 URL 목록을 둠.
-- file 확장자 분포: .zip 1790, .part01 47, .png 16, .ogg 7, .mp3 6, .wav 3, .blend 2, .svg 2, .gif 1, .gz 1, .jpg 1
+- file 확장자 분포: .zip 1792, .part01 47, .png 16, .ogg 7, .mp3 6, .wav 3, .blend 2, .svg 2, .gif 1, .gz 1, .jpg 1
 
 ### 3.7 기타 관찰
 
@@ -435,11 +436,12 @@ catalog.csv·license 값은 수정하지 않았습니다. 아래는 소유자의
 | UI Sounds | assets-audio | 714, 1543 | releases/download/v6.5/ui-sounds.zip; ui-sounds/ui-sounds.zip |
 | Weapon Slash - Effect | assets-2d-pixel | 897, 1827 | releases/download/v8.26/weapon-slash-effect.zip; weapon-slash-effect/weapon-slash-everything.zip |
 
-- source_url이 같은 값 5개(10행):
+- source_url이 같은 값 6개(12행):
 
 | source_url | CSV 줄 | name |
 |---|---|---|
 | https://github.com/achrefelouafi/CyberCityThreeJS | 1527, 1528 | CyberCity Modular Kit; CyberCity Hover Car |
+| https://opengameart.org/content/lowpoly-modular-dungeon | 326, 1878 | Modular Dungeon Pack; LowPoly Modular Dungeon |
 | https://opengameart.org/content/modular-dungeon-2-3d-models | 613, 1825 | Modular Dungeon 2 - 3D Models; Modular Dungeon 2 - 3D Models |
 | https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by | 1846, 1877 | Pocket Bleeps – 31 Retro 8-Bit SFX; Pocket Bleeps - 31 Retro 8-Bit SFX (Free Sampler, CC-BY) |
 | https://opengameart.org/content/sci-fi-essentials-kit | 156, 157 | Sci-Fi Essentials Kit; Sci-Fi Essentials Kit - 4K Textures |

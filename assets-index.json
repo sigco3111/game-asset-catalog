@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@a3640c352cfccb782f4c4b9bf43ee6400e392a27",
-  "count": 1876,
+  "generated_from": "catalog.csv@5c37d15d36026593bdcc1d4efb5d96f6d273fc2d",
+  "count": 1878,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -66817,6 +66817,77 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/lowpoly-modular-dungeon",
+      "name": "LowPoly Modular Dungeon",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "lowpoly-modular-dungeon/lowpoly-modular-dungeon.zip",
+      "type": "3D 환경",
+      "category": "model-3d",
+      "tags": [
+        "dungeon",
+        "modular",
+        "lowpoly",
+        "fantasy"
+      ],
+      "effect_kind": [],
+      "author": "quaternius",
+      "source_url": "https://opengameart.org/content/lowpoly-modular-dungeon",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "던전 모듈형 로우폴리 세트; OGA 페이지 라이선스 CC0; 원본 zip 바이트 그대로 보관; 썸네일 preview.png는 OGA 페이지 미리보기 이미지에서 480x480 이하로 축소·strip",
+      "preview": "lowpoly-modular-dungeon/preview.png",
+      "download_path": "lowpoly-modular-dungeon/lowpoly-modular-dungeon.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-modular-dungeon/lowpoly-modular-dungeon.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-modular-dungeon/lowpoly-modular-dungeon.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/more-explosions",
+      "name": "More Explosions",
+      "repo": "assets-2d-pixel",
+      "file": "more-explosions/more-explosions.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "explosion",
+        "animation",
+        "vfx",
+        "spritesheet"
+      ],
+      "effect_kind": [
+        "explosion"
+      ],
+      "author": "StumpyStrust",
+      "source_url": "https://opengameart.org/content/more-explosions",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "폭발 이펙트 애니메이션 모음; OGA 페이지 라이선스 CC0; 원본 zip 바이트 그대로 보관; 썸네일 preview는 OGA 페이지 미리보기에서 480x480 이하로 축소·strip",
+      "preview": "more-explosions/preview.png",
+      "download_path": "more-explosions/more-explosions.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/more-explosions/more-explosions.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/more-explosions/more-explosions.zip"
       ],
       "sample": null,
       "multipart": false,

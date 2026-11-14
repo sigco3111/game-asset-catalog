@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@a3640c352cfccb782f4c4b9bf43ee6400e392a27`
+> generated from `catalog.csv@5c37d15d36026593bdcc1d4efb5d96f6d273fc2d`
 
 # 최근 추가된 에셋 (최신 100개)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-11.
+추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-12.
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
@@ -22,6 +22,8 @@
 | [IgnisForge Free SFX Sampler - 43 Synthesized Retro Sound Effects](https://opengameart.org/content/ignisforge-free-sfx-sampler-43-synthesized-retro-sound-effects) | `other` | ignisforge | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/ignisforge-free-sfx-sampler/ignisforge-oga-sampler-cc0_7.zip) | 2026-11-14 |
 | [Low Poly Stalls](https://opengameart.org/content/low-poly-stalls) | `model-3d` | lightdreamerlabs | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lightdreamerlabs-3d-stalls.zip) | 2026-11-14 |
 | [low\_poly\_swords](https://opengameart.org/content/lowpolyswords) | `model-3d` | Q2DENJINDREW | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/swords_obj.zip) | 2026-11-14 |
+| [LowPoly Modular Dungeon](https://opengameart.org/content/lowpoly-modular-dungeon) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-modular-dungeon/lowpoly-modular-dungeon.zip) | 2026-11-14 |
+| [More Explosions](https://opengameart.org/content/more-explosions) | `effect` | StumpyStrust | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/more-explosions/more-explosions.zip) | 2026-11-14 |
 | [Pocket Bleeps - 31 Retro 8-Bit SFX (Free Sampler, CC-BY)](https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by) | `sfx` | Pocket Bleeps | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip) | 2026-11-14 |
 | [Tool Pack 1](https://opengameart.org/content/tool-pack-1) | `other` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/tool-pack-1/tool_pack_1.zip) | 2026-11-14 |
 | [Toolbox](https://opengameart.org/content/toolbox-0) | `other` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/toolbox/toolbox.zip) | 2026-11-14 |
@@ -111,5 +113,3 @@
 | [Wizard](https://opengameart.org/content/wizard-4) | `character-3d` | AnthonyMyers | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/wizard.zip) | 2026-11-12 |
 | [Wolf Mutant 3D](https://opengameart.org/content/wolf-mutant-3d) | `character-3d` | Prjsj8guge | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/wolf-mutant-3d/wolf-mutant-3d.zip) | 2026-11-12 |
 | [Wooden crate](https://opengameart.org/content/wooden-crate-0) | `model-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/wooden-crate.zip) | 2026-11-12 |
-| [불씨의 서약 아트](https://readasesang-lab.vercel.app/v16/) | `other` | 리드어세상 | 원작자 허용 (수정·사용 자유; 그대로 다시 올려 파는 것 금지) | X | O | 3개 분할 | 2026-11-12 |
-| [Angel Wings Effect](https://opengameart.org/content/angel-wings-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/angel-wings-effect/angel-wings-effect.zip) | 2026-11-11 |

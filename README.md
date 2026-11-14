@@ -7,6 +7,17 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-14 A94 추가 (2팩, 총 1888팩)
+
+A94 라운드: OpenGameArt의 Nature &amp; Seasonal Enemy Monsters — 2D Pixel Art Animation Pack(qwerty2723, CC-BY), Technical Specifications(hyperwebster, CC-BY)를 수집했습니다. 후보를 러너 안에서 전체 catalog.csv와 이름·출처 URL로 대조해 NEW만 업로드했습니다.
+
+| 팩 | 라이선스 |
+| --- | --- |
+| Nature &amp; Seasonal Enemy Monsters — 2D Pixel Art Animation Pack | CC-BY |
+| Technical Specifications | CC-BY |
+
+종류: 3D 0팩, 2D 이펙트/효과음 2팩. 썸네일: Nature &amp; Seasonal Enemy Monsters — 2D Pixel Art Animation Pack=있음, Technical Specifications=없음. 색인은 rebuild-index.yml 수동 실행으로 갱신합니다.
+
 ## 2026-11-14 A93 추가 (4팩, 총 1886팩)
 
 A93 라운드: OpenGameArt의 Various Small Arms (Assault Rifles, Sniper, Pistol)(tabasco, CC0), Dinnerware(clint-bellanger, CC-BY), Knight(piacenti, CC-BY), Platformer Animations(clint-bellanger, CC-BY)를 수집했습니다. 후보를 러너 안에서 전체 catalog.csv와 이름·출처 URL로 대조해 NEW만 업로드했습니다.

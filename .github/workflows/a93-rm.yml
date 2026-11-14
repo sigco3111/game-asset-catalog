@@ -1,0 +1,18 @@
+name: a93-rm
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: clean
+        run: |
+          git config user.name sigco3111
+          git config user.email sigco3111@gmail.com
+          for f in .github/workflows/a93-*.yml; do git rm -q --ignore-unmatch -- "$f"; done
+          for f in a93-*.txt; do [ -e "$f" ] && git rm -q --ignore-unmatch -- "$f"; done
+          git status --porcelain | head -20
+          git commit -q -m "A93: 임시 파일 삭제" || echo "nothing to commit"
+          git push origin HEAD:main

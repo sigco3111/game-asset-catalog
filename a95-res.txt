@@ -1,0 +1,91 @@
+TOTAL 1887
+HDR name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split
+ROW ["2D Explosion Animations #2 | Frame by frame", "assets-2d-pixel", "2d-explosion-animations-2-frame-by-frame/2d-explosion-animations-2-frame-by-frame.zip", "2D 이펙트", "explosion,effect,vfx,spritesheet", "Sinestesia", "https://opengameart.org/content/2d-explosion-animations-2-frame-by-frame", "CC0", "", "2026-11-14", "2D 이펙트 팩; OGA 페이지 라이선스 CC0; 원본 파일 바이트 그대로 보관; 썸네일 preview는 팩 내 이미지/원본 페이지 미리보기를 480x480 이하로 축소·strip", "https://raw.githubusercontent.com/sigco3111/assets-2d-pixel/main/previews/2d-explosion-animations-2-frame-by-frame.png", ""]
+ROW ["Various Small Arms (Assault Rifles, Sniper, Pistol)", "assets-3d-lowpoly-2", "various-small-arms-assault-rifles-sniper-pistol/various-small-arms-assault-rifles-sniper-pistol.zip", "3D", "3d,lowpoly,opengameart", "tabasco", "https://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol", "CC0", "", "2026-11-14", "3D 팩; OGA 페이지 라이선스 CC0; 원본 파일 바이트 그대로 보관; 썸네일 480x480 이하 축소·strip", "https://raw.githubusercontent.com/sigco3111/assets-3d-lowpoly-2/main/previews/various-small-arms-assault-rifles-sniper-pistol.png", ""]
+ROW ["Dinnerware", "assets-3d-lowpoly-2", "dinnerware/dinnerware.zip", "3D", "3d,lowpoly,opengameart", "clint-bellanger", "https://opengameart.org/content/dinnerware", "CC-BY", "", "2026-11-14", "3D 팩; OGA 페이지 라이선스 CC-BY; 원본 파일 바이트 그대로 보관; 썸네일 480x480 이하 축소·strip", "https://raw.githubusercontent.com/sigco3111/assets-3d-lowpoly-2/main/previews/dinnerware.png", ""]
+ROW ["Knight", "assets-3d-lowpoly-2", "knight-2/knight-2.zip", "3D", "3d,lowpoly,opengameart", "piacenti", "https://opengameart.org/content/knight-2", "CC-BY", "", "2026-11-14", "3D 팩; OGA 페이지 라이선스 CC-BY; 원본 파일 바이트 그대로 보관; 썸네일 480x480 이하 축소·strip", "https://raw.githubusercontent.com/sigco3111/assets-3d-lowpoly-2/main/previews/knight-2.png", ""]
+ROW ["Platformer Animations", "assets-2d-pixel", "platformer-animations/platformer-animations.zip", "2D 이펙트", "effect,vfx,hit,magic,pixel", "clint-bellanger", "https://opengameart.org/content/platformer-animations", "CC-BY", "", "2026-11-14", "2D 이펙트 팩; OGA 페이지 라이선스 CC-BY; 원본 파일 바이트 그대로 보관; 썸네일 480x480 이하 축소·strip", "https://raw.githubusercontent.com/sigco3111/assets-2d-pixel/main/previews/platformer-animations.png", ""]
+ROW ["Nature &amp; Seasonal Enemy Monsters — 2D Pixel Art Animation Pack", "assets-2d-pixel", "monsters-of-nature-all-pack/monsters-of-nature-all-pack.zip", "2D 이펙트", "effect,vfx,hit,magic,slash,explosion,pixel", "qwerty2723", "https://opengameart.org/content/monsters-of-nature-all-pack", "CC-BY", "", "2026-11-14", "2D 이펙트 팩; OGA 페이지 라이선스 CC-BY; 원본 파일 바이트 그대로 보관; 썸네일 480x480 이하 축소·strip", "https://raw.githubusercontent.com/sigco3111/assets-2d-pixel/main/previews/monsters-of-nature-all-pack.png", ""]
+REPOS {"assets-2d-pixel": 668, "assets-3d-lowpoly": 508, "assets-ui-icons": 226, "assets-audio": 469, "assets-2d-portraits": 3, "assets-3d-lowpoly-2": 13}
+README A94 L9
+  
+  ## 📸 실제 실행 화면
+  
+  ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+  
+  ## 2026-11-14 A94 추가 (1팩, 총 1887팩)
+  
+  A94 라운드: OpenGameArt의 Nature & Seasonal Enemy Monsters — 2D Pixel Art Animation Pack(qwerty2723, CC-BY)를 수집했습니다. 후보를 러너 안에서 전체 catalog.csv와 이름·출처 URL로 대조하고, 받은 압축 파일 안의 확장자로 유형을 확인해 NEW만 업로드했습니다.
+  
+  | 팩 | 라이선스 |
+  | --- | --- |
+  | Nature & Seasonal Enemy Monsters — 2D Pixel Art Animation Pack | CC-BY |
+  
+  종류: 3D 0팩, 2D 이펙트 1팩. 썸네일: Nature & Seasonal Enemy Monsters — 2D Pixel Art Animation Pack=있음. 색인은 rebuild-index.yml 수동 실행으로 갱신합니다.
+  
+README A94 L11
+  
+  ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
+  
+  ## 2026-11-14 A94 추가 (1팩, 총 1887팩)
+  
+  A94 라운드: OpenGameArt의 Nature & Seasonal Enemy Monsters — 2D Pixel Art Animation Pack(qwerty2723, CC-BY)를 수집했습니다. 후보를 러너 안에서 전체 catalog.csv와 이름·출처 URL로 대조하고, 받은 압축 파일 안의 확장자로 유형을 확인해 NEW만 업로드했습니다.
+  
+  | 팩 | 라이선스 |
+  | --- | --- |
+  | Nature & Seasonal Enemy Monsters — 2D Pixel Art Animation Pack | CC-BY |
+  
+  종류: 3D 0팩, 2D 이펙트 1팩. 썸네일: Nature & Seasonal Enemy Monsters — 2D Pixel Art Animation Pack=있음. 색인은 rebuild-index.yml 수동 실행으로 갱신합니다.
+  
+  ## 2026-11-14 A93 추가 (4팩, 총 1886팩)
+  
+README LINES 1399
+HEAD ## 2026-11-14 A94 추가 (1팩, 총 1887팩)
+HEAD 종류: 3D 0팩, 2D 이펙트 1팩. 썸네일: Nature & Seasonal Enemy Monsters — 2D Pixel Art Animation Pack=있음. 색인은 rebuild-index.yml 수동 실행으로 갱신합니다.
+HEAD ## 2026-11-14 A93 추가 (4팩, 총 1886팩)
+HEAD 종류: 3D 3팩, 2D 이펙트 1팩. 썸네일: Various Small Arms (Assault Rifles, Sniper, Pistol)=있음, Dinnerware=있음, Knight=있음, Platformer Animations=있음. 색인은 rebuild-index.yml 수동 실행으로 갱신합니다.
+HEAD ## 2026-11-14 A92 추가 (3부 1팩, 총 1882팩)
+HEAD A92 라운드 후속분: OpenGameArt 2D Explosion Animations #2 | Frame by frame(Sinestesia, CC0). 후보 26개를 카탈로그 이름 대조(assets-index 기반 catalog.csv)로 걸러낸 뒤 업로드한 팩입니다.
+LOG TAIL
+  - 2026-11-14 A86: Tool Pack 1(LonesomeDucky, CC0), Toolbox(LonesomeDucky, CC0), 3D Cobblestone Texture(ZaninDevelopers, CC0), IgnisForge Free SFX Sampler(ignisforge, CC0) (4팩, 총 1868팩; 3D 모델 3(assets-3d-lowpoly), 효과음 1(assets-audio); 팩당 1커밋, 임시 워크플로 a86-ingest.yml로 업로드; 중복 확인 완료; 실제 팩 수 갱신).
+  - 2026-11-14 A87: Crates Chests Coins and Barrels Collection, Dungeon interior kit, Gem collect SFX (모두 CC0, 3팩, 총 1871팩; 3D 2팩은 새 저장소 assets-3d-lowpoly-2, 효과음 1팩은 assets-audio; assets-3d-lowpoly 약 692MB로 700MB 근접해 분리; 새 저장소 README·카탈로그 표·check_sizes.py·capacity.md 갱신; 5MB 넘는 zip 없어 릴리스 미사용; 중복 코드 검색 0건 확인; AI 생성 명시 없음)
+  
+  - 2026-11-14 A88: Low Poly Stalls(3D, CC0, assets-3d-lowpoly-2) 추가. 카탈로그 1872팩. README에 A88 절·assets-3d-lowpoly-2 행 추가, A86 총계 1868로 정정.
+  - 2026-11-14 A89: low_poly_swords (Q2DENJINDREW, CC0), 3D Character Pack (byzmod3d, CC0), 3D Human Parts Pack (byzmod3d, CC0) (3팩, 총 1875팩; 3D 3, assets-3d-lowpoly-2). OGA 최신 3D 목록과 코드 검색으로 중복 확인 후 수집, 팩마다 커밋.
+  
+  ## 2026-11-14 A90 (1팩, 총 1876팩)
+  
+  - Pocket Bleeps - 31 Retro 8-Bit SFX (Pocket Bleeps, CC-BY 4.0) -> assets-audio
+  - 3D 후보 4종(Bird Bath, low poly iron ore, Chibi Neko by cosmix, Bald Man - Rigged)은 이미 수록되어 제외
+  - 썸네일: 지난 4팩 previews/<슬러그>.png 커밋, catalog.csv preview 열 갱신
+  - README 제목 숫자 정정: A88 1872, A89 1875, A90 1876
+  
+  - 2026-11-14 A91: LowPoly Modular Dungeon (quaternius, CC0), More Explosions (StumpyStrust, CC0) (2팩, 총 1878팩; 3D 1, 2D 이펙트 1). 후보는 업로드 전 catalog.csv 이름 대조로 중복 제거.
+  
+  - 2026-11-14 A92: Stylised Fantasy Weapons (mastahcez, CC-BY 3.0) (1팩, 총 1879팩; 3D 1, 2D 이펙트 0). 후보 16개를 카탈로그 이름 대조로 걸러 업로드.
+  
+  - 2026-11-14 A92 (2부): RTS medieval props (Lamoot, CC-BY 3.0), Food Pack: Cooking (Clint Bellanger, CC-BY 3.0) (2팩, 총 1881팩; 3D 2, 2D 이펙트 0).
+  
+  - 2026-11-14 A92 (2부): 2D Explosion Animations #2 | Frame by frame (Sinestesia, CC0) (1팩, 총 1882팩; 3D 0, 2D 이펙트 1).
+  
+  - 2026-11-14 A93: Various Small Arms (Assault Rifles, Sniper, Pistol) (tabasco, CC0), Dinnerware (clint-bellanger, CC-BY), Knight (piacenti, CC-BY), Platformer Animations (clint-bellanger, CC-BY) (4팩, 총 1886팩; 3D 3, 2D 이펙트 1).
+  
+  - 2026-11-14 A94: Nature & Seasonal Enemy Monsters — 2D Pixel Art Animation Pack (qwerty2723, CC-BY) (1팩, 총 1887팩; 3D 0, 2D 이펙트 1). 잘못 수집된 Technical Specifications 행 제거.
+  
+AGA TOTAL 172
+AGA fjordfall|Animations|animation|CC-BY-4.0 | n=10 | bytes=1424064
+AGA fjordfall|Boats & vehicles|model|CC-BY-4.0 | n=17 | bytes=1550960
+AGA fjordfall|Buildings|model|CC-BY-4.0 | n=12 | bytes=2030760
+AGA fjordfall|Characters|model|CC-BY-4.0 | n=5 | bytes=3108192
+AGA fjordfall|Props|model|CC-BY-4.0 | n=25 | bytes=367928
+AGA fjordfall|Rigs|rig|CC-BY-4.0 | n=1 | bytes=128972
+AGA fjordfall|Road & infrastructure|model|CC-BY-4.0 | n=17 | bytes=332508
+AGA fjordfall|Sound effects|sound|CC-BY-4.0 | n=1 | bytes=24676
+AGA fjordfall|Sound effects|sound|CC0-1.0 | n=1 | bytes=144865
+AGA fjordfall|Surface materials|texture|CC-BY-4.0 | n=16 | bytes=2364395
+AGA fjordfall|UI & illustration|artwork|CC-BY-4.0 | n=33 | bytes=725668
+AGA fjordfall|Vegetation|model|CC-BY-4.0 | n=9 | bytes=396920
+AGA fjordfall|Wildlife|model|CC-BY-4.0 | n=15 | bytes=715332
+AGA skybound|Props|model|CC-BY-4.0 | n=1 | bytes=11916
+AGA skybound|Sound effects|sound|CC-BY-4.0 | n=6 | bytes=227374
+AGA skybound|Vegetation|model|CC-BY-4.0 | n=3 | bytes=20228

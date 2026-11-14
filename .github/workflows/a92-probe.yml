@@ -1,0 +1,30 @@
+name: a92-probe
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: probe
+        run: |
+          python3 - <<'PY'
+          import sys
+          names = ["RTS medieval props","Low poly Nature Project","Food Pack: Cooking","Objects in a house","Archery Set","Low-poly plants","Cottage","Free Fern Plant V2","Watchtower-Wood","3TD Office Starter Pack","Plastic Barrel Pack","Heavy Greatsword","Magic Sword","Desert - Low Poly Toon Battle Arena / Tower Defense Pack","2D Explosion Animations #2 | Frame by frame","Slash Effect Collection","Fire Spell Explosion","Explosion Set 1 (M484 Games)","2D Explosion Animations #3 | Frame by frame","Gun Muzzle Flash Effects","Animated Explosions","Explosion effects and more","2D Spell Effects","25 special effects rendered with blender"]
+          body = open("catalog.csv", encoding="utf-8").read().splitlines()
+          first = [l.split(",")[0].strip().strip('"') for l in body[1:]]
+          low = [x.lower() for x in first]
+          out = []
+          for n in names:
+              hit = n.lower() in low
+              out.append(("DUP " if hit else "NEW ") + n)
+          open("a92-probe.txt","w",encoding="utf-8").write("\n".join(out) + "\n")
+          print("\n".join(out))
+
+          PY
+          git config user.name sigco3111
+          git config user.email sigco3111@gmail.com
+          git add a92-probe.txt
+          git commit -q -m "A92: 후보 대조"
+          git push origin HEAD:main

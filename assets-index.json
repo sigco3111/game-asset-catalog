@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@472a4424f3219cd66060d94e34bf0aed48229351",
-  "count": 1888,
+  "generated_from": "catalog.csv@2a08dffa16d98707cdcf284dff795ef89350e26a",
+  "count": 1887,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -67205,44 +67205,6 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/monsters-of-nature-all-pack/monsters-of-nature-all-pack.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/monsters-of-nature-all-pack/monsters-of-nature-all-pack.zip"
-      ],
-      "sample": null,
-      "multipart": false,
-      "split_parts": []
-    },
-    {
-      "id": "assets-audio/technical-specifications",
-      "name": "Technical Specifications",
-      "repo": "assets-audio",
-      "file": "mico-font-2d-handwritten-display-font/mico-font-2d-handwritten-display-font.zip",
-      "type": "효과음",
-      "category": "sfx",
-      "tags": [
-        "sfx",
-        "impact",
-        "magic",
-        "sword",
-        "whoosh"
-      ],
-      "effect_kind": [
-        "impact",
-        "magic"
-      ],
-      "author": "hyperwebster",
-      "source_url": "https://opengameart.org/content/mico-font-2d-handwritten-display-font",
-      "license": "CC-BY",
-      "license_note": null,
-      "license_family": "cc-by",
-      "attribution": "",
-      "attribution_required": true,
-      "ai_generated": false,
-      "added": "2026-11-14",
-      "notes": "효과음 팩; OGA 페이지 라이선스 CC-BY; 원본 파일 바이트 그대로 보관; 썸네일 없음(효과음)",
-      "preview": null,
-      "download_path": "mico-font-2d-handwritten-display-font/mico-font-2d-handwritten-display-font.zip",
-      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/mico-font-2d-handwritten-display-font/mico-font-2d-handwritten-display-font.zip",
-      "download_urls": [
-        "https://github.com/sigco3111/assets-audio/raw/main/mico-font-2d-handwritten-display-font/mico-font-2d-handwritten-display-font.zip"
       ],
       "sample": null,
       "multipart": false,

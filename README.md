@@ -7,6 +7,17 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-14 A91 추가 (2팩, 총 1878팩)
+
+A91 라운드에서 OpenGameArt의 LowPoly Modular Dungeon(quaternius, CC0), More Explosions(StumpyStrust, CC0)를 수집했습니다. 후보였던 LowPoly Buildings, 2D Spell Effects, sparkling fireball effect, 3TD Furniture Pack, Dungeon Arena, Water Magic Effect 등은 업로드 전 catalog.csv 이름 대조에서 이미 수록된 팩으로 확인되어 제외했습니다.
+
+| 팩 | 라이선스 |
+| --- | --- |
+| LowPoly Modular Dungeon | CC0 |
+| More Explosions | CC0 |
+
+종류: 3D 1팩, 2D 이펙트 1팩. 썸네일: LowPoly Modular Dungeon=있음, More Explosions=있음. 색인은 rebuild-index.yml 수동 실행으로 갱신합니다.
+
 ## 2026-11-14 A90 추가 (1팩, 총 1876팩)
 
 A90 라운드에서 OpenGameArt의 효과음 1팩 Pocket Bleeps - 31 Retro 8-Bit SFX(Pocket Bleeps, CC-BY 4.0)를 수집했습니다. 3D 후보였던 Bird Bath, low poly iron ore, Chibi Neko by cosmix, Bald Man - Rigged은 카탈로그 코드 검사(catalog.csv 팩 이름)에서 이미 수록된 팩으로 확인되어 제외했습니다.

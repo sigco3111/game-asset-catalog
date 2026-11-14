@@ -98,3 +98,5 @@
 - 3D 후보 4종(Bird Bath, low poly iron ore, Chibi Neko by cosmix, Bald Man - Rigged)은 이미 수록되어 제외
 - 썸네일: 지난 4팩 previews/<슬러그>.png 커밋, catalog.csv preview 열 갱신
 - README 제목 숫자 정정: A88 1872, A89 1875, A90 1876
+
+- 2026-11-14 A91: LowPoly Modular Dungeon (quaternius, CC0), More Explosions (StumpyStrust, CC0) (2팩, 총 1878팩; 3D 1, 2D 이펙트 1). 후보는 업로드 전 catalog.csv 이름 대조로 중복 제거.

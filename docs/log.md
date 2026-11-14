@@ -106,3 +106,5 @@
 - 2026-11-14 A92 (2부): RTS medieval props (Lamoot, CC-BY 3.0), Food Pack: Cooking (Clint Bellanger, CC-BY 3.0) (2팩, 총 1881팩; 3D 2, 2D 이펙트 0).
 
 - 2026-11-14 A92 (2부): 2D Explosion Animations #2 | Frame by frame (Sinestesia, CC0) (1팩, 총 1882팩; 3D 0, 2D 이펙트 1).
+
+- 2026-11-14 A93: Various Small Arms (Assault Rifles, Sniper, Pistol) (tabasco, CC0), Dinnerware (clint-bellanger, CC-BY), Knight (piacenti, CC-BY), Platformer Animations (clint-bellanger, CC-BY) (4팩, 총 1886팩; 3D 3, 2D 이펙트 1).

@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@5c37d15d36026593bdcc1d4efb5d96f6d273fc2d",
-  "count": 1878,
+  "generated_from": "catalog.csv@f5ad960ad39c7bfa62f5b70c91a645a28c614a96",
+  "count": 1882,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -66888,6 +66888,144 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/more-explosions/more-explosions.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/more-explosions/more-explosions.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/stylised-fantasy-weapons",
+      "name": "Stylised Fantasy Weapons",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "stylised-fantasy-weapons/stylised-fantasy-weapons.zip",
+      "type": "3D 무기",
+      "category": "model-3d",
+      "tags": [
+        "weapon",
+        "fantasy",
+        "lowpoly",
+        "stylised"
+      ],
+      "effect_kind": [],
+      "author": "mastahcez",
+      "source_url": "https://opengameart.org/content/stylised-fantasy-weapons",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "3D 무기 팩; OGA 페이지 라이선스 CC-BY 3.0; 원본 파일 바이트 그대로 보관; 썸네일 preview는 팩 내 이미지/원본 페이지 미리보기를 480x480 이하로 축소·strip",
+      "preview": "previews/stylised-fantasy-weapons.jpg",
+      "download_path": "stylised-fantasy-weapons/stylised-fantasy-weapons.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stylised-fantasy-weapons/stylised-fantasy-weapons.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stylised-fantasy-weapons/stylised-fantasy-weapons.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/rts-medieval-props",
+      "name": "RTS medieval props",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "rts-medieval-props/rts-medieval-props.blend",
+      "type": "3D 소품",
+      "category": "model-3d",
+      "tags": [
+        "rts",
+        "medieval",
+        "props",
+        "building"
+      ],
+      "effect_kind": [],
+      "author": "Lamoot",
+      "source_url": "https://opengameart.org/content/rts-medieval-props",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "3D 소품 팩; OGA 페이지 라이선스 CC-BY 3.0; 원본 파일 바이트 그대로 보관; 썸네일 preview는 팩 내 이미지/원본 페이지 미리보기를 480x480 이하로 축소·strip",
+      "preview": "previews/rts-medieval-props.png",
+      "download_path": "rts-medieval-props/rts-medieval-props.blend",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rts-medieval-props/rts-medieval-props.blend",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rts-medieval-props/rts-medieval-props.blend"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/food-pack-cooking",
+      "name": "Food Pack: Cooking",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "food-pack-cooking/food-pack-cooking.blend",
+      "type": "3D 소품",
+      "category": "model-3d",
+      "tags": [
+        "food",
+        "props",
+        "lowpoly",
+        "cooking"
+      ],
+      "effect_kind": [],
+      "author": "Clint Bellanger",
+      "source_url": "https://opengameart.org/content/food-pack-cooking",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "3D 소품 팩; OGA 페이지 라이선스 CC-BY 3.0; 원본 파일 바이트 그대로 보관; 썸네일 preview는 팩 내 이미지/원본 페이지 미리보기를 480x480 이하로 축소·strip",
+      "preview": "previews/food-pack-cooking.jpg",
+      "download_path": "food-pack-cooking/food-pack-cooking.blend",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/food-pack-cooking/food-pack-cooking.blend",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/food-pack-cooking/food-pack-cooking.blend"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/2d-explosion-animations-2-frame-by-frame",
+      "name": "2D Explosion Animations #2 | Frame by frame",
+      "repo": "assets-2d-pixel",
+      "file": "2d-explosion-animations-2-frame-by-frame/2d-explosion-animations-2-frame-by-frame.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "explosion",
+        "effect",
+        "vfx",
+        "spritesheet"
+      ],
+      "effect_kind": [
+        "explosion"
+      ],
+      "author": "Sinestesia",
+      "source_url": "https://opengameart.org/content/2d-explosion-animations-2-frame-by-frame",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-14",
+      "notes": "2D 이펙트 팩; OGA 페이지 라이선스 CC0; 원본 파일 바이트 그대로 보관; 썸네일 preview는 팩 내 이미지/원본 페이지 미리보기를 480x480 이하로 축소·strip",
+      "preview": "previews/2d-explosion-animations-2-frame-by-frame.png",
+      "download_path": "2d-explosion-animations-2-frame-by-frame/2d-explosion-animations-2-frame-by-frame.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/2d-explosion-animations-2-frame-by-frame/2d-explosion-animations-2-frame-by-frame.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/2d-explosion-animations-2-frame-by-frame/2d-explosion-animations-2-frame-by-frame.zip"
       ],
       "sample": null,
       "multipart": false,

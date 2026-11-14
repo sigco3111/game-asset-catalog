@@ -7,6 +7,16 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-14 A92 추가 (3부 1팩, 총 1882팩)
+
+A92 라운드 후속분: OpenGameArt 2D Explosion Animations #2 | Frame by frame(Sinestesia, CC0). 후보 26개를 카탈로그 이름 대조(assets-index 기반 catalog.csv)로 걸러낸 뒤 업로드한 팩입니다.
+
+| 팩 | 라이선스 |
+| --- | --- |
+| 2D Explosion Animations #2 | Frame by frame | CC0 |
+
+종류: 3D 0팩, 2D 이펙트 1팩. 썸네일: 2D Explosion Animations #2 | Frame by frame=있음.
+
 ## 2026-11-14 A92 추가 (2부 2팩, 총 1881팩)
 
 A92 라운드 후속분: OpenGameArt RTS medieval props(Lamoot, CC-BY 3.0), Food Pack: Cooking(Clint Bellanger, CC-BY 3.0). 후보 26개를 카탈로그 이름 대조(assets-index 기반 catalog.csv)로 걸러낸 뒤 업로드한 팩입니다.

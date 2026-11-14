@@ -1,0 +1,17 @@
+name: a92-cleanup
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: cleanup
+        run: |
+          git config user.name sigco3111
+          git config user.email sigco3111@gmail.com
+          git rm -q --ignore-unmatch .github/workflows/a92-*.yml
+          git rm -q --ignore-unmatch a92-res.txt a92-log.txt a92-probe.txt
+          git commit -q -m "A92: 임시 파일 삭제" || true
+          git push origin HEAD:main

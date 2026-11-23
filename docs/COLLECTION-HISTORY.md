@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261123-19 자동 수집 등록 (3팩, 2026-11-23 19:35 KST)
+
+- 팩: Ploughed Snowbank Run (slug ploughed-snowbank-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/ploughed-snowbank-run-5d60bd
+- 저장: assets-3d-polyfork ploughed-snowbank-run/ploughed-snowbank-run.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2286→2289, 기존 행 불변 확인
+- 팩: Reindeer Stable (slug reindeer-stable), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/reindeer-stable-ea3fc0
+- 저장: assets-3d-polyfork reindeer-stable/reindeer-stable.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2286→2289, 기존 행 불변 확인
+- 팩: Tree Netting Baler (slug tree-netting-baler), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/tree-netting-baler-353d66
+- 저장: assets-3d-polyfork tree-netting-baler/tree-netting-baler.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2286→2289, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### EFFEKSEER-SAMPLES-20261123 (1팩)
 
 - Effekseer 샘플 이펙트 33종(.efk, WebGL 런타임 포함), assets-2d-pixel 릴리스 등록

@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@d191d4af8c39ef36a3ad0e4ea85489e5bf02511f",
-  "count": 2286,
+  "generated_from": "catalog.csv@4da5943d88fbca8eb545f12d83ad93baf480a89e",
+  "count": 2289,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -80683,6 +80683,105 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/releases/download/effekseer-sample-effects/effekseer-sample-effects.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/releases/download/effekseer-sample-effects/effekseer-sample-effects.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/ploughed-snowbank-run",
+      "name": "Ploughed Snowbank Run",
+      "repo": "assets-3d-polyfork",
+      "file": "ploughed-snowbank-run/ploughed-snowbank-run.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/ploughed-snowbank-run-5d60bd",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Ploughed Snowbank Run by Polyfork (https://polyfork.dev/asset/ploughed-snowbank-run-5d60bd), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "ploughed-snowbank-run/preview.png",
+      "download_path": "ploughed-snowbank-run/ploughed-snowbank-run.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/ploughed-snowbank-run/ploughed-snowbank-run.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/ploughed-snowbank-run/ploughed-snowbank-run.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/reindeer-stable",
+      "name": "Reindeer Stable",
+      "repo": "assets-3d-polyfork",
+      "file": "reindeer-stable/reindeer-stable.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/reindeer-stable-ea3fc0",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Reindeer Stable by Polyfork (https://polyfork.dev/asset/reindeer-stable-ea3fc0), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "reindeer-stable/preview.png",
+      "download_path": "reindeer-stable/reindeer-stable.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/reindeer-stable/reindeer-stable.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/reindeer-stable/reindeer-stable.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/tree-netting-baler",
+      "name": "Tree Netting Baler",
+      "repo": "assets-3d-polyfork",
+      "file": "tree-netting-baler/tree-netting-baler.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/tree-netting-baler-353d66",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Tree Netting Baler by Polyfork (https://polyfork.dev/asset/tree-netting-baler-353d66), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "tree-netting-baler/preview.png",
+      "download_path": "tree-netting-baler/tree-netting-baler.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/tree-netting-baler/tree-netting-baler.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/tree-netting-baler/tree-netting-baler.zip"
       ],
       "sample": null,
       "multipart": false,

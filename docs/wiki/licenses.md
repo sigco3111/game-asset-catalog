@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d191d4af8c39ef36a3ad0e4ea85489e5bf02511f`
+> generated from `catalog.csv@4da5943d88fbca8eb545f12d83ad93baf480a89e`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2286개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2289개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -17,7 +17,7 @@
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
 | cc0 | CC0 | 1916 | 0 | 예 |
-| cc-by | CC-BY | 308 | 308 | 예 |
+| cc-by | CC-BY | 311 | 311 | 예 |
 | mit | MIT | 24 | 23 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
 | other | 기타(허용 목록 밖) | 27 | 24 | 아니오 |
@@ -29,7 +29,7 @@
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
 | CC0 | cc0 | X | 1913 |
-| CC-BY 4.0 | cc-by | O | 173 |
+| CC-BY 4.0 | cc-by | O | 176 |
 | CC-BY 3.0 | cc-by | O | 116 |
 | MIT | mit | O | 23 |
 | CC-BY | cc-by | O | 11 |
@@ -55,7 +55,7 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 366개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 369개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
@@ -77,14 +77,17 @@
 | [Lowpoly Tree 샘플 모델 6종 (GLB)](https://github.com/pajama-studio/lowpoly-tree-generator) | Rand Monster contributors | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Rand Monster contributors) | 2026-11-23 |
 | [Orc berserker](https://polyfork.dev/asset/orc-berserker-base) | Polyfork | CC-BY 4.0 | Orc berserker by Polyfork (https://polyfork.dev/asset/orc-berserker-base), CC BY 4.0 | 2026-11-23 |
 | [Pack Donkey](https://polyfork.dev/asset/pack-donkey-c69029) | Polyfork | CC-BY 4.0 | Pack Donkey by Polyfork (https://polyfork.dev/asset/pack-donkey-c69029), CC BY 4.0 | 2026-11-23 |
+| [Ploughed Snowbank Run](https://polyfork.dev/asset/ploughed-snowbank-run-5d60bd) | Polyfork | CC-BY 4.0 | Ploughed Snowbank Run by Polyfork (https://polyfork.dev/asset/ploughed-snowbank-run-5d60bd), CC BY 4.0 | 2026-11-23 |
 | [Procedural Animals 베이크 샘플 6종 (.animal)](https://github.com/majidmanzarpour/threejs-procedural-animals) | Majid Manzarpour and procedural-animals contributors | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Majid Manzarpour and procedural-animals contributors) | 2026-11-23 |
 | [Procedural Animals 절차적 동물 24종 코드 (three.js)](https://github.com/majidmanzarpour/threejs-procedural-animals) | Majid Manzarpour and procedural-animals contributors | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Majid Manzarpour and procedural-animals contributors) | 2026-11-23 |
 | [Reindeer](https://polyfork.dev/asset/reindeer-base) | Polyfork | CC-BY 4.0 | Reindeer by Polyfork (https://polyfork.dev/asset/reindeer-base), CC BY 4.0 | 2026-11-23 |
+| [Reindeer Stable](https://polyfork.dev/asset/reindeer-stable-ea3fc0) | Polyfork | CC-BY 4.0 | Reindeer Stable by Polyfork (https://polyfork.dev/asset/reindeer-stable-ea3fc0), CC BY 4.0 | 2026-11-23 |
 | [Roof Snow Blanket Run](https://polyfork.dev/asset/roof-snow-blanket-run-9dd068) | Polyfork | CC-BY 4.0 | Roof Snow Blanket Run by Polyfork (https://polyfork.dev/asset/roof-snow-blanket-run-9dd068), CC BY 4.0 | 2026-11-23 |
 | [Runway Edge Light Run](https://polyfork.dev/asset/runway-edge-light-run-ebe7e1) | Polyfork | CC-BY 4.0 | Runway Edge Light Run by Polyfork (https://polyfork.dev/asset/runway-edge-light-run-ebe7e1), CC BY 4.0 | 2026-11-23 |
 | [Snowball Pile](https://polyfork.dev/asset/snowball-pile-af4655) | Polyfork | CC-BY 4.0 | Snowball Pile by Polyfork (https://polyfork.dev/asset/snowball-pile-af4655), CC BY 4.0 | 2026-11-23 |
 | [Training Bench](https://polyfork.dev/asset/training-bench-34f148) | Polyfork | CC-BY 4.0 | Training Bench by Polyfork (https://polyfork.dev/asset/training-bench-34f148), CC BY 4.0 | 2026-11-23 |
 | [Traveller](https://polyfork.dev/asset/traveller-92f20c) | Polyfork | CC-BY 4.0 | Traveller by Polyfork (https://polyfork.dev/asset/traveller-92f20c), CC BY 4.0 | 2026-11-23 |
+| [Tree Netting Baler](https://polyfork.dev/asset/tree-netting-baler-353d66) | Polyfork | CC-BY 4.0 | Tree Netting Baler by Polyfork (https://polyfork.dev/asset/tree-netting-baler-353d66), CC BY 4.0 | 2026-11-23 |
 | [Ultra Elements 원소 주문 VFX 코드 39종 (Three.js·WebGL2)](https://github.com/Humpalumps/ultra-elements) | Humpalumps (Ultra Elements), 데모 어댑트: Patch | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Humpalumps / Patch) | 2026-11-23 |
 | [Weapon Rack](https://polyfork.dev/asset/weapon-rack-962f74) | Polyfork | CC-BY 4.0 | Weapon Rack by Polyfork (https://polyfork.dev/asset/weapon-rack-962f74), CC BY 4.0 | 2026-11-23 |
 | [A Short Walk With You](https://opengameart.org/content/a-short-walk-with-you) | purrplecat | CC-BY 4.0 | 필수: purrplecat (opengameart.org), CC-BY 4.0 | 2026-11-22 |

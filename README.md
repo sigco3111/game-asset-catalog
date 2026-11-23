@@ -3,7 +3,7 @@
 재사용 가능한 게임 에셋 라이브러리의 중앙 카탈로그입니다.
 실제 파일은 유형별 저장소에 두고, 여기에 모든 에셋의 출처·라이선스·작가·장르 태그를 기록합니다.
 
-**총 2,285팩입니다.** (catalog.csv 기준, 아래 저장소 표의 팩 수 합계와 같습니다.)
+**총 2,286팩입니다.** (catalog.csv 기준, 아래 저장소 표의 팩 수 합계와 같습니다.)
 
 ※ Quaternius 팩: 팩 페이지는 CC0로 표기하지만 Quaternius 사이트의 공통 라이선스(QAL)는 에셋 단독 재배포를 제한합니다. 사용 전 원 사이트(quaternius.com)에서 확인해 주세요.
 
@@ -18,7 +18,7 @@
 
 | 저장소 | 내용 | 팩 수 |
 | --- | --- | ---: |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 이펙트, 텍스처 | 689 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 이펙트, 텍스처 | 690 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델 (1호, GLB·OBJ) | 508 |
 | [assets-3d-lowpoly-2](https://github.com/sigco3111/assets-3d-lowpoly-2) | 3D 로우폴리 모델 (2호) | 232 |
 | [assets-3d-polyfork](https://github.com/sigco3111/assets-3d-polyfork) | 3D 모델 (Polyfork 자동 수집) | 66 |
@@ -26,7 +26,7 @@
 | [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악 (OGG) | 518 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 2D 초상화 | 3 |
 | [assets-code](https://github.com/sigco3111/assets-code) | 재사용 코드 모듈 (TypeScript·JavaScript) | 14 |
-| **합계** | | **2,285** |
+| **합계** | | **2,286** |
 
 ## 사이트와 검색
 

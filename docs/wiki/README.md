@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b6d1e1c4746b4d62bd723e4c76f8c48b770f41ea`
+> generated from `catalog.csv@d191d4af8c39ef36a3ad0e4ea85489e5bf02511f`
 
 # 게임 에셋 카탈로그 위키
 
@@ -12,7 +12,7 @@
 - 이 위키의 자동 생성 문서는 직접 고치지 않습니다. 에셋이 바뀌면 두 스크립트를 다시 실행합니다(표준 라이브러리만 사용, 같은 입력이면 같은 출력).
 - 에셋마다 쪽을 따로 만들지 않습니다. 표의 이름을 누르면 제작자의 출처 페이지로 갑니다.
 - 손으로 쓰는 문서는 [사용 장부](usage-ledger.md) 하나뿐이며 생성기가 덮어쓰지 않습니다.
-- 현재 색인: 에셋 **2285개** (`catalog.csv@b6d1e1c4746b4d62bd723e4c76f8c48b770f41ea`).
+- 현재 색인: 에셋 **2286개** (`catalog.csv@d191d4af8c39ef36a3ad0e4ea85489e5bf02511f`).
 
 ## 링크
 
@@ -41,7 +41,7 @@
 
 | 분류 | 이름 | 개수 | 목록 |
 |---|---|---|---|
-| `effect` | 이펙트 | 146 | [category-effect.md](category-effect.md) |
+| `effect` | 이펙트 | 147 | [category-effect.md](category-effect.md) |
 | `sfx` | 효과음 | 246 | [category-sfx.md](category-sfx.md) |
 | `music` | 음악 | 267 | [category-music.md](category-music.md) |
 | `voice` | 음성 | 3 | [category-voice.md](category-voice.md) |
@@ -62,7 +62,7 @@
 | `puzzle` | 퍼즐 | 2 | [category-puzzle.md](category-puzzle.md) |
 | `other` | 기타 | 150 | [category-other.md](category-other.md) |
 
-합계 2285개. 분류가 400행을 넘는 목록은 `-2` 쪽으로 이어집니다.
+합계 2286개. 분류가 400행을 넘는 목록은 `-2` 쪽으로 이어집니다.
 
 ## 효과 종류별 개수
 
@@ -72,16 +72,16 @@
 |---|---|---|---|
 | `hit` | 타격 | 47 | [effects-hit.md](effects-hit.md) |
 | `impact` | 충격 | 49 | [effects-impact.md](effects-impact.md) |
-| `magic` | 마법 | 103 | [effects-magic.md](effects-magic.md) |
+| `magic` | 마법 | 104 | [effects-magic.md](effects-magic.md) |
 | `explosion` | 폭발 | 70 | [effects-explosion.md](effects-explosion.md) |
-| `fire` | 불 | 56 | [effects-fire.md](effects-fire.md) |
+| `fire` | 불 | 57 | [effects-fire.md](effects-fire.md) |
 | `ice` | 얼음 | 23 | [effects-ice.md](effects-ice.md) |
-| `lightning` | 번개 | 31 | [effects-lightning.md](effects-lightning.md) |
+| `lightning` | 번개 | 32 | [effects-lightning.md](effects-lightning.md) |
 | `wind` | 바람 | 10 | [effects-wind.md](effects-wind.md) |
 | `heal` | 치유 | 17 | [effects-heal.md](effects-heal.md) |
 | `laser` | 레이저 | 18 | [effects-laser.md](effects-laser.md) |
-| `particle` | 입자 | 35 | [effects-particle.md](effects-particle.md) |
+| `particle` | 입자 | 36 | [effects-particle.md](effects-particle.md) |
 | `smoke` | 연기 | 12 | [effects-smoke.md](effects-smoke.md) |
-| `aura` | 오라 | 7 | [effects-aura.md](effects-aura.md) |
+| `aura` | 오라 | 8 | [effects-aura.md](effects-aura.md) |
 | `projectile` | 투사체 | 27 | [effects-projectile.md](effects-projectile.md) |
 | `slash` | 베기 | 11 | [effects-slash.md](effects-slash.md) |

@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@b6d1e1c4746b4d62bd723e4c76f8c48b770f41ea",
-  "count": 2285,
+  "generated_from": "catalog.csv@d191d4af8c39ef36a3ad0e4ea85489e5bf02511f",
+  "count": 2286,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -80635,6 +80635,54 @@
       "download_url": "https://github.com/sigco3111/assets-code/raw/main/00gamedevs-vfx-starter/00gamedevs-vfx-starter.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-code/raw/main/00gamedevs-vfx-starter/00gamedevs-vfx-starter.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/effekseer-샘플-이펙트-33종-efk-webgl-런타임-포함",
+      "name": "Effekseer 샘플 이펙트 33종 (.efk, WebGL 런타임 포함)",
+      "repo": "assets-2d-pixel",
+      "file": "releases/download/effekseer-sample-effects/effekseer-sample-effects.zip",
+      "type": "이펙트",
+      "category": "effect",
+      "tags": [
+        "effects",
+        "vfx",
+        "particles",
+        "effekseer",
+        "webgl",
+        "3d",
+        "magic",
+        "fire",
+        "lightning",
+        "water",
+        "sword",
+        "aura"
+      ],
+      "effect_kind": [
+        "magic",
+        "lightning",
+        "fire",
+        "particle",
+        "aura"
+      ],
+      "author": "Effekseer 프로젝트, Pierre, NextSoft, AndrewFM, Suzuki, tktk",
+      "source_url": "https://patch.gg/patch/effekseer",
+      "license": "CC0 (런타임 MIT)",
+      "license_note": "런타임 MIT",
+      "license_family": "cc0",
+      "attribution": "optional: Effekseer 프로젝트와 제작자 (CC0). 런타임은 MIT: Effekseer Project 저작권·허가 고지(LICENSE) 유지",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": ".efk 33개 + 원본 efkproj + Effekseer for WebGL 1.80.8 런타임; Effekseer 공식 1.80.8 Sample 폴더 CC0 고지로 검증; zip에 라이선스·CREDITS·pack.md 동봉; Patch 데모 코드·표지·썸네일 제외; 릴리스 업로드 후 MD5 대조",
+      "preview": "releases/download/effekseer-sample-effects/effekseer-preview.png",
+      "download_path": "releases/download/effekseer-sample-effects/effekseer-sample-effects.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/releases/download/effekseer-sample-effects/effekseer-sample-effects.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/releases/download/effekseer-sample-effects/effekseer-sample-effects.zip"
       ],
       "sample": null,
       "multipart": false,

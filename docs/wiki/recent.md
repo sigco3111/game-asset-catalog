@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b6d1e1c4746b4d62bd723e4c76f8c48b770f41ea`
+> generated from `catalog.csv@d191d4af8c39ef36a3ad0e4ea85489e5bf02511f`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -29,6 +29,7 @@
 | [Baby Pram](https://polyfork.dev/asset/baby-pram-73d9f2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/baby-pram/baby-pram.zip) | 2026-11-23 |
 | [Christmas Market Stall](https://polyfork.dev/asset/christmas-market-stall-e0ebe9) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/christmas-market-stall/christmas-market-stall.zip) | 2026-11-23 |
 | [Cyclops](https://polyfork.dev/asset/cyclops-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/cyclops/cyclops.zip) | 2026-11-23 |
+| [Effekseer 샘플 이펙트 33종 (.efk, WebGL 런타임 포함)](https://patch.gg/patch/effekseer) | `effect` | Effekseer 프로젝트, Pierre, NextSoft, AndrewFM, Suzuki, tktk | CC0 (런타임 MIT) | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/effekseer-sample-effects/effekseer-sample-effects.zip) | 2026-11-23 |
 | [Elemental Sandbox HDRI 환경광 (Poly Haven Spruit Sunrise 2K)](https://polyhaven.com/a/spruit_sunrise) | `other` | Poly Haven | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/elemental-sandbox-hdri-spruit-sunrise/elemental-sandbox-hdri-spruit-sunrise.zip) | 2026-11-23 |
 | [Elemental Sandbox 바위 PBR 텍스처 4종 (ambientCG Rock030 1K)](https://ambientcg.com/a/Rock030) | `other` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/elemental-sandbox-rock030-pbr/elemental-sandbox-rock030-pbr.zip) | 2026-11-23 |
 | [Elemental Sandbox 스킬 VFX 코드 모듈 (Three.js·GLSL)](https://github.com/achrefelouafi/LinearAbilityExtThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/elemental-sandbox-ability-vfx/elemental-sandbox-ability-vfx.zip) | 2026-11-23 |
@@ -112,4 +113,3 @@
 | [Hiding in My Room Until Everyone Leaves](https://opengameart.org/content/hiding-in-my-room-until-everyone-leaves) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-hiding-in-my-room-until-everyone-leaves/hiding-in-my-room-until-everyone-leaves.zip) | 2026-11-21 |
 | [Lit Taxiway Sign](https://polyfork.dev/asset/lit-taxiway-sign-206955) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lit-taxiway-sign/lit-taxiway-sign.zip) | 2026-11-21 |
 | [Medieval Icons \| Inventory +284](https://opengameart.org/content/medieval-icons-inventory-284) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/release%3Apack-medieval-icons-inventory-284/medieval-icons-inventory-284.zip) | 2026-11-21 |
-| [My Cookie Fell Apart](https://opengameart.org/content/my-cookie-fell-apart) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/my-cookie-fell-apart/my-cookie-fell-apart.zip) | 2026-11-21 |

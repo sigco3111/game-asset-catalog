@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b6d1e1c4746b4d62bd723e4c76f8c48b770f41ea`
+> generated from `catalog.csv@d191d4af8c39ef36a3ad0e4ea85489e5bf02511f`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2285개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2286개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -16,7 +16,7 @@
 
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
-| cc0 | CC0 | 1915 | 0 | 예 |
+| cc0 | CC0 | 1916 | 0 | 예 |
 | cc-by | CC-BY | 308 | 308 | 예 |
 | mit | MIT | 24 | 23 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
@@ -47,6 +47,7 @@
 | CC-BY 4.0 (페이지에 CC-BY 3.0·OGA-BY 3.0 병기, CC-BY 4.0 선택) | cc-by | O | 1 |
 | CC-BY+CC0 | cc-by | O | 1 |
 | CC-BY-3.0 / CC0 (2 contributors) | cc-by | O | 1 |
+| CC0 (런타임 MIT) | cc0 | X | 1 |
 | CC0 (페이지에 CC-BY 3.0/4.0·CC-BY-SA·GPL 2.0/3.0·OGA-BY 3.0 병기, CC0 선택) | cc0 | X | 1 |
 | CC0 1.0 | cc0 | X | 1 |
 | MIT | mit | X | 1 |
@@ -427,10 +428,11 @@
 
 ## 라이선스 비고(license_note)가 있는 에셋
 
-이중 표기 등으로 선택한 라이선스를 기록한 에셋 10개입니다. 비고는 색인 값 그대로입니다.
+이중 표기 등으로 선택한 라이선스를 기록한 에셋 11개입니다. 비고는 색인 값 그대로입니다.
 
 | 이름 | 라이선스 | 비고 |
 |---|---|---|
+| [Effekseer 샘플 이펙트 33종 (.efk, WebGL 런타임 포함)](https://patch.gg/patch/effekseer) | CC0 (런타임 MIT) | 런타임 MIT |
 | [The Lost Storm CC0 PBR Textures](https://github.com/sigco3111/the-lost-storm-ko) | CC0 1.0 | 1.0 |
 | [Fjordfall Sound Effects](https://github.com/AgenticGameDevs/generated-assets) | CC-BY+CC0 | +CC0 |
 | [Punch SFX](https://opengameart.org/content/punch-sfx) | CC-BY 4.0 (페이지에 CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 병기, CC-BY 4.0 선택) | 페이지에 CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 병기, CC-BY 4.0 선택 |

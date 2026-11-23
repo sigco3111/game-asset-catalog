@@ -1,5 +1,33 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261123-23 자동 수집 등록 (6팩, 2026-11-23 23:32 KST)
+
+- 팩: Breakdown (slug breakdown-0), 라이선스: CC-BY 4.0, 제작자: Ategon
+- 출처: https://opengameart.org/content/breakdown-0
+- 저장: assets-3d-lowpoly-2 breakdown-0/breakdown-0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2293→2299, 기존 행 불변 확인
+- 팩: Cold (slug cold-0), 라이선스: CC0, 제작자: G_P
+- 출처: https://opengameart.org/content/cold-0
+- 저장: assets-3d-lowpoly-2 cold-0/cold-0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2293→2299, 기존 행 불변 확인
+- 팩: It's Watering Time (slug its-watering-time), 라이선스: CC-BY 4.0, 제작자: Ategon
+- 출처: https://opengameart.org/content/its-watering-time
+- 저장: assets-3d-lowpoly-2 its-watering-time/its-watering-time.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2293→2299, 기존 행 불변 확인
+- 팩: Main Street Pixelville (Looping) (slug main-street-pixelville-looping), 라이선스: CC-BY 3.0, 제작자: Eric Matyas
+- 출처: https://opengameart.org/content/main-street-pixelville-looping
+- 저장: assets-3d-lowpoly-2 main-street-pixelville-looping/main-street-pixelville-looping.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2293→2299, 기존 행 불변 확인
+- 팩: outerim (slug outerim), 라이선스: CC-BY 4.0, 제작자: tomcat
+- 출처: https://opengameart.org/content/outerim
+- 저장: assets-3d-lowpoly-2 outerim/outerim.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2293→2299, 기존 행 불변 확인
+- 팩: Sigh (slug sigh), 라이선스: CC-BY 4.0, 제작자: purrplecat
+- 출처: https://opengameart.org/content/sigh
+- 저장: assets-3d-lowpoly-2 release:pack-sigh/sigh.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2293→2299, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261123-21 자동 수집 등록 (3팩, 2026-11-23 21:49 KST)
 
 - 팩: Municipal Snowplough Truck (slug municipal-snowplough-truck), 라이선스: CC-BY 4.0, 제작자: Polyfork

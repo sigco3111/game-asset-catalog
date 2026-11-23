@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@cd64a36bdda49db4cb5c6554c6350ac9e1f71c56",
-  "count": 2293,
+  "generated_from": "catalog.csv@8cbb59c96f7ac554ac5857469c2f829a214c175a",
+  "count": 2299,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -80913,6 +80913,198 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/tree-lot-stand/tree-lot-stand.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/tree-lot-stand/tree-lot-stand.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/breakdown",
+      "name": "Breakdown",
+      "repo": "assets-audio",
+      "file": "breakdown-0/breakdown-0.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Ategon",
+      "source_url": "https://opengameart.org/content/breakdown-0",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: Ategon (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "breakdown-0/breakdown-0.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/breakdown-0/breakdown-0.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/breakdown-0/breakdown-0.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/cold",
+      "name": "Cold",
+      "repo": "assets-audio",
+      "file": "cold-0/cold-0.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "G_P",
+      "source_url": "https://opengameart.org/content/cold-0",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: G_P (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "cold-0/cold-0.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/cold-0/cold-0.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/cold-0/cold-0.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/it-s-watering-time",
+      "name": "It's Watering Time",
+      "repo": "assets-audio",
+      "file": "its-watering-time/its-watering-time.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Ategon",
+      "source_url": "https://opengameart.org/content/its-watering-time",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: Ategon (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "its-watering-time/its-watering-time.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/its-watering-time/its-watering-time.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/its-watering-time/its-watering-time.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/main-street-pixelville-looping",
+      "name": "Main Street Pixelville (Looping)",
+      "repo": "assets-audio",
+      "file": "main-street-pixelville-looping/main-street-pixelville-looping.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Eric Matyas",
+      "source_url": "https://opengameart.org/content/main-street-pixelville-looping",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: Eric Matyas (opengameart.org), CC-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "출처 페이지 License(s) CC-BY 3.0 확인 (자동 수집, 원문: : CC-BY 3.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "main-street-pixelville-looping/main-street-pixelville-looping.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/main-street-pixelville-looping/main-street-pixelville-looping.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/main-street-pixelville-looping/main-street-pixelville-looping.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/outerim",
+      "name": "outerim",
+      "repo": "assets-audio",
+      "file": "outerim/outerim.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "tomcat",
+      "source_url": "https://opengameart.org/content/outerim",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: tomcat (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "outerim/outerim.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/outerim/outerim.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/outerim/outerim.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/sigh",
+      "name": "Sigh",
+      "repo": "assets-audio",
+      "file": "release:pack-sigh/sigh.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "purrplecat",
+      "source_url": "https://opengameart.org/content/sigh",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: purrplecat (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "release:pack-sigh/sigh.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-sigh/sigh.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-sigh/sigh.zip"
       ],
       "sample": null,
       "multipart": false,

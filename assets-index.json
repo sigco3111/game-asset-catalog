@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@8cbb59c96f7ac554ac5857469c2f829a214c175a",
-  "count": 2299,
+  "generated_from": "catalog.csv@b79f45b2627f1f88d2edf3b1a47c787a6441457b",
+  "count": 2300,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -81105,6 +81105,38 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-sigh/sigh.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-sigh/sigh.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/survival-and-cooking-set",
+      "name": "survival and cooking set",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "survival-and-cooking-set/survival-and-cooking-set.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "hacknorris",
+      "source_url": "https://opengameart.org/content/survival-and-cooking-set",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: hacknorris (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "survival-and-cooking-set/preview.png",
+      "download_path": "survival-and-cooking-set/survival-and-cooking-set.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/survival-and-cooking-set/survival-and-cooking-set.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/survival-and-cooking-set/survival-and-cooking-set.zip"
       ],
       "sample": null,
       "multipart": false,

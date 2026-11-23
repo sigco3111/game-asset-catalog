@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@8cbb59c96f7ac554ac5857469c2f829a214c175a`
+> generated from `catalog.csv@b79f45b2627f1f88d2edf3b1a47c787a6441457b`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -60,6 +60,7 @@
 | [Sci-Fi Sounds](https://kenney.nl/assets/sci-fi-sounds) | `sfx` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/releases/download/sci-fi-sounds/kenney_scifisounds.zip) | 2026-11-23 |
 | [Sigh](https://opengameart.org/content/sigh) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-sigh/sigh.zip) | 2026-11-23 |
 | [Snowball Pile](https://polyfork.dev/asset/snowball-pile-af4655) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowball-pile/snowball-pile.zip) | 2026-11-23 |
+| [survival and cooking set](https://opengameart.org/content/survival-and-cooking-set) | `model-3d` | hacknorris | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/survival-and-cooking-set/survival-and-cooking-set.zip) | 2026-11-23 |
 | [Training Bench](https://polyfork.dev/asset/training-bench-34f148) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/training-bench/training-bench.zip) | 2026-11-23 |
 | [Traveller](https://polyfork.dev/asset/traveller-92f20c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/traveller/traveller.zip) | 2026-11-23 |
 | [Tree Lot Stand](https://polyfork.dev/asset/tree-lot-stand-89557d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/tree-lot-stand/tree-lot-stand.zip) | 2026-11-23 |
@@ -112,4 +113,3 @@
 | [Arched Stone Bridge](https://polyfork.dev/asset/arched-stone-bridge-9474cf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/arched-stone-bridge/arched-stone-bridge.zip) | 2026-11-21 |
 | [Army Supply Cart](https://polyfork.dev/asset/army-supply-cart-8cc498) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/army-supply-cart/army-supply-cart.zip) | 2026-11-21 |
 | [Basic Game GUI](https://opengameart.org/content/basic-game-gui) | `ui` | DomoArto | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/basic-game-gui/basic-game-gui.zip) | 2026-11-21 |
-| [C Tonal](https://opengameart.org/content/c-tonal) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/c-tonal/c-tonal.zip) | 2026-11-21 |

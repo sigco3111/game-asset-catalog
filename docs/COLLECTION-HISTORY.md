@@ -1,5 +1,13 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261124-02 자동 수집 등록 (1팩, 2026-11-24 02:32 KST)
+
+- 팩: survival and cooking set (slug survival-and-cooking-set), 라이선스: CC0, 제작자: hacknorris
+- 출처: https://opengameart.org/content/survival-and-cooking-set
+- 저장: assets-3d-lowpoly-2 survival-and-cooking-set/survival-and-cooking-set.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2299→2300, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261123-23 자동 수집 등록 (6팩, 2026-11-23 23:32 KST)
 
 - 팩: Breakdown (slug breakdown-0), 라이선스: CC-BY 4.0, 제작자: Ategon

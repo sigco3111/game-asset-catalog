@@ -1,5 +1,13 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261123-21 자동 수집 등록 (1팩, 2026-11-23 21:28 KST)
+
+- 팩: Windmill model (slug windmill-model), 라이선스: CC0, 제작자: Maria2241
+- 출처: https://opengameart.org/content/windmill-model
+- 저장: assets-3d-lowpoly-2 release:pack-windmill-model/windmill-model.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2289→2290, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261123-19 자동 수집 등록 (3팩, 2026-11-23 19:35 KST)
 
 - 팩: Ploughed Snowbank Run (slug ploughed-snowbank-run), 라이선스: CC-BY 4.0, 제작자: Polyfork

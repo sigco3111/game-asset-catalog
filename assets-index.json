@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@4da5943d88fbca8eb545f12d83ad93baf480a89e",
-  "count": 2289,
+  "generated_from": "catalog.csv@d6cceafbe2af76d9a7bf1a7374370d14f145af49",
+  "count": 2290,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -80782,6 +80782,38 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/tree-netting-baler/tree-netting-baler.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/tree-netting-baler/tree-netting-baler.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/windmill-model",
+      "name": "Windmill model",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "release:pack-windmill-model/windmill-model.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Maria2241",
+      "source_url": "https://opengameart.org/content/windmill-model",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Maria2241 (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "windmill-model/preview.png",
+      "download_path": "release:pack-windmill-model/windmill-model.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-windmill-model/windmill-model.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-windmill-model/windmill-model.zip"
       ],
       "sample": null,
       "multipart": false,

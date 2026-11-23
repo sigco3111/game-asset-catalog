@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@4da5943d88fbca8eb545f12d83ad93baf480a89e`
+> generated from `catalog.csv@d6cceafbe2af76d9a7bf1a7374370d14f145af49`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -57,6 +57,7 @@
 | [Tree Netting Baler](https://polyfork.dev/asset/tree-netting-baler-353d66) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/tree-netting-baler/tree-netting-baler.zip) | 2026-11-23 |
 | [Ultra Elements 원소 주문 VFX 코드 39종 (Three.js·WebGL2)](https://github.com/Humpalumps/ultra-elements) | `other` | Humpalumps (Ultra Elements), 데모 어댑트: Patch | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip) | 2026-11-23 |
 | [Weapon Rack](https://polyfork.dev/asset/weapon-rack-962f74) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/weapon-rack/weapon-rack.zip) | 2026-11-23 |
+| [Windmill model](https://opengameart.org/content/windmill-model) | `model-3d` | Maria2241 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-windmill-model/windmill-model.zip) | 2026-11-23 |
 | [A Kingdom of tears battle theme(REMAKE)(wip)](https://opengameart.org/content/a-kingdom-of-tears-battle-themeremakewip) | `music` | game guy maker | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-kingdom-of-tears-battle-themeremakewip/a-kingdom-of-tears-battle-themeremakewip.zip) | 2026-11-22 |
 | [A Short Walk With You](https://opengameart.org/content/a-short-walk-with-you) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-short-walk-with-you/a-short-walk-with-you.zip) | 2026-11-22 |
 | [Assets Free Interface UI Dark Miko](https://opengameart.org/content/assets-free-interface-ui-dark-miko) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip) | 2026-11-22 |
@@ -112,4 +113,3 @@
 | [Fantasy MMORPG HUD & Mobile Controllers](https://opengameart.org/content/fantasy-mmorpg-hud-mobile-controllers) | `ui` | AliHamieh | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-mmorpg-hud-mobile-controllers/fantasy-mmorpg-hud-mobile-controllers.zip) | 2026-11-21 |
 | [FL Version of October Jazz](https://opengameart.org/content/fl-version-of-october-jazz) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/fl-version-of-october-jazz/fl-version-of-october-jazz.zip) | 2026-11-21 |
 | [FPS Shooter HUD & Controllers](https://opengameart.org/content/fps-shooter-hud-controllers) | `ui` | AliHamieh | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fps-shooter-hud-controllers/fps-shooter-hud-controllers.zip) | 2026-11-21 |
-| [GUI Pack](https://opengameart.org/content/gui-pack-0) | `ui` | xvideosman | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/gui-pack-0/gui-pack-0.zip) | 2026-11-21 |

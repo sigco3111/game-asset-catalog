@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261123-21 자동 수집 등록 (3팩, 2026-11-23 21:49 KST)
+
+- 팩: Municipal Snowplough Truck (slug municipal-snowplough-truck), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/municipal-snowplough-truck-ab4ef7
+- 저장: assets-3d-polyfork municipal-snowplough-truck/municipal-snowplough-truck.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2290→2293, 기존 행 불변 확인
+- 팩: Ornament Shop (slug ornament-shop), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/ornament-shop-de2663
+- 저장: assets-3d-polyfork ornament-shop/ornament-shop.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2290→2293, 기존 행 불변 확인
+- 팩: Tree Lot Stand (slug tree-lot-stand), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/tree-lot-stand-89557d
+- 저장: assets-3d-polyfork tree-lot-stand/tree-lot-stand.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2290→2293, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261123-21 자동 수집 등록 (1팩, 2026-11-23 21:28 KST)
 
 - 팩: Windmill model (slug windmill-model), 라이선스: CC0, 제작자: Maria2241

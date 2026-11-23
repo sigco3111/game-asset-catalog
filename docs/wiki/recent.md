@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d6cceafbe2af76d9a7bf1a7374370d14f145af49`
+> generated from `catalog.csv@cd64a36bdda49db4cb5c6554c6350ac9e1f71c56`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -41,7 +41,9 @@
 | [Kevin MacLeod - Night Cave & Dark Times](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100446) | `music` | Kevin MacLeod | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/releases/download/kevin-macleod-night-cave-dark-times/kevin-macleod-night-cave-dark-times.zip) | 2026-11-23 |
 | [Lowpoly Tree Generator 절차적 나무 생성 코드](https://github.com/pajama-studio/lowpoly-tree-generator) | `other` | Rand Monster contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lowpoly-tree-generator/lowpoly-tree-generator.zip) | 2026-11-23 |
 | [Lowpoly Tree 샘플 모델 6종 (GLB)](https://github.com/pajama-studio/lowpoly-tree-generator) | `model-3d` | Rand Monster contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-tree-samples/lowpoly-tree-samples.zip) | 2026-11-23 |
+| [Municipal Snowplough Truck](https://polyfork.dev/asset/municipal-snowplough-truck-ab4ef7) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/municipal-snowplough-truck/municipal-snowplough-truck.zip) | 2026-11-23 |
 | [Orc berserker](https://polyfork.dev/asset/orc-berserker-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/orc-berserker/orc-berserker.zip) | 2026-11-23 |
+| [Ornament Shop](https://polyfork.dev/asset/ornament-shop-de2663) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ornament-shop/ornament-shop.zip) | 2026-11-23 |
 | [Pack Donkey](https://polyfork.dev/asset/pack-donkey-c69029) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pack-donkey/pack-donkey.zip) | 2026-11-23 |
 | [Ploughed Snowbank Run](https://polyfork.dev/asset/ploughed-snowbank-run-5d60bd) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ploughed-snowbank-run/ploughed-snowbank-run.zip) | 2026-11-23 |
 | [Procedural Animals 베이크 샘플 6종 (.animal)](https://github.com/majidmanzarpour/threejs-procedural-animals) | `model-3d` | Majid Manzarpour and procedural-animals contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/procedural-animal-samples/procedural-animal-samples.zip) | 2026-11-23 |
@@ -54,6 +56,7 @@
 | [Snowball Pile](https://polyfork.dev/asset/snowball-pile-af4655) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowball-pile/snowball-pile.zip) | 2026-11-23 |
 | [Training Bench](https://polyfork.dev/asset/training-bench-34f148) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/training-bench/training-bench.zip) | 2026-11-23 |
 | [Traveller](https://polyfork.dev/asset/traveller-92f20c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/traveller/traveller.zip) | 2026-11-23 |
+| [Tree Lot Stand](https://polyfork.dev/asset/tree-lot-stand-89557d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/tree-lot-stand/tree-lot-stand.zip) | 2026-11-23 |
 | [Tree Netting Baler](https://polyfork.dev/asset/tree-netting-baler-353d66) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/tree-netting-baler/tree-netting-baler.zip) | 2026-11-23 |
 | [Ultra Elements 원소 주문 VFX 코드 39종 (Three.js·WebGL2)](https://github.com/Humpalumps/ultra-elements) | `other` | Humpalumps (Ultra Elements), 데모 어댑트: Patch | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip) | 2026-11-23 |
 | [Weapon Rack](https://polyfork.dev/asset/weapon-rack-962f74) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/weapon-rack/weapon-rack.zip) | 2026-11-23 |
@@ -110,6 +113,3 @@
 | [Eerie Title Theme](https://opengameart.org/content/eerie-title-theme) | `music` | Technodono | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/eerie-title-theme/eerie-title-theme.zip) | 2026-11-21 |
 | [Elf Wrapping Table](https://polyfork.dev/asset/elf-wrapping-table-96c704) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/elf-wrapping-table/elf-wrapping-table.zip) | 2026-11-21 |
 | [Exclamation / Quest Icon](https://opengameart.org/content/exclamation-quest-icon) | `ui` | donte | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/exclamation-quest-icon/exclamation-quest-icon.zip) | 2026-11-21 |
-| [Fantasy MMORPG HUD & Mobile Controllers](https://opengameart.org/content/fantasy-mmorpg-hud-mobile-controllers) | `ui` | AliHamieh | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-mmorpg-hud-mobile-controllers/fantasy-mmorpg-hud-mobile-controllers.zip) | 2026-11-21 |
-| [FL Version of October Jazz](https://opengameart.org/content/fl-version-of-october-jazz) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/fl-version-of-october-jazz/fl-version-of-october-jazz.zip) | 2026-11-21 |
-| [FPS Shooter HUD & Controllers](https://opengameart.org/content/fps-shooter-hud-controllers) | `ui` | AliHamieh | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fps-shooter-hud-controllers/fps-shooter-hud-controllers.zip) | 2026-11-21 |

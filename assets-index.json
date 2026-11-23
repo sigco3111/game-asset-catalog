@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@d6cceafbe2af76d9a7bf1a7374370d14f145af49",
-  "count": 2290,
+  "generated_from": "catalog.csv@cd64a36bdda49db4cb5c6554c6350ac9e1f71c56",
+  "count": 2293,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -80814,6 +80814,105 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-windmill-model/windmill-model.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-windmill-model/windmill-model.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/municipal-snowplough-truck",
+      "name": "Municipal Snowplough Truck",
+      "repo": "assets-3d-polyfork",
+      "file": "municipal-snowplough-truck/municipal-snowplough-truck.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/municipal-snowplough-truck-ab4ef7",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Municipal Snowplough Truck by Polyfork (https://polyfork.dev/asset/municipal-snowplough-truck-ab4ef7), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "municipal-snowplough-truck/preview.png",
+      "download_path": "municipal-snowplough-truck/municipal-snowplough-truck.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/municipal-snowplough-truck/municipal-snowplough-truck.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/municipal-snowplough-truck/municipal-snowplough-truck.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/ornament-shop",
+      "name": "Ornament Shop",
+      "repo": "assets-3d-polyfork",
+      "file": "ornament-shop/ornament-shop.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/ornament-shop-de2663",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Ornament Shop by Polyfork (https://polyfork.dev/asset/ornament-shop-de2663), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "ornament-shop/preview.png",
+      "download_path": "ornament-shop/ornament-shop.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/ornament-shop/ornament-shop.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/ornament-shop/ornament-shop.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/tree-lot-stand",
+      "name": "Tree Lot Stand",
+      "repo": "assets-3d-polyfork",
+      "file": "tree-lot-stand/tree-lot-stand.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/tree-lot-stand-89557d",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Tree Lot Stand by Polyfork (https://polyfork.dev/asset/tree-lot-stand-89557d), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "tree-lot-stand/preview.png",
+      "download_path": "tree-lot-stand/tree-lot-stand.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/tree-lot-stand/tree-lot-stand.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/tree-lot-stand/tree-lot-stand.zip"
       ],
       "sample": null,
       "multipart": false,

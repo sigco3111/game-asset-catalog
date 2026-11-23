@@ -1,5 +1,14 @@
 # 수집 이력 (라운드별 상세)
 
+### EFFEKSEER-SAMPLES-20261123 (1팩)
+
+- Effekseer 샘플 이펙트 33종(.efk, WebGL 런타임 포함), assets-2d-pixel 릴리스 등록
+- 출처: https://patch.gg/patch/effekseer (Patch 블록 개별 선별, 사이트 대량 미러 아님)
+- 라이선스: 이펙트 33종 CC0(Pierre, NextSoft, AndrewFM, Suzuki, tktk, Effekseer 프로젝트, 공식 Sample readme가 폴더 전체 커버, 크레딧은 요청이며 의무 아님). Effekseer WebGL 런타임 1.80.8은 MIT(LICENSE 동봉)
+- ZIP에 LICENSE, LICENSE_TOOL, SAMPLES-LICENCE-readme.txt, CREDITS.txt, LICENSE-SOURCE.txt, 라이선스 노트 동봉. 릴리스 ZIP과 미리보기 MD5 일치 확인
+- Patch 데모 코드, 바닥/하늘 텍스처, three.js, 폰트 제외. 한글화 포크는 sigco3111/effekseer-ko 별도 저장소
+- 3D 파티클 데이터라 Effekseer 런타임 필요. 빈 화면 원인은 클라우드 브라우저에서 미확정이었고 사용자 기기에서 이펙트 표시 확인
+
 ### PIXELFX-DOWNLOAD-20261123 (기존 1팩 수정)
 
 - pixelfx는 파일 위치에 GitHub tree 폴더 URL이 들어 있어 색인 생성기가 다운로드 URL을 만들지 않았음

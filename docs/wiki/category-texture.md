@@ -1,20 +1,21 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@6088ea948d7ccfbee9d94f4df99473fb75a005e8`
+> generated from `catalog.csv@ab373671f695b7d4facf09768755f40fce4b0b8d`
 
 # 텍스처 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `texture`(텍스처)에 해당하는 에셋 **72개**입니다. 라이브러리에서 보기: [?cat=texture](https://sigco3111.github.io/game-asset-catalog/?cat=texture)
+분류 `texture`(텍스처)에 해당하는 에셋 **73개**입니다. 라이브러리에서 보기: [?cat=texture](https://sigco3111.github.io/game-asset-catalog/?cat=texture)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 72행 (전체 72개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 73행 (전체 73개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Retro Textures Liminal](https://kenney.nl/assets/retro-textures-liminal) | `texture` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/retro-textures-liminal/retro-textures-liminal.zip) | 2026-11-25 |
 | [Long Wind Poly Haven 스캔 텍스처 14종 (PBR 1K/2K)](https://polyhaven.com) | `texture` | Poly Haven | CC0 | X | X | 6개 분할 | 2026-11-24 |
 | [Papertrails 종이 질감 텍스처 9종](https://github.com/xikhar/papertrails) | `texture` | xikhar (Shikhar) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/papertrails-paper-textures/papertrails-paper-textures.zip) | 2026-11-20 |
 | [5 wood textures](https://opengameart.org/content/5-wood-textures) | `texture` | Luke.RUSTLTD | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/5-wood-textures/5-wood-textures.zip) | 2026-11-07 |

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@8145019cc2916ab924e9d9a02dfbdf3a00fc3c0d`
+> generated from `catalog.csv@47aa61bc6c0c9c57888d4a0855ad714c5b4a5a14`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,6 +13,9 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Hand Stretch Film Roll](https://polyfork.dev/asset/hand-stretch-film-roll-0e602d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/hand-stretch-film-roll/hand-stretch-film-roll.zip) | 2026-11-25 |
+| [High-Bay LED Light](https://polyfork.dev/asset/high-bay-led-light-aba3b2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/high-bay-led-light/high-bay-led-light.zip) | 2026-11-25 |
+| [Pedestrian Safety Barrier Run](https://polyfork.dev/asset/pedestrian-safety-barrier-run-2afeca) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pedestrian-safety-barrier-run/pedestrian-safety-barrier-run.zip) | 2026-11-25 |
 | [Blood Moon](https://opengameart.org/content/blood-moon-0) | `music` | Ategon | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/blood-moon-0/blood-moon-0.zip) | 2026-11-24 |
 | [Car Theft 101 (Looping)](https://opengameart.org/content/car-theft-101-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/car-theft-101-looping/car-theft-101-looping.zip) | 2026-11-24 |
 | [Child at the fun fair](https://polyfork.dev/asset/child-at-the-fun-fair-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/child-at-the-fun-fair/child-at-the-fun-fair.zip) | 2026-11-24 |
@@ -110,6 +113,3 @@
 | [Main Street Pixelville (Looping)](https://opengameart.org/content/main-street-pixelville-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/main-street-pixelville-looping/main-street-pixelville-looping.zip) | 2026-11-23 |
 | [Municipal Snowplough Truck](https://polyfork.dev/asset/municipal-snowplough-truck-ab4ef7) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/municipal-snowplough-truck/municipal-snowplough-truck.zip) | 2026-11-23 |
 | [Orc berserker](https://polyfork.dev/asset/orc-berserker-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/orc-berserker/orc-berserker.zip) | 2026-11-23 |
-| [Ornament Shop](https://polyfork.dev/asset/ornament-shop-de2663) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ornament-shop/ornament-shop.zip) | 2026-11-23 |
-| [outerim](https://opengameart.org/content/outerim) | `music` | tomcat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/outerim/outerim.zip) | 2026-11-23 |
-| [Pack Donkey](https://polyfork.dev/asset/pack-donkey-c69029) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pack-donkey/pack-donkey.zip) | 2026-11-23 |

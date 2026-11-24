@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@8145019cc2916ab924e9d9a02dfbdf3a00fc3c0d`
+> generated from `catalog.csv@47aa61bc6c0c9c57888d4a0855ad714c5b4a5a14`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **756개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **759개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 756개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 759개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Hand Stretch Film Roll](https://polyfork.dev/asset/hand-stretch-film-roll-0e602d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/hand-stretch-film-roll/hand-stretch-film-roll.zip) | 2026-11-25 |
+| [High-Bay LED Light](https://polyfork.dev/asset/high-bay-led-light-aba3b2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/high-bay-led-light/high-bay-led-light.zip) | 2026-11-25 |
+| [Pedestrian Safety Barrier Run](https://polyfork.dev/asset/pedestrian-safety-barrier-run-2afeca) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pedestrian-safety-barrier-run/pedestrian-safety-barrier-run.zip) | 2026-11-25 |
 | [Child at the fun fair](https://polyfork.dev/asset/child-at-the-fun-fair-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/child-at-the-fun-fair/child-at-the-fun-fair.zip) | 2026-11-24 |
 | [Court jester](https://polyfork.dev/asset/court-jester-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/court-jester/court-jester.zip) | 2026-11-24 |
 | [Hisar 중세 공성전 3D 모델 12종 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | `model-3d` | Furkiozknn | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/hisar-siege-models/hisar-siege-models.zip) | 2026-11-24 |
@@ -414,6 +417,3 @@
 | [3TD Furniture Pack](https://opengameart.org/content/3td-furniture-pack) | `model-3d` | reeguy | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.23/3td-furniture-pack.zip) | 2026-11-04 |
 | [3TD Harbour Pack](https://opengameart.org/content/3td-harbour-pack) | `model-3d` | bobjh | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.18/3td-harbour-pack.zip) | 2026-11-04 |
 | [3TD Office Starter Pack](https://opengameart.org/content/3td-office-starter-pack) | `model-3d` | Chris\_M\_The\_Gam... | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.32/3td-office-starter-pack.zip) | 2026-11-04 |
-| [3TD Starter Pack #1](https://opengameart.org/content/3td-starter-pack-1) | `model-3d` | Julius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.19/3td-starter-pack-1.zip) | 2026-11-04 |
-| [3TD Tropical Environment Pack v2.0](https://opengameart.org/content/3td-tropical-environment-pack-v20) | `model-3d` | sysgod | CC0 | X | X | 2개 분할 | 2026-11-04 |
-| [86 Household items](https://opengameart.org/content/86-household-items) | `model-3d` | vlandemart | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.31/86-household-items.zip) | 2026-11-04 |

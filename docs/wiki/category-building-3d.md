@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@8145019cc2916ab924e9d9a02dfbdf3a00fc3c0d`
+> generated from `catalog.csv@47aa61bc6c0c9c57888d4a0855ad714c5b4a5a14`
 
 # 3D 건물 모음
 

@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@8145019cc2916ab924e9d9a02dfbdf3a00fc3c0d",
-  "count": 2363,
+  "generated_from": "catalog.csv@47aa61bc6c0c9c57888d4a0855ad714c5b4a5a14",
+  "count": 2366,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -83538,6 +83538,105 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/santa-s-workshop/santa-s-workshop.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/santa-s-workshop/santa-s-workshop.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/hand-stretch-film-roll",
+      "name": "Hand Stretch Film Roll",
+      "repo": "assets-3d-polyfork",
+      "file": "hand-stretch-film-roll/hand-stretch-film-roll.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/hand-stretch-film-roll-0e602d",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Hand Stretch Film Roll by Polyfork (https://polyfork.dev/asset/hand-stretch-film-roll-0e602d), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-25",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "hand-stretch-film-roll/preview.png",
+      "download_path": "hand-stretch-film-roll/hand-stretch-film-roll.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/hand-stretch-film-roll/hand-stretch-film-roll.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/hand-stretch-film-roll/hand-stretch-film-roll.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/high-bay-led-light",
+      "name": "High-Bay LED Light",
+      "repo": "assets-3d-polyfork",
+      "file": "high-bay-led-light/high-bay-led-light.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/high-bay-led-light-aba3b2",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "High-Bay LED Light by Polyfork (https://polyfork.dev/asset/high-bay-led-light-aba3b2), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-25",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "high-bay-led-light/preview.png",
+      "download_path": "high-bay-led-light/high-bay-led-light.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/high-bay-led-light/high-bay-led-light.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/high-bay-led-light/high-bay-led-light.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/pedestrian-safety-barrier-run",
+      "name": "Pedestrian Safety Barrier Run",
+      "repo": "assets-3d-polyfork",
+      "file": "pedestrian-safety-barrier-run/pedestrian-safety-barrier-run.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/pedestrian-safety-barrier-run-2afeca",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Pedestrian Safety Barrier Run by Polyfork (https://polyfork.dev/asset/pedestrian-safety-barrier-run-2afeca), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-25",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "pedestrian-safety-barrier-run/preview.png",
+      "download_path": "pedestrian-safety-barrier-run/pedestrian-safety-barrier-run.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/pedestrian-safety-barrier-run/pedestrian-safety-barrier-run.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/pedestrian-safety-barrier-run/pedestrian-safety-barrier-run.zip"
       ],
       "sample": null,
       "multipart": false,

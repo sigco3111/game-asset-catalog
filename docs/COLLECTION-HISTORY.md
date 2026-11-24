@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261125-06 자동 수집 등록 (3팩, 2026-11-25 06:11 KST)
+
+- 팩: Hand Stretch Film Roll (slug hand-stretch-film-roll), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/hand-stretch-film-roll-0e602d
+- 저장: assets-3d-polyfork hand-stretch-film-roll/hand-stretch-film-roll.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2363→2366, 기존 행 불변 확인
+- 팩: High-Bay LED Light (slug high-bay-led-light), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/high-bay-led-light-aba3b2
+- 저장: assets-3d-polyfork high-bay-led-light/high-bay-led-light.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2363→2366, 기존 행 불변 확인
+- 팩: Pedestrian Safety Barrier Run (slug pedestrian-safety-barrier-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/pedestrian-safety-barrier-run-2afeca
+- 저장: assets-3d-polyfork pedestrian-safety-barrier-run/pedestrian-safety-barrier-run.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2363→2366, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261124-23 자동 수집 등록 (3팩, 2026-11-24 23:35 KST)
 
 - 팩: Child at the fun fair (slug child-at-the-fun-fair), 라이선스: CC-BY 4.0, 제작자: Polyfork

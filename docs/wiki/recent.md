@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@7aa2c4470c40f2718db419f1164644f87691e353`
+> generated from `catalog.csv@d85a10f7e05a496a7020f4393fa33b63feef2e8e`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -25,9 +25,15 @@
 | [Free Monster Pack (Frakassets)](https://frakassets.itch.io/free-monster-pack) | `sprite-2d` | Frakassets | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/free-monster-pack/free-monster-pack.zip) | 2026-11-24 |
 | [Hero Knight (LuizMelo)](https://luizmelo.itch.io/hero-knight) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/hero-knight/hero-knight.zip) | 2026-11-24 |
 | [Hero Knight 2 (LuizMelo)](https://luizmelo.itch.io/hero-knight-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/hero-knight-2/hero-knight-2.zip) | 2026-11-24 |
+| [Hisar 중세 게임 UI 아이콘 16종·로고 문장](https://github.com/Furkiozknn/kale-savunmasi) | `ui` | Furkiozknn | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/hisar-ui-icons/hisar-ui-icons.zip) | 2026-11-24 |
+| [Hisar 중세 공성전 3D 모델 12종](https://github.com/Furkiozknn/kale-savunmasi) | `model-3d` | Furkiozknn | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/hisar-siege-models/hisar-siege-models.zip) | 2026-11-24 |
+| [Hisar 치비 캐릭터 아트 9종 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | `sprite-2d` | Furkiozknn | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/hisar-chibi-art/hisar-chibi-art.zip) | 2026-11-24 |
 | [Hung Stocking Set](https://polyfork.dev/asset/hung-stocking-set-6191aa) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/hung-stocking-set/hung-stocking-set.zip) | 2026-11-24 |
 | [Huntress (LuizMelo)](https://luizmelo.itch.io/huntress) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/huntress/huntress.zip) | 2026-11-24 |
 | [Huntress 2 (LuizMelo)](https://luizmelo.itch.io/huntress-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/huntress-2/huntress-2.zip) | 2026-11-24 |
+| [Kervan asset-forge 절차적 3D 모델 생성 파이프라인](https://github.com/Furkiozknn/kervan) | `other` | Furkiozknn | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/kervan-asset-forge/kervan-asset-forge.zip) | 2026-11-24 |
+| [Kervan 아나톨리아 도시·카라반 3D 모델 11종](https://github.com/Furkiozknn/kervan) | `model-3d` | Furkiozknn | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/kervan-anatolia-models/kervan-anatolia-models.zip) | 2026-11-24 |
+| [Kervan 지형·양피지 텍스처와 하늘 HDR (CC0)](https://github.com/Furkiozknn/kervan) | `other` | Poly Haven · ambientCG (Kervan 프로젝트 가공) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/kervan-env-textures/kervan-env-textures.zip) | 2026-11-24 |
 | [Martial Hero (LuizMelo)](https://luizmelo.itch.io/martial-hero) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/martial-hero/martial-hero.zip) | 2026-11-24 |
 | [Martial Hero 2 (LuizMelo)](https://luizmelo.itch.io/martial-hero-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/martial-hero-2/martial-hero-2.zip) | 2026-11-24 |
 | [Martial Hero 3 (LuizMelo)](https://luizmelo.itch.io/martial-hero-3) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/martial-hero-3/martial-hero-3.zip) | 2026-11-24 |
@@ -107,9 +113,3 @@
 | [Cave](https://opengameart.org/content/cave-1) | `music` | maggie.beans3696 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cave-1/cave-1.zip) | 2026-11-22 |
 | [Chinese Scholar Tree](https://polyfork.dev/asset/chinese-scholar-tree-059fce) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-scholar-tree/chinese-scholar-tree.zip) | 2026-11-22 |
 | [City Wall Run](https://polyfork.dev/asset/city-wall-run-1f4c31) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/city-wall-run/city-wall-run.zip) | 2026-11-22 |
-| [Colored Number-Buttons (01-99)](https://opengameart.org/content/colored-number-buttons-01-99) | `ui` | DreyArts | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/colored-number-buttons-01-99/colored-number-buttons-01-99.zip) | 2026-11-22 |
-| [Column Run](https://polyfork.dev/asset/column-run-018da3) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/column-run/column-run.zip) | 2026-11-22 |
-| [Container Loader](https://polyfork.dev/asset/container-loader-254a74) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/container-loader/container-loader.zip) | 2026-11-22 |
-| [Departures Kerb Canopy Run](https://polyfork.dev/asset/departures-kerb-canopy-run-d1ed9e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/departures-kerb-canopy-run/departures-kerb-canopy-run.zip) | 2026-11-22 |
-| [Fun Hyper Casual UI](https://opengameart.org/content/fun-hyper-casual-ui) | `ui` | AlmostMikhail | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fun-hyper-casual-ui/fun-hyper-casual-ui.zip) | 2026-11-22 |
-| [Gay Old Time (Bounce House)](https://opengameart.org/content/gay-old-time-bounce-house) | `music` | Haley Halcyon | OGA-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/gay-old-time-bounce-house/gay-old-time-bounce-house.zip) | 2026-11-22 |

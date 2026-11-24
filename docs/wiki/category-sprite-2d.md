@@ -1,17 +1,17 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@7aa2c4470c40f2718db419f1164644f87691e353`
+> generated from `catalog.csv@d85a10f7e05a496a7020f4393fa33b63feef2e8e`
 
 # 2D 스프라이트 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `sprite-2d`(2D 스프라이트)에 해당하는 에셋 **165개**입니다. 라이브러리에서 보기: [?cat=sprite-2d](https://sigco3111.github.io/game-asset-catalog/?cat=sprite-2d)
+분류 `sprite-2d`(2D 스프라이트)에 해당하는 에셋 **166개**입니다. 라이브러리에서 보기: [?cat=sprite-2d](https://sigco3111.github.io/game-asset-catalog/?cat=sprite-2d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 165행 (전체 165개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 166행 (전체 166개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Free Monster Pack (Frakassets)](https://frakassets.itch.io/free-monster-pack) | `sprite-2d` | Frakassets | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/free-monster-pack/free-monster-pack.zip) | 2026-11-24 |
 | [Hero Knight (LuizMelo)](https://luizmelo.itch.io/hero-knight) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/hero-knight/hero-knight.zip) | 2026-11-24 |
 | [Hero Knight 2 (LuizMelo)](https://luizmelo.itch.io/hero-knight-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/hero-knight-2/hero-knight-2.zip) | 2026-11-24 |
+| [Hisar 치비 캐릭터 아트 9종 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | `sprite-2d` | Furkiozknn | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/hisar-chibi-art/hisar-chibi-art.zip) | 2026-11-24 |
 | [Huntress (LuizMelo)](https://luizmelo.itch.io/huntress) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/huntress/huntress.zip) | 2026-11-24 |
 | [Huntress 2 (LuizMelo)](https://luizmelo.itch.io/huntress-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/huntress-2/huntress-2.zip) | 2026-11-24 |
 | [Martial Hero (LuizMelo)](https://luizmelo.itch.io/martial-hero) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/martial-hero/martial-hero.zip) | 2026-11-24 |

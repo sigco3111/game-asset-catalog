@@ -1,5 +1,12 @@
 # 수집 이력 (라운드별 상세)
 
+### 수동 라운드: Kervan·Hisar 프로젝트 에셋 6팩 (2026-11-24 KST)
+
+- 팩: Kervan 아나톨리아 도시·카라반 3D 모델 11종(MIT, assets-3d-lowpoly-2 kervan-anatolia-models), Kervan 지형·양피지 텍스처와 하늘 HDR(CC0, kervan-env-textures), Kervan asset-forge Blender 생성 파이프라인(MIT, assets-code kervan-asset-forge), Hisar 중세 공성전 3D 모델 12종(MIT·AI 생성 고지, hisar-siege-models), Hisar UI 아이콘 16종·로고(MIT·AI 생성 고지, assets-ui-icons hisar-ui-icons), Hisar 치비 캐릭터 아트 9종(알 수 없음·재사용 미확인, assets-2d-pixel hisar-chibi-art)
+- 출처: https://github.com/Furkiozknn/kervan, https://github.com/Furkiozknn/kale-savunmasi (사용자 지정 수집, iMessage 2026-11-24)
+- 포털 등록: catalog.csv 2331→2337, 기존 행 불변 확인
+- 규칙 메모: Kervan GLB는 원작 CREDITS.md가 자체 Blender 스크립트 제작·MIT 적용 명시. Hisar GLB·아이콘은 Higgsfield(tripo_3d·gpt_image_2_5) 생성물로 약관 4.4 출력물 소유·상업 이용 제한 없음(2026-11-24 확인)을 근거로 원작 MIT 표기 + AI 생성 고지. 치비 WebP 9종(Gemini 무료 티어)과 Kervan assets/3d WebP 15종은 출력물 2차 이용 범위 미확인으로 Kervan 분은 등록 보류, Hisar 분은 수집 정책상 미확인 팩으로 분리 수록. Kervan SFX mp3 12종은 Kenney CC0 원천 팩(assets-audio kenney_rpgaudio·interfacesounds·impactsounds)이 이미 등록돼 있어 중복 수집하지 않음
+
 ### 수동 라운드: 스프라이트 3팩 (2차) (2026-11-24 KST)
 
 - 팩: SpriteCanvas 10팩 묶음(CC0, AI 도움 제작 고지), Cole Foster Voxel Dungeon(CC0), Dajeki 8x8 캐릭터(CC0)

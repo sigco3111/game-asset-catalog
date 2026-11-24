@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e5403c09f88f10393a0e234e400343e4acb33fcd`
+> generated from `catalog.csv@9812854f59f96b7805d5d9ffaea79b28adfee61e`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -16,6 +16,7 @@
 | [Cold Smoke SDF 메쉬 생성 코드 (Surface Nets)](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-sdf-mesher/cold-smoke-sdf-mesher.zip) | 2026-11-24 |
 | [Cold Smoke WebAudio 음악·효과음 합성 코드](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-audio-synth/cold-smoke-audio-synth.zip) | 2026-11-24 |
 | [Cold Smoke 절차적 인체 생성 코드 (Human)](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-human-body/cold-smoke-human-body.zip) | 2026-11-24 |
+| [Court jester](https://polyfork.dev/asset/court-jester-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/court-jester/court-jester.zip) | 2026-11-24 |
 | [Dajeki's 8x8 Fantasy Character Sprites](https://dajeki.itch.io/dajekis-8x8-fantasy-character-sprites) | `sprite-2d` | Dajeki | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/dajeki-8x8-fantasy-characters/dajeki-8x8-fantasy-characters.zip) | 2026-11-24 |
 | [Dead Precinct PS1 WebGL 렌더러 코드](https://github.com/Bao5ye/dead-precinct) | `other` | Bao5ye | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/dead-precinct-ps1-renderer/dead-precinct-ps1-renderer.zip) | 2026-11-24 |
 | [Dead Precinct WebAudio 합성 효과음 26종·음악 3곡 코드](https://github.com/Bao5ye/dead-precinct) | `other` | Bao5ye | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/dead-precinct-audio-synth/dead-precinct-audio-synth.zip) | 2026-11-24 |
@@ -61,6 +62,8 @@
 | [Olympian Throne](https://polyfork.dev/asset/olympian-throne-b31426) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/olympian-throne/olympian-throne.zip) | 2026-11-24 |
 | [Pet Cats Pack (LuizMelo)](https://luizmelo.itch.io/pet-cat-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/pet-cat-pack/pet-cat-pack.zip) | 2026-11-24 |
 | [Pet Dogs Pack (LuizMelo)](https://luizmelo.itch.io/pet-dogs-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/pet-dogs-pack/pet-dogs-pack.zip) | 2026-11-24 |
+| [Propylon Gateway](https://polyfork.dev/asset/propylon-gateway-8ce9dd) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/propylon-gateway/propylon-gateway.zip) | 2026-11-24 |
+| [Snowy Owl](https://polyfork.dev/asset/snowy-owl-9e83d6) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowy-owl/snowy-owl.zip) | 2026-11-24 |
 | [Voxel Dungeon Sprites & Tiles (Cole Foster)](https://colefoster.itch.io/voxel-dungeon-pack) | `sprite-2d` | Cole Foster | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/voxel-dungeon-sprites-tiles/voxel-dungeon-sprites-tiles.zip) | 2026-11-24 |
 | [Wizard Pack (LuizMelo)](https://luizmelo.itch.io/wizard-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/wizard-pack/wizard-pack.zip) | 2026-11-24 |
 | [Zeus](https://polyfork.dev/asset/zeus-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/zeus/zeus.zip) | 2026-11-24 |
@@ -110,6 +113,3 @@
 | [Runway Edge Light Run](https://polyfork.dev/asset/runway-edge-light-run-ebe7e1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/runway-edge-light-run/runway-edge-light-run.zip) | 2026-11-23 |
 | [Sci-Fi Sounds](https://kenney.nl/assets/sci-fi-sounds) | `sfx` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/releases/download/sci-fi-sounds/kenney_scifisounds.zip) | 2026-11-23 |
 | [Sigh](https://opengameart.org/content/sigh) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-sigh/sigh.zip) | 2026-11-23 |
-| [Snowball Pile](https://polyfork.dev/asset/snowball-pile-af4655) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowball-pile/snowball-pile.zip) | 2026-11-23 |
-| [survival and cooking set](https://opengameart.org/content/survival-and-cooking-set) | `model-3d` | hacknorris | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/survival-and-cooking-set/survival-and-cooking-set.zip) | 2026-11-23 |
-| [Training Bench](https://polyfork.dev/asset/training-bench-34f148) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/training-bench/training-bench.zip) | 2026-11-23 |

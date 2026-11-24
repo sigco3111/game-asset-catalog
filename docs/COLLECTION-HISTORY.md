@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261124-19 자동 수집 등록 (3팩, 2026-11-24 19:28 KST)
+
+- 팩: Court jester (slug court-jester), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/court-jester-base
+- 저장: assets-3d-polyfork court-jester/court-jester.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2351→2354, 기존 행 불변 확인
+- 팩: Propylon Gateway (slug propylon-gateway), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/propylon-gateway-8ce9dd
+- 저장: assets-3d-polyfork propylon-gateway/propylon-gateway.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2351→2354, 기존 행 불변 확인
+- 팩: Snowy Owl (slug snowy-owl), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/snowy-owl-9e83d6
+- 저장: assets-3d-polyfork snowy-owl/snowy-owl.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2351→2354, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### 수동 라운드: Dead Precinct 에셋 3팩 (2026-11-24 KST)
 
 - 팩: 프리렌더 배경 10장(MIT, assets-2d-pixel dead-precinct-backgrounds), WebAudio 합성 효과음 26종·음악 3곡 코드(MIT, assets-code dead-precinct-audio-synth), PS1 WebGL 렌더러 코드(MIT, assets-code dead-precinct-ps1-renderer)

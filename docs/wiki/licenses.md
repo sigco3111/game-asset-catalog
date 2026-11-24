@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e5403c09f88f10393a0e234e400343e4acb33fcd`
+> generated from `catalog.csv@9812854f59f96b7805d5d9ffaea79b28adfee61e`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2351개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2354개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -17,7 +17,7 @@
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
 | cc0 | CC0 | 1949 | 0 | 예 |
-| cc-by | CC-BY | 326 | 326 | 예 |
+| cc-by | CC-BY | 329 | 329 | 예 |
 | mit | MIT | 34 | 33 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
 | other | 기타(허용 목록 밖) | 31 | 28 | 아니오 |
@@ -29,7 +29,7 @@
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
 | CC0 | cc0 | X | 1945 |
-| CC-BY 4.0 | cc-by | O | 190 |
+| CC-BY 4.0 | cc-by | O | 193 |
 | CC-BY 3.0 | cc-by | O | 117 |
 | MIT | mit | O | 33 |
 | 알 수 없음 | other | O | 13 |
@@ -55,13 +55,14 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 398개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 401개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
 | [Cold Smoke SDF 메쉬 생성 코드 (Surface Nets)](https://github.com/huiskylabs/cold-smoke) | Huisky | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Huisky) | 2026-11-24 |
 | [Cold Smoke WebAudio 음악·효과음 합성 코드](https://github.com/huiskylabs/cold-smoke) | Huisky | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Huisky) | 2026-11-24 |
 | [Cold Smoke 절차적 인체 생성 코드 (Human)](https://github.com/huiskylabs/cold-smoke) | Huisky | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Huisky) | 2026-11-24 |
+| [Court jester](https://polyfork.dev/asset/court-jester-base) | Polyfork | CC-BY 4.0 | Court jester by Polyfork (https://polyfork.dev/asset/court-jester-base), CC BY 4.0 | 2026-11-24 |
 | [Dead Precinct PS1 WebGL 렌더러 코드](https://github.com/Bao5ye/dead-precinct) | Bao5ye | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Bao5ye) | 2026-11-24 |
 | [Dead Precinct WebAudio 합성 효과음 26종·음악 3곡 코드](https://github.com/Bao5ye/dead-precinct) | Bao5ye | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Bao5ye) | 2026-11-24 |
 | [Dead Precinct 프리렌더 배경 10장 (320×240)](https://github.com/Bao5ye/dead-precinct) | Bao5ye | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Bao5ye) | 2026-11-24 |
@@ -79,6 +80,8 @@
 | [Mole Lighthouse](https://polyfork.dev/asset/mole-lighthouse-c690b4) | Polyfork | CC-BY 4.0 | Mole Lighthouse by Polyfork (https://polyfork.dev/asset/mole-lighthouse-c690b4), CC BY 4.0 | 2026-11-24 |
 | [Octopus Drying Line](https://polyfork.dev/asset/octopus-drying-line-750d63) | Polyfork | CC-BY 4.0 | Octopus Drying Line by Polyfork (https://polyfork.dev/asset/octopus-drying-line-750d63), CC BY 4.0 | 2026-11-24 |
 | [Olympian Throne](https://polyfork.dev/asset/olympian-throne-b31426) | Polyfork | CC-BY 4.0 | Olympian Throne by Polyfork (https://polyfork.dev/asset/olympian-throne-b31426), CC BY 4.0 | 2026-11-24 |
+| [Propylon Gateway](https://polyfork.dev/asset/propylon-gateway-8ce9dd) | Polyfork | CC-BY 4.0 | Propylon Gateway by Polyfork (https://polyfork.dev/asset/propylon-gateway-8ce9dd), CC BY 4.0 | 2026-11-24 |
+| [Snowy Owl](https://polyfork.dev/asset/snowy-owl-9e83d6) | Polyfork | CC-BY 4.0 | Snowy Owl by Polyfork (https://polyfork.dev/asset/snowy-owl-9e83d6), CC BY 4.0 | 2026-11-24 |
 | [Zeus](https://polyfork.dev/asset/zeus-base) | Polyfork | CC-BY 4.0 | Zeus by Polyfork (https://polyfork.dev/asset/zeus-base), CC BY 4.0 | 2026-11-24 |
 | [00GameDevs 마법 VFX Starter 5종 (Three.js·WebGL2)](https://patch.gg/00vchannel/00gamedevs-vfx-starter) | 00GameDevs (@00vchannel) | MIT | required (MIT): Copyright (c) 2026 00GameDevs (@00vchannel), 저작권·허가 고지 유지 | 2026-11-23 |
 | [AbilityCasting 결투장·생물·소품 3D 모델 5종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | mohamedachrefelouafi | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi). 환경 HDRI만 Poly Haven CC0(귀속 불필요) | 2026-11-23 |

@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@e5403c09f88f10393a0e234e400343e4acb33fcd",
-  "count": 2351,
+  "generated_from": "catalog.csv@9812854f59f96b7805d5d9ffaea79b28adfee61e",
+  "count": 2354,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -83148,6 +83148,105 @@
       "download_url": "https://github.com/sigco3111/assets-code/raw/main/dead-precinct-ps1-renderer/dead-precinct-ps1-renderer.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-code/raw/main/dead-precinct-ps1-renderer/dead-precinct-ps1-renderer.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/court-jester",
+      "name": "Court jester",
+      "repo": "assets-3d-polyfork",
+      "file": "court-jester/court-jester.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/court-jester-base",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Court jester by Polyfork (https://polyfork.dev/asset/court-jester-base), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "court-jester/preview.png",
+      "download_path": "court-jester/court-jester.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/court-jester/court-jester.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/court-jester/court-jester.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/propylon-gateway",
+      "name": "Propylon Gateway",
+      "repo": "assets-3d-polyfork",
+      "file": "propylon-gateway/propylon-gateway.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/propylon-gateway-8ce9dd",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Propylon Gateway by Polyfork (https://polyfork.dev/asset/propylon-gateway-8ce9dd), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "propylon-gateway/preview.png",
+      "download_path": "propylon-gateway/propylon-gateway.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/propylon-gateway/propylon-gateway.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/propylon-gateway/propylon-gateway.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/snowy-owl",
+      "name": "Snowy Owl",
+      "repo": "assets-3d-polyfork",
+      "file": "snowy-owl/snowy-owl.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/snowy-owl-9e83d6",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Snowy Owl by Polyfork (https://polyfork.dev/asset/snowy-owl-9e83d6), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "snowy-owl/preview.png",
+      "download_path": "snowy-owl/snowy-owl.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowy-owl/snowy-owl.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowy-owl/snowy-owl.zip"
       ],
       "sample": null,
       "multipart": false,

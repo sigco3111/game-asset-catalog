@@ -6,20 +6,22 @@
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `sprite-2d`(2D 스프라이트)에 해당하는 에셋 **162개**입니다. 라이브러리에서 보기: [?cat=sprite-2d](https://sigco3111.github.io/game-asset-catalog/?cat=sprite-2d)
+분류 `sprite-2d`(2D 스프라이트)에 해당하는 에셋 **165개**입니다. 라이브러리에서 보기: [?cat=sprite-2d](https://sigco3111.github.io/game-asset-catalog/?cat=sprite-2d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 162행 (전체 162개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 165행 (전체 165개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Dajeki's 8x8 Fantasy Character Sprites](https://dajeki.itch.io/dajekis-8x8-fantasy-character-sprites) | `sprite-2d` | Dajeki | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/dajeki-8x8-fantasy-characters/dajeki-8x8-fantasy-characters.zip) | 2026-11-24 |
 | [Evil Wizard (LuizMelo)](https://luizmelo.itch.io/evil-wizard) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/evil-wizard/evil-wizard.zip) | 2026-11-24 |
 | [Evil Wizard 2 (LuizMelo)](https://luizmelo.itch.io/evil-wizard-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/evil-wizard-2/evil-wizard-2.zip) | 2026-11-24 |
 | [Evil Wizard 3 (LuizMelo)](https://luizmelo.itch.io/evil-wizard-3) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/evil-wizard-3/evil-wizard-3.zip) | 2026-11-24 |
 | [Fantasy Warrior (LuizMelo)](https://luizmelo.itch.io/fantasy-warrior) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/fantasy-warrior/fantasy-warrior.zip) | 2026-11-24 |
 | [Fire Worm (LuizMelo)](https://luizmelo.itch.io/fire-worm) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/fire-worm/fire-worm.zip) | 2026-11-24 |
+| [Free CC0 2D & Pixel Character Sprite Sheets (SpriteCanvas)](https://spritecanvas.itch.io/free-cc0-2d-and-pixel-character-packs) | `sprite-2d` | SpriteCanvas | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/free-cc0-2d-pixel-character-packs/free-cc0-2d-pixel-character-packs.zip) | 2026-11-24 |
 | [Free CC0 Fantasy Sprite Sheets](https://spritecanvas.itch.io/free-cc0-fantasy-sprite-sheets) | `sprite-2d` | SpriteCanvas | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/free-cc0-fantasy-sprite-sheets/free-cc0-fantasy-sprite-sheets.zip) | 2026-11-24 |
 | [Free CC0 Monster Sprites](https://spritecanvas.itch.io/free-cc0-monster-sprites) | `sprite-2d` | SpriteCanvas | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/free-cc0-monster-sprites/free-cc0-monster-sprites.zip) | 2026-11-24 |
 | [Free Monster Pack (Frakassets)](https://frakassets.itch.io/free-monster-pack) | `sprite-2d` | Frakassets | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/free-monster-pack/free-monster-pack.zip) | 2026-11-24 |
@@ -39,6 +41,7 @@
 | [Monsters Creatures Fantasy 2 (LuizMelo)](https://luizmelo.itch.io/monsters-creatures-fantasy-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/monsters-creatures-fantasy-2/monsters-creatures-fantasy-2.zip) | 2026-11-24 |
 | [Pet Cats Pack (LuizMelo)](https://luizmelo.itch.io/pet-cat-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/pet-cat-pack/pet-cat-pack.zip) | 2026-11-24 |
 | [Pet Dogs Pack (LuizMelo)](https://luizmelo.itch.io/pet-dogs-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/pet-dogs-pack/pet-dogs-pack.zip) | 2026-11-24 |
+| [Voxel Dungeon Sprites & Tiles (Cole Foster)](https://colefoster.itch.io/voxel-dungeon-pack) | `sprite-2d` | Cole Foster | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/voxel-dungeon-sprites-tiles/voxel-dungeon-sprites-tiles.zip) | 2026-11-24 |
 | [Wizard Pack (LuizMelo)](https://luizmelo.itch.io/wizard-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/wizard-pack/wizard-pack.zip) | 2026-11-24 |
 | [Papertrails 종이오리기 아트 아틀라스 3종](https://github.com/xikhar/papertrails) | `sprite-2d` | xikhar (Shikhar) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/papertrails-art-atlas/papertrails-art-atlas.zip) | 2026-11-20 |
 | [물결 소탕 스프라이트 26 (everyday-game)](https://github.com/zhgarylu/everyday-game) | `sprite-2d` | zhgarylu | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/everyday-game-tide-sprites/12-everyday-game-tide-sprites.zip) | 2026-11-20 |

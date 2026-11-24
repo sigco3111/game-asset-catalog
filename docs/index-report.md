@@ -5,10 +5,10 @@
 ## 1. 개요
 
 - 원본: `catalog.csv@3b48115147ddef5b440dcfa3895048d55a36b9d8`
-- 데이터 행 수: **2328**
+- 데이터 행 수: **2331**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 3,407,610 bytes, `assets-index.min.json` 2,754,799 bytes
+- 파일 크기: `assets-index.json` 3,413,475 bytes, `assets-index.min.json` 2,759,645 bytes
 
 ## 2. 집계
 
@@ -16,7 +16,7 @@
 
 | repo | 개수 |
 |---|---|
-| assets-2d-pixel | 715 |
+| assets-2d-pixel | 718 |
 | assets-audio | 524 |
 | assets-3d-lowpoly | 508 |
 | assets-ui-icons | 255 |
@@ -33,7 +33,7 @@
 | music | 273 |
 | sfx | 246 |
 | ui | 232 |
-| sprite-2d | 162 |
+| sprite-2d | 165 |
 | other | 150 |
 | effect | 147 |
 | tileset-2d | 146 |
@@ -59,9 +59,9 @@
 | 효과음 | sfx | 246 |
 | 3D | model-3d | 237 |
 | UI·아이콘 | ui | 214 |
+| 2D 스프라이트 | sprite-2d | 123 |
 | 2D 이펙트 | effect | 122 |
 | 2D | other | 120 |
-| 2D 스프라이트 | sprite-2d | 120 |
 | 2D 타일셋 | tileset-2d | 98 |
 | 2D 텍스처 | texture | 67 |
 | 2D | tileset-2d | 48 |
@@ -133,7 +133,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license_family | 개수 |
 |---|---|
-| cc0 | 1943 |
+| cc0 | 1946 |
 | cc-by | 323 |
 | other | 27 |
 | mit | 24 |
@@ -143,7 +143,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license | 개수 |
 |---|---|
-| CC0 | 1940 |
+| CC0 | 1943 |
 | CC-BY 4.0 | 187 |
 | CC-BY 3.0 | 117 |
 | MIT | 24 |
@@ -193,7 +193,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2026-11-21 | 39 |
 | 2026-11-22 | 41 |
 | 2026-11-23 | 55 |
-| 2026-11-24 | 28 |
+| 2026-11-24 | 31 |
 
 ### 상위 태그 30
 
@@ -207,23 +207,23 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | opengameart | 228 |
 | ui·아이콘 | 182 |
 | rpg | 151 |
-| pixel | 129 |
+| pixel | 131 |
 | fantasy | 120 |
 | platformer | 106 |
 | icons | 105 |
-| ui | 93 |
+| ui | 94 |
+| character | 86 |
 | effect | 85 |
-| character | 84 |
 | animated | 82 |
 | polyfork | 81 |
 | magic | 76 |
 | texture | 74 |
-| tileset | 67 |
+| tileset | 68 |
 | effects | 64 |
 | modular | 62 |
 | spell | 61 |
+| sprite | 60 |
 | medieval | 59 |
-| sprite | 57 |
 | animation | 55 |
 | explosion | 52 |
 | vfx | 52 |
@@ -239,8 +239,8 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | magic | 104 |
 | explosion | 70 |
 | lightning | 32 |
-| fire | 59 |
-| ice | 23 |
+| fire | 60 |
+| ice | 24 |
 | wind | 10 |
 | heal | 17 |
 | laser | 18 |
@@ -250,9 +250,9 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | projectile | 27 |
 | slash | 11 |
 
-- effect_kind가 하나 이상인 에셋: 267 / 2328
+- effect_kind가 하나 이상인 에셋: 269 / 2331
 
-- attribution_required=true: 381, ai_generated=true: 39, preview 있음: 1820, 분할(split) 행: 147
+- attribution_required=true: 381, ai_generated=true: 39, preview 있음: 1823, 분할(split) 행: 147
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
@@ -301,7 +301,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 ### 3.4 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 라이선스 표기 — 값은 수정하지 않음
 
-- 허용 목록과 정확히 일치: 2290행
+- 허용 목록과 정확히 일치: 2293행
 - 허용 라이선스로 시작하지만 부가 설명이 붙은 표기: 11행 (9종)
 - 허용 목록에 해당하지 않음: **27행** (8종)
 
@@ -357,10 +357,10 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 1928 | https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-aztec-buildings/aztec-buildings.zip | 중복 슬래시 |
 | 1932 | https://github.com/sigco3111/assets-2d-pixel/releases/download/a107-spell-set/spell-set.zip | 중복 슬래시 |
 - file 열이 저장소 상대경로가 아니라 전체 URL인 행 6건: 색인의 download_path는 같은 저장소의 상대경로로 환산(cheonha-sambun/cheonha-sambun-assets.zip, releases/download/a105-sewer-tunnels/sewer-tunnels.zip, releases/download/a105-office-campus-buildings-and-restaurant/office-campus-buildings-and-restaurant.zip), 원본 file 값은 `file`에 그대로 유지.
-- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1585행, 저장소 트리 경로 743행
+- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1588행, 저장소 트리 경로 743행
 - split 열 값이 `Y`(파트 파일명 미나열, 폴더 내 part1~N zip)인 행: 11건 — `multipart=true`, download_url은 file 열(part1) 기준.
 - 파트 파일명이 나열된 분할 업로드(split 열) 147행: file 열의 단일 파일명은 릴리스에 존재하지 않을 수 있고 실제 파일은 `split_parts`임 (예: `assets-3d-lowpoly/kaykit-skeletons-1-0`). 이 행들의 `download_url`은 null, 대신 `download_urls`에 분할 파일 URL 목록을 둠.
-- file 확장자 분포: .zip 2240, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 4, .wav 3, .svg 2, .gif 1, .gz 1, .jpg 1
+- file 확장자 분포: .zip 2243, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 4, .wav 3, .svg 2, .gif 1, .gz 1, .jpg 1
 
 ### 3.7 기타 관찰
 

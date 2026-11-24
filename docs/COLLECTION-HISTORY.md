@@ -1,5 +1,12 @@
 # 수집 이력 (라운드별 상세)
 
+### 수동 라운드: 스프라이트 3팩 (2차) (2026-11-24 KST)
+
+- 팩: SpriteCanvas 10팩 묶음(CC0, AI 도움 제작 고지), Cole Foster Voxel Dungeon(CC0), Dajeki 8x8 캐릭터(CC0)
+- 저장: assets-2d-pixel 각 slug 폴더(pack.md, CREDITS.txt, meta.json, preview.png) + Releases zip
+- 포털 등록: catalog.csv 2328→2331, 기존 행 불변 확인
+- 규칙 메모: 페이지와 패키지에서 CC0 또는 CC-BY 확인된 팩만 등록. 재배포 금지·불명확 팩(chierit, acubibeovip, Robe of Fire, Engvee 보스 등 재배포 조건 불명확 팩)은 제외
+
 ### 수동 라운드: 스프라이트 25팩 (2026-11-24 KST)
 
 - 팩: LuizMelo 무료 22팩, SpriteCanvas 2팩 (CC0), Frakassets Free Monster Pack (CC-BY 4.0, 크레딧 필수)

@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "generated_from": "catalog.csv@3b48115147ddef5b440dcfa3895048d55a36b9d8",
-  "count": 2328,
+  "count": 2331,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -82193,6 +82193,132 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/releases/download/free-monster-pack/free-monster-pack.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/releases/download/free-monster-pack/free-monster-pack.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/free-cc0-2d-pixel-character-sprite-sheets-spritecanvas",
+      "name": "Free CC0 2D & Pixel Character Sprite Sheets (SpriteCanvas)",
+      "repo": "assets-2d-pixel",
+      "file": "releases/download/free-cc0-2d-pixel-character-packs/free-cc0-2d-pixel-character-packs.zip",
+      "type": "2D 스프라이트",
+      "category": "sprite-2d",
+      "tags": [
+        "sprite",
+        "character",
+        "boss",
+        "pixel",
+        "painted",
+        "witch",
+        "archer",
+        "slime",
+        "cc0",
+        "spritecanvas",
+        "itch.io"
+      ],
+      "effect_kind": [
+        "fire"
+      ],
+      "author": "SpriteCanvas",
+      "source_url": "https://spritecanvas.itch.io/free-cc0-2d-and-pixel-character-packs",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: SpriteCanvas (spritecanvas.itch.io)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "SpriteCanvas itch.io 무료 팩. 출처 페이지와 패키지 라이선스 확인(CC0, 2026-11-24). 원본 zip 수정 없이 Releases(free-cc0-2d-pixel-character-packs) 첨부; 포함: Cozy Apothecary Witch, Sylvan Ranger, Crown Slime Boss, Blue-Flame Ronin, Pixel Bone Mage, Pixel Crystal Slime, Rustwalker MechBot, Cyberpunk Ninja, Pixel Shadow Rogue, Pixel Iron Knight",
+      "preview": "free-cc0-2d-pixel-character-packs/preview.png",
+      "download_path": "releases/download/free-cc0-2d-pixel-character-packs/free-cc0-2d-pixel-character-packs.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/releases/download/free-cc0-2d-pixel-character-packs/free-cc0-2d-pixel-character-packs.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/releases/download/free-cc0-2d-pixel-character-packs/free-cc0-2d-pixel-character-packs.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/voxel-dungeon-sprites-tiles-cole-foster",
+      "name": "Voxel Dungeon Sprites & Tiles (Cole Foster)",
+      "repo": "assets-2d-pixel",
+      "file": "releases/download/voxel-dungeon-sprites-tiles/voxel-dungeon-sprites-tiles.zip",
+      "type": "2D 스프라이트",
+      "category": "sprite-2d",
+      "tags": [
+        "sprite",
+        "creature",
+        "dungeon",
+        "tileset",
+        "ui",
+        "monsters",
+        "boss",
+        "golem",
+        "cc0",
+        "colefoster",
+        "itch.io"
+      ],
+      "effect_kind": [
+        "ice"
+      ],
+      "author": "Cole Foster",
+      "source_url": "https://colefoster.itch.io/voxel-dungeon-pack",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Cole Foster (colefoster.itch.io)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "Cole Foster itch.io 무료 팩. 출처 페이지와 패키지 라이선스 확인(CC0, 2026-11-24). 원본 zip 수정 없이 Releases(voxel-dungeon-sprites-tiles) 첨부; 포함: Bat, Dark Knight, Eye, Ghost, Goblin, Golem, Golem Magma, Hobgoblin, Knight, Mage, Mage Frost, Mimic, Mimic Gold, Mushroom Blue, Mushroom Purple, Mushroom Red, Orc, Orc Chieftain, Rat, Scorpion, Scorpion Red, Skeleton, Slime Blue, Slime Green, Slime Purple, Slime Red, Spider, Trex",
+      "preview": "voxel-dungeon-sprites-tiles/preview.png",
+      "download_path": "releases/download/voxel-dungeon-sprites-tiles/voxel-dungeon-sprites-tiles.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/releases/download/voxel-dungeon-sprites-tiles/voxel-dungeon-sprites-tiles.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/releases/download/voxel-dungeon-sprites-tiles/voxel-dungeon-sprites-tiles.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/dajeki-s-8x8-fantasy-character-sprites",
+      "name": "Dajeki's 8x8 Fantasy Character Sprites",
+      "repo": "assets-2d-pixel",
+      "file": "releases/download/dajeki-8x8-fantasy-characters/dajeki-8x8-fantasy-characters.zip",
+      "type": "2D 스프라이트",
+      "category": "sprite-2d",
+      "tags": [
+        "sprite",
+        "character",
+        "8x8",
+        "tiny",
+        "pixel",
+        "cleric",
+        "wizard",
+        "cc0",
+        "dajeki",
+        "itch.io"
+      ],
+      "effect_kind": [],
+      "author": "Dajeki",
+      "source_url": "https://dajeki.itch.io/dajekis-8x8-fantasy-character-sprites",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Dajeki (dajeki.itch.io)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "Dajeki itch.io 무료 팩. 출처 페이지와 패키지 라이선스 확인(CC0, 2026-11-24). 원본 zip 수정 없이 Releases(dajeki-8x8-fantasy-characters) 첨부; 포함: 8x8 캐릭터 1, 8x8 캐릭터 2, 8x8 캐릭터 3, 8x8 캐릭터 4, 8x8 캐릭터 5, 8x8 캐릭터 6, 8x8 캐릭터 7, 8x8 캐릭터 8, 8x8 캐릭터 9, 8x8 캐릭터 10, 8x8 캐릭터 11, 8x8 캐릭터 12",
+      "preview": "dajeki-8x8-fantasy-characters/preview.png",
+      "download_path": "releases/download/dajeki-8x8-fantasy-characters/dajeki-8x8-fantasy-characters.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/releases/download/dajeki-8x8-fantasy-characters/dajeki-8x8-fantasy-characters.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/releases/download/dajeki-8x8-fantasy-characters/dajeki-8x8-fantasy-characters.zip"
       ],
       "sample": null,
       "multipart": false,

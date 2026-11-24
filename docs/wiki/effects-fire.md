@@ -6,17 +6,18 @@
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-효과 종류 `fire`(불)에 해당하는 에셋 **59개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
+효과 종류 `fire`(불)에 해당하는 에셋 **60개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
 라이브러리에서 보기: [?fx=fire](https://sigco3111.github.io/game-asset-catalog/?fx=fire)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 59행 (전체 59개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 60행 (전체 60개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Fire Worm (LuizMelo)](https://luizmelo.itch.io/fire-worm) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/fire-worm/fire-worm.zip) | 2026-11-24 |
+| [Free CC0 2D & Pixel Character Sprite Sheets (SpriteCanvas)](https://spritecanvas.itch.io/free-cc0-2d-and-pixel-character-packs) | `sprite-2d` | SpriteCanvas | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/free-cc0-2d-pixel-character-packs/free-cc0-2d-pixel-character-packs.zip) | 2026-11-24 |
 | [Free Monster Pack (Frakassets)](https://frakassets.itch.io/free-monster-pack) | `sprite-2d` | Frakassets | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/free-monster-pack/free-monster-pack.zip) | 2026-11-24 |
 | [Effekseer 샘플 이펙트 33종 (.efk, WebGL 런타임 포함)](https://patch.gg/patch/effekseer) | `effect` | Effekseer 프로젝트, Pierre, NextSoft, AndrewFM, Suzuki, tktk | CC0 (런타임 MIT) | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/effekseer-sample-effects/effekseer-sample-effects.zip) | 2026-11-23 |
 | [Ultra Elements 원소 주문 VFX 코드 39종 (Three.js·WebGL2)](https://github.com/Humpalumps/ultra-elements) | `other` | Humpalumps (Ultra Elements), 데모 어댑트: Patch | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip) | 2026-11-23 |

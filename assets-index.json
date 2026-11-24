@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@f9cd6b49a2d3306ac82f74ebb6cf20e649708711",
-  "count": 2300,
+  "generated_from": "catalog.csv@656f6cbeeb1024f473ef432b2ab6ca7af468c8e9",
+  "count": 2303,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -81137,6 +81137,105 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/survival-and-cooking-set/survival-and-cooking-set.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/survival-and-cooking-set/survival-and-cooking-set.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/hung-stocking-set",
+      "name": "Hung Stocking Set",
+      "repo": "assets-3d-polyfork",
+      "file": "hung-stocking-set/hung-stocking-set.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/hung-stocking-set-6191aa",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Hung Stocking Set by Polyfork (https://polyfork.dev/asset/hung-stocking-set-6191aa), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "hung-stocking-set/preview.png",
+      "download_path": "hung-stocking-set/hung-stocking-set.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/hung-stocking-set/hung-stocking-set.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/hung-stocking-set/hung-stocking-set.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/mole-lighthouse",
+      "name": "Mole Lighthouse",
+      "repo": "assets-3d-polyfork",
+      "file": "mole-lighthouse/mole-lighthouse.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/mole-lighthouse-c690b4",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Mole Lighthouse by Polyfork (https://polyfork.dev/asset/mole-lighthouse-c690b4), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "mole-lighthouse/preview.png",
+      "download_path": "mole-lighthouse/mole-lighthouse.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/mole-lighthouse/mole-lighthouse.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/mole-lighthouse/mole-lighthouse.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/octopus-drying-line",
+      "name": "Octopus Drying Line",
+      "repo": "assets-3d-polyfork",
+      "file": "octopus-drying-line/octopus-drying-line.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/octopus-drying-line-750d63",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Octopus Drying Line by Polyfork (https://polyfork.dev/asset/octopus-drying-line-750d63), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "octopus-drying-line/preview.png",
+      "download_path": "octopus-drying-line/octopus-drying-line.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/octopus-drying-line/octopus-drying-line.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/octopus-drying-line/octopus-drying-line.zip"
       ],
       "sample": null,
       "multipart": false,

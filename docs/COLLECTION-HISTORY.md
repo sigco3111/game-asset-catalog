@@ -1,5 +1,13 @@
 # 수집 이력 (라운드별 상세)
 
+### 수동 라운드: Dead Precinct 에셋 3팩 (2026-11-24 KST)
+
+- 팩: 프리렌더 배경 10장(MIT, assets-2d-pixel dead-precinct-backgrounds), WebAudio 합성 효과음 26종·음악 3곡 코드(MIT, assets-code dead-precinct-audio-synth), PS1 WebGL 렌더러 코드(MIT, assets-code dead-precinct-ps1-renderer)
+- 출처: https://github.com/Bao5ye/dead-precinct (원작 commit 3292dc6; 발췌는 한글판 https://github.com/sigco3111/dead-precinct-ko 에서). 사용자 지정 수집·등록 승인 (iMessage 2026-11-24)
+- 수집 커밋: assets-2d-pixel 8f07c4e, assets-code 93b68e5
+- 포털 등록: catalog.csv 2348→2351, 기존 행 불변 확인
+- 규칙 메모: 3팩 모두 원작 MIT(전문 동봉, © 2026 Bao5ye). 원작 README가 배경(Blender Cycles 자체 렌더)·캐릭터·음악 전량 자작과 1998년작 서바이벌 호러 비상업 팬 오마주임을 함께 명시: MIT로 등록하되 notes/pack.md에 팬 오마주 사실과 유사 상업 게임 재사용 별도 검토 권고를 기록. 배경 PNG는 내장 base64에서 추출 후 해상도(320×240)·장수 확인, 미리보기는 10장 접촉 시트. 코드 2팩은 단일 index.html의 해당 절 발췌(게임 결합 원본, 참고용)로 INTEGRATION.md 동봉, node --check 통과. 캐릭터 메시·텍스처 코드(여경·좀비·오리지널 몬스터)와 게임 로직은 이번 승인 범위 밖이라 미수록
+
 ### AUTO-20261124-14 자동 수집 등록 (3팩, 2026-11-24 14:30 KST)
 
 - 팩: Labyrinth Wall Run (slug labyrinth-wall-run), 라이선스: CC-BY 4.0, 제작자: Polyfork

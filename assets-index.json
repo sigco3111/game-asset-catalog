@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@8d16530d9cd4999f653d128223cbad27282cd918",
-  "count": 2342,
+  "generated_from": "catalog.csv@af869b27448689b8e7a6ea0215ab99360c3fc454",
+  "count": 2345,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -82797,6 +82797,133 @@
       "download_url": "https://github.com/sigco3111/assets-code/raw/main/long-wind-audio-synth/long-wind-audio-synth.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-code/raw/main/long-wind-audio-synth/long-wind-audio-synth.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-code/cold-smoke-절차적-인체-생성-코드-human",
+      "name": "Cold Smoke 절차적 인체 생성 코드 (Human)",
+      "repo": "assets-code",
+      "file": "cold-smoke-human-body/cold-smoke-human-body.zip",
+      "type": "코드 모듈 (3D)",
+      "category": "other",
+      "tags": [
+        "code",
+        "javascript",
+        "procedural",
+        "human",
+        "character",
+        "skeleton",
+        "skinning",
+        "anthropometry",
+        "mesh",
+        "generator"
+      ],
+      "effect_kind": [
+        "smoke"
+      ],
+      "author": "Huisky",
+      "source_url": "https://github.com/huiskylabs/cold-smoke",
+      "license": "MIT",
+      "license_note": null,
+      "license_family": "mit",
+      "attribution": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Huisky)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "human/ 모듈 11파일+빌드 스크립트: 체형 파라미터→59본 스켈레톤·근육 볼륨·서피스넷 메쉬·LBS/DQS 스키닝·모션 클립 12종; 모델·텍스처 파일 없이 전량 코드 생성; ANSUR II(공개) 등 과학 상수만 내장(원시 데이터 없음), 09a는 MakeHuman CC0 1.0(공식 FAQ·LICENSE 확인); 실제 영상 기반 모캡 JSON은 권리 확인 보류로 제외(모듈은 없어도 동작, carve 클립만 비활성); Node 단독 실행으로 몸 메쉬 12,986정점·참조 몸 13,380정점·모션 샘플링 확인, 브라우저/게임 연결 미검증; MIT 전문 LICENSE.txt 동봉",
+      "preview": "cold-smoke-human-body/preview.png",
+      "download_path": "cold-smoke-human-body/cold-smoke-human-body.zip",
+      "download_url": "https://github.com/sigco3111/assets-code/raw/main/cold-smoke-human-body/cold-smoke-human-body.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-code/raw/main/cold-smoke-human-body/cold-smoke-human-body.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-code/cold-smoke-webaudio-음악-효과음-합성-코드",
+      "name": "Cold Smoke WebAudio 음악·효과음 합성 코드",
+      "repo": "assets-code",
+      "file": "cold-smoke-audio-synth/cold-smoke-audio-synth.zip",
+      "type": "코드 모듈 (음향)",
+      "category": "other",
+      "tags": [
+        "code",
+        "javascript",
+        "webaudio",
+        "audio",
+        "music",
+        "sfx",
+        "synthesis",
+        "wind",
+        "ski",
+        "snow",
+        "adaptive",
+        "generative"
+      ],
+      "effect_kind": [
+        "wind",
+        "smoke"
+      ],
+      "author": "Huisky",
+      "source_url": "https://github.com/huiskylabs/cold-smoke",
+      "license": "MIT",
+      "license_note": null,
+      "license_family": "mit",
+      "attribution": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Huisky)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "JS 2파일(물리 기반 합성 효과음·90bpm 5레이어 생성형 어댑티브 음악)+실행 의존 core 2종(00_util·00b_variants, 동일 MIT) 동봉; 녹음 음원 0개 전량 합성, Web Audio 전용; Sound는 게임 상태를 매 프레임 입력받는 구조라 어댑터 필요(INTEGRATION.md 동봉), Music은 거의 독립; 브라우저 단독 실행 미검증; MIT 전문 LICENSE.txt 동봉",
+      "preview": "cold-smoke-audio-synth/preview.png",
+      "download_path": "cold-smoke-audio-synth/cold-smoke-audio-synth.zip",
+      "download_url": "https://github.com/sigco3111/assets-code/raw/main/cold-smoke-audio-synth/cold-smoke-audio-synth.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-code/raw/main/cold-smoke-audio-synth/cold-smoke-audio-synth.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-code/cold-smoke-sdf-메쉬-생성-코드-surface-nets",
+      "name": "Cold Smoke SDF 메쉬 생성 코드 (Surface Nets)",
+      "repo": "assets-code",
+      "file": "cold-smoke-sdf-mesher/cold-smoke-sdf-mesher.zip",
+      "type": "코드 모듈 (3D)",
+      "category": "other",
+      "tags": [
+        "code",
+        "javascript",
+        "sdf",
+        "surfacenets",
+        "mesh",
+        "procedural",
+        "geometry",
+        "modeling"
+      ],
+      "effect_kind": [
+        "smoke"
+      ],
+      "author": "Huisky",
+      "source_url": "https://github.com/huiskylabs/cold-smoke",
+      "license": "MIT",
+      "license_note": null,
+      "license_family": "mit",
+      "attribution": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Huisky)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "JS 1파일: SDF 라이브러리(sd)+내로우밴드 서피스넷 메셔(meshSDF)+파라메트릭 메쉬 빌더(meshBuilder); 외부 의존 0·게임 전역 참조 0; Node 단독 실행으로 SDF→메쉬 16,722정점 생성 확인(미리보기가 그 출력), 렌더 파이프라인 연결 미검증(정점 10float 커스텀 레이아웃); MIT 전문 LICENSE.txt 동봉",
+      "preview": "cold-smoke-sdf-mesher/preview.png",
+      "download_path": "cold-smoke-sdf-mesher/cold-smoke-sdf-mesher.zip",
+      "download_url": "https://github.com/sigco3111/assets-code/raw/main/cold-smoke-sdf-mesher/cold-smoke-sdf-mesher.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-code/raw/main/cold-smoke-sdf-mesher/cold-smoke-sdf-mesher.zip"
       ],
       "sample": null,
       "multipart": false,

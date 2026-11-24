@@ -3,7 +3,7 @@
 재사용 가능한 게임 에셋 라이브러리의 중앙 카탈로그입니다.
 실제 파일은 유형별 저장소에 두고, 여기에 모든 에셋의 출처·라이선스·작가·장르 태그를 기록합니다.
 
-**총 2,342팩입니다.** (catalog.csv 기준, 아래 저장소 표의 팩 수 합계와 같습니다.)
+**총 2,345팩입니다.** (catalog.csv 기준, 아래 저장소 표의 팩 수 합계와 같습니다.)
 
 ※ Quaternius 팩: 팩 페이지는 CC0로 표기하지만 Quaternius 사이트의 공통 라이선스(QAL)는 에셋 단독 재배포를 제한합니다. 사용 전 원 사이트(quaternius.com)에서 확인해 주세요.
 
@@ -25,8 +25,8 @@
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘 | 257 |
 | [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악 (OGG) | 524 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 2D 초상화 | 3 |
-| [assets-code](https://github.com/sigco3111/assets-code) | 재사용 코드 모듈 (TypeScript·JavaScript) | 17 |
-| **합계** | | **2,342** |
+| [assets-code](https://github.com/sigco3111/assets-code) | 재사용 코드 모듈 (TypeScript·JavaScript) | 20 |
+| **합계** | | **2,345** |
 
 ## 사이트와 검색
 

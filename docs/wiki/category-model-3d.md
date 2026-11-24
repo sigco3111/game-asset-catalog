@@ -1,19 +1,19 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@6f4ef3a96d573868d5ff1aa2e2527bb732049873`
+> generated from `catalog.csv@f0db303875337b299a482c640af4841b9804a4ec`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **759개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **761개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 759개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 761개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -27,6 +27,8 @@
 | [Kervan 아나톨리아 도시·카라반 3D 모델 11종](https://github.com/Furkiozknn/kervan) | `model-3d` | Furkiozknn | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/kervan-anatolia-models/kervan-anatolia-models.zip) | 2026-11-24 |
 | [Labyrinth Wall Run](https://polyfork.dev/asset/labyrinth-wall-run-d111fb) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/labyrinth-wall-run/labyrinth-wall-run.zip) | 2026-11-24 |
 | [Long Wind Poly Haven 바위 모델 9종 (glTF 1K)](https://polyhaven.com) | `model-3d` | Poly Haven | CC0 | X | X | 3개 분할 | 2026-11-24 |
+| [Medieval 3D drain](https://opengameart.org/content/medieval-3d-drain) | `model-3d` | ShggothSlave | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/medieval-3d-drain/medieval-3d-drain.zip) | 2026-11-24 |
+| [MilitaryBackPacks](https://opengameart.org/content/militarybackpacks) | `model-3d` | Septh | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/militarybackpacks/militarybackpacks.zip) | 2026-11-24 |
 | [Mole Lighthouse](https://polyfork.dev/asset/mole-lighthouse-c690b4) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/mole-lighthouse/mole-lighthouse.zip) | 2026-11-24 |
 | [Octopus Drying Line](https://polyfork.dev/asset/octopus-drying-line-750d63) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/octopus-drying-line/octopus-drying-line.zip) | 2026-11-24 |
 | [Olympian Throne](https://polyfork.dev/asset/olympian-throne-b31426) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/olympian-throne/olympian-throne.zip) | 2026-11-24 |
@@ -415,5 +417,3 @@
 | [3TD Cave Pack Pro v1.0](https://opengameart.org/content/3td-cave-pack-pro-v10) | `model-3d` | ? | CC0 | X | X | 3개 분할 | 2026-11-04 |
 | [3TD Fantasy Ruins Pack](https://opengameart.org/content/3td-fantasy-ruins-pack) | `model-3d` | Julius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/3td-fantasy-ruins-pack.zip) | 2026-11-04 |
 | [3TD Furniture Pack](https://opengameart.org/content/3td-furniture-pack) | `model-3d` | reeguy | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.23/3td-furniture-pack.zip) | 2026-11-04 |
-| [3TD Harbour Pack](https://opengameart.org/content/3td-harbour-pack) | `model-3d` | bobjh | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.18/3td-harbour-pack.zip) | 2026-11-04 |
-| [3TD Office Starter Pack](https://opengameart.org/content/3td-office-starter-pack) | `model-3d` | Chris\_M\_The\_Gam... | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.32/3td-office-starter-pack.zip) | 2026-11-04 |

@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@6f4ef3a96d573868d5ff1aa2e2527bb732049873`
+> generated from `catalog.csv@f0db303875337b299a482c640af4841b9804a4ec`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2372개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2374개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -16,8 +16,8 @@
 
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
-| cc0 | CC0 | 1954 | 0 | 예 |
-| cc-by | CC-BY | 340 | 340 | 예 |
+| cc0 | CC0 | 1955 | 0 | 예 |
+| cc-by | CC-BY | 341 | 341 | 예 |
 | mit | MIT | 34 | 33 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
 | other | 기타(허용 목록 밖) | 33 | 30 | 아니오 |
@@ -28,8 +28,8 @@
 
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
-| CC0 | cc0 | X | 1950 |
-| CC-BY 4.0 | cc-by | O | 202 |
+| CC0 | cc0 | X | 1951 |
+| CC-BY 4.0 | cc-by | O | 203 |
 | CC-BY 3.0 | cc-by | O | 119 |
 | MIT | mit | O | 33 |
 | 알 수 없음 | other | O | 13 |
@@ -55,7 +55,7 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 414개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 415개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Long Wind WebAudio 음악·효과음 합성 코드](https://github.com/jbang2004/long-wind) | jbang2004 | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 | 2026-11-24 |
 | [Long Wind 수묵 세리프 폰트 4종 (Google Fonts, OFL)](https://fonts.google.com) | Google Fonts (Ma Shanzheng·Noto·Christian Thalmann) | OFL-1.1 | required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금지, 수정본 동일 라이선스 | 2026-11-24 |
 | [Long Wind 절차적 환경 생성 코드 (Three.js)](https://github.com/jbang2004/long-wind) | jbang2004 | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 | 2026-11-24 |
+| [MilitaryBackPacks](https://opengameart.org/content/militarybackpacks) | Septh | CC-BY 4.0 | 필수: Septh (opengameart.org), CC-BY 4.0 | 2026-11-24 |
 | [Mole Lighthouse](https://polyfork.dev/asset/mole-lighthouse-c690b4) | Polyfork | CC-BY 4.0 | Mole Lighthouse by Polyfork (https://polyfork.dev/asset/mole-lighthouse-c690b4), CC BY 4.0 | 2026-11-24 |
 | [Octopus Drying Line](https://polyfork.dev/asset/octopus-drying-line-750d63) | Polyfork | CC-BY 4.0 | Octopus Drying Line by Polyfork (https://polyfork.dev/asset/octopus-drying-line-750d63), CC BY 4.0 | 2026-11-24 |
 | [Olympian Throne](https://polyfork.dev/asset/olympian-throne-b31426) | Polyfork | CC-BY 4.0 | Olympian Throne by Polyfork (https://polyfork.dev/asset/olympian-throne-b31426), CC BY 4.0 | 2026-11-24 |

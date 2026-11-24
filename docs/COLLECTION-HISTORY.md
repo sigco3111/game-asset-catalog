@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261125-07 자동 수집 등록 (2팩, 2026-11-25 07:24 KST)
+
+- 팩: Medieval 3D drain (slug medieval-3d-drain), 라이선스: CC0, 제작자: ShggothSlave
+- 출처: https://opengameart.org/content/medieval-3d-drain
+- 저장: assets-3d-lowpoly-2 medieval-3d-drain/medieval-3d-drain.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2372→2374, 기존 행 불변 확인
+- 팩: MilitaryBackPacks (slug militarybackpacks), 라이선스: CC-BY 4.0, 제작자: Septh
+- 출처: https://opengameart.org/content/militarybackpacks
+- 저장: assets-3d-lowpoly-2 militarybackpacks/militarybackpacks.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2372→2374, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261125-06 자동 수집 등록 (6팩, 2026-11-25 06:46 KST)
 
 - 팩: Cave Background Music (slug cave-background-music), 라이선스: OGA-BY 3.0, 제작자: srlatch477

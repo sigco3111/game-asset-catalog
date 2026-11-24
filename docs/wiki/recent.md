@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@6f4ef3a96d573868d5ff1aa2e2527bb732049873`
+> generated from `catalog.csv@f0db303875337b299a482c640af4841b9804a4ec`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -58,12 +58,14 @@
 | [Martial Hero (LuizMelo)](https://luizmelo.itch.io/martial-hero) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/martial-hero/martial-hero.zip) | 2026-11-24 |
 | [Martial Hero 2 (LuizMelo)](https://luizmelo.itch.io/martial-hero-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/martial-hero-2/martial-hero-2.zip) | 2026-11-24 |
 | [Martial Hero 3 (LuizMelo)](https://luizmelo.itch.io/martial-hero-3) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/martial-hero-3/martial-hero-3.zip) | 2026-11-24 |
+| [Medieval 3D drain](https://opengameart.org/content/medieval-3d-drain) | `model-3d` | ShggothSlave | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/medieval-3d-drain/medieval-3d-drain.zip) | 2026-11-24 |
 | [Medieval King Pack (LuizMelo)](https://luizmelo.itch.io/medieval-king-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-king-pack/medieval-king-pack.zip) | 2026-11-24 |
 | [Medieval King Pack 2 (LuizMelo)](https://luizmelo.itch.io/medieval-king-pack-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-king-pack-2/medieval-king-pack-2.zip) | 2026-11-24 |
 | [Medieval Warrior Pack (LuizMelo)](https://luizmelo.itch.io/medieval-warrior-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-warrior-pack/medieval-warrior-pack.zip) | 2026-11-24 |
 | [Medieval Warrior Pack 2 (LuizMelo)](https://luizmelo.itch.io/medieval-warrior-pack-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-warrior-pack-2/medieval-warrior-pack-2.zip) | 2026-11-24 |
 | [Medieval Warrior Pack 3 (LuizMelo)](https://luizmelo.itch.io/medieval-warrior-pack-3) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-warrior-pack-3/medieval-warrior-pack-3.zip) | 2026-11-24 |
 | [Mid September Phrygian](https://opengameart.org/content/mid-september-phrygian) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/mid-september-phrygian/mid-september-phrygian.zip) | 2026-11-24 |
+| [MilitaryBackPacks](https://opengameart.org/content/militarybackpacks) | `model-3d` | Septh | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/militarybackpacks/militarybackpacks.zip) | 2026-11-24 |
 | [Mole Lighthouse](https://polyfork.dev/asset/mole-lighthouse-c690b4) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/mole-lighthouse/mole-lighthouse.zip) | 2026-11-24 |
 | [Monsters Creatures Fantasy (LuizMelo)](https://luizmelo.itch.io/monsters-creatures-fantasy) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/monsters-creatures-fantasy/monsters-creatures-fantasy.zip) | 2026-11-24 |
 | [Monsters Creatures Fantasy 2 (LuizMelo)](https://luizmelo.itch.io/monsters-creatures-fantasy-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/monsters-creatures-fantasy-2/monsters-creatures-fantasy-2.zip) | 2026-11-24 |
@@ -111,5 +113,3 @@
 | [Galmuri 비트맵 한글 폰트 (Galmuri11·Galmuri14)](https://github.com/quiple/galmuri) | `font` | Lee Minseo (quiple) | OFL-1.1 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/galmuri/galmuri-v2.40.4.zip) | 2026-11-23 |
 | [Geometry Painter 표면 페인팅·절차적 3D 코드](https://github.com/achrefelouafi/GeometryPainterThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/geometry-painter-threejs/geometry-painter-threejs.zip) | 2026-11-23 |
 | [Ice Rink Tile](https://polyfork.dev/asset/ice-rink-tile-aceb6a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ice-rink-tile/ice-rink-tile.zip) | 2026-11-23 |
-| [Iron-Banded Chest](https://polyfork.dev/asset/iron-banded-chest-64731f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/iron-banded-chest/iron-banded-chest.zip) | 2026-11-23 |
-| [It's Watering Time](https://opengameart.org/content/its-watering-time) | `music` | Ategon | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/its-watering-time/its-watering-time.zip) | 2026-11-23 |

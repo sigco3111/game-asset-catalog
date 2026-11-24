@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@6f4ef3a96d573868d5ff1aa2e2527bb732049873",
-  "count": 2372,
+  "generated_from": "catalog.csv@f0db303875337b299a482c640af4841b9804a4ec",
+  "count": 2374,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -83829,6 +83829,70 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/when-the-shadows-gather/when-the-shadows-gather.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/when-the-shadows-gather/when-the-shadows-gather.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/medieval-3d-drain",
+      "name": "Medieval 3D drain",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "medieval-3d-drain/medieval-3d-drain.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "ShggothSlave",
+      "source_url": "https://opengameart.org/content/medieval-3d-drain",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: ShggothSlave (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "medieval-3d-drain/preview.png",
+      "download_path": "medieval-3d-drain/medieval-3d-drain.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/medieval-3d-drain/medieval-3d-drain.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/medieval-3d-drain/medieval-3d-drain.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/militarybackpacks",
+      "name": "MilitaryBackPacks",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "militarybackpacks/militarybackpacks.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Septh",
+      "source_url": "https://opengameart.org/content/militarybackpacks",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: Septh (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": "militarybackpacks/preview.png",
+      "download_path": "militarybackpacks/militarybackpacks.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/militarybackpacks/militarybackpacks.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/militarybackpacks/militarybackpacks.zip"
       ],
       "sample": null,
       "multipart": false,

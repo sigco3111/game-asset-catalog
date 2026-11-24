@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@626e8742f5f3af11e048c499084412cfa31b5061",
-  "count": 2360,
+  "generated_from": "catalog.csv@8145019cc2916ab924e9d9a02dfbdf3a00fc3c0d",
+  "count": 2363,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -83439,6 +83439,105 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/the-big-fight/the-big-fight.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/the-big-fight/the-big-fight.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/child-at-the-fun-fair",
+      "name": "Child at the fun fair",
+      "repo": "assets-3d-polyfork",
+      "file": "child-at-the-fun-fair/child-at-the-fun-fair.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/child-at-the-fun-fair-base",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Child at the fun fair by Polyfork (https://polyfork.dev/asset/child-at-the-fun-fair-base), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "child-at-the-fun-fair/preview.png",
+      "download_path": "child-at-the-fun-fair/child-at-the-fun-fair.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/child-at-the-fun-fair/child-at-the-fun-fair.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/child-at-the-fun-fair/child-at-the-fun-fair.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/raccoon",
+      "name": "Raccoon",
+      "repo": "assets-3d-polyfork",
+      "file": "raccoon/raccoon.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/raccoon-base",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Raccoon by Polyfork (https://polyfork.dev/asset/raccoon-base), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "raccoon/preview.png",
+      "download_path": "raccoon/raccoon.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/raccoon/raccoon.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/raccoon/raccoon.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/santa-s-workshop",
+      "name": "Santa's Workshop",
+      "repo": "assets-3d-polyfork",
+      "file": "santa-s-workshop/santa-s-workshop.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/santa-s-workshop-58f43b",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Santa's Workshop by Polyfork (https://polyfork.dev/asset/santa-s-workshop-58f43b), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "santa-s-workshop/preview.png",
+      "download_path": "santa-s-workshop/santa-s-workshop.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/santa-s-workshop/santa-s-workshop.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/santa-s-workshop/santa-s-workshop.zip"
       ],
       "sample": null,
       "multipart": false,

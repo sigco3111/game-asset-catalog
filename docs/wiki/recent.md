@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@626e8742f5f3af11e048c499084412cfa31b5061`
+> generated from `catalog.csv@8145019cc2916ab924e9d9a02dfbdf3a00fc3c0d`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -15,6 +15,7 @@
 |---|---|---|---|---|---|---|---|
 | [Blood Moon](https://opengameart.org/content/blood-moon-0) | `music` | Ategon | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/blood-moon-0/blood-moon-0.zip) | 2026-11-24 |
 | [Car Theft 101 (Looping)](https://opengameart.org/content/car-theft-101-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/car-theft-101-looping/car-theft-101-looping.zip) | 2026-11-24 |
+| [Child at the fun fair](https://polyfork.dev/asset/child-at-the-fun-fair-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/child-at-the-fun-fair/child-at-the-fun-fair.zip) | 2026-11-24 |
 | [Cold Smoke SDF 메쉬 생성 코드 (Surface Nets)](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-sdf-mesher/cold-smoke-sdf-mesher.zip) | 2026-11-24 |
 | [Cold Smoke WebAudio 음악·효과음 합성 코드](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-audio-synth/cold-smoke-audio-synth.zip) | 2026-11-24 |
 | [Cold Smoke 절차적 인체 생성 코드 (Human)](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-human-body/cold-smoke-human-body.zip) | 2026-11-24 |
@@ -68,6 +69,8 @@
 | [Pet Cats Pack (LuizMelo)](https://luizmelo.itch.io/pet-cat-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/pet-cat-pack/pet-cat-pack.zip) | 2026-11-24 |
 | [Pet Dogs Pack (LuizMelo)](https://luizmelo.itch.io/pet-dogs-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/pet-dogs-pack/pet-dogs-pack.zip) | 2026-11-24 |
 | [Propylon Gateway](https://polyfork.dev/asset/propylon-gateway-8ce9dd) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/propylon-gateway/propylon-gateway.zip) | 2026-11-24 |
+| [Raccoon](https://polyfork.dev/asset/raccoon-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/raccoon/raccoon.zip) | 2026-11-24 |
+| [Santa's Workshop](https://polyfork.dev/asset/santa-s-workshop-58f43b) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/santa-s-workshop/santa-s-workshop.zip) | 2026-11-24 |
 | [Snowy Owl](https://polyfork.dev/asset/snowy-owl-9e83d6) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowy-owl/snowy-owl.zip) | 2026-11-24 |
 | [The big fight](https://opengameart.org/content/the-big-fight) | `music` | AigarsOz | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-big-fight/the-big-fight.zip) | 2026-11-24 |
 | [Voxel Dungeon Sprites & Tiles (Cole Foster)](https://colefoster.itch.io/voxel-dungeon-pack) | `sprite-2d` | Cole Foster | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/voxel-dungeon-sprites-tiles/voxel-dungeon-sprites-tiles.zip) | 2026-11-24 |
@@ -110,6 +113,3 @@
 | [Ornament Shop](https://polyfork.dev/asset/ornament-shop-de2663) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ornament-shop/ornament-shop.zip) | 2026-11-23 |
 | [outerim](https://opengameart.org/content/outerim) | `music` | tomcat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/outerim/outerim.zip) | 2026-11-23 |
 | [Pack Donkey](https://polyfork.dev/asset/pack-donkey-c69029) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pack-donkey/pack-donkey.zip) | 2026-11-23 |
-| [Ploughed Snowbank Run](https://polyfork.dev/asset/ploughed-snowbank-run-5d60bd) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ploughed-snowbank-run/ploughed-snowbank-run.zip) | 2026-11-23 |
-| [Procedural Animals 베이크 샘플 6종 (.animal)](https://github.com/majidmanzarpour/threejs-procedural-animals) | `model-3d` | Majid Manzarpour and procedural-animals contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/procedural-animal-samples/procedural-animal-samples.zip) | 2026-11-23 |
-| [Procedural Animals 절차적 동물 24종 코드 (three.js)](https://github.com/majidmanzarpour/threejs-procedural-animals) | `other` | Majid Manzarpour and procedural-animals contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/procedural-animals-threejs/procedural-animals-threejs.zip) | 2026-11-23 |

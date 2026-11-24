@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261124-23 자동 수집 등록 (3팩, 2026-11-24 23:35 KST)
+
+- 팩: Child at the fun fair (slug child-at-the-fun-fair), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/child-at-the-fun-fair-base
+- 저장: assets-3d-polyfork child-at-the-fun-fair/child-at-the-fun-fair.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2360→2363, 기존 행 불변 확인
+- 팩: Raccoon (slug raccoon), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/raccoon-base
+- 저장: assets-3d-polyfork raccoon/raccoon.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2360→2363, 기존 행 불변 확인
+- 팩: Santa's Workshop (slug santa-s-workshop), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/santa-s-workshop-58f43b
+- 저장: assets-3d-polyfork santa-s-workshop/santa-s-workshop.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2360→2363, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261124-20 자동 수집 등록 (6팩, 2026-11-24 20:53 KST)
 
 - 팩: Blood Moon (slug blood-moon-0), 라이선스: CC-BY 4.0, 제작자: Ategon

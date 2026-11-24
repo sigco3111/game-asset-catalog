@@ -1,20 +1,26 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@9812854f59f96b7805d5d9ffaea79b28adfee61e`
+> generated from `catalog.csv@626e8742f5f3af11e048c499084412cfa31b5061`
 
 # 음악 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `music`(음악)에 해당하는 에셋 **273개**입니다. 라이브러리에서 보기: [?cat=music](https://sigco3111.github.io/game-asset-catalog/?cat=music)
+분류 `music`(음악)에 해당하는 에셋 **279개**입니다. 라이브러리에서 보기: [?cat=music](https://sigco3111.github.io/game-asset-catalog/?cat=music)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 273행 (전체 273개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 279행 (전체 279개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Blood Moon](https://opengameart.org/content/blood-moon-0) | `music` | Ategon | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/blood-moon-0/blood-moon-0.zip) | 2026-11-24 |
+| [Car Theft 101 (Looping)](https://opengameart.org/content/car-theft-101-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/car-theft-101-looping/car-theft-101-looping.zip) | 2026-11-24 |
+| [Industrial Robot Factory Music & Sfx](https://opengameart.org/content/industrial-robot-factory-music-sfx) | `music` | CookieEfedu | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/industrial-robot-factory-music-sfx/industrial-robot-factory-music-sfx.zip) | 2026-11-24 |
+| [October Jazz](https://opengameart.org/content/october-jazz) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/october-jazz/october-jazz.zip) | 2026-11-24 |
+| [Out](https://opengameart.org/content/out) | `music` | G\_P | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/out/out.zip) | 2026-11-24 |
+| [The big fight](https://opengameart.org/content/the-big-fight) | `music` | AigarsOz | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-big-fight/the-big-fight.zip) | 2026-11-24 |
 | [Breakdown](https://opengameart.org/content/breakdown-0) | `music` | Ategon | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/breakdown-0/breakdown-0.zip) | 2026-11-23 |
 | [Cold](https://opengameart.org/content/cold-0) | `music` | G\_P | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cold-0/cold-0.zip) | 2026-11-23 |
 | [It's Watering Time](https://opengameart.org/content/its-watering-time) | `music` | Ategon | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/its-watering-time/its-watering-time.zip) | 2026-11-23 |

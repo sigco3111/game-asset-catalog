@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@9812854f59f96b7805d5d9ffaea79b28adfee61e",
-  "count": 2354,
+  "generated_from": "catalog.csv@626e8742f5f3af11e048c499084412cfa31b5061",
+  "count": 2360,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -83247,6 +83247,198 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowy-owl/snowy-owl.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowy-owl/snowy-owl.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/blood-moon",
+      "name": "Blood Moon",
+      "repo": "assets-audio",
+      "file": "blood-moon-0/blood-moon-0.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Ategon",
+      "source_url": "https://opengameart.org/content/blood-moon-0",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: Ategon (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "blood-moon-0/blood-moon-0.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/blood-moon-0/blood-moon-0.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/blood-moon-0/blood-moon-0.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/car-theft-101-looping",
+      "name": "Car Theft 101 (Looping)",
+      "repo": "assets-audio",
+      "file": "car-theft-101-looping/car-theft-101-looping.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Eric Matyas",
+      "source_url": "https://opengameart.org/content/car-theft-101-looping",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: Eric Matyas (opengameart.org), CC-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "출처 페이지 License(s) CC-BY 3.0 확인 (자동 수집, 원문: : CC-BY 3.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "car-theft-101-looping/car-theft-101-looping.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/car-theft-101-looping/car-theft-101-looping.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/car-theft-101-looping/car-theft-101-looping.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/industrial-robot-factory-music-sfx",
+      "name": "Industrial Robot Factory Music & Sfx",
+      "repo": "assets-audio",
+      "file": "industrial-robot-factory-music-sfx/industrial-robot-factory-music-sfx.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "CookieEfedu",
+      "source_url": "https://opengameart.org/content/industrial-robot-factory-music-sfx",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: CookieEfedu (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "industrial-robot-factory-music-sfx/industrial-robot-factory-music-sfx.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/industrial-robot-factory-music-sfx/industrial-robot-factory-music-sfx.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/industrial-robot-factory-music-sfx/industrial-robot-factory-music-sfx.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/october-jazz",
+      "name": "October Jazz",
+      "repo": "assets-audio",
+      "file": "october-jazz/october-jazz.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Pro Sensory",
+      "source_url": "https://opengameart.org/content/october-jazz",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Pro Sensory (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "october-jazz/october-jazz.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/october-jazz/october-jazz.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/october-jazz/october-jazz.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/out",
+      "name": "Out",
+      "repo": "assets-audio",
+      "file": "out/out.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "G_P",
+      "source_url": "https://opengameart.org/content/out",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: G_P (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "out/out.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/out/out.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/out/out.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/the-big-fight",
+      "name": "The big fight",
+      "repo": "assets-audio",
+      "file": "the-big-fight/the-big-fight.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "AigarsOz",
+      "source_url": "https://opengameart.org/content/the-big-fight",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: AigarsOz (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "the-big-fight/the-big-fight.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/the-big-fight/the-big-fight.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/the-big-fight/the-big-fight.zip"
       ],
       "sample": null,
       "multipart": false,

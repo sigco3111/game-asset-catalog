@@ -1,5 +1,33 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261124-20 자동 수집 등록 (6팩, 2026-11-24 20:53 KST)
+
+- 팩: Blood Moon (slug blood-moon-0), 라이선스: CC-BY 4.0, 제작자: Ategon
+- 출처: https://opengameart.org/content/blood-moon-0
+- 저장: assets-3d-lowpoly-2 blood-moon-0/blood-moon-0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2354→2360, 기존 행 불변 확인
+- 팩: Car Theft 101 (Looping) (slug car-theft-101-looping), 라이선스: CC-BY 3.0, 제작자: Eric Matyas
+- 출처: https://opengameart.org/content/car-theft-101-looping
+- 저장: assets-3d-lowpoly-2 car-theft-101-looping/car-theft-101-looping.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2354→2360, 기존 행 불변 확인
+- 팩: Industrial Robot Factory Music & Sfx (slug industrial-robot-factory-music-sfx), 라이선스: CC-BY 4.0, 제작자: CookieEfedu
+- 출처: https://opengameart.org/content/industrial-robot-factory-music-sfx
+- 저장: assets-3d-lowpoly-2 industrial-robot-factory-music-sfx/industrial-robot-factory-music-sfx.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2354→2360, 기존 행 불변 확인
+- 팩: October Jazz (slug october-jazz), 라이선스: CC0, 제작자: Pro Sensory
+- 출처: https://opengameart.org/content/october-jazz
+- 저장: assets-3d-lowpoly-2 october-jazz/october-jazz.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2354→2360, 기존 행 불변 확인
+- 팩: Out (slug out), 라이선스: CC0, 제작자: G_P
+- 출처: https://opengameart.org/content/out
+- 저장: assets-3d-lowpoly-2 out/out.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2354→2360, 기존 행 불변 확인
+- 팩: The big fight (slug the-big-fight), 라이선스: CC-BY 4.0, 제작자: AigarsOz
+- 출처: https://opengameart.org/content/the-big-fight
+- 저장: assets-3d-lowpoly-2 the-big-fight/the-big-fight.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2354→2360, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261124-19 자동 수집 등록 (3팩, 2026-11-24 19:28 KST)
 
 - 팩: Court jester (slug court-jester), 라이선스: CC-BY 4.0, 제작자: Polyfork

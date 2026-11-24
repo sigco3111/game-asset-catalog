@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@9812854f59f96b7805d5d9ffaea79b28adfee61e`
-- 데이터 행 수: **2354**
+- 원본: `catalog.csv@626e8742f5f3af11e048c499084412cfa31b5061`
+- 데이터 행 수: **2360**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 3,453,606 bytes, `assets-index.min.json` 2,792,297 bytes
+- 파일 크기: `assets-index.json` 3,460,743 bytes, `assets-index.min.json` 2,797,928 bytes
 
 ## 2. 집계
 
@@ -17,7 +17,7 @@
 | repo | 개수 |
 |---|---|
 | assets-2d-pixel | 721 |
-| assets-audio | 524 |
+| assets-audio | 530 |
 | assets-3d-lowpoly | 508 |
 | assets-ui-icons | 257 |
 | assets-3d-lowpoly-2 | 238 |
@@ -30,7 +30,7 @@
 | category | 개수 |
 |---|---|
 | model-3d | 753 |
-| music | 273 |
+| music | 279 |
 | sfx | 246 |
 | ui | 233 |
 | sprite-2d | 166 |
@@ -55,7 +55,7 @@
 | type(원본) | category | 개수 |
 |---|---|---|
 | 3D 모델 | model-3d | 441 |
-| 음악 | music | 254 |
+| 음악 | music | 260 |
 | 효과음 | sfx | 246 |
 | 3D | model-3d | 237 |
 | UI·아이콘 | ui | 215 |
@@ -133,8 +133,8 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license_family | 개수 |
 |---|---|
-| cc0 | 1949 |
-| cc-by | 329 |
+| cc0 | 1951 |
+| cc-by | 333 |
 | mit | 34 |
 | other | 31 |
 | gpl | 11 |
@@ -143,9 +143,9 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license | 개수 |
 |---|---|
-| CC0 | 1945 |
-| CC-BY 4.0 | 193 |
-| CC-BY 3.0 | 117 |
+| CC0 | 1947 |
+| CC-BY 4.0 | 196 |
+| CC-BY 3.0 | 118 |
 | MIT | 34 |
 | 알 수 없음 | 13 |
 | CC-BY | 11 |
@@ -193,7 +193,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2026-11-21 | 39 |
 | 2026-11-22 | 41 |
 | 2026-11-23 | 55 |
-| 2026-11-24 | 54 |
+| 2026-11-24 | 60 |
 
 ### 상위 태그 30
 
@@ -204,7 +204,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | sfx | 250 |
 | lowpoly | 238 |
 | music | 234 |
-| opengameart | 228 |
+| opengameart | 234 |
 | ui·아이콘 | 182 |
 | rpg | 151 |
 | pixel | 131 |
@@ -225,10 +225,10 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | spell | 61 |
 | sprite | 60 |
 | animation | 55 |
+| audio | 53 |
 | explosion | 52 |
 | vfx | 52 |
 | isometric | 50 |
-| tiles | 48 |
 
 ### effect_kind별 (키워드 일치 기준, 하나의 에셋이 여러 종류에 속할 수 있음)
 
@@ -250,9 +250,9 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | projectile | 27 |
 | slash | 11 |
 
-- effect_kind가 하나 이상인 에셋: 277 / 2354
+- effect_kind가 하나 이상인 에셋: 277 / 2360
 
-- attribution_required=true: 401, ai_generated=true: 41, preview 있음: 1846, 분할(split) 행: 150
+- attribution_required=true: 405, ai_generated=true: 41, preview 있음: 1846, 분할(split) 행: 150
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
@@ -301,7 +301,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 ### 3.4 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 라이선스 표기 — 값은 수정하지 않음
 
-- 허용 목록과 정확히 일치: 2311행
+- 허용 목록과 정확히 일치: 2317행
 - 허용 라이선스로 시작하지만 부가 설명이 붙은 표기: 12행 (9종)
 - 허용 목록에 해당하지 않음: **31행** (8종)
 
@@ -342,9 +342,9 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 - 참고: license_family가 cc-by/mit/gpl인데 attribution이 `optional`로 시작하는 행: 1건 (규칙상 attribution_required=false 처리됨; 확인 필요)
   - assets-audio/the-lost-storm-replacement-sfx
-- 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 190건
+- 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 192건
 - 참고: attribution이 `불요`로 시작하거나 `없음`/`none`/`n/a`인 행: 13건 — attribution_required=false 처리 (정제 2차 변경; 이전에는 `불요` 2행이 true였음: assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56)
-- 참고: attribution_required=true인 행 401건 (cc0인데 true: 0건)
+- 참고: attribution_required=true인 행 405건 (cc0인데 true: 0건)
 
 ### 3.6 file 열 경로 형식 이상: 6건
 
@@ -357,10 +357,10 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 1928 | https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-aztec-buildings/aztec-buildings.zip | 중복 슬래시 |
 | 1932 | https://github.com/sigco3111/assets-2d-pixel/releases/download/a107-spell-set/spell-set.zip | 중복 슬래시 |
 - file 열이 저장소 상대경로가 아니라 전체 URL인 행 6건: 색인의 download_path는 같은 저장소의 상대경로로 환산(cheonha-sambun/cheonha-sambun-assets.zip, releases/download/a105-sewer-tunnels/sewer-tunnels.zip, releases/download/a105-office-campus-buildings-and-restaurant/office-campus-buildings-and-restaurant.zip), 원본 file 값은 `file`에 그대로 유지.
-- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1591행, 저장소 트리 경로 763행
+- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1591행, 저장소 트리 경로 769행
 - split 열 값이 `Y`(파트 파일명 미나열, 폴더 내 part1~N zip)인 행: 11건 — `multipart=true`, download_url은 file 열(part1) 기준.
 - 파트 파일명이 나열된 분할 업로드(split 열) 150행: file 열의 단일 파일명은 릴리스에 존재하지 않을 수 있고 실제 파일은 `split_parts`임 (예: `assets-3d-lowpoly/kaykit-skeletons-1-0`). 이 행들의 `download_url`은 null, 대신 `download_urls`에 분할 파일 URL 목록을 둠.
-- file 확장자 분포: .zip 2266, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 4, .wav 3, .svg 2, .gif 1, .gz 1, .jpg 1
+- file 확장자 분포: .zip 2272, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 4, .wav 3, .svg 2, .gif 1, .gz 1, .jpg 1
 
 ### 3.7 기타 관찰
 
@@ -413,7 +413,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2337 | Hisar 중세 게임 UI 아이콘 16종·로고 문장 (권리 미확인) | assets-ui-icons | notes `AI 생성` |
 
 - notes에 `AI`가 있으나 `AI 생성` 문구가 없어 false로 둔 행: 8건 (assets-ui-icons/game-icons, assets-ui-icons/game-icons-expansion, assets-3d-lowpoly/modular-dungeon-2-3d-models-2, assets-3d-lowpoly/base-human-models-low-poly, assets-2d-pixel/weapon-slash-effect-2)
-- preview가 없는 행: 508건
+- preview가 없는 행: 514건
 
 ## 4. 샘플 링크 점검 (전수 점검 아님, 표본)
 

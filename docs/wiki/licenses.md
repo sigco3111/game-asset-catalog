@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@9812854f59f96b7805d5d9ffaea79b28adfee61e`
+> generated from `catalog.csv@626e8742f5f3af11e048c499084412cfa31b5061`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2354개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2360개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -16,8 +16,8 @@
 
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
-| cc0 | CC0 | 1949 | 0 | 예 |
-| cc-by | CC-BY | 329 | 329 | 예 |
+| cc0 | CC0 | 1951 | 0 | 예 |
+| cc-by | CC-BY | 333 | 333 | 예 |
 | mit | MIT | 34 | 33 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
 | other | 기타(허용 목록 밖) | 31 | 28 | 아니오 |
@@ -28,9 +28,9 @@
 
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
-| CC0 | cc0 | X | 1945 |
-| CC-BY 4.0 | cc-by | O | 193 |
-| CC-BY 3.0 | cc-by | O | 117 |
+| CC0 | cc0 | X | 1947 |
+| CC-BY 4.0 | cc-by | O | 196 |
+| CC-BY 3.0 | cc-by | O | 118 |
 | MIT | mit | O | 33 |
 | 알 수 없음 | other | O | 13 |
 | CC-BY | cc-by | O | 11 |
@@ -55,10 +55,12 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 401개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 405개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
+| [Blood Moon](https://opengameart.org/content/blood-moon-0) | Ategon | CC-BY 4.0 | 필수: Ategon (opengameart.org), CC-BY 4.0 | 2026-11-24 |
+| [Car Theft 101 (Looping)](https://opengameart.org/content/car-theft-101-looping) | Eric Matyas | CC-BY 3.0 | 필수: Eric Matyas (opengameart.org), CC-BY 3.0 | 2026-11-24 |
 | [Cold Smoke SDF 메쉬 생성 코드 (Surface Nets)](https://github.com/huiskylabs/cold-smoke) | Huisky | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Huisky) | 2026-11-24 |
 | [Cold Smoke WebAudio 음악·효과음 합성 코드](https://github.com/huiskylabs/cold-smoke) | Huisky | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Huisky) | 2026-11-24 |
 | [Cold Smoke 절차적 인체 생성 코드 (Human)](https://github.com/huiskylabs/cold-smoke) | Huisky | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Huisky) | 2026-11-24 |
@@ -71,6 +73,7 @@
 | [Hisar 중세 공성전 3D 모델 12종 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | Furkiozknn | 알 수 없음 | 권장(미확인): Furkiozknn (github.com/Furkiozknn/kale-savunmasi) | 2026-11-24 |
 | [Hisar 치비 캐릭터 아트 9종 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | Furkiozknn | 알 수 없음 | 권장(미확인): Furkiozknn (github.com/Furkiozknn/kale-savunmasi) | 2026-11-24 |
 | [Hung Stocking Set](https://polyfork.dev/asset/hung-stocking-set-6191aa) | Polyfork | CC-BY 4.0 | Hung Stocking Set by Polyfork (https://polyfork.dev/asset/hung-stocking-set-6191aa), CC BY 4.0 | 2026-11-24 |
+| [Industrial Robot Factory Music & Sfx](https://opengameart.org/content/industrial-robot-factory-music-sfx) | CookieEfedu | CC-BY 4.0 | 필수: CookieEfedu (opengameart.org), CC-BY 4.0 | 2026-11-24 |
 | [Kervan asset-forge 절차적 3D 모델 생성 파이프라인](https://github.com/Furkiozknn/kervan) | Furkiozknn | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Furkiozknn) | 2026-11-24 |
 | [Kervan 아나톨리아 도시·카라반 3D 모델 11종](https://github.com/Furkiozknn/kervan) | Furkiozknn | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Furkiozknn) | 2026-11-24 |
 | [Labyrinth Wall Run](https://polyfork.dev/asset/labyrinth-wall-run-d111fb) | Polyfork | CC-BY 4.0 | Labyrinth Wall Run by Polyfork (https://polyfork.dev/asset/labyrinth-wall-run-d111fb), CC BY 4.0 | 2026-11-24 |
@@ -82,6 +85,7 @@
 | [Olympian Throne](https://polyfork.dev/asset/olympian-throne-b31426) | Polyfork | CC-BY 4.0 | Olympian Throne by Polyfork (https://polyfork.dev/asset/olympian-throne-b31426), CC BY 4.0 | 2026-11-24 |
 | [Propylon Gateway](https://polyfork.dev/asset/propylon-gateway-8ce9dd) | Polyfork | CC-BY 4.0 | Propylon Gateway by Polyfork (https://polyfork.dev/asset/propylon-gateway-8ce9dd), CC BY 4.0 | 2026-11-24 |
 | [Snowy Owl](https://polyfork.dev/asset/snowy-owl-9e83d6) | Polyfork | CC-BY 4.0 | Snowy Owl by Polyfork (https://polyfork.dev/asset/snowy-owl-9e83d6), CC BY 4.0 | 2026-11-24 |
+| [The big fight](https://opengameart.org/content/the-big-fight) | AigarsOz | CC-BY 4.0 | 필수: AigarsOz (opengameart.org), CC-BY 4.0 | 2026-11-24 |
 | [Zeus](https://polyfork.dev/asset/zeus-base) | Polyfork | CC-BY 4.0 | Zeus by Polyfork (https://polyfork.dev/asset/zeus-base), CC BY 4.0 | 2026-11-24 |
 | [00GameDevs 마법 VFX Starter 5종 (Three.js·WebGL2)](https://patch.gg/00vchannel/00gamedevs-vfx-starter) | 00GameDevs (@00vchannel) | MIT | required (MIT): Copyright (c) 2026 00GameDevs (@00vchannel), 저작권·허가 고지 유지 | 2026-11-23 |
 | [AbilityCasting 결투장·생물·소품 3D 모델 5종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | mohamedachrefelouafi | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi). 환경 HDRI만 Poly Haven CC0(귀속 불필요) | 2026-11-23 |

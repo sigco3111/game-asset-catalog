@@ -138,3 +138,4 @@
 
 - 2026-11-18 A115 등록: Goth female - Fleur du Mal (3D 캐릭터, CC-BY 3.0, https://opengameart.org/content/goth-female-fleur-du-mal) 포털 1943팩
 - 2026-11-20 pixelfx 이펙트 244종 추가(assets-2d-pixel, MIT, 제작자 Patch)
+- 2026-11-24 Cold Smoke 프로젝트 코드 3팩 추가(assets-code, MIT, 제작자 Huisky): 절차적 인체 생성(Human)·WebAudio 음악·효과음 합성·SDF 메쉬 생성. 모캡 데이터·폰트는 권리 확인 보류로 제외. 포털 2345팩

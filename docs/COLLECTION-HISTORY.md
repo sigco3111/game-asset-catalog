@@ -1,5 +1,12 @@
 # 수집 이력 (라운드별 상세)
 
+### 수동 라운드: Cold Smoke 프로젝트 코드 3팩 (2026-11-24 KST)
+
+- 팩: 절차적 인체 생성 코드 Human(MIT, assets-code cold-smoke-human-body), WebAudio 음악·효과음 합성 코드(MIT, assets-code cold-smoke-audio-synth), SDF 메쉬 생성 코드(MIT, assets-code cold-smoke-sdf-mesher)
+- 출처: https://github.com/huiskylabs/cold-smoke (한글 포크 https://github.com/sigco3111/cold-smoke; 사용자 지정 수집, iMessage 2026-11-24). 수록 파일은 원본 저장소와 바이트 동일 확인(차이 0건)
+- 포털 등록: catalog.csv 2342→2345, 기존 행 불변 확인
+- 규칙 메모: 3팩 모두 원작 MIT(전문 동봉). 인체 팩은 ANSUR II(2017 공개)·CDC/AAOS·McClure 2001·de Leva 1996 등 공개 자료의 피팅 상수만 내장(원시 데이터셋 없음)하고, 09a_refdata의 MakeHuman 메쉬는 공식 FAQ·LICENSE.md로 CC0 1.0 확인 후 포함. 실제 영상 기반 모캡 JSON(CC BY·CC BY 3.0·Pexels)과 OFL 폰트 3종은 권리 확인 보류로 수집 제외 — 인체 팩의 build-module.js는 원본 대비 모캡 내장 단계를 뺀 수집자 변형(모듈은 해당 데이터 없이 동작 확인). 독립 실행 확인: Node 22에서 인체 몸 메쉬 12,986정점·MakeHuman 참조 몸 13,380정점·모션 클립 샘플링·SDF 메쉬 16,722정점 생성 성공(미리보기 이미지가 실제 출력), 오디오는 Web Audio 전용이라 단독 실행 미검증. 브라우저/다른 게임 연결은 3팩 모두 미검증이며 pack.md에 명시
+
 ### 수동 라운드: Long Wind 프로젝트 에셋 5팩 (2026-11-24 KST)
 
 - 팩: Poly Haven 스캔 텍스처 14종(CC0, assets-2d-pixel long-wind-ph-textures), Poly Haven 바위 모델 9종(CC0, assets-3d-lowpoly-2 long-wind-ph-rocks), 수묵 세리프 폰트 4종(OFL-1.1, assets-ui-icons long-wind-fonts), 절차적 환경 생성 코드(MIT, assets-code long-wind-env-gen), WebAudio 음악·효과음 합성 코드(MIT, assets-code long-wind-audio-synth)

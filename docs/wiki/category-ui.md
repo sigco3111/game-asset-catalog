@@ -15,7 +15,7 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
-| [Hisar 중세 게임 UI 아이콘 16종·로고 문장](https://github.com/Furkiozknn/kale-savunmasi) | `ui` | Furkiozknn | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/hisar-ui-icons/hisar-ui-icons.zip) | 2026-11-24 |
+| [Hisar 중세 게임 UI 아이콘 16종·로고 문장 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | `ui` | Furkiozknn | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/hisar-ui-icons/hisar-ui-icons.zip) | 2026-11-24 |
 | [Assets Free Interface UI Dark Miko](https://opengameart.org/content/assets-free-interface-ui-dark-miko) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip) | 2026-11-22 |
 | [Colored Number-Buttons (01-99)](https://opengameart.org/content/colored-number-buttons-01-99) | `ui` | DreyArts | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/colored-number-buttons-01-99/colored-number-buttons-01-99.zip) | 2026-11-22 |
 | [Fun Hyper Casual UI](https://opengameart.org/content/fun-hyper-casual-ui) | `ui` | AlmostMikhail | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fun-hyper-casual-ui/fun-hyper-casual-ui.zip) | 2026-11-22 |

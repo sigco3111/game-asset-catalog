@@ -1,5 +1,11 @@
 # 수집 이력 (라운드별 상세)
 
+### 정정: Hisar GLB·아이콘 2팩 미확인으로 재분류 (2026-11-24 KST)
+
+- 대상: hisar-siege-models, hisar-ui-icons (직전 Kervan·Hisar 라운드에서 MIT로 등록)
+- 사유: kale-savunmasi 저장소는 루트 MIT LICENSE만 있고 kervan처럼 개별 에셋에 MIT 적용을 명시한 문구가 없음. Higgsfield 약관 4.4(출력물 소유·상업 이용)는 생성자 본인 권리일 뿐 제3자 이용허락이 아니며, AI 생성물 저작권 성립도 불확실. 라이선스를 알 수 없음·재사용 미확인으로 바로잡고 팩명에 (권리 미확인) 표기, zip·폴더에서 MIT 전문 제거
+- 참고: 사용 전 원작자 확인 필요. 권리자 요청 시 즉시 내림
+
 ### 수동 라운드: Kervan·Hisar 프로젝트 에셋 6팩 (2026-11-24 KST)
 
 - 팩: Kervan 아나톨리아 도시·카라반 3D 모델 11종(MIT, assets-3d-lowpoly-2 kervan-anatolia-models), Kervan 지형·양피지 텍스처와 하늘 HDR(CC0, kervan-env-textures), Kervan asset-forge Blender 생성 파이프라인(MIT, assets-code kervan-asset-forge), Hisar 중세 공성전 3D 모델 12종(MIT·AI 생성 고지, hisar-siege-models), Hisar UI 아이콘 16종·로고(MIT·AI 생성 고지, assets-ui-icons hisar-ui-icons), Hisar 치비 캐릭터 아트 9종(알 수 없음·재사용 미확인, assets-2d-pixel hisar-chibi-art)

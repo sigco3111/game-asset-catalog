@@ -36,6 +36,6 @@ Example: https://sigco3111.github.io/game-asset-catalog/?cat=sfx&fx=explosion&li
 
 ## Counts snapshot (catalog.csv@15cd5790e7e2cfc367ce01b2bea7ac66d215f7fa)
 - Assets: 2337; attribution required: 386; AI-generated: 41
-- By licence family: cc0 1947, cc-by 323, mit 28, gpl 11, other 28
+- By licence family: cc0 1947, cc-by 323, mit 26, gpl 11, other 30
 - By category: effect 147, sfx 246, music 273, voice 3, tileset-2d 146, sprite-2d 166, background-2d 30, map-2d 3, ui 233, icon 40, portrait 2, font 4, texture 71, model-3d 746, character-3d 35, vehicle-3d 10, building-3d 23, board 5, puzzle 2, other 152
 - By effect_kind: hit 47, impact 49, magic 104, explosion 70, fire 60, ice 24, lightning 32, wind 10, heal 17, laser 18, particle 36, smoke 12, aura 8, projectile 27, slash 11

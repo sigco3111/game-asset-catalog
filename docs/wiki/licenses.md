@@ -18,9 +18,9 @@
 |---|---|---|---|---|
 | cc0 | CC0 | 1947 | 0 | 예 |
 | cc-by | CC-BY | 323 | 323 | 예 |
-| mit | MIT | 28 | 27 | 예 |
+| mit | MIT | 26 | 25 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
-| other | 기타(허용 목록 밖) | 28 | 25 | 아니오 |
+| other | 기타(허용 목록 밖) | 30 | 27 | 아니오 |
 
 ## 라이선스 문구(license)별 개수
 
@@ -31,10 +31,10 @@
 | CC0 | cc0 | X | 1943 |
 | CC-BY 4.0 | cc-by | O | 187 |
 | CC-BY 3.0 | cc-by | O | 117 |
-| MIT | mit | O | 27 |
+| MIT | mit | O | 25 |
+| 알 수 없음 | other | O | 13 |
 | CC-BY | cc-by | O | 11 |
 | GPL 3.0 | gpl | O | 11 |
-| 알 수 없음 | other | O | 11 |
 | OGA-BY 3.0 | other | O | 5 |
 | Apache-2.0 | other | O | 4 |
 | CC-BY 3.0 / GPL 2.0 (원본 페이지 이중 표기, 둘 다 허용 라이선스; CC-BY 3.0 선택) | cc-by | O | 3 |
@@ -60,8 +60,8 @@
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
 | [Free Monster Pack (Frakassets)](https://frakassets.itch.io/free-monster-pack) | Frakassets | CC-BY 4.0 | required: Frakassets (frakassets.itch.io), CC-BY 4.0 | 2026-11-24 |
-| [Hisar 중세 게임 UI 아이콘 16종·로고 문장](https://github.com/Furkiozknn/kale-savunmasi) | Furkiozknn | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Furkiozknn) | 2026-11-24 |
-| [Hisar 중세 공성전 3D 모델 12종](https://github.com/Furkiozknn/kale-savunmasi) | Furkiozknn | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Furkiozknn) | 2026-11-24 |
+| [Hisar 중세 게임 UI 아이콘 16종·로고 문장 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | Furkiozknn | 알 수 없음 | 권장(미확인): Furkiozknn (github.com/Furkiozknn/kale-savunmasi) | 2026-11-24 |
+| [Hisar 중세 공성전 3D 모델 12종 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | Furkiozknn | 알 수 없음 | 권장(미확인): Furkiozknn (github.com/Furkiozknn/kale-savunmasi) | 2026-11-24 |
 | [Hisar 치비 캐릭터 아트 9종 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | Furkiozknn | 알 수 없음 | 권장(미확인): Furkiozknn (github.com/Furkiozknn/kale-savunmasi) | 2026-11-24 |
 | [Hung Stocking Set](https://polyfork.dev/asset/hung-stocking-set-6191aa) | Polyfork | CC-BY 4.0 | Hung Stocking Set by Polyfork (https://polyfork.dev/asset/hung-stocking-set-6191aa), CC BY 4.0 | 2026-11-24 |
 | [Kervan asset-forge 절차적 3D 모델 생성 파이프라인](https://github.com/Furkiozknn/kervan) | Furkiozknn | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Furkiozknn) | 2026-11-24 |
@@ -467,10 +467,12 @@
 
 ## 허용 목록 밖 에셋 (확인 없이 쓰지 마세요)
 
-license_family가 `cc0`·`cc-by`·`mit`·`gpl`이 아닌 에셋 28개입니다. **do not use without checking** — 사용하기 전에 라이선스 문구와 출처를 직접 확인하세요.
+license_family가 `cc0`·`cc-by`·`mit`·`gpl`이 아닌 에셋 30개입니다. **do not use without checking** — 사용하기 전에 라이선스 문구와 출처를 직접 확인하세요.
 
 | 이름 | license_family | 라이선스 | 표기 필요 | AI 생성 | 추가일 |
 |---|---|---|---|---|---|
+| [Hisar 중세 게임 UI 아이콘 16종·로고 문장 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | other | 알 수 없음 | O | O | 2026-11-24 |
+| [Hisar 중세 공성전 3D 모델 12종 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | other | 알 수 없음 | O | O | 2026-11-24 |
 | [Hisar 치비 캐릭터 아트 9종 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | other | 알 수 없음 | O | X | 2026-11-24 |
 | [AbilityCasting 상어·드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | other | 알 수 없음 | O | X | 2026-11-23 |
 | [Galmuri 비트맵 한글 폰트 (Galmuri11·Galmuri14)](https://github.com/quiple/galmuri) | other | OFL-1.1 | O | X | 2026-11-23 |
@@ -506,8 +508,8 @@ license_family가 `cc0`·`cc-by`·`mit`·`gpl`이 아닌 에셋 28개입니다. 
 
 | 이름 | 분류 | 라이선스 계열 | 추가일 |
 |---|---|---|---|
-| [Hisar 중세 게임 UI 아이콘 16종·로고 문장](https://github.com/Furkiozknn/kale-savunmasi) | `ui` | mit | 2026-11-24 |
-| [Hisar 중세 공성전 3D 모델 12종](https://github.com/Furkiozknn/kale-savunmasi) | `model-3d` | mit | 2026-11-24 |
+| [Hisar 중세 게임 UI 아이콘 16종·로고 문장 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | `ui` | other | 2026-11-24 |
+| [Hisar 중세 공성전 3D 모델 12종 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | `model-3d` | other | 2026-11-24 |
 | [Battle Drones 바위 타일 텍스처 5종 (심리스 512²)](https://github.com/simonw/battledrones) | `other` | other | 2026-11-20 |
 | [Battle Drones 키아트 (가로·세로 2종)](https://github.com/simonw/battledrones) | `background-2d` | other | 2026-11-20 |
 | [Battle Drones 페인티드 지형 맵 7종 (알베도 타일)](https://github.com/simonw/battledrones) | `other` | other | 2026-11-20 |

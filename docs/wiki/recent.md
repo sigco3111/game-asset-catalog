@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@4bc6d3345e01ae9bb0fcc2ca6032b3df843a9f89`
+> generated from `catalog.csv@8d16530d9cd4999f653d128223cbad27282cd918`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -34,6 +34,11 @@
 | [Kervan asset-forge 절차적 3D 모델 생성 파이프라인](https://github.com/Furkiozknn/kervan) | `other` | Furkiozknn | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/kervan-asset-forge/kervan-asset-forge.zip) | 2026-11-24 |
 | [Kervan 아나톨리아 도시·카라반 3D 모델 11종](https://github.com/Furkiozknn/kervan) | `model-3d` | Furkiozknn | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/kervan-anatolia-models/kervan-anatolia-models.zip) | 2026-11-24 |
 | [Kervan 지형·양피지 텍스처와 하늘 HDR (CC0)](https://github.com/Furkiozknn/kervan) | `other` | Poly Haven · ambientCG (Kervan 프로젝트 가공) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/kervan-env-textures/kervan-env-textures.zip) | 2026-11-24 |
+| [Long Wind Poly Haven 바위 모델 9종 (glTF 1K)](https://polyhaven.com) | `model-3d` | Poly Haven | CC0 | X | X | 3개 분할 | 2026-11-24 |
+| [Long Wind Poly Haven 스캔 텍스처 14종 (PBR 1K/2K)](https://polyhaven.com) | `texture` | Poly Haven | CC0 | X | X | 6개 분할 | 2026-11-24 |
+| [Long Wind WebAudio 음악·효과음 합성 코드](https://github.com/jbang2004/long-wind) | `other` | jbang2004 | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/long-wind-audio-synth/long-wind-audio-synth.zip) | 2026-11-24 |
+| [Long Wind 수묵 세리프 폰트 4종 (Google Fonts, OFL)](https://fonts.google.com) | `font` | Google Fonts (Ma Shanzheng·Noto·Christian Thalmann) | OFL-1.1 | O | X | 2개 분할 | 2026-11-24 |
+| [Long Wind 절차적 환경 생성 코드 (Three.js)](https://github.com/jbang2004/long-wind) | `other` | jbang2004 | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/long-wind-env-gen/long-wind-env-gen.zip) | 2026-11-24 |
 | [Martial Hero (LuizMelo)](https://luizmelo.itch.io/martial-hero) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/martial-hero/martial-hero.zip) | 2026-11-24 |
 | [Martial Hero 2 (LuizMelo)](https://luizmelo.itch.io/martial-hero-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/martial-hero-2/martial-hero-2.zip) | 2026-11-24 |
 | [Martial Hero 3 (LuizMelo)](https://luizmelo.itch.io/martial-hero-3) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/martial-hero-3/martial-hero-3.zip) | 2026-11-24 |
@@ -108,8 +113,3 @@
 | [A Kingdom of tears battle theme(REMAKE)(wip)](https://opengameart.org/content/a-kingdom-of-tears-battle-themeremakewip) | `music` | game guy maker | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-kingdom-of-tears-battle-themeremakewip/a-kingdom-of-tears-battle-themeremakewip.zip) | 2026-11-22 |
 | [A Short Walk With You](https://opengameart.org/content/a-short-walk-with-you) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-short-walk-with-you/a-short-walk-with-you.zip) | 2026-11-22 |
 | [Assets Free Interface UI Dark Miko](https://opengameart.org/content/assets-free-interface-ui-dark-miko) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip) | 2026-11-22 |
-| [Baggage Tug](https://polyfork.dev/asset/baggage-tug-fb69f7) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/baggage-tug/baggage-tug.zip) | 2026-11-22 |
-| [Bronze Tripod Cauldron](https://polyfork.dev/asset/bronze-tripod-cauldron-7ee4ba) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/bronze-tripod-cauldron/bronze-tripod-cauldron.zip) | 2026-11-22 |
-| [Cave](https://opengameart.org/content/cave-1) | `music` | maggie.beans3696 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cave-1/cave-1.zip) | 2026-11-22 |
-| [Chinese Scholar Tree](https://polyfork.dev/asset/chinese-scholar-tree-059fce) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-scholar-tree/chinese-scholar-tree.zip) | 2026-11-22 |
-| [City Wall Run](https://polyfork.dev/asset/city-wall-run-1f4c31) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/city-wall-run/city-wall-run.zip) | 2026-11-22 |

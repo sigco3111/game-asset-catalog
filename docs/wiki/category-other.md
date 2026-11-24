@@ -1,22 +1,24 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@4bc6d3345e01ae9bb0fcc2ca6032b3df843a9f89`
+> generated from `catalog.csv@8d16530d9cd4999f653d128223cbad27282cd918`
 
 # 기타 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `other`(기타)에 해당하는 에셋 **152개**입니다. 라이브러리에서 보기: [?cat=other](https://sigco3111.github.io/game-asset-catalog/?cat=other)
+분류 `other`(기타)에 해당하는 에셋 **154개**입니다. 라이브러리에서 보기: [?cat=other](https://sigco3111.github.io/game-asset-catalog/?cat=other)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 152행 (전체 152개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 154행 (전체 154개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Kervan asset-forge 절차적 3D 모델 생성 파이프라인](https://github.com/Furkiozknn/kervan) | `other` | Furkiozknn | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/kervan-asset-forge/kervan-asset-forge.zip) | 2026-11-24 |
 | [Kervan 지형·양피지 텍스처와 하늘 HDR (CC0)](https://github.com/Furkiozknn/kervan) | `other` | Poly Haven · ambientCG (Kervan 프로젝트 가공) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/kervan-env-textures/kervan-env-textures.zip) | 2026-11-24 |
+| [Long Wind WebAudio 음악·효과음 합성 코드](https://github.com/jbang2004/long-wind) | `other` | jbang2004 | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/long-wind-audio-synth/long-wind-audio-synth.zip) | 2026-11-24 |
+| [Long Wind 절차적 환경 생성 코드 (Three.js)](https://github.com/jbang2004/long-wind) | `other` | jbang2004 | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/long-wind-env-gen/long-wind-env-gen.zip) | 2026-11-24 |
 | [00GameDevs 마법 VFX Starter 5종 (Three.js·WebGL2)](https://patch.gg/00vchannel/00gamedevs-vfx-starter) | `other` | 00GameDevs (@00vchannel) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/00gamedevs-vfx-starter/00gamedevs-vfx-starter.zip) | 2026-11-23 |
 | [AbilityCasting 시네마틱 주문 VFX 코드 9종 (Three.js·GLSL)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/abilitycasting-spell-vfx/abilitycasting-spell-vfx.zip) | 2026-11-23 |
 | [Elemental Sandbox HDRI 환경광 (Poly Haven Spruit Sunrise 2K)](https://polyhaven.com/a/spruit_sunrise) | `other` | Poly Haven | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/elemental-sandbox-hdri-spruit-sunrise/elemental-sandbox-hdri-spruit-sunrise.zip) | 2026-11-23 |

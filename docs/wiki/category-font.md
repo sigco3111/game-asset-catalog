@@ -1,20 +1,21 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@4bc6d3345e01ae9bb0fcc2ca6032b3df843a9f89`
+> generated from `catalog.csv@8d16530d9cd4999f653d128223cbad27282cd918`
 
 # 폰트 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `font`(폰트)에 해당하는 에셋 **4개**입니다. 라이브러리에서 보기: [?cat=font](https://sigco3111.github.io/game-asset-catalog/?cat=font)
+분류 `font`(폰트)에 해당하는 에셋 **5개**입니다. 라이브러리에서 보기: [?cat=font](https://sigco3111.github.io/game-asset-catalog/?cat=font)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 4행 (전체 4개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 5행 (전체 5개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Long Wind 수묵 세리프 폰트 4종 (Google Fonts, OFL)](https://fonts.google.com) | `font` | Google Fonts (Ma Shanzheng·Noto·Christian Thalmann) | OFL-1.1 | O | X | 2개 분할 | 2026-11-24 |
 | [Galmuri 비트맵 한글 폰트 (Galmuri11·Galmuri14)](https://github.com/quiple/galmuri) | `font` | Lee Minseo (quiple) | OFL-1.1 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/galmuri/galmuri-v2.40.4.zip) | 2026-11-23 |
 | [Afterlight 세리프 웹폰트 3족 (Alegreya·Cinzel)](https://github.com/FriendlyUser/afterlight) | `font` | Alegreya Project Authors / Natanael Gama | OFL-1.1 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/afterlight-serif-fonts/afterlight-serif-fonts.zip) | 2026-11-20 |
 | [Kenney Fonts](https://kenney.nl/assets/kenney-fonts) | `font` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/v3.0/kenney-fonts.zip) | 2026-10-28 |

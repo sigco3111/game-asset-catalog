@@ -1,23 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@93271a4fbb46eedbbd59585b4471ef022d7126e7`
+> generated from `catalog.csv@e5403c09f88f10393a0e234e400343e4acb33fcd`
 
 # 기타 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `other`(기타)에 해당하는 에셋 **157개**입니다. 라이브러리에서 보기: [?cat=other](https://sigco3111.github.io/game-asset-catalog/?cat=other)
+분류 `other`(기타)에 해당하는 에셋 **159개**입니다. 라이브러리에서 보기: [?cat=other](https://sigco3111.github.io/game-asset-catalog/?cat=other)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 157행 (전체 157개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 159행 (전체 159개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Cold Smoke SDF 메쉬 생성 코드 (Surface Nets)](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-sdf-mesher/cold-smoke-sdf-mesher.zip) | 2026-11-24 |
 | [Cold Smoke WebAudio 음악·효과음 합성 코드](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-audio-synth/cold-smoke-audio-synth.zip) | 2026-11-24 |
 | [Cold Smoke 절차적 인체 생성 코드 (Human)](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-human-body/cold-smoke-human-body.zip) | 2026-11-24 |
+| [Dead Precinct PS1 WebGL 렌더러 코드](https://github.com/Bao5ye/dead-precinct) | `other` | Bao5ye | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/dead-precinct-ps1-renderer/dead-precinct-ps1-renderer.zip) | 2026-11-24 |
+| [Dead Precinct WebAudio 합성 효과음 26종·음악 3곡 코드](https://github.com/Bao5ye/dead-precinct) | `other` | Bao5ye | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/dead-precinct-audio-synth/dead-precinct-audio-synth.zip) | 2026-11-24 |
 | [Kervan asset-forge 절차적 3D 모델 생성 파이프라인](https://github.com/Furkiozknn/kervan) | `other` | Furkiozknn | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/kervan-asset-forge/kervan-asset-forge.zip) | 2026-11-24 |
 | [Kervan 지형·양피지 텍스처와 하늘 HDR (CC0)](https://github.com/Furkiozknn/kervan) | `other` | Poly Haven · ambientCG (Kervan 프로젝트 가공) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/kervan-env-textures/kervan-env-textures.zip) | 2026-11-24 |
 | [Long Wind WebAudio 음악·효과음 합성 코드](https://github.com/jbang2004/long-wind) | `other` | jbang2004 | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/long-wind-audio-synth/long-wind-audio-synth.zip) | 2026-11-24 |

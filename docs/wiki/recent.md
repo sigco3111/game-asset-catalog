@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@93271a4fbb46eedbbd59585b4471ef022d7126e7`
+> generated from `catalog.csv@e5403c09f88f10393a0e234e400343e4acb33fcd`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -17,6 +17,9 @@
 | [Cold Smoke WebAudio 음악·효과음 합성 코드](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-audio-synth/cold-smoke-audio-synth.zip) | 2026-11-24 |
 | [Cold Smoke 절차적 인체 생성 코드 (Human)](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-human-body/cold-smoke-human-body.zip) | 2026-11-24 |
 | [Dajeki's 8x8 Fantasy Character Sprites](https://dajeki.itch.io/dajekis-8x8-fantasy-character-sprites) | `sprite-2d` | Dajeki | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/dajeki-8x8-fantasy-characters/dajeki-8x8-fantasy-characters.zip) | 2026-11-24 |
+| [Dead Precinct PS1 WebGL 렌더러 코드](https://github.com/Bao5ye/dead-precinct) | `other` | Bao5ye | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/dead-precinct-ps1-renderer/dead-precinct-ps1-renderer.zip) | 2026-11-24 |
+| [Dead Precinct WebAudio 합성 효과음 26종·음악 3곡 코드](https://github.com/Bao5ye/dead-precinct) | `other` | Bao5ye | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/dead-precinct-audio-synth/dead-precinct-audio-synth.zip) | 2026-11-24 |
+| [Dead Precinct 프리렌더 배경 10장 (320×240)](https://github.com/Bao5ye/dead-precinct) | `background-2d` | Bao5ye | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/dead-precinct-backgrounds/dead-precinct-backgrounds.zip) | 2026-11-24 |
 | [Evil Wizard (LuizMelo)](https://luizmelo.itch.io/evil-wizard) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/evil-wizard/evil-wizard.zip) | 2026-11-24 |
 | [Evil Wizard 2 (LuizMelo)](https://luizmelo.itch.io/evil-wizard-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/evil-wizard-2/evil-wizard-2.zip) | 2026-11-24 |
 | [Evil Wizard 3 (LuizMelo)](https://luizmelo.itch.io/evil-wizard-3) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/evil-wizard-3/evil-wizard-3.zip) | 2026-11-24 |
@@ -110,6 +113,3 @@
 | [Snowball Pile](https://polyfork.dev/asset/snowball-pile-af4655) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowball-pile/snowball-pile.zip) | 2026-11-23 |
 | [survival and cooking set](https://opengameart.org/content/survival-and-cooking-set) | `model-3d` | hacknorris | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/survival-and-cooking-set/survival-and-cooking-set.zip) | 2026-11-23 |
 | [Training Bench](https://polyfork.dev/asset/training-bench-34f148) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/training-bench/training-bench.zip) | 2026-11-23 |
-| [Traveller](https://polyfork.dev/asset/traveller-92f20c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/traveller/traveller.zip) | 2026-11-23 |
-| [Tree Lot Stand](https://polyfork.dev/asset/tree-lot-stand-89557d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/tree-lot-stand/tree-lot-stand.zip) | 2026-11-23 |
-| [Tree Netting Baler](https://polyfork.dev/asset/tree-netting-baler-353d66) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/tree-netting-baler/tree-netting-baler.zip) | 2026-11-23 |

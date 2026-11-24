@@ -1,18 +1,21 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@8d16530d9cd4999f653d128223cbad27282cd918`
+> generated from `catalog.csv@0d0a48d3392e0f3662fd9886ceddf899ba76e4f4`
 
 # 최근 추가된 에셋 (최신 100개)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-22.
+추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-23.
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Cold Smoke SDF 메쉬 생성 코드 (Surface Nets)](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-sdf-mesher/cold-smoke-sdf-mesher.zip) | 2026-11-24 |
+| [Cold Smoke WebAudio 음악·효과음 합성 코드](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-audio-synth/cold-smoke-audio-synth.zip) | 2026-11-24 |
+| [Cold Smoke 절차적 인체 생성 코드 (Human)](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-human-body/cold-smoke-human-body.zip) | 2026-11-24 |
 | [Dajeki's 8x8 Fantasy Character Sprites](https://dajeki.itch.io/dajekis-8x8-fantasy-character-sprites) | `sprite-2d` | Dajeki | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/dajeki-8x8-fantasy-characters/dajeki-8x8-fantasy-characters.zip) | 2026-11-24 |
 | [Evil Wizard (LuizMelo)](https://luizmelo.itch.io/evil-wizard) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/evil-wizard/evil-wizard.zip) | 2026-11-24 |
 | [Evil Wizard 2 (LuizMelo)](https://luizmelo.itch.io/evil-wizard-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/evil-wizard-2/evil-wizard-2.zip) | 2026-11-24 |
@@ -110,6 +113,3 @@
 | [Ultra Elements 원소 주문 VFX 코드 39종 (Three.js·WebGL2)](https://github.com/Humpalumps/ultra-elements) | `other` | Humpalumps (Ultra Elements), 데모 어댑트: Patch | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip) | 2026-11-23 |
 | [Weapon Rack](https://polyfork.dev/asset/weapon-rack-962f74) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/weapon-rack/weapon-rack.zip) | 2026-11-23 |
 | [Windmill model](https://opengameart.org/content/windmill-model) | `model-3d` | Maria2241 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-windmill-model/windmill-model.zip) | 2026-11-23 |
-| [A Kingdom of tears battle theme(REMAKE)(wip)](https://opengameart.org/content/a-kingdom-of-tears-battle-themeremakewip) | `music` | game guy maker | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-kingdom-of-tears-battle-themeremakewip/a-kingdom-of-tears-battle-themeremakewip.zip) | 2026-11-22 |
-| [A Short Walk With You](https://opengameart.org/content/a-short-walk-with-you) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-short-walk-with-you/a-short-walk-with-you.zip) | 2026-11-22 |
-| [Assets Free Interface UI Dark Miko](https://opengameart.org/content/assets-free-interface-ui-dark-miko) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip) | 2026-11-22 |

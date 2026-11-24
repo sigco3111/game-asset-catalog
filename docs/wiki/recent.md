@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@af869b27448689b8e7a6ea0215ab99360c3fc454`
+> generated from `catalog.csv@93271a4fbb46eedbbd59585b4471ef022d7126e7`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -37,6 +37,7 @@
 | [Kervan asset-forge 절차적 3D 모델 생성 파이프라인](https://github.com/Furkiozknn/kervan) | `other` | Furkiozknn | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/kervan-asset-forge/kervan-asset-forge.zip) | 2026-11-24 |
 | [Kervan 아나톨리아 도시·카라반 3D 모델 11종](https://github.com/Furkiozknn/kervan) | `model-3d` | Furkiozknn | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/kervan-anatolia-models/kervan-anatolia-models.zip) | 2026-11-24 |
 | [Kervan 지형·양피지 텍스처와 하늘 HDR (CC0)](https://github.com/Furkiozknn/kervan) | `other` | Poly Haven · ambientCG (Kervan 프로젝트 가공) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/kervan-env-textures/kervan-env-textures.zip) | 2026-11-24 |
+| [Labyrinth Wall Run](https://polyfork.dev/asset/labyrinth-wall-run-d111fb) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/labyrinth-wall-run/labyrinth-wall-run.zip) | 2026-11-24 |
 | [Long Wind Poly Haven 바위 모델 9종 (glTF 1K)](https://polyhaven.com) | `model-3d` | Poly Haven | CC0 | X | X | 3개 분할 | 2026-11-24 |
 | [Long Wind Poly Haven 스캔 텍스처 14종 (PBR 1K/2K)](https://polyhaven.com) | `texture` | Poly Haven | CC0 | X | X | 6개 분할 | 2026-11-24 |
 | [Long Wind WebAudio 음악·효과음 합성 코드](https://github.com/jbang2004/long-wind) | `other` | jbang2004 | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/long-wind-audio-synth/long-wind-audio-synth.zip) | 2026-11-24 |
@@ -54,10 +55,12 @@
 | [Monsters Creatures Fantasy (LuizMelo)](https://luizmelo.itch.io/monsters-creatures-fantasy) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/monsters-creatures-fantasy/monsters-creatures-fantasy.zip) | 2026-11-24 |
 | [Monsters Creatures Fantasy 2 (LuizMelo)](https://luizmelo.itch.io/monsters-creatures-fantasy-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/monsters-creatures-fantasy-2/monsters-creatures-fantasy-2.zip) | 2026-11-24 |
 | [Octopus Drying Line](https://polyfork.dev/asset/octopus-drying-line-750d63) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/octopus-drying-line/octopus-drying-line.zip) | 2026-11-24 |
+| [Olympian Throne](https://polyfork.dev/asset/olympian-throne-b31426) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/olympian-throne/olympian-throne.zip) | 2026-11-24 |
 | [Pet Cats Pack (LuizMelo)](https://luizmelo.itch.io/pet-cat-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/pet-cat-pack/pet-cat-pack.zip) | 2026-11-24 |
 | [Pet Dogs Pack (LuizMelo)](https://luizmelo.itch.io/pet-dogs-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/pet-dogs-pack/pet-dogs-pack.zip) | 2026-11-24 |
 | [Voxel Dungeon Sprites & Tiles (Cole Foster)](https://colefoster.itch.io/voxel-dungeon-pack) | `sprite-2d` | Cole Foster | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/voxel-dungeon-sprites-tiles/voxel-dungeon-sprites-tiles.zip) | 2026-11-24 |
 | [Wizard Pack (LuizMelo)](https://luizmelo.itch.io/wizard-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/wizard-pack/wizard-pack.zip) | 2026-11-24 |
+| [Zeus](https://polyfork.dev/asset/zeus-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/zeus/zeus.zip) | 2026-11-24 |
 | [00GameDevs 마법 VFX Starter 5종 (Three.js·WebGL2)](https://patch.gg/00vchannel/00gamedevs-vfx-starter) | `other` | 00GameDevs (@00vchannel) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/00gamedevs-vfx-starter/00gamedevs-vfx-starter.zip) | 2026-11-23 |
 | [AbilityCasting 결투장·생물·소품 3D 모델 5종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/abilitycasting-models/abilitycasting-models.zip) | 2026-11-23 |
 | [AbilityCasting 상어·드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-unverified/abilitycasting-unverified.zip) | 2026-11-23 |
@@ -110,6 +113,3 @@
 | [Traveller](https://polyfork.dev/asset/traveller-92f20c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/traveller/traveller.zip) | 2026-11-23 |
 | [Tree Lot Stand](https://polyfork.dev/asset/tree-lot-stand-89557d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/tree-lot-stand/tree-lot-stand.zip) | 2026-11-23 |
 | [Tree Netting Baler](https://polyfork.dev/asset/tree-netting-baler-353d66) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/tree-netting-baler/tree-netting-baler.zip) | 2026-11-23 |
-| [Ultra Elements 원소 주문 VFX 코드 39종 (Three.js·WebGL2)](https://github.com/Humpalumps/ultra-elements) | `other` | Humpalumps (Ultra Elements), 데모 어댑트: Patch | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip) | 2026-11-23 |
-| [Weapon Rack](https://polyfork.dev/asset/weapon-rack-962f74) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/weapon-rack/weapon-rack.zip) | 2026-11-23 |
-| [Windmill model](https://opengameart.org/content/windmill-model) | `model-3d` | Maria2241 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-windmill-model/windmill-model.zip) | 2026-11-23 |

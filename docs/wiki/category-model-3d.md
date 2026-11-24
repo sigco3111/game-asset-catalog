@@ -1,28 +1,31 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@af869b27448689b8e7a6ea0215ab99360c3fc454`
+> generated from `catalog.csv@93271a4fbb46eedbbd59585b4471ef022d7126e7`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **747개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **750개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 747개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 750개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Hisar 중세 공성전 3D 모델 12종 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | `model-3d` | Furkiozknn | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/hisar-siege-models/hisar-siege-models.zip) | 2026-11-24 |
 | [Hung Stocking Set](https://polyfork.dev/asset/hung-stocking-set-6191aa) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/hung-stocking-set/hung-stocking-set.zip) | 2026-11-24 |
 | [Kervan 아나톨리아 도시·카라반 3D 모델 11종](https://github.com/Furkiozknn/kervan) | `model-3d` | Furkiozknn | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/kervan-anatolia-models/kervan-anatolia-models.zip) | 2026-11-24 |
+| [Labyrinth Wall Run](https://polyfork.dev/asset/labyrinth-wall-run-d111fb) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/labyrinth-wall-run/labyrinth-wall-run.zip) | 2026-11-24 |
 | [Long Wind Poly Haven 바위 모델 9종 (glTF 1K)](https://polyhaven.com) | `model-3d` | Poly Haven | CC0 | X | X | 3개 분할 | 2026-11-24 |
 | [Mole Lighthouse](https://polyfork.dev/asset/mole-lighthouse-c690b4) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/mole-lighthouse/mole-lighthouse.zip) | 2026-11-24 |
 | [Octopus Drying Line](https://polyfork.dev/asset/octopus-drying-line-750d63) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/octopus-drying-line/octopus-drying-line.zip) | 2026-11-24 |
+| [Olympian Throne](https://polyfork.dev/asset/olympian-throne-b31426) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/olympian-throne/olympian-throne.zip) | 2026-11-24 |
+| [Zeus](https://polyfork.dev/asset/zeus-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/zeus/zeus.zip) | 2026-11-24 |
 | [AbilityCasting 결투장·생물·소품 3D 모델 5종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/abilitycasting-models/abilitycasting-models.zip) | 2026-11-23 |
 | [AbilityCasting 상어·드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-unverified/abilitycasting-unverified.zip) | 2026-11-23 |
 | [anymove Centaur](https://patch.gg/create/toolbox/assets/anymove:centaur) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-centaur.zip) | 2026-11-23 |
@@ -414,6 +417,3 @@
 | [Animated Characters 1](https://opengameart.org/content/animated-characters-1) | `model-3d` | netgfx | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.24/animated-characters-1.zip) | 2026-11-04 |
 | [Animated Characters 2](https://opengameart.org/content/animated-characters-2) | `model-3d` | Moviemake | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.28/animated-characters-2.zip) | 2026-11-04 |
 | [Animated Longbow](https://opengameart.org/content/animated-longbow) | `model-3d` | ? | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.26/animated-longbow.zip) | 2026-11-04 |
-| [Archery Set](https://opengameart.org/content/archery-set) | `model-3d` | Mophs | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.26/archery-set.zip) | 2026-11-04 |
-| [BA-2 (Blast All Bot Mark 2)](https://opengameart.org/content/ba-2-blast-all-bot-mark-2) | `model-3d` | Julius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.16/ba-2-blast-all-bot-mark-2.zip) | 2026-11-04 |
-| [Bag of coins](https://opengameart.org/content/bag-of-coins) | `model-3d` | ? | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.31/bag-of-coins.zip) | 2026-11-04 |

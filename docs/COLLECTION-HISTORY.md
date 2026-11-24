@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261124-14 자동 수집 등록 (3팩, 2026-11-24 14:30 KST)
+
+- 팩: Labyrinth Wall Run (slug labyrinth-wall-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/labyrinth-wall-run-d111fb
+- 저장: assets-3d-polyfork labyrinth-wall-run/labyrinth-wall-run.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2345→2348, 기존 행 불변 확인
+- 팩: Olympian Throne (slug olympian-throne), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/olympian-throne-b31426
+- 저장: assets-3d-polyfork olympian-throne/olympian-throne.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2345→2348, 기존 행 불변 확인
+- 팩: Zeus (slug zeus), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/zeus-base
+- 저장: assets-3d-polyfork zeus/zeus.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2345→2348, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### 수동 라운드: Cold Smoke 프로젝트 코드 3팩 (2026-11-24 KST)
 
 - 팩: 절차적 인체 생성 코드 Human(MIT, assets-code cold-smoke-human-body), WebAudio 음악·효과음 합성 코드(MIT, assets-code cold-smoke-audio-synth), SDF 메쉬 생성 코드(MIT, assets-code cold-smoke-sdf-mesher)

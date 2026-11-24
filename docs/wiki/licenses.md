@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@af869b27448689b8e7a6ea0215ab99360c3fc454`
+> generated from `catalog.csv@93271a4fbb46eedbbd59585b4471ef022d7126e7`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2345개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2348개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -17,7 +17,7 @@
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
 | cc0 | CC0 | 1949 | 0 | 예 |
-| cc-by | CC-BY | 323 | 323 | 예 |
+| cc-by | CC-BY | 326 | 326 | 예 |
 | mit | MIT | 31 | 30 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
 | other | 기타(허용 목록 밖) | 31 | 28 | 아니오 |
@@ -29,7 +29,7 @@
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
 | CC0 | cc0 | X | 1945 |
-| CC-BY 4.0 | cc-by | O | 187 |
+| CC-BY 4.0 | cc-by | O | 190 |
 | CC-BY 3.0 | cc-by | O | 117 |
 | MIT | mit | O | 30 |
 | 알 수 없음 | other | O | 13 |
@@ -55,7 +55,7 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 392개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 395개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
@@ -69,11 +69,14 @@
 | [Hung Stocking Set](https://polyfork.dev/asset/hung-stocking-set-6191aa) | Polyfork | CC-BY 4.0 | Hung Stocking Set by Polyfork (https://polyfork.dev/asset/hung-stocking-set-6191aa), CC BY 4.0 | 2026-11-24 |
 | [Kervan asset-forge 절차적 3D 모델 생성 파이프라인](https://github.com/Furkiozknn/kervan) | Furkiozknn | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Furkiozknn) | 2026-11-24 |
 | [Kervan 아나톨리아 도시·카라반 3D 모델 11종](https://github.com/Furkiozknn/kervan) | Furkiozknn | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Furkiozknn) | 2026-11-24 |
+| [Labyrinth Wall Run](https://polyfork.dev/asset/labyrinth-wall-run-d111fb) | Polyfork | CC-BY 4.0 | Labyrinth Wall Run by Polyfork (https://polyfork.dev/asset/labyrinth-wall-run-d111fb), CC BY 4.0 | 2026-11-24 |
 | [Long Wind WebAudio 음악·효과음 합성 코드](https://github.com/jbang2004/long-wind) | jbang2004 | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 | 2026-11-24 |
 | [Long Wind 수묵 세리프 폰트 4종 (Google Fonts, OFL)](https://fonts.google.com) | Google Fonts (Ma Shanzheng·Noto·Christian Thalmann) | OFL-1.1 | required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금지, 수정본 동일 라이선스 | 2026-11-24 |
 | [Long Wind 절차적 환경 생성 코드 (Three.js)](https://github.com/jbang2004/long-wind) | jbang2004 | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 | 2026-11-24 |
 | [Mole Lighthouse](https://polyfork.dev/asset/mole-lighthouse-c690b4) | Polyfork | CC-BY 4.0 | Mole Lighthouse by Polyfork (https://polyfork.dev/asset/mole-lighthouse-c690b4), CC BY 4.0 | 2026-11-24 |
 | [Octopus Drying Line](https://polyfork.dev/asset/octopus-drying-line-750d63) | Polyfork | CC-BY 4.0 | Octopus Drying Line by Polyfork (https://polyfork.dev/asset/octopus-drying-line-750d63), CC BY 4.0 | 2026-11-24 |
+| [Olympian Throne](https://polyfork.dev/asset/olympian-throne-b31426) | Polyfork | CC-BY 4.0 | Olympian Throne by Polyfork (https://polyfork.dev/asset/olympian-throne-b31426), CC BY 4.0 | 2026-11-24 |
+| [Zeus](https://polyfork.dev/asset/zeus-base) | Polyfork | CC-BY 4.0 | Zeus by Polyfork (https://polyfork.dev/asset/zeus-base), CC BY 4.0 | 2026-11-24 |
 | [00GameDevs 마법 VFX Starter 5종 (Three.js·WebGL2)](https://patch.gg/00vchannel/00gamedevs-vfx-starter) | 00GameDevs (@00vchannel) | MIT | required (MIT): Copyright (c) 2026 00GameDevs (@00vchannel), 저작권·허가 고지 유지 | 2026-11-23 |
 | [AbilityCasting 결투장·생물·소품 3D 모델 5종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | mohamedachrefelouafi | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi). 환경 HDRI만 Poly Haven CC0(귀속 불필요) | 2026-11-23 |
 | [AbilityCasting 상어·드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | 권장(미확인): mohamedachrefelouafi (github.com/achrefelouafi/AbilityCastingThreeJS), 항목별 원권리자 확인 필요 | 2026-11-23 |

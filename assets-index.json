@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@0d0a48d3392e0f3662fd9886ceddf899ba76e4f4",
-  "count": 2345,
+  "generated_from": "catalog.csv@93271a4fbb46eedbbd59585b4471ef022d7126e7",
+  "count": 2348,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -82924,6 +82924,105 @@
       "download_url": "https://github.com/sigco3111/assets-code/raw/main/cold-smoke-sdf-mesher/cold-smoke-sdf-mesher.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-code/raw/main/cold-smoke-sdf-mesher/cold-smoke-sdf-mesher.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/labyrinth-wall-run",
+      "name": "Labyrinth Wall Run",
+      "repo": "assets-3d-polyfork",
+      "file": "labyrinth-wall-run/labyrinth-wall-run.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/labyrinth-wall-run-d111fb",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Labyrinth Wall Run by Polyfork (https://polyfork.dev/asset/labyrinth-wall-run-d111fb), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "labyrinth-wall-run/preview.png",
+      "download_path": "labyrinth-wall-run/labyrinth-wall-run.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/labyrinth-wall-run/labyrinth-wall-run.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/labyrinth-wall-run/labyrinth-wall-run.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/olympian-throne",
+      "name": "Olympian Throne",
+      "repo": "assets-3d-polyfork",
+      "file": "olympian-throne/olympian-throne.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/olympian-throne-b31426",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Olympian Throne by Polyfork (https://polyfork.dev/asset/olympian-throne-b31426), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "olympian-throne/preview.png",
+      "download_path": "olympian-throne/olympian-throne.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/olympian-throne/olympian-throne.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/olympian-throne/olympian-throne.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/zeus",
+      "name": "Zeus",
+      "repo": "assets-3d-polyfork",
+      "file": "zeus/zeus.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/zeus-base",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Zeus by Polyfork (https://polyfork.dev/asset/zeus-base), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "zeus/preview.png",
+      "download_path": "zeus/zeus.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/zeus/zeus.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/zeus/zeus.zip"
       ],
       "sample": null,
       "multipart": false,

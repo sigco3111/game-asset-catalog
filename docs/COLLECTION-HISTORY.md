@@ -1,5 +1,12 @@
 # 수집 이력 (라운드별 상세)
 
+### 수동 라운드: 스프라이트 25팩 (2026-11-24 KST)
+
+- 팩: LuizMelo 무료 22팩, SpriteCanvas 2팩 (CC0), Frakassets Free Monster Pack (CC-BY 4.0, 크레딧 필수)
+- 저장: assets-2d-pixel 각 slug 폴더(pack.md, CREDITS.txt, meta.json, preview.png) + Releases zip
+- 포털 등록: catalog.csv 2303→2328, 기존 행 불변 확인
+- 규칙 메모: 페이지와 패키지에서 CC0 또는 CC-BY 확인된 팩만 등록. 재배포 금지·불명확 팩(chierit CC-BY+재판매 금지 문구, acubibeovip, Robe of Fire)은 제외
+
 ### AUTO-20261124-09 자동 수집 등록 (3팩, 2026-11-24 09:51 KST)
 
 - 팩: Hung Stocking Set (slug hung-stocking-set), 라이선스: CC-BY 4.0, 제작자: Polyfork

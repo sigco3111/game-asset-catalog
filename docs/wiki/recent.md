@@ -1,21 +1,46 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@656f6cbeeb1024f473ef432b2ab6ca7af468c8e9`
+> generated from `catalog.csv@009beaf3879281d114e463bda3b47462b2e61567`
 
 # 최근 추가된 에셋 (최신 100개)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-21.
+추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-22.
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Evil Wizard (LuizMelo)](https://luizmelo.itch.io/evil-wizard) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/evil-wizard/evil-wizard.zip) | 2026-11-24 |
+| [Evil Wizard 2 (LuizMelo)](https://luizmelo.itch.io/evil-wizard-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/evil-wizard-2/evil-wizard-2.zip) | 2026-11-24 |
+| [Evil Wizard 3 (LuizMelo)](https://luizmelo.itch.io/evil-wizard-3) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/evil-wizard-3/evil-wizard-3.zip) | 2026-11-24 |
+| [Fantasy Warrior (LuizMelo)](https://luizmelo.itch.io/fantasy-warrior) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/fantasy-warrior/fantasy-warrior.zip) | 2026-11-24 |
+| [Fire Worm (LuizMelo)](https://luizmelo.itch.io/fire-worm) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/fire-worm/fire-worm.zip) | 2026-11-24 |
+| [Free CC0 Fantasy Sprite Sheets](https://spritecanvas.itch.io/free-cc0-fantasy-sprite-sheets) | `sprite-2d` | SpriteCanvas | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/free-cc0-fantasy-sprite-sheets/free-cc0-fantasy-sprite-sheets.zip) | 2026-11-24 |
+| [Free CC0 Monster Sprites](https://spritecanvas.itch.io/free-cc0-monster-sprites) | `sprite-2d` | SpriteCanvas | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/free-cc0-monster-sprites/free-cc0-monster-sprites.zip) | 2026-11-24 |
+| [Free Monster Pack (Frakassets)](https://frakassets.itch.io/free-monster-pack) | `sprite-2d` | Frakassets | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/free-monster-pack/free-monster-pack.zip) | 2026-11-24 |
+| [Hero Knight (LuizMelo)](https://luizmelo.itch.io/hero-knight) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/hero-knight/hero-knight.zip) | 2026-11-24 |
+| [Hero Knight 2 (LuizMelo)](https://luizmelo.itch.io/hero-knight-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/hero-knight-2/hero-knight-2.zip) | 2026-11-24 |
 | [Hung Stocking Set](https://polyfork.dev/asset/hung-stocking-set-6191aa) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/hung-stocking-set/hung-stocking-set.zip) | 2026-11-24 |
+| [Huntress (LuizMelo)](https://luizmelo.itch.io/huntress) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/huntress/huntress.zip) | 2026-11-24 |
+| [Huntress 2 (LuizMelo)](https://luizmelo.itch.io/huntress-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/huntress-2/huntress-2.zip) | 2026-11-24 |
+| [Martial Hero (LuizMelo)](https://luizmelo.itch.io/martial-hero) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/martial-hero/martial-hero.zip) | 2026-11-24 |
+| [Martial Hero 2 (LuizMelo)](https://luizmelo.itch.io/martial-hero-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/martial-hero-2/martial-hero-2.zip) | 2026-11-24 |
+| [Martial Hero 3 (LuizMelo)](https://luizmelo.itch.io/martial-hero-3) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/martial-hero-3/martial-hero-3.zip) | 2026-11-24 |
+| [Medieval King Pack (LuizMelo)](https://luizmelo.itch.io/medieval-king-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-king-pack/medieval-king-pack.zip) | 2026-11-24 |
+| [Medieval King Pack 2 (LuizMelo)](https://luizmelo.itch.io/medieval-king-pack-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-king-pack-2/medieval-king-pack-2.zip) | 2026-11-24 |
+| [Medieval Warrior Pack (LuizMelo)](https://luizmelo.itch.io/medieval-warrior-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-warrior-pack/medieval-warrior-pack.zip) | 2026-11-24 |
+| [Medieval Warrior Pack 2 (LuizMelo)](https://luizmelo.itch.io/medieval-warrior-pack-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-warrior-pack-2/medieval-warrior-pack-2.zip) | 2026-11-24 |
+| [Medieval Warrior Pack 3 (LuizMelo)](https://luizmelo.itch.io/medieval-warrior-pack-3) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-warrior-pack-3/medieval-warrior-pack-3.zip) | 2026-11-24 |
 | [Mole Lighthouse](https://polyfork.dev/asset/mole-lighthouse-c690b4) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/mole-lighthouse/mole-lighthouse.zip) | 2026-11-24 |
+| [Monsters Creatures Fantasy (LuizMelo)](https://luizmelo.itch.io/monsters-creatures-fantasy) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/monsters-creatures-fantasy/monsters-creatures-fantasy.zip) | 2026-11-24 |
+| [Monsters Creatures Fantasy 2 (LuizMelo)](https://luizmelo.itch.io/monsters-creatures-fantasy-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/monsters-creatures-fantasy-2/monsters-creatures-fantasy-2.zip) | 2026-11-24 |
 | [Octopus Drying Line](https://polyfork.dev/asset/octopus-drying-line-750d63) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/octopus-drying-line/octopus-drying-line.zip) | 2026-11-24 |
+| [Pet Cats Pack (LuizMelo)](https://luizmelo.itch.io/pet-cat-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/pet-cat-pack/pet-cat-pack.zip) | 2026-11-24 |
+| [Pet Dogs Pack (LuizMelo)](https://luizmelo.itch.io/pet-dogs-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/pet-dogs-pack/pet-dogs-pack.zip) | 2026-11-24 |
+| [Wizard Pack (LuizMelo)](https://luizmelo.itch.io/wizard-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/wizard-pack/wizard-pack.zip) | 2026-11-24 |
 | [00GameDevs 마법 VFX Starter 5종 (Three.js·WebGL2)](https://patch.gg/00vchannel/00gamedevs-vfx-starter) | `other` | 00GameDevs (@00vchannel) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/00gamedevs-vfx-starter/00gamedevs-vfx-starter.zip) | 2026-11-23 |
 | [AbilityCasting 결투장·생물·소품 3D 모델 5종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/abilitycasting-models/abilitycasting-models.zip) | 2026-11-23 |
 | [AbilityCasting 상어·드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-unverified/abilitycasting-unverified.zip) | 2026-11-23 |
@@ -88,28 +113,3 @@
 | [General](https://polyfork.dev/asset/general-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/general/general.zip) | 2026-11-22 |
 | [Generic video game music](https://opengameart.org/content/generic-video-game-music) | `music` | Bonky | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/generic-video-game-music/generic-video-game-music.zip) | 2026-11-22 |
 | [Human vest shorts](https://polyfork.dev/asset/human-vest-shorts-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/human-vest-shorts/human-vest-shorts.zip) | 2026-11-22 |
-| [Jujube Tree](https://polyfork.dev/asset/jujube-tree-0e69dd) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/jujube-tree/jujube-tree.zip) | 2026-11-22 |
-| [Lacquer Tree](https://polyfork.dev/asset/lacquer-tree-6b8e43) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lacquer-tree/lacquer-tree.zip) | 2026-11-22 |
-| [Let's Go Shopping](https://opengameart.org/content/lets-go-shopping-0) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/lets-go-shopping-0/lets-go-shopping-0.zip) | 2026-11-22 |
-| [Lever and Button](https://opengameart.org/content/lever-and-button) | `ui` | FunnyDude | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/lever-and-button/lever-and-button.zip) | 2026-11-22 |
-| [Loading Screen](https://opengameart.org/content/loading-screen) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-loading-screen/loading-screen.zip) | 2026-11-22 |
-| [Mulberry Tree](https://polyfork.dev/asset/mulberry-tree-032f4e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/mulberry-tree/mulberry-tree.zip) | 2026-11-22 |
-| [Nintendo-esque Menu Music](https://opengameart.org/content/nintendo-esque-menu-music) | `music` | Bonky | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/nintendo-esque-menu-music/nintendo-esque-menu-music.zip) | 2026-11-22 |
-| [Packed-Earth Street Tile](https://polyfork.dev/asset/packed-earth-street-tile-dc6251) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/packed-earth-street-tile/packed-earth-street-tile.zip) | 2026-11-22 |
-| [Piano](https://opengameart.org/content/piano-0) | `music` | maggie.beans3696 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/piano-0/piano-0.zip) | 2026-11-22 |
-| [Pixelated Button (for 2D Platformer)](https://opengameart.org/content/pixelated-button-for-2d-platformer) | `ui` | c0ffeenn\_ | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/pixelated-button-for-2d-platformer/pixelated-button-for-2d-platformer.zip) | 2026-11-22 |
-| [Que Pillar Tower](https://polyfork.dev/asset/que-pillar-tower-40d7f3) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/que-pillar-tower/que-pillar-tower.zip) | 2026-11-22 |
-| [Raised Granary](https://polyfork.dev/asset/raised-granary-287b40) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/raised-granary/raised-granary.zip) | 2026-11-22 |
-| [Rammed-Earth Farmhouse](https://polyfork.dev/asset/rammed-earth-farmhouse-6432fc) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rammed-earth-farmhouse/rammed-earth-farmhouse.zip) | 2026-11-22 |
-| [Smithy](https://polyfork.dev/asset/smithy-c5a4be) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/smithy/smithy.zip) | 2026-11-22 |
-| [Spooky Month](https://opengameart.org/content/spooky-month) | `music` | Bonky | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/spooky-month/spooky-month.zip) | 2026-11-22 |
-| [Stand Docking Guidance Display](https://polyfork.dev/asset/stand-docking-guidance-display-2a0b05) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stand-docking-guidance-display/stand-docking-guidance-display.zip) | 2026-11-22 |
-| [Steel Wreck Hull Section](https://polyfork.dev/asset/steel-wreck-hull-section-b3132a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/steel-wreck-hull-section/steel-wreck-hull-section.zip) | 2026-11-22 |
-| [The Goblins of Pixeltown (Looping)](https://opengameart.org/content/the-goblins-of-pixeltown-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-goblins-of-pixeltown-looping/the-goblins-of-pixeltown-looping.zip) | 2026-11-22 |
-| [The Haunted House On Your Street](https://opengameart.org/content/the-haunted-house-on-your-street) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-haunted-house-on-your-street/the-haunted-house-on-your-street.zip) | 2026-11-22 |
-| [Towbarless Pushback Tug](https://polyfork.dev/asset/towbarless-pushback-tug-989602) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/towbarless-pushback-tug/towbarless-pushback-tug.zip) | 2026-11-22 |
-| [Village Elm](https://polyfork.dev/asset/village-elm-310fe2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/village-elm/village-elm.zip) | 2026-11-22 |
-| [Wall Corner Tower](https://polyfork.dev/asset/wall-corner-tower-524c61) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wall-corner-tower/wall-corner-tower.zip) | 2026-11-22 |
-| [Wattle Fence Run](https://polyfork.dev/asset/wattle-fence-run-703830) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wattle-fence-run/wattle-fence-run.zip) | 2026-11-22 |
-| [Windlass Well](https://polyfork.dev/asset/windlass-well-ebc2fb) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/windlass-well/windlass-well.zip) | 2026-11-22 |
-| [200+ Tiny Buttons](https://opengameart.org/content/200-tiny-buttons) | `ui` | Screaming Brain Studios | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/200-tiny-buttons/200-tiny-buttons.zip) | 2026-11-21 |

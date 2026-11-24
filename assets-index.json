@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@47aa61bc6c0c9c57888d4a0855ad714c5b4a5a14",
-  "count": 2366,
+  "generated_from": "catalog.csv@6f4ef3a96d573868d5ff1aa2e2527bb732049873",
+  "count": 2372,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -83637,6 +83637,198 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/pedestrian-safety-barrier-run/pedestrian-safety-barrier-run.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/pedestrian-safety-barrier-run/pedestrian-safety-barrier-run.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/cave-background-music",
+      "name": "Cave Background Music",
+      "repo": "assets-audio",
+      "file": "cave-background-music/cave-background-music.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "srlatch477",
+      "source_url": "https://opengameart.org/content/cave-background-music",
+      "license": "OGA-BY 3.0",
+      "license_note": null,
+      "license_family": "other",
+      "attribution": "필수: srlatch477 (opengameart.org), OGA-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "출처 페이지 License(s) OGA-BY 3.0 확인 (자동 수집, 원문: : OGA-BY 3.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "cave-background-music/cave-background-music.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/cave-background-music/cave-background-music.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/cave-background-music/cave-background-music.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/mid-september-phrygian",
+      "name": "Mid September Phrygian",
+      "repo": "assets-audio",
+      "file": "mid-september-phrygian/mid-september-phrygian.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Pro Sensory",
+      "source_url": "https://opengameart.org/content/mid-september-phrygian",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Pro Sensory (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "mid-september-phrygian/mid-september-phrygian.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/mid-september-phrygian/mid-september-phrygian.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/mid-september-phrygian/mid-september-phrygian.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/pulzzles-in-faraway-lands-looping",
+      "name": "Pulzzles in Faraway Lands (Looping)",
+      "repo": "assets-audio",
+      "file": "pulzzles-in-faraway-lands-looping/pulzzles-in-faraway-lands-looping.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Eric Matyas",
+      "source_url": "https://opengameart.org/content/pulzzles-in-faraway-lands-looping",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: Eric Matyas (opengameart.org), CC-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "출처 페이지 License(s) CC-BY 3.0 확인 (자동 수집, 원문: : CC-BY 3.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "pulzzles-in-faraway-lands-looping/pulzzles-in-faraway-lands-looping.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/pulzzles-in-faraway-lands-looping/pulzzles-in-faraway-lands-looping.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/pulzzles-in-faraway-lands-looping/pulzzles-in-faraway-lands-looping.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/shells",
+      "name": "Shells",
+      "repo": "assets-audio",
+      "file": "shells/shells.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Guy G. Gamerson",
+      "source_url": "https://opengameart.org/content/shells",
+      "license": "OGA-BY 4.0",
+      "license_note": null,
+      "license_family": "other",
+      "attribution": "필수: Guy G. Gamerson (opengameart.org), OGA-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "출처 페이지 License(s) OGA-BY 4.0 확인 (자동 수집, 원문: : OGA-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "shells/shells.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/shells/shells.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/shells/shells.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/short-orchestral",
+      "name": "Short_orchestral",
+      "repo": "assets-audio",
+      "file": "shortorchestral/shortorchestral.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "G_P",
+      "source_url": "https://opengameart.org/content/shortorchestral",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: G_P (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "shortorchestral/shortorchestral.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/shortorchestral/shortorchestral.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/shortorchestral/shortorchestral.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/when-the-shadows-gather",
+      "name": "When the Shadows Gather",
+      "repo": "assets-audio",
+      "file": "when-the-shadows-gather/when-the-shadows-gather.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Tsorthan Grove",
+      "source_url": "https://opengameart.org/content/when-the-shadows-gather",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Tsorthan Grove (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-24",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "when-the-shadows-gather/when-the-shadows-gather.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/when-the-shadows-gather/when-the-shadows-gather.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/when-the-shadows-gather/when-the-shadows-gather.zip"
       ],
       "sample": null,
       "multipart": false,

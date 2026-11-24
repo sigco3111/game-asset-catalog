@@ -1,5 +1,33 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261125-06 자동 수집 등록 (6팩, 2026-11-25 06:46 KST)
+
+- 팩: Cave Background Music (slug cave-background-music), 라이선스: OGA-BY 3.0, 제작자: srlatch477
+- 출처: https://opengameart.org/content/cave-background-music
+- 저장: assets-3d-lowpoly-2 cave-background-music/cave-background-music.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2366→2372, 기존 행 불변 확인
+- 팩: Mid September Phrygian (slug mid-september-phrygian), 라이선스: CC0, 제작자: Pro Sensory
+- 출처: https://opengameart.org/content/mid-september-phrygian
+- 저장: assets-3d-lowpoly-2 mid-september-phrygian/mid-september-phrygian.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2366→2372, 기존 행 불변 확인
+- 팩: Pulzzles in Faraway Lands (Looping) (slug pulzzles-in-faraway-lands-looping), 라이선스: CC-BY 3.0, 제작자: Eric Matyas
+- 출처: https://opengameart.org/content/pulzzles-in-faraway-lands-looping
+- 저장: assets-3d-lowpoly-2 pulzzles-in-faraway-lands-looping/pulzzles-in-faraway-lands-looping.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2366→2372, 기존 행 불변 확인
+- 팩: Shells (slug shells), 라이선스: OGA-BY 4.0, 제작자: Guy G. Gamerson
+- 출처: https://opengameart.org/content/shells
+- 저장: assets-3d-lowpoly-2 shells/shells.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2366→2372, 기존 행 불변 확인
+- 팩: Short_orchestral (slug shortorchestral), 라이선스: CC0, 제작자: G_P
+- 출처: https://opengameart.org/content/shortorchestral
+- 저장: assets-3d-lowpoly-2 shortorchestral/shortorchestral.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2366→2372, 기존 행 불변 확인
+- 팩: When the Shadows Gather (slug when-the-shadows-gather), 라이선스: CC0, 제작자: Tsorthan Grove
+- 출처: https://opengameart.org/content/when-the-shadows-gather
+- 저장: assets-3d-lowpoly-2 when-the-shadows-gather/when-the-shadows-gather.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2366→2372, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261125-06 자동 수집 등록 (3팩, 2026-11-25 06:11 KST)
 
 - 팩: Hand Stretch Film Roll (slug hand-stretch-film-roll), 라이선스: CC-BY 4.0, 제작자: Polyfork

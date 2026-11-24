@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@47aa61bc6c0c9c57888d4a0855ad714c5b4a5a14`
+> generated from `catalog.csv@6f4ef3a96d573868d5ff1aa2e2527bb732049873`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -18,6 +18,7 @@
 | [Pedestrian Safety Barrier Run](https://polyfork.dev/asset/pedestrian-safety-barrier-run-2afeca) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pedestrian-safety-barrier-run/pedestrian-safety-barrier-run.zip) | 2026-11-25 |
 | [Blood Moon](https://opengameart.org/content/blood-moon-0) | `music` | Ategon | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/blood-moon-0/blood-moon-0.zip) | 2026-11-24 |
 | [Car Theft 101 (Looping)](https://opengameart.org/content/car-theft-101-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/car-theft-101-looping/car-theft-101-looping.zip) | 2026-11-24 |
+| [Cave Background Music](https://opengameart.org/content/cave-background-music) | `music` | srlatch477 | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cave-background-music/cave-background-music.zip) | 2026-11-24 |
 | [Child at the fun fair](https://polyfork.dev/asset/child-at-the-fun-fair-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/child-at-the-fun-fair/child-at-the-fun-fair.zip) | 2026-11-24 |
 | [Cold Smoke SDF 메쉬 생성 코드 (Surface Nets)](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-sdf-mesher/cold-smoke-sdf-mesher.zip) | 2026-11-24 |
 | [Cold Smoke WebAudio 음악·효과음 합성 코드](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-audio-synth/cold-smoke-audio-synth.zip) | 2026-11-24 |
@@ -62,6 +63,7 @@
 | [Medieval Warrior Pack (LuizMelo)](https://luizmelo.itch.io/medieval-warrior-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-warrior-pack/medieval-warrior-pack.zip) | 2026-11-24 |
 | [Medieval Warrior Pack 2 (LuizMelo)](https://luizmelo.itch.io/medieval-warrior-pack-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-warrior-pack-2/medieval-warrior-pack-2.zip) | 2026-11-24 |
 | [Medieval Warrior Pack 3 (LuizMelo)](https://luizmelo.itch.io/medieval-warrior-pack-3) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-warrior-pack-3/medieval-warrior-pack-3.zip) | 2026-11-24 |
+| [Mid September Phrygian](https://opengameart.org/content/mid-september-phrygian) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/mid-september-phrygian/mid-september-phrygian.zip) | 2026-11-24 |
 | [Mole Lighthouse](https://polyfork.dev/asset/mole-lighthouse-c690b4) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/mole-lighthouse/mole-lighthouse.zip) | 2026-11-24 |
 | [Monsters Creatures Fantasy (LuizMelo)](https://luizmelo.itch.io/monsters-creatures-fantasy) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/monsters-creatures-fantasy/monsters-creatures-fantasy.zip) | 2026-11-24 |
 | [Monsters Creatures Fantasy 2 (LuizMelo)](https://luizmelo.itch.io/monsters-creatures-fantasy-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/monsters-creatures-fantasy-2/monsters-creatures-fantasy-2.zip) | 2026-11-24 |
@@ -72,11 +74,15 @@
 | [Pet Cats Pack (LuizMelo)](https://luizmelo.itch.io/pet-cat-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/pet-cat-pack/pet-cat-pack.zip) | 2026-11-24 |
 | [Pet Dogs Pack (LuizMelo)](https://luizmelo.itch.io/pet-dogs-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/pet-dogs-pack/pet-dogs-pack.zip) | 2026-11-24 |
 | [Propylon Gateway](https://polyfork.dev/asset/propylon-gateway-8ce9dd) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/propylon-gateway/propylon-gateway.zip) | 2026-11-24 |
+| [Pulzzles in Faraway Lands (Looping)](https://opengameart.org/content/pulzzles-in-faraway-lands-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/pulzzles-in-faraway-lands-looping/pulzzles-in-faraway-lands-looping.zip) | 2026-11-24 |
 | [Raccoon](https://polyfork.dev/asset/raccoon-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/raccoon/raccoon.zip) | 2026-11-24 |
 | [Santa's Workshop](https://polyfork.dev/asset/santa-s-workshop-58f43b) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/santa-s-workshop/santa-s-workshop.zip) | 2026-11-24 |
+| [Shells](https://opengameart.org/content/shells) | `music` | Guy G. Gamerson | OGA-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/shells/shells.zip) | 2026-11-24 |
+| [Short\_orchestral](https://opengameart.org/content/shortorchestral) | `music` | G\_P | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/shortorchestral/shortorchestral.zip) | 2026-11-24 |
 | [Snowy Owl](https://polyfork.dev/asset/snowy-owl-9e83d6) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowy-owl/snowy-owl.zip) | 2026-11-24 |
 | [The big fight](https://opengameart.org/content/the-big-fight) | `music` | AigarsOz | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-big-fight/the-big-fight.zip) | 2026-11-24 |
 | [Voxel Dungeon Sprites & Tiles (Cole Foster)](https://colefoster.itch.io/voxel-dungeon-pack) | `sprite-2d` | Cole Foster | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/voxel-dungeon-sprites-tiles/voxel-dungeon-sprites-tiles.zip) | 2026-11-24 |
+| [When the Shadows Gather](https://opengameart.org/content/when-the-shadows-gather) | `music` | Tsorthan Grove | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/when-the-shadows-gather/when-the-shadows-gather.zip) | 2026-11-24 |
 | [Wizard Pack (LuizMelo)](https://luizmelo.itch.io/wizard-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/wizard-pack/wizard-pack.zip) | 2026-11-24 |
 | [Zeus](https://polyfork.dev/asset/zeus-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/zeus/zeus.zip) | 2026-11-24 |
 | [00GameDevs 마법 VFX Starter 5종 (Three.js·WebGL2)](https://patch.gg/00vchannel/00gamedevs-vfx-starter) | `other` | 00GameDevs (@00vchannel) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/00gamedevs-vfx-starter/00gamedevs-vfx-starter.zip) | 2026-11-23 |
@@ -107,9 +113,3 @@
 | [Ice Rink Tile](https://polyfork.dev/asset/ice-rink-tile-aceb6a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ice-rink-tile/ice-rink-tile.zip) | 2026-11-23 |
 | [Iron-Banded Chest](https://polyfork.dev/asset/iron-banded-chest-64731f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/iron-banded-chest/iron-banded-chest.zip) | 2026-11-23 |
 | [It's Watering Time](https://opengameart.org/content/its-watering-time) | `music` | Ategon | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/its-watering-time/its-watering-time.zip) | 2026-11-23 |
-| [Kevin MacLeod - Night Cave & Dark Times](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100446) | `music` | Kevin MacLeod | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/releases/download/kevin-macleod-night-cave-dark-times/kevin-macleod-night-cave-dark-times.zip) | 2026-11-23 |
-| [Lowpoly Tree Generator 절차적 나무 생성 코드](https://github.com/pajama-studio/lowpoly-tree-generator) | `other` | Rand Monster contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lowpoly-tree-generator/lowpoly-tree-generator.zip) | 2026-11-23 |
-| [Lowpoly Tree 샘플 모델 6종 (GLB)](https://github.com/pajama-studio/lowpoly-tree-generator) | `model-3d` | Rand Monster contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-tree-samples/lowpoly-tree-samples.zip) | 2026-11-23 |
-| [Main Street Pixelville (Looping)](https://opengameart.org/content/main-street-pixelville-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/main-street-pixelville-looping/main-street-pixelville-looping.zip) | 2026-11-23 |
-| [Municipal Snowplough Truck](https://polyfork.dev/asset/municipal-snowplough-truck-ab4ef7) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/municipal-snowplough-truck/municipal-snowplough-truck.zip) | 2026-11-23 |
-| [Orc berserker](https://polyfork.dev/asset/orc-berserker-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/orc-berserker/orc-berserker.zip) | 2026-11-23 |

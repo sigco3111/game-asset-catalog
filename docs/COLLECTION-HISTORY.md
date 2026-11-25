@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261125-18 자동 수집 등록 (3팩, 2026-11-25 18:28 KST)
+
+- 팩: Castle Garden Topiary (slug castle-garden-topiary), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/castle-garden-topiary-1ab3ea
+- 저장: assets-3d-polyfork castle-garden-topiary/castle-garden-topiary.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2393→2396, 기존 행 불변 확인
+- 팩: Spinning Teacup Ride (slug spinning-teacup-ride), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/spinning-teacup-ride-878c01
+- 저장: assets-3d-polyfork spinning-teacup-ride/spinning-teacup-ride.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2393→2396, 기존 행 불변 확인
+- 팩: Striped River Lighthouse (slug striped-river-lighthouse), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/striped-river-lighthouse-90d74d
+- 저장: assets-3d-polyfork striped-river-lighthouse/striped-river-lighthouse.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2393→2396, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261125-15 자동 수집 등록 (3팩, 2026-11-25 15:33 KST)
 
 - 팩: Cone Toy Tree (slug cone-toy-tree), 라이선스: CC-BY 4.0, 제작자: Polyfork

@@ -1,24 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@71d1a311ef9e779f9f7fb3224e4fede2e5933aee`
+> generated from `catalog.csv@e4e958b75c036e8e5113a8854b7202473d7f80aa`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **770개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **773개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 770개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 773개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Amusement Park Entrance Arch](https://polyfork.dev/asset/amusement-park-entrance-arch-687549) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/amusement-park-entrance-arch/amusement-park-entrance-arch.zip) | 2026-11-25 |
 | [Carousel](https://polyfork.dev/asset/carousel-39cbc8) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/carousel/carousel.zip) | 2026-11-25 |
+| [Castle Garden Topiary](https://polyfork.dev/asset/castle-garden-topiary-1ab3ea) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/castle-garden-topiary/castle-garden-topiary.zip) | 2026-11-25 |
 | [Chinese Hexagonal Pavilion](https://polyfork.dev/asset/chinese-hexagonal-pavilion-09d04e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-hexagonal-pavilion/chinese-hexagonal-pavilion.zip) | 2026-11-25 |
 | [Cone Toy Tree](https://polyfork.dev/asset/cone-toy-tree-4a5365) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/cone-toy-tree/cone-toy-tree.zip) | 2026-11-25 |
 | [Ferris Wheel](https://polyfork.dev/asset/ferris-wheel-ca5b0b) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ferris-wheel/ferris-wheel.zip) | 2026-11-25 |
@@ -28,6 +29,8 @@
 | [Lollipop Toy Tree](https://polyfork.dev/asset/lollipop-toy-tree-2cf8d2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lollipop-toy-tree/lollipop-toy-tree.zip) | 2026-11-25 |
 | [Pedestrian Safety Barrier Run](https://polyfork.dev/asset/pedestrian-safety-barrier-run-2afeca) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pedestrian-safety-barrier-run/pedestrian-safety-barrier-run.zip) | 2026-11-25 |
 | [Roller Coaster Track](https://polyfork.dev/asset/roller-coaster-track-f24006) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/roller-coaster-track/roller-coaster-track.zip) | 2026-11-25 |
+| [Spinning Teacup Ride](https://polyfork.dev/asset/spinning-teacup-ride-878c01) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/spinning-teacup-ride/spinning-teacup-ride.zip) | 2026-11-25 |
+| [Striped River Lighthouse](https://polyfork.dev/asset/striped-river-lighthouse-90d74d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/striped-river-lighthouse/striped-river-lighthouse.zip) | 2026-11-25 |
 | [Yellow Brick Path Slab](https://polyfork.dev/asset/yellow-brick-path-slab-9e8acd) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/yellow-brick-path-slab/yellow-brick-path-slab.zip) | 2026-11-25 |
 | [Child at the fun fair](https://polyfork.dev/asset/child-at-the-fun-fair-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/child-at-the-fun-fair/child-at-the-fun-fair.zip) | 2026-11-24 |
 | [Court jester](https://polyfork.dev/asset/court-jester-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/court-jester/court-jester.zip) | 2026-11-24 |
@@ -414,6 +417,3 @@
 | [Two-Headed Snake](https://sketchfab.com/3d-models/two-headed-snake-fbx-2154cfc2e43f4f959b917f4e1a1fa935) | `model-3d` | Providence Secretary (NIEZDE) | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.0/two-headed-snake.zip) | 2026-11-06 |
 | [19 Low-Poly Fantasy Weapons](https://opengameart.org/content/19-low-poly-fantasy-weapons) | `model-3d` | Tabasco | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.27/19-low-poly-fantasy-weapons.zip) | 2026-11-04 |
 | [3D City](https://opengameart.org/content/3d-city) | `model-3d` | ? | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.31/3d-city.zip) | 2026-11-04 |
-| [3d Greek Weapons Set](https://opengameart.org/content/3d-greek-weapons-set) | `model-3d` | raymoohawk | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.30/3d-greek-weapons-set.zip) | 2026-11-04 |
-| [3D Gum Bot](https://opengameart.org/content/3d-gum-bot) | `model-3d` | surt | CC0 | X | X | 2개 분할 | 2026-11-04 |
-| [3D Horror Game Monster](https://opengameart.org/content/3d-horror-game-monster) | `model-3d` | City Building G... | CC0 | X | X | 3개 분할 | 2026-11-04 |

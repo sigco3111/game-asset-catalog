@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@39c2d0ec23a658a32d35fdf91fc19edd2166aca5",
-  "count": 2380,
+  "generated_from": "catalog.csv@b40436b9f8e15ed53a64b66be15f2323b7b891ed",
+  "count": 2383,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -84093,6 +84093,102 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/lighthouse-keeper-s-cottage/lighthouse-keeper-s-cottage.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/lighthouse-keeper-s-cottage/lighthouse-keeper-s-cottage.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/a-bunch-of-background-songs-idk",
+      "name": "A bunch of background songs? Idk.",
+      "repo": "assets-audio",
+      "file": "a-bunch-of-background-songs-idk/a-bunch-of-background-songs-idk.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "AigarsOz",
+      "source_url": "https://opengameart.org/content/a-bunch-of-background-songs-idk",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: AigarsOz (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-25",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "a-bunch-of-background-songs-idk/a-bunch-of-background-songs-idk.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/a-bunch-of-background-songs-idk/a-bunch-of-background-songs-idk.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/a-bunch-of-background-songs-idk/a-bunch-of-background-songs-idk.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/sky",
+      "name": "Sky",
+      "repo": "assets-audio",
+      "file": "sky-8/sky-8.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Guy G. Gamerson",
+      "source_url": "https://opengameart.org/content/sky-8",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Guy G. Gamerson (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-25",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "sky-8/sky-8.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/sky-8/sky-8.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/sky-8/sky-8.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/the-longing",
+      "name": "The longing",
+      "repo": "assets-audio",
+      "file": "the-longing/the-longing.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Ruhinre",
+      "source_url": "https://opengameart.org/content/the-longing",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Ruhinre (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-25",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "the-longing/the-longing.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/the-longing/the-longing.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/the-longing/the-longing.zip"
       ],
       "sample": null,
       "multipart": false,

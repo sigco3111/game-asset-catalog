@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261125-10 자동 수집 등록 (3팩, 2026-11-25 10:44 KST)
+
+- 팩: A bunch of background songs? Idk. (slug a-bunch-of-background-songs-idk), 라이선스: CC-BY 4.0, 제작자: AigarsOz
+- 출처: https://opengameart.org/content/a-bunch-of-background-songs-idk
+- 저장: assets-3d-lowpoly-2 a-bunch-of-background-songs-idk/a-bunch-of-background-songs-idk.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2380→2383, 기존 행 불변 확인
+- 팩: Sky (slug sky-8), 라이선스: CC0, 제작자: Guy G. Gamerson
+- 출처: https://opengameart.org/content/sky-8
+- 저장: assets-3d-lowpoly-2 sky-8/sky-8.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2380→2383, 기존 행 불변 확인
+- 팩: The longing (slug the-longing), 라이선스: CC0, 제작자: Ruhinre
+- 출처: https://opengameart.org/content/the-longing
+- 저장: assets-3d-lowpoly-2 the-longing/the-longing.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2380→2383, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261125-10 자동 수집 등록 (3팩, 2026-11-25 10:33 KST)
 
 - 팩: Carousel (slug carousel), 라이선스: CC-BY 4.0, 제작자: Polyfork

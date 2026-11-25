@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@7d96f107f1af0807cc57338efda483e979e7307d`
+> generated from `catalog.csv@cfb1b47f95d29cec8554a1887a66124a356757b5`
 
 # 번개 이펙트 모음
 

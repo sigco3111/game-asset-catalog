@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@7d96f107f1af0807cc57338efda483e979e7307d`
+> generated from `catalog.csv@cfb1b47f95d29cec8554a1887a66124a356757b5`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -18,6 +18,8 @@
 | [Carousel](https://polyfork.dev/asset/carousel-39cbc8) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/carousel/carousel.zip) | 2026-11-25 |
 | [Chinese Hexagonal Pavilion](https://polyfork.dev/asset/chinese-hexagonal-pavilion-09d04e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-hexagonal-pavilion/chinese-hexagonal-pavilion.zip) | 2026-11-25 |
 | [Construct Game Sources](https://kenney.nl/assets/construct-game-sources) | `other` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/construct-game-sources/construct-game-sources.zip) | 2026-11-25 |
+| [Cyberpunk Menu Music](https://opengameart.org/content/cyberpunk-menu-music) | `music` | ZaninDevelopers | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cyberpunk-menu-music/cyberpunk-menu-music.zip) | 2026-11-25 |
+| [Hallway](https://opengameart.org/content/hallway) | `music` | thenewkgb | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/hallway/hallway.zip) | 2026-11-25 |
 | [Hand Stretch Film Roll](https://polyfork.dev/asset/hand-stretch-film-roll-0e602d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/hand-stretch-film-roll/hand-stretch-film-roll.zip) | 2026-11-25 |
 | [High-Bay LED Light](https://polyfork.dev/asset/high-bay-led-light-aba3b2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/high-bay-led-light/high-bay-led-light.zip) | 2026-11-25 |
 | [Lighthouse Keeper's Cottage](https://polyfork.dev/asset/lighthouse-keeper-s-cottage-4f6d33) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lighthouse-keeper-s-cottage/lighthouse-keeper-s-cottage.zip) | 2026-11-25 |
@@ -26,6 +28,7 @@
 | [Roller Coaster Track](https://polyfork.dev/asset/roller-coaster-track-f24006) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/roller-coaster-track/roller-coaster-track.zip) | 2026-11-25 |
 | [Scribble Planes](https://kenney.nl/assets/scribble-planes) | `sprite-2d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/scribble-planes/scribble-planes.zip) | 2026-11-25 |
 | [Sky](https://opengameart.org/content/sky-8) | `music` | Guy G. Gamerson | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/sky-8/sky-8.zip) | 2026-11-25 |
+| [Taking a Bath and Jumping Into Bed](https://opengameart.org/content/taking-a-bath-and-jumping-into-bed) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-taking-a-bath-and-jumping-into-bed/taking-a-bath-and-jumping-into-bed.zip) | 2026-11-25 |
 | [The longing](https://opengameart.org/content/the-longing) | `music` | Ruhinre | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-longing/the-longing.zip) | 2026-11-25 |
 | [Yellow Brick Path Slab](https://polyfork.dev/asset/yellow-brick-path-slab-9e8acd) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/yellow-brick-path-slab/yellow-brick-path-slab.zip) | 2026-11-25 |
 | [Blood Moon](https://opengameart.org/content/blood-moon-0) | `music` | Ategon | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/blood-moon-0/blood-moon-0.zip) | 2026-11-24 |
@@ -110,6 +113,3 @@
 | [anymove Mech](https://patch.gg/create/toolbox/assets/anymove:mech) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-mech.zip) | 2026-11-23 |
 | [anymove Ogre](https://patch.gg/create/toolbox/assets/anymove:ogre) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-ogre.zip) | 2026-11-23 |
 | [anymove Scorpion](https://patch.gg/create/toolbox/assets/anymove:scorpion) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-scorpion.zip) | 2026-11-23 |
-| [anymove T-Rex](https://patch.gg/create/toolbox/assets/anymove:trex) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-trex.zip) | 2026-11-23 |
-| [anymove Woman](https://patch.gg/create/toolbox/assets/anymove:woman) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-woman.zip) | 2026-11-23 |
-| [Baby Pram](https://polyfork.dev/asset/baby-pram-73d9f2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/baby-pram/baby-pram.zip) | 2026-11-23 |

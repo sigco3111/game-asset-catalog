@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261125-13 자동 수집 등록 (3팩, 2026-11-25 13:43 KST)
+
+- 팩: Cyberpunk Menu Music (slug cyberpunk-menu-music), 라이선스: CC0, 제작자: ZaninDevelopers
+- 출처: https://opengameart.org/content/cyberpunk-menu-music
+- 저장: assets-3d-lowpoly-2 cyberpunk-menu-music/cyberpunk-menu-music.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2386→2389, 기존 행 불변 확인
+- 팩: Hallway (slug hallway), 라이선스: CC0, 제작자: thenewkgb
+- 출처: https://opengameart.org/content/hallway
+- 저장: assets-3d-lowpoly-2 hallway/hallway.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2386→2389, 기존 행 불변 확인
+- 팩: Taking a Bath and Jumping Into Bed (slug taking-a-bath-and-jumping-into-bed), 라이선스: CC-BY 4.0, 제작자: purrplecat
+- 출처: https://opengameart.org/content/taking-a-bath-and-jumping-into-bed
+- 저장: assets-3d-lowpoly-2 release:pack-taking-a-bath-and-jumping-into-bed/taking-a-bath-and-jumping-into-bed.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2386→2389, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261125-13 자동 수집 등록 (3팩, 2026-11-25 13:17 KST)
 
 - 팩: Amusement Park Entrance Arch (slug amusement-park-entrance-arch), 라이선스: CC-BY 4.0, 제작자: Polyfork

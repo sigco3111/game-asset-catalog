@@ -1,21 +1,22 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@052f40f605621a8f669b1fd3762cd36f1657af0e`
+> generated from `catalog.csv@34665f1a71ef8d5156eafc9f7f3d4e91e8de9e92`
 
 # 타격·충격 이펙트 모음 — hit
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-효과 종류 `hit`(타격)에 해당하는 에셋 **47개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
+효과 종류 `hit`(타격)에 해당하는 에셋 **48개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
 라이브러리에서 보기: [?fx=hit](https://sigco3111.github.io/game-asset-catalog/?fx=hit) (라이브러리는 hit·impact를 '타격·충격' 하나로 묶어 보여줍니다.)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 47행 (전체 47개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 48행 (전체 48개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Lighthouse Cup WebAudio 관중·타격음 합성 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-webaudio-synth/lighthouse-cup-webaudio-synth.zip) | 2026-11-26 |
 | [anymove Knight](https://patch.gg/create/toolbox/assets/anymove:knight) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-knight.zip) | 2026-11-23 |
 | [Starember Field Synthesized SFX](https://github.com/weit0529/gamedemo_by_Fable5.2) | `sfx` | weit0529 | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/starember-field-sfx/starember-field-sfx.zip) | 2026-11-20 |
 | [FIre and Spell Animations](https://opengameart.org/content/fire-and-spell-animations) | `effect` | ztn | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/a98-fire-and-spell-animations/anims_0.zip) | 2026-11-15 |

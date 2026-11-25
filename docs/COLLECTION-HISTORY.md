@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261126-04 자동 수집 등록 (3팩, 2026-11-26 04:41 KST)
+
+- 팩: Chimney Cap (slug chimney-cap), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/chimney-cap-ca28d1
+- 저장: assets-3d-polyfork chimney-cap/chimney-cap.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2402→2405, 기존 행 불변 확인
+- 팩: Lane Paving Tile (slug lane-paving-tile), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/lane-paving-tile-4cca8b
+- 저장: assets-3d-polyfork lane-paving-tile/lane-paving-tile.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2402→2405, 기존 행 불변 확인
+- 팩: Rental Scooter (slug rental-scooter), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/rental-scooter-031ee2
+- 저장: assets-3d-polyfork rental-scooter/rental-scooter.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2402→2405, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261125-23 자동 수집 등록 (3팩, 2026-11-25 23:59 KST)
 
 - 팩: Hidden Riddles (Looping) (slug hidden-riddles-looping), 라이선스: CC-BY 3.0, 제작자: Eric Matyas

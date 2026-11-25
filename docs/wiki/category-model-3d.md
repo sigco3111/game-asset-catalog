@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@490e749576b386a872f8c18bbc7a8b87b3ce1c65`
+> generated from `catalog.csv@c5caf8b8b65f19f4f4fb25acdfcbfb69b8d91d08`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **776개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **779개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 776개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 779개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Chimney Cap](https://polyfork.dev/asset/chimney-cap-ca28d1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chimney-cap/chimney-cap.zip) | 2026-11-26 |
+| [Lane Paving Tile](https://polyfork.dev/asset/lane-paving-tile-4cca8b) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lane-paving-tile/lane-paving-tile.zip) | 2026-11-26 |
+| [Rental Scooter](https://polyfork.dev/asset/rental-scooter-031ee2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rental-scooter/rental-scooter.zip) | 2026-11-26 |
 | [Amusement Park Entrance Arch](https://polyfork.dev/asset/amusement-park-entrance-arch-687549) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/amusement-park-entrance-arch/amusement-park-entrance-arch.zip) | 2026-11-25 |
 | [Carousel](https://polyfork.dev/asset/carousel-39cbc8) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/carousel/carousel.zip) | 2026-11-25 |
 | [Castle Garden Topiary](https://polyfork.dev/asset/castle-garden-topiary-1ab3ea) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/castle-garden-topiary/castle-garden-topiary.zip) | 2026-11-25 |
@@ -414,6 +417,3 @@
 | [Weapon Pack](https://kenney.nl/assets/weapon-pack) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/weapon-pack/weapon-pack.zip) | 2026-11-07 |
 | [Zombie Apocalypse Kit (March 2024)](https://quaternius.com/packs/zombieapocalypsekit.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/zombie-apocalypse-kit/zombie-apocalypse-kit-part1.zip) | 2026-11-07 |
 | [CyberCity Hover Car](https://github.com/achrefelouafi/CyberCityThreeJS) | `model-3d` | Chiro Studio (achrefelouafi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.0/cybercity-hover-car.zip) | 2026-11-06 |
-| [Magical Gyroscope](https://sketchfab.com/3d-models/magical-gyroscope-a3f110c0d2944a2dbff78709eb8f3984) | `model-3d` | reddification | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.0/magical-gyroscope.zip) | 2026-11-06 |
-| [Phoenix Bird](https://sketchfab.com/3d-models/phoenix-bird-844ba0cf144a413ea92c779f18912042) | `model-3d` | NORBERTO-3D | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.0/phoenix-bird.zip) | 2026-11-06 |
-| [Robot Expressive](https://github.com/mrdoob/three.js/tree/dev/examples/models/gltf/RobotExpressive) | `model-3d` | Tomás Laulhé (Quaternius) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.0/robot-expressive.zip) | 2026-11-06 |

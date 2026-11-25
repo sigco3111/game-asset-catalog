@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@490e749576b386a872f8c18bbc7a8b87b3ce1c65`
+> generated from `catalog.csv@c5caf8b8b65f19f4f4fb25acdfcbfb69b8d91d08`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,6 +13,9 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Chimney Cap](https://polyfork.dev/asset/chimney-cap-ca28d1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chimney-cap/chimney-cap.zip) | 2026-11-26 |
+| [Lane Paving Tile](https://polyfork.dev/asset/lane-paving-tile-4cca8b) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lane-paving-tile/lane-paving-tile.zip) | 2026-11-26 |
+| [Rental Scooter](https://polyfork.dev/asset/rental-scooter-031ee2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rental-scooter/rental-scooter.zip) | 2026-11-26 |
 | [A bunch of background songs? Idk.](https://opengameart.org/content/a-bunch-of-background-songs-idk) | `music` | AigarsOz | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-bunch-of-background-songs-idk/a-bunch-of-background-songs-idk.zip) | 2026-11-25 |
 | [Amusement Park Entrance Arch](https://polyfork.dev/asset/amusement-park-entrance-arch-687549) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/amusement-park-entrance-arch/amusement-park-entrance-arch.zip) | 2026-11-25 |
 | [Carousel](https://polyfork.dev/asset/carousel-39cbc8) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/carousel/carousel.zip) | 2026-11-25 |
@@ -110,6 +113,3 @@
 | [Shells](https://opengameart.org/content/shells) | `music` | Guy G. Gamerson | OGA-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/shells/shells.zip) | 2026-11-24 |
 | [Short\_orchestral](https://opengameart.org/content/shortorchestral) | `music` | G\_P | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/shortorchestral/shortorchestral.zip) | 2026-11-24 |
 | [Snowy Owl](https://polyfork.dev/asset/snowy-owl-9e83d6) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowy-owl/snowy-owl.zip) | 2026-11-24 |
-| [The big fight](https://opengameart.org/content/the-big-fight) | `music` | AigarsOz | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-big-fight/the-big-fight.zip) | 2026-11-24 |
-| [Voxel Dungeon Sprites & Tiles (Cole Foster)](https://colefoster.itch.io/voxel-dungeon-pack) | `sprite-2d` | Cole Foster | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/voxel-dungeon-sprites-tiles/voxel-dungeon-sprites-tiles.zip) | 2026-11-24 |
-| [When the Shadows Gather](https://opengameart.org/content/when-the-shadows-gather) | `music` | Tsorthan Grove | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/when-the-shadows-gather/when-the-shadows-gather.zip) | 2026-11-24 |

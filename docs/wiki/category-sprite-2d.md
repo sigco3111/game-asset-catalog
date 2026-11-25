@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@ab373671f695b7d4facf09768755f40fce4b0b8d`
+> generated from `catalog.csv@39c2d0ec23a658a32d35fdf91fc19edd2166aca5`
 
 # 2D 스프라이트 모음
 

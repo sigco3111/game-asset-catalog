@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@ab373671f695b7d4facf09768755f40fce4b0b8d`
+> generated from `catalog.csv@39c2d0ec23a658a32d35fdf91fc19edd2166aca5`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,9 +13,12 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Carousel](https://polyfork.dev/asset/carousel-39cbc8) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/carousel/carousel.zip) | 2026-11-25 |
+| [Chinese Hexagonal Pavilion](https://polyfork.dev/asset/chinese-hexagonal-pavilion-09d04e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-hexagonal-pavilion/chinese-hexagonal-pavilion.zip) | 2026-11-25 |
 | [Construct Game Sources](https://kenney.nl/assets/construct-game-sources) | `other` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/construct-game-sources/construct-game-sources.zip) | 2026-11-25 |
 | [Hand Stretch Film Roll](https://polyfork.dev/asset/hand-stretch-film-roll-0e602d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/hand-stretch-film-roll/hand-stretch-film-roll.zip) | 2026-11-25 |
 | [High-Bay LED Light](https://polyfork.dev/asset/high-bay-led-light-aba3b2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/high-bay-led-light/high-bay-led-light.zip) | 2026-11-25 |
+| [Lighthouse Keeper's Cottage](https://polyfork.dev/asset/lighthouse-keeper-s-cottage-4f6d33) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lighthouse-keeper-s-cottage/lighthouse-keeper-s-cottage.zip) | 2026-11-25 |
 | [Pedestrian Safety Barrier Run](https://polyfork.dev/asset/pedestrian-safety-barrier-run-2afeca) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pedestrian-safety-barrier-run/pedestrian-safety-barrier-run.zip) | 2026-11-25 |
 | [Retro Textures Liminal](https://kenney.nl/assets/retro-textures-liminal) | `texture` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/retro-textures-liminal/retro-textures-liminal.zip) | 2026-11-25 |
 | [Scribble Planes](https://kenney.nl/assets/scribble-planes) | `sprite-2d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/scribble-planes/scribble-planes.zip) | 2026-11-25 |
@@ -110,6 +113,3 @@
 | [Cyclops](https://polyfork.dev/asset/cyclops-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/cyclops/cyclops.zip) | 2026-11-23 |
 | [Effekseer 샘플 이펙트 33종 (.efk, WebGL 런타임 포함)](https://patch.gg/patch/effekseer) | `effect` | Effekseer 프로젝트, Pierre, NextSoft, AndrewFM, Suzuki, tktk | CC0 (런타임 MIT) | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/effekseer-sample-effects/effekseer-sample-effects.zip) | 2026-11-23 |
 | [Elemental Sandbox HDRI 환경광 (Poly Haven Spruit Sunrise 2K)](https://polyhaven.com/a/spruit_sunrise) | `other` | Poly Haven | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/elemental-sandbox-hdri-spruit-sunrise/elemental-sandbox-hdri-spruit-sunrise.zip) | 2026-11-23 |
-| [Elemental Sandbox 바위 PBR 텍스처 4종 (ambientCG Rock030 1K)](https://ambientcg.com/a/Rock030) | `other` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/elemental-sandbox-rock030-pbr/elemental-sandbox-rock030-pbr.zip) | 2026-11-23 |
-| [Elemental Sandbox 스킬 VFX 코드 모듈 (Three.js·GLSL)](https://github.com/achrefelouafi/LinearAbilityExtThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/elemental-sandbox-ability-vfx/elemental-sandbox-ability-vfx.zip) | 2026-11-23 |
-| [Fuel Technician](https://polyfork.dev/asset/fuel-technician-df4ce0) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/fuel-technician/fuel-technician.zip) | 2026-11-23 |

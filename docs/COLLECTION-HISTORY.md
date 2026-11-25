@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261125-10 자동 수집 등록 (3팩, 2026-11-25 10:33 KST)
+
+- 팩: Carousel (slug carousel), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/carousel-39cbc8
+- 저장: assets-3d-polyfork carousel/carousel.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2377→2380, 기존 행 불변 확인
+- 팩: Chinese Hexagonal Pavilion (slug chinese-hexagonal-pavilion), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/chinese-hexagonal-pavilion-09d04e
+- 저장: assets-3d-polyfork chinese-hexagonal-pavilion/chinese-hexagonal-pavilion.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2377→2380, 기존 행 불변 확인
+- 팩: Lighthouse Keeper's Cottage (slug lighthouse-keeper-s-cottage), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/lighthouse-keeper-s-cottage-4f6d33
+- 저장: assets-3d-polyfork lighthouse-keeper-s-cottage/lighthouse-keeper-s-cottage.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2377→2380, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261125-07 자동 수집 등록 (2팩, 2026-11-25 07:24 KST)
 
 - 팩: Medieval 3D drain (slug medieval-3d-drain), 라이선스: CC0, 제작자: ShggothSlave

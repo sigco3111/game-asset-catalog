@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@ab373671f695b7d4facf09768755f40fce4b0b8d",
-  "count": 2377,
+  "generated_from": "catalog.csv@39c2d0ec23a658a32d35fdf91fc19edd2166aca5",
+  "count": 2380,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -83994,6 +83994,105 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/construct-game-sources/construct-game-sources.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/construct-game-sources/construct-game-sources.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/carousel",
+      "name": "Carousel",
+      "repo": "assets-3d-polyfork",
+      "file": "carousel/carousel.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/carousel-39cbc8",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Carousel by Polyfork (https://polyfork.dev/asset/carousel-39cbc8), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-25",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "carousel/preview.png",
+      "download_path": "carousel/carousel.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/carousel/carousel.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/carousel/carousel.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/chinese-hexagonal-pavilion",
+      "name": "Chinese Hexagonal Pavilion",
+      "repo": "assets-3d-polyfork",
+      "file": "chinese-hexagonal-pavilion/chinese-hexagonal-pavilion.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/chinese-hexagonal-pavilion-09d04e",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Chinese Hexagonal Pavilion by Polyfork (https://polyfork.dev/asset/chinese-hexagonal-pavilion-09d04e), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-25",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "chinese-hexagonal-pavilion/preview.png",
+      "download_path": "chinese-hexagonal-pavilion/chinese-hexagonal-pavilion.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-hexagonal-pavilion/chinese-hexagonal-pavilion.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-hexagonal-pavilion/chinese-hexagonal-pavilion.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/lighthouse-keeper-s-cottage",
+      "name": "Lighthouse Keeper's Cottage",
+      "repo": "assets-3d-polyfork",
+      "file": "lighthouse-keeper-s-cottage/lighthouse-keeper-s-cottage.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/lighthouse-keeper-s-cottage-4f6d33",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Lighthouse Keeper's Cottage by Polyfork (https://polyfork.dev/asset/lighthouse-keeper-s-cottage-4f6d33), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-25",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "lighthouse-keeper-s-cottage/preview.png",
+      "download_path": "lighthouse-keeper-s-cottage/lighthouse-keeper-s-cottage.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/lighthouse-keeper-s-cottage/lighthouse-keeper-s-cottage.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/lighthouse-keeper-s-cottage/lighthouse-keeper-s-cottage.zip"
       ],
       "sample": null,
       "multipart": false,

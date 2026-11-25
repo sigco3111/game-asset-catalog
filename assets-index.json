@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@473156cb5b59ce2b820146e72a5eb30b4ac8445e",
-  "count": 2390,
+  "generated_from": "catalog.csv@e34471ccf2604bb34c8a8dca8f04ef19eb760712",
+  "count": 2393,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -84417,6 +84417,105 @@
       "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/simply-expressive-72-emotion-buttonsicons/simply-expressive-72-emotion-buttonsicons.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-ui-icons/raw/main/simply-expressive-72-emotion-buttonsicons/simply-expressive-72-emotion-buttonsicons.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/cone-toy-tree",
+      "name": "Cone Toy Tree",
+      "repo": "assets-3d-polyfork",
+      "file": "cone-toy-tree/cone-toy-tree.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/cone-toy-tree-4a5365",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Cone Toy Tree by Polyfork (https://polyfork.dev/asset/cone-toy-tree-4a5365), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-25",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "cone-toy-tree/preview.png",
+      "download_path": "cone-toy-tree/cone-toy-tree.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/cone-toy-tree/cone-toy-tree.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/cone-toy-tree/cone-toy-tree.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/ferris-wheel",
+      "name": "Ferris Wheel",
+      "repo": "assets-3d-polyfork",
+      "file": "ferris-wheel/ferris-wheel.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/ferris-wheel-ca5b0b",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Ferris Wheel by Polyfork (https://polyfork.dev/asset/ferris-wheel-ca5b0b), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-25",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "ferris-wheel/preview.png",
+      "download_path": "ferris-wheel/ferris-wheel.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/ferris-wheel/ferris-wheel.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/ferris-wheel/ferris-wheel.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/lollipop-toy-tree",
+      "name": "Lollipop Toy Tree",
+      "repo": "assets-3d-polyfork",
+      "file": "lollipop-toy-tree/lollipop-toy-tree.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/lollipop-toy-tree-2cf8d2",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Lollipop Toy Tree by Polyfork (https://polyfork.dev/asset/lollipop-toy-tree-2cf8d2), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-25",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "lollipop-toy-tree/preview.png",
+      "download_path": "lollipop-toy-tree/lollipop-toy-tree.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/lollipop-toy-tree/lollipop-toy-tree.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/lollipop-toy-tree/lollipop-toy-tree.zip"
       ],
       "sample": null,
       "multipart": false,

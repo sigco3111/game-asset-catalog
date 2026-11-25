@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261125-15 자동 수집 등록 (3팩, 2026-11-25 15:33 KST)
+
+- 팩: Cone Toy Tree (slug cone-toy-tree), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/cone-toy-tree-4a5365
+- 저장: assets-3d-polyfork cone-toy-tree/cone-toy-tree.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2390→2393, 기존 행 불변 확인
+- 팩: Ferris Wheel (slug ferris-wheel), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/ferris-wheel-ca5b0b
+- 저장: assets-3d-polyfork ferris-wheel/ferris-wheel.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2390→2393, 기존 행 불변 확인
+- 팩: Lollipop Toy Tree (slug lollipop-toy-tree), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/lollipop-toy-tree-2cf8d2
+- 저장: assets-3d-polyfork lollipop-toy-tree/lollipop-toy-tree.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2390→2393, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261125-14 자동 수집 등록 (1팩, 2026-11-25 14:26 KST)
 
 - 팩: Simply Expressive - 72 Emotion buttons/icons (slug simply-expressive-72-emotion-buttonsicons), 라이선스: CC0, 제작자: SplendidDog

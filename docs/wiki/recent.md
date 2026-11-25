@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@473156cb5b59ce2b820146e72a5eb30b4ac8445e`
+> generated from `catalog.csv@e34471ccf2604bb34c8a8dca8f04ef19eb760712`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -17,12 +17,15 @@
 | [Amusement Park Entrance Arch](https://polyfork.dev/asset/amusement-park-entrance-arch-687549) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/amusement-park-entrance-arch/amusement-park-entrance-arch.zip) | 2026-11-25 |
 | [Carousel](https://polyfork.dev/asset/carousel-39cbc8) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/carousel/carousel.zip) | 2026-11-25 |
 | [Chinese Hexagonal Pavilion](https://polyfork.dev/asset/chinese-hexagonal-pavilion-09d04e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-hexagonal-pavilion/chinese-hexagonal-pavilion.zip) | 2026-11-25 |
+| [Cone Toy Tree](https://polyfork.dev/asset/cone-toy-tree-4a5365) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/cone-toy-tree/cone-toy-tree.zip) | 2026-11-25 |
 | [Construct Game Sources](https://kenney.nl/assets/construct-game-sources) | `other` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/construct-game-sources/construct-game-sources.zip) | 2026-11-25 |
 | [Cyberpunk Menu Music](https://opengameart.org/content/cyberpunk-menu-music) | `music` | ZaninDevelopers | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cyberpunk-menu-music/cyberpunk-menu-music.zip) | 2026-11-25 |
+| [Ferris Wheel](https://polyfork.dev/asset/ferris-wheel-ca5b0b) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ferris-wheel/ferris-wheel.zip) | 2026-11-25 |
 | [Hallway](https://opengameart.org/content/hallway) | `music` | thenewkgb | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/hallway/hallway.zip) | 2026-11-25 |
 | [Hand Stretch Film Roll](https://polyfork.dev/asset/hand-stretch-film-roll-0e602d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/hand-stretch-film-roll/hand-stretch-film-roll.zip) | 2026-11-25 |
 | [High-Bay LED Light](https://polyfork.dev/asset/high-bay-led-light-aba3b2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/high-bay-led-light/high-bay-led-light.zip) | 2026-11-25 |
 | [Lighthouse Keeper's Cottage](https://polyfork.dev/asset/lighthouse-keeper-s-cottage-4f6d33) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lighthouse-keeper-s-cottage/lighthouse-keeper-s-cottage.zip) | 2026-11-25 |
+| [Lollipop Toy Tree](https://polyfork.dev/asset/lollipop-toy-tree-2cf8d2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lollipop-toy-tree/lollipop-toy-tree.zip) | 2026-11-25 |
 | [Pedestrian Safety Barrier Run](https://polyfork.dev/asset/pedestrian-safety-barrier-run-2afeca) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pedestrian-safety-barrier-run/pedestrian-safety-barrier-run.zip) | 2026-11-25 |
 | [Retro Textures Liminal](https://kenney.nl/assets/retro-textures-liminal) | `texture` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/retro-textures-liminal/retro-textures-liminal.zip) | 2026-11-25 |
 | [Roller Coaster Track](https://polyfork.dev/asset/roller-coaster-track-f24006) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/roller-coaster-track/roller-coaster-track.zip) | 2026-11-25 |
@@ -110,6 +113,3 @@
 | [anymove Centaur](https://patch.gg/create/toolbox/assets/anymove:centaur) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-centaur.zip) | 2026-11-23 |
 | [anymove Giant Ape](https://patch.gg/create/toolbox/assets/anymove:ape) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-ape.zip) | 2026-11-23 |
 | [anymove Horse](https://patch.gg/create/toolbox/assets/anymove:horse) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-horse.zip) | 2026-11-23 |
-| [anymove Knight](https://patch.gg/create/toolbox/assets/anymove:knight) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-knight.zip) | 2026-11-23 |
-| [anymove Mech](https://patch.gg/create/toolbox/assets/anymove:mech) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-mech.zip) | 2026-11-23 |
-| [anymove Ogre](https://patch.gg/create/toolbox/assets/anymove:ogre) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-ogre.zip) | 2026-11-23 |

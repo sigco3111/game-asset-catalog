@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261126-08 자동 수집 등록 (3팩, 2026-11-26 08:28 KST)
+
+- 팩: Light Puzzles 14 (Looping) (slug light-puzzles-14-looping), 라이선스: CC-BY 3.0, 제작자: Eric Matyas
+- 출처: https://opengameart.org/content/light-puzzles-14-looping
+- 저장: assets-3d-lowpoly-2 release:pack-light-puzzles-14-looping/light-puzzles-14-looping.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2409→2412, 기존 행 불변 확인
+- 팩: Mid September Surprise (slug mid-september-surprise), 라이선스: CC0, 제작자: Pro Sensory
+- 출처: https://opengameart.org/content/mid-september-surprise
+- 저장: assets-3d-lowpoly-2 mid-september-surprise/mid-september-surprise.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2409→2412, 기존 행 불변 확인
+- 팩: Uphill Chips (slug uphill-chips), 라이선스: CC-BY 4.0, 제작자: mla
+- 출처: https://opengameart.org/content/uphill-chips
+- 저장: assets-3d-lowpoly-2 uphill-chips/uphill-chips.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2409→2412, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261126-04 자동 수집 등록 (3팩, 2026-11-26 04:41 KST)
 
 - 팩: Chimney Cap (slug chimney-cap), 라이선스: CC-BY 4.0, 제작자: Polyfork

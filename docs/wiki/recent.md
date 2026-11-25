@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@cfb1b47f95d29cec8554a1887a66124a356757b5`
+> generated from `catalog.csv@473156cb5b59ce2b820146e72a5eb30b4ac8445e`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -27,6 +27,7 @@
 | [Retro Textures Liminal](https://kenney.nl/assets/retro-textures-liminal) | `texture` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/retro-textures-liminal/retro-textures-liminal.zip) | 2026-11-25 |
 | [Roller Coaster Track](https://polyfork.dev/asset/roller-coaster-track-f24006) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/roller-coaster-track/roller-coaster-track.zip) | 2026-11-25 |
 | [Scribble Planes](https://kenney.nl/assets/scribble-planes) | `sprite-2d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/scribble-planes/scribble-planes.zip) | 2026-11-25 |
+| [Simply Expressive - 72 Emotion buttons/icons](https://opengameart.org/content/simply-expressive-72-emotion-buttonsicons) | `ui` | SplendidDog | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/simply-expressive-72-emotion-buttonsicons/simply-expressive-72-emotion-buttonsicons.zip) | 2026-11-25 |
 | [Sky](https://opengameart.org/content/sky-8) | `music` | Guy G. Gamerson | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/sky-8/sky-8.zip) | 2026-11-25 |
 | [Taking a Bath and Jumping Into Bed](https://opengameart.org/content/taking-a-bath-and-jumping-into-bed) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-taking-a-bath-and-jumping-into-bed/taking-a-bath-and-jumping-into-bed.zip) | 2026-11-25 |
 | [The longing](https://opengameart.org/content/the-longing) | `music` | Ruhinre | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-longing/the-longing.zip) | 2026-11-25 |
@@ -112,4 +113,3 @@
 | [anymove Knight](https://patch.gg/create/toolbox/assets/anymove:knight) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-knight.zip) | 2026-11-23 |
 | [anymove Mech](https://patch.gg/create/toolbox/assets/anymove:mech) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-mech.zip) | 2026-11-23 |
 | [anymove Ogre](https://patch.gg/create/toolbox/assets/anymove:ogre) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-ogre.zip) | 2026-11-23 |
-| [anymove Scorpion](https://patch.gg/create/toolbox/assets/anymove:scorpion) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-scorpion.zip) | 2026-11-23 |

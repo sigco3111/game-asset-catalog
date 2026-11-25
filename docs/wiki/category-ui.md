@@ -1,20 +1,21 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@cfb1b47f95d29cec8554a1887a66124a356757b5`
+> generated from `catalog.csv@473156cb5b59ce2b820146e72a5eb30b4ac8445e`
 
 # UI 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `ui`(UI)에 해당하는 에셋 **233개**입니다. 라이브러리에서 보기: [?cat=ui](https://sigco3111.github.io/game-asset-catalog/?cat=ui)
+분류 `ui`(UI)에 해당하는 에셋 **234개**입니다. 라이브러리에서 보기: [?cat=ui](https://sigco3111.github.io/game-asset-catalog/?cat=ui)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 233행 (전체 233개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 234행 (전체 234개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Simply Expressive - 72 Emotion buttons/icons](https://opengameart.org/content/simply-expressive-72-emotion-buttonsicons) | `ui` | SplendidDog | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/simply-expressive-72-emotion-buttonsicons/simply-expressive-72-emotion-buttonsicons.zip) | 2026-11-25 |
 | [Hisar 중세 게임 UI 아이콘 16종·로고 문장 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | `ui` | Furkiozknn | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/hisar-ui-icons/hisar-ui-icons.zip) | 2026-11-24 |
 | [Assets Free Interface UI Dark Miko](https://opengameart.org/content/assets-free-interface-ui-dark-miko) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip) | 2026-11-22 |
 | [Colored Number-Buttons (01-99)](https://opengameart.org/content/colored-number-buttons-01-99) | `ui` | DreyArts | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/colored-number-buttons-01-99/colored-number-buttons-01-99.zip) | 2026-11-22 |

@@ -1,5 +1,13 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261125-14 자동 수집 등록 (1팩, 2026-11-25 14:26 KST)
+
+- 팩: Simply Expressive - 72 Emotion buttons/icons (slug simply-expressive-72-emotion-buttonsicons), 라이선스: CC0, 제작자: SplendidDog
+- 출처: https://opengameart.org/content/simply-expressive-72-emotion-buttonsicons
+- 저장: assets-3d-lowpoly-2 simply-expressive-72-emotion-buttonsicons/simply-expressive-72-emotion-buttonsicons.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2389→2390, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261125-13 자동 수집 등록 (3팩, 2026-11-25 13:43 KST)
 
 - 팩: Cyberpunk Menu Music (slug cyberpunk-menu-music), 라이선스: CC0, 제작자: ZaninDevelopers

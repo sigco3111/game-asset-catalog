@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@cfb1b47f95d29cec8554a1887a66124a356757b5",
-  "count": 2389,
+  "generated_from": "catalog.csv@473156cb5b59ce2b820146e72a5eb30b4ac8445e",
+  "count": 2390,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -84384,6 +84384,39 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-taking-a-bath-and-jumping-into-bed/taking-a-bath-and-jumping-into-bed.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-taking-a-bath-and-jumping-into-bed/taking-a-bath-and-jumping-into-bed.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/simply-expressive-72-emotion-buttons-icons",
+      "name": "Simply Expressive - 72 Emotion buttons/icons",
+      "repo": "assets-ui-icons",
+      "file": "simply-expressive-72-emotion-buttonsicons/simply-expressive-72-emotion-buttonsicons.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "SplendidDog",
+      "source_url": "https://opengameart.org/content/simply-expressive-72-emotion-buttonsicons",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: SplendidDog (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-25",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "simply-expressive-72-emotion-buttonsicons/preview.png",
+      "download_path": "simply-expressive-72-emotion-buttonsicons/simply-expressive-72-emotion-buttonsicons.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/simply-expressive-72-emotion-buttonsicons/simply-expressive-72-emotion-buttonsicons.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/simply-expressive-72-emotion-buttonsicons/simply-expressive-72-emotion-buttonsicons.zip"
       ],
       "sample": null,
       "multipart": false,

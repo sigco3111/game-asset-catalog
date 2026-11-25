@@ -1,23 +1,26 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@6e7f00cd02689ef8e3910d4911c787ea985bf738`
+> generated from `catalog.csv@490e749576b386a872f8c18bbc7a8b87b3ce1c65`
 
 # 음악 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `music`(음악)에 해당하는 에셋 **291개**입니다. 라이브러리에서 보기: [?cat=music](https://sigco3111.github.io/game-asset-catalog/?cat=music)
+분류 `music`(음악)에 해당하는 에셋 **294개**입니다. 라이브러리에서 보기: [?cat=music](https://sigco3111.github.io/game-asset-catalog/?cat=music)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 291행 (전체 291개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 294행 (전체 294개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [A bunch of background songs? Idk.](https://opengameart.org/content/a-bunch-of-background-songs-idk) | `music` | AigarsOz | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-bunch-of-background-songs-idk/a-bunch-of-background-songs-idk.zip) | 2026-11-25 |
 | [Cyberpunk Menu Music](https://opengameart.org/content/cyberpunk-menu-music) | `music` | ZaninDevelopers | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cyberpunk-menu-music/cyberpunk-menu-music.zip) | 2026-11-25 |
 | [Hallway](https://opengameart.org/content/hallway) | `music` | thenewkgb | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/hallway/hallway.zip) | 2026-11-25 |
+| [Hidden Riddles (Looping)](https://opengameart.org/content/hidden-riddles-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/hidden-riddles-looping/hidden-riddles-looping.zip) | 2026-11-25 |
+| [Lydian Mid September Surprise](https://opengameart.org/content/lydian-mid-september-surprise) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/lydian-mid-september-surprise/lydian-mid-september-surprise.zip) | 2026-11-25 |
+| [Mixolydian Mid Summer](https://opengameart.org/content/mixolydian-mid-summer) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/mixolydian-mid-summer/mixolydian-mid-summer.zip) | 2026-11-25 |
 | [Sky](https://opengameart.org/content/sky-8) | `music` | Guy G. Gamerson | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/sky-8/sky-8.zip) | 2026-11-25 |
 | [Taking a Bath and Jumping Into Bed](https://opengameart.org/content/taking-a-bath-and-jumping-into-bed) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-taking-a-bath-and-jumping-into-bed/taking-a-bath-and-jumping-into-bed.zip) | 2026-11-25 |
 | [The longing](https://opengameart.org/content/the-longing) | `music` | Ruhinre | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-longing/the-longing.zip) | 2026-11-25 |

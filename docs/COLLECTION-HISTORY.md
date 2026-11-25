@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261125-23 자동 수집 등록 (3팩, 2026-11-25 23:59 KST)
+
+- 팩: Hidden Riddles (Looping) (slug hidden-riddles-looping), 라이선스: CC-BY 3.0, 제작자: Eric Matyas
+- 출처: https://opengameart.org/content/hidden-riddles-looping
+- 저장: assets-3d-lowpoly-2 hidden-riddles-looping/hidden-riddles-looping.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2399→2402, 기존 행 불변 확인
+- 팩: Lydian Mid September Surprise (slug lydian-mid-september-surprise), 라이선스: CC0, 제작자: Pro Sensory
+- 출처: https://opengameart.org/content/lydian-mid-september-surprise
+- 저장: assets-3d-lowpoly-2 lydian-mid-september-surprise/lydian-mid-september-surprise.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2399→2402, 기존 행 불변 확인
+- 팩: Mixolydian Mid Summer (slug mixolydian-mid-summer), 라이선스: CC0, 제작자: Pro Sensory
+- 출처: https://opengameart.org/content/mixolydian-mid-summer
+- 저장: assets-3d-lowpoly-2 mixolydian-mid-summer/mixolydian-mid-summer.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2399→2402, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261125-23 자동 수집 등록 (3팩, 2026-11-25 23:27 KST)
 
 - 팩: Erhu musician (slug erhu-musician), 라이선스: CC-BY 4.0, 제작자: Polyfork

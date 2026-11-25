@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261125-13 자동 수집 등록 (3팩, 2026-11-25 13:17 KST)
+
+- 팩: Amusement Park Entrance Arch (slug amusement-park-entrance-arch), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/amusement-park-entrance-arch-687549
+- 저장: assets-3d-polyfork amusement-park-entrance-arch/amusement-park-entrance-arch.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2383→2386, 기존 행 불변 확인
+- 팩: Roller Coaster Track (slug roller-coaster-track), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/roller-coaster-track-f24006
+- 저장: assets-3d-polyfork roller-coaster-track/roller-coaster-track.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2383→2386, 기존 행 불변 확인
+- 팩: Yellow Brick Path Slab (slug yellow-brick-path-slab), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/yellow-brick-path-slab-9e8acd
+- 저장: assets-3d-polyfork yellow-brick-path-slab/yellow-brick-path-slab.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2383→2386, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261125-10 자동 수집 등록 (3팩, 2026-11-25 10:44 KST)
 
 - 팩: A bunch of background songs? Idk. (slug a-bunch-of-background-songs-idk), 라이선스: CC-BY 4.0, 제작자: AigarsOz

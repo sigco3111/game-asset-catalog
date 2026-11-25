@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b40436b9f8e15ed53a64b66be15f2323b7b891ed`
+> generated from `catalog.csv@7d96f107f1af0807cc57338efda483e979e7307d`
 
 # 3D 모델 모음 (2쪽)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **764개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **767개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): [1쪽](category-model-3d.md) · **2쪽**
 
-현재 쪽: 364행 (전체 764개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 367행 (전체 767개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [3D Swords Pack](https://opengameart.org/content/3d-swords-pack) | `model-3d` | Mophs | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.28/3d-swords-pack.zip) | 2026-11-04 |
+| [3d walls props](https://opengameart.org/content/3d-walls-props) | `model-3d` | CrisisSDK | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.15/3d-walls-props.zip) | 2026-11-04 |
+| [3TD Africa Savanna Pack v1.0](https://opengameart.org/content/3td-africa-savanna-pack-v10) | `model-3d` | SmoodiLP | CC0 | X | X | 2개 분할 | 2026-11-04 |
 | [3TD Cave Pack Pro v1.0](https://opengameart.org/content/3td-cave-pack-pro-v10) | `model-3d` | ? | CC0 | X | X | 3개 분할 | 2026-11-04 |
 | [3TD Fantasy Ruins Pack](https://opengameart.org/content/3td-fantasy-ruins-pack) | `model-3d` | Julius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/3td-fantasy-ruins-pack.zip) | 2026-11-04 |
 | [3TD Furniture Pack](https://opengameart.org/content/3td-furniture-pack) | `model-3d` | reeguy | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.23/3td-furniture-pack.zip) | 2026-11-04 |

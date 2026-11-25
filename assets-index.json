@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@b40436b9f8e15ed53a64b66be15f2323b7b891ed",
-  "count": 2383,
+  "generated_from": "catalog.csv@7d96f107f1af0807cc57338efda483e979e7307d",
+  "count": 2386,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -84189,6 +84189,105 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/the-longing/the-longing.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/the-longing/the-longing.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/amusement-park-entrance-arch",
+      "name": "Amusement Park Entrance Arch",
+      "repo": "assets-3d-polyfork",
+      "file": "amusement-park-entrance-arch/amusement-park-entrance-arch.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/amusement-park-entrance-arch-687549",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Amusement Park Entrance Arch by Polyfork (https://polyfork.dev/asset/amusement-park-entrance-arch-687549), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-25",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "amusement-park-entrance-arch/preview.png",
+      "download_path": "amusement-park-entrance-arch/amusement-park-entrance-arch.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/amusement-park-entrance-arch/amusement-park-entrance-arch.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/amusement-park-entrance-arch/amusement-park-entrance-arch.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/roller-coaster-track",
+      "name": "Roller Coaster Track",
+      "repo": "assets-3d-polyfork",
+      "file": "roller-coaster-track/roller-coaster-track.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/roller-coaster-track-f24006",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Roller Coaster Track by Polyfork (https://polyfork.dev/asset/roller-coaster-track-f24006), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-25",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "roller-coaster-track/preview.png",
+      "download_path": "roller-coaster-track/roller-coaster-track.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/roller-coaster-track/roller-coaster-track.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/roller-coaster-track/roller-coaster-track.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/yellow-brick-path-slab",
+      "name": "Yellow Brick Path Slab",
+      "repo": "assets-3d-polyfork",
+      "file": "yellow-brick-path-slab/yellow-brick-path-slab.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/yellow-brick-path-slab-9e8acd",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Yellow Brick Path Slab by Polyfork (https://polyfork.dev/asset/yellow-brick-path-slab-9e8acd), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-25",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "yellow-brick-path-slab/preview.png",
+      "download_path": "yellow-brick-path-slab/yellow-brick-path-slab.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/yellow-brick-path-slab/yellow-brick-path-slab.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/yellow-brick-path-slab/yellow-brick-path-slab.zip"
       ],
       "sample": null,
       "multipart": false,

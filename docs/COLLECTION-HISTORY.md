@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261126-08 자동 수집 등록 (3팩, 2026-11-26 08:37 KST)
+
+- 팩: Cannon Mooring Bollard (slug cannon-mooring-bollard), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/cannon-mooring-bollard-0de796
+- 저장: assets-3d-polyfork cannon-mooring-bollard/cannon-mooring-bollard.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2412→2415, 기존 행 불변 확인
+- 팩: Dovecote Tower (slug dovecote-tower), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/dovecote-tower-db7d30
+- 저장: assets-3d-polyfork dovecote-tower/dovecote-tower.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2412→2415, 기존 행 불변 확인
+- 팩: Older woman with a basket (slug older-woman-with-a-basket), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/older-woman-with-a-basket-base
+- 저장: assets-3d-polyfork older-woman-with-a-basket/older-woman-with-a-basket.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2412→2415, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261126-08 자동 수집 등록 (3팩, 2026-11-26 08:28 KST)
 
 - 팩: Light Puzzles 14 (Looping) (slug light-puzzles-14-looping), 라이선스: CC-BY 3.0, 제작자: Eric Matyas

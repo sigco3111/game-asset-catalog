@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e4e958b75c036e8e5113a8854b7202473d7f80aa`
+> generated from `catalog.csv@6e7f00cd02689ef8e3910d4911c787ea985bf738`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -21,6 +21,7 @@
 | [Cone Toy Tree](https://polyfork.dev/asset/cone-toy-tree-4a5365) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/cone-toy-tree/cone-toy-tree.zip) | 2026-11-25 |
 | [Construct Game Sources](https://kenney.nl/assets/construct-game-sources) | `other` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/construct-game-sources/construct-game-sources.zip) | 2026-11-25 |
 | [Cyberpunk Menu Music](https://opengameart.org/content/cyberpunk-menu-music) | `music` | ZaninDevelopers | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cyberpunk-menu-music/cyberpunk-menu-music.zip) | 2026-11-25 |
+| [Erhu musician](https://polyfork.dev/asset/erhu-musician-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/erhu-musician/erhu-musician.zip) | 2026-11-25 |
 | [Ferris Wheel](https://polyfork.dev/asset/ferris-wheel-ca5b0b) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ferris-wheel/ferris-wheel.zip) | 2026-11-25 |
 | [Hallway](https://opengameart.org/content/hallway) | `music` | thenewkgb | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/hallway/hallway.zip) | 2026-11-25 |
 | [Hand Stretch Film Roll](https://polyfork.dev/asset/hand-stretch-film-roll-0e602d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/hand-stretch-film-roll/hand-stretch-film-roll.zip) | 2026-11-25 |
@@ -29,12 +30,14 @@
 | [Lollipop Toy Tree](https://polyfork.dev/asset/lollipop-toy-tree-2cf8d2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lollipop-toy-tree/lollipop-toy-tree.zip) | 2026-11-25 |
 | [Pedestrian Safety Barrier Run](https://polyfork.dev/asset/pedestrian-safety-barrier-run-2afeca) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pedestrian-safety-barrier-run/pedestrian-safety-barrier-run.zip) | 2026-11-25 |
 | [Retro Textures Liminal](https://kenney.nl/assets/retro-textures-liminal) | `texture` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/retro-textures-liminal/retro-textures-liminal.zip) | 2026-11-25 |
+| [Riverside jogger](https://polyfork.dev/asset/riverside-jogger-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/riverside-jogger/riverside-jogger.zip) | 2026-11-25 |
 | [Roller Coaster Track](https://polyfork.dev/asset/roller-coaster-track-f24006) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/roller-coaster-track/roller-coaster-track.zip) | 2026-11-25 |
 | [Scribble Planes](https://kenney.nl/assets/scribble-planes) | `sprite-2d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/scribble-planes/scribble-planes.zip) | 2026-11-25 |
 | [Simply Expressive - 72 Emotion buttons/icons](https://opengameart.org/content/simply-expressive-72-emotion-buttonsicons) | `ui` | SplendidDog | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/simply-expressive-72-emotion-buttonsicons/simply-expressive-72-emotion-buttonsicons.zip) | 2026-11-25 |
 | [Sky](https://opengameart.org/content/sky-8) | `music` | Guy G. Gamerson | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/sky-8/sky-8.zip) | 2026-11-25 |
 | [Spinning Teacup Ride](https://polyfork.dev/asset/spinning-teacup-ride-878c01) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/spinning-teacup-ride/spinning-teacup-ride.zip) | 2026-11-25 |
 | [Striped River Lighthouse](https://polyfork.dev/asset/striped-river-lighthouse-90d74d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/striped-river-lighthouse/striped-river-lighthouse.zip) | 2026-11-25 |
+| [Swing Chair Ride](https://polyfork.dev/asset/swing-chair-ride-fc55fc) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/swing-chair-ride/swing-chair-ride.zip) | 2026-11-25 |
 | [Taking a Bath and Jumping Into Bed](https://opengameart.org/content/taking-a-bath-and-jumping-into-bed) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-taking-a-bath-and-jumping-into-bed/taking-a-bath-and-jumping-into-bed.zip) | 2026-11-25 |
 | [The longing](https://opengameart.org/content/the-longing) | `music` | Ruhinre | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-longing/the-longing.zip) | 2026-11-25 |
 | [Yellow Brick Path Slab](https://polyfork.dev/asset/yellow-brick-path-slab-9e8acd) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/yellow-brick-path-slab/yellow-brick-path-slab.zip) | 2026-11-25 |
@@ -110,6 +113,3 @@
 | [Wizard Pack (LuizMelo)](https://luizmelo.itch.io/wizard-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/wizard-pack/wizard-pack.zip) | 2026-11-24 |
 | [Zeus](https://polyfork.dev/asset/zeus-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/zeus/zeus.zip) | 2026-11-24 |
 | [00GameDevs 마법 VFX Starter 5종 (Three.js·WebGL2)](https://patch.gg/00vchannel/00gamedevs-vfx-starter) | `other` | 00GameDevs (@00vchannel) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/00gamedevs-vfx-starter/00gamedevs-vfx-starter.zip) | 2026-11-23 |
-| [AbilityCasting 결투장·생물·소품 3D 모델 5종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/abilitycasting-models/abilitycasting-models.zip) | 2026-11-23 |
-| [AbilityCasting 상어·드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-unverified/abilitycasting-unverified.zip) | 2026-11-23 |
-| [AbilityCasting 시네마틱 주문 VFX 코드 9종 (Three.js·GLSL)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/abilitycasting-spell-vfx/abilitycasting-spell-vfx.zip) | 2026-11-23 |

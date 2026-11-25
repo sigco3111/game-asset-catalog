@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e4e958b75c036e8e5113a8854b7202473d7f80aa`
+> generated from `catalog.csv@6e7f00cd02689ef8e3910d4911c787ea985bf738`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2396개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2399개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -17,7 +17,7 @@
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
 | cc0 | CC0 | 1963 | 0 | 예 |
-| cc-by | CC-BY | 355 | 355 | 예 |
+| cc-by | CC-BY | 358 | 358 | 예 |
 | mit | MIT | 34 | 33 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
 | other | 기타(허용 목록 밖) | 33 | 30 | 아니오 |
@@ -29,7 +29,7 @@
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
 | CC0 | cc0 | X | 1959 |
-| CC-BY 4.0 | cc-by | O | 217 |
+| CC-BY 4.0 | cc-by | O | 220 |
 | CC-BY 3.0 | cc-by | O | 119 |
 | MIT | mit | O | 33 |
 | 알 수 없음 | other | O | 13 |
@@ -55,7 +55,7 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 429개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 432개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
@@ -65,15 +65,18 @@
 | [Castle Garden Topiary](https://polyfork.dev/asset/castle-garden-topiary-1ab3ea) | Polyfork | CC-BY 4.0 | Castle Garden Topiary by Polyfork (https://polyfork.dev/asset/castle-garden-topiary-1ab3ea), CC BY 4.0 | 2026-11-25 |
 | [Chinese Hexagonal Pavilion](https://polyfork.dev/asset/chinese-hexagonal-pavilion-09d04e) | Polyfork | CC-BY 4.0 | Chinese Hexagonal Pavilion by Polyfork (https://polyfork.dev/asset/chinese-hexagonal-pavilion-09d04e), CC BY 4.0 | 2026-11-25 |
 | [Cone Toy Tree](https://polyfork.dev/asset/cone-toy-tree-4a5365) | Polyfork | CC-BY 4.0 | Cone Toy Tree by Polyfork (https://polyfork.dev/asset/cone-toy-tree-4a5365), CC BY 4.0 | 2026-11-25 |
+| [Erhu musician](https://polyfork.dev/asset/erhu-musician-base) | Polyfork | CC-BY 4.0 | Erhu musician by Polyfork (https://polyfork.dev/asset/erhu-musician-base), CC BY 4.0 | 2026-11-25 |
 | [Ferris Wheel](https://polyfork.dev/asset/ferris-wheel-ca5b0b) | Polyfork | CC-BY 4.0 | Ferris Wheel by Polyfork (https://polyfork.dev/asset/ferris-wheel-ca5b0b), CC BY 4.0 | 2026-11-25 |
 | [Hand Stretch Film Roll](https://polyfork.dev/asset/hand-stretch-film-roll-0e602d) | Polyfork | CC-BY 4.0 | Hand Stretch Film Roll by Polyfork (https://polyfork.dev/asset/hand-stretch-film-roll-0e602d), CC BY 4.0 | 2026-11-25 |
 | [High-Bay LED Light](https://polyfork.dev/asset/high-bay-led-light-aba3b2) | Polyfork | CC-BY 4.0 | High-Bay LED Light by Polyfork (https://polyfork.dev/asset/high-bay-led-light-aba3b2), CC BY 4.0 | 2026-11-25 |
 | [Lighthouse Keeper's Cottage](https://polyfork.dev/asset/lighthouse-keeper-s-cottage-4f6d33) | Polyfork | CC-BY 4.0 | Lighthouse Keeper's Cottage by Polyfork (https://polyfork.dev/asset/lighthouse-keeper-s-cottage-4f6d33), CC BY 4.0 | 2026-11-25 |
 | [Lollipop Toy Tree](https://polyfork.dev/asset/lollipop-toy-tree-2cf8d2) | Polyfork | CC-BY 4.0 | Lollipop Toy Tree by Polyfork (https://polyfork.dev/asset/lollipop-toy-tree-2cf8d2), CC BY 4.0 | 2026-11-25 |
 | [Pedestrian Safety Barrier Run](https://polyfork.dev/asset/pedestrian-safety-barrier-run-2afeca) | Polyfork | CC-BY 4.0 | Pedestrian Safety Barrier Run by Polyfork (https://polyfork.dev/asset/pedestrian-safety-barrier-run-2afeca), CC BY 4.0 | 2026-11-25 |
+| [Riverside jogger](https://polyfork.dev/asset/riverside-jogger-base) | Polyfork | CC-BY 4.0 | Riverside jogger by Polyfork (https://polyfork.dev/asset/riverside-jogger-base), CC BY 4.0 | 2026-11-25 |
 | [Roller Coaster Track](https://polyfork.dev/asset/roller-coaster-track-f24006) | Polyfork | CC-BY 4.0 | Roller Coaster Track by Polyfork (https://polyfork.dev/asset/roller-coaster-track-f24006), CC BY 4.0 | 2026-11-25 |
 | [Spinning Teacup Ride](https://polyfork.dev/asset/spinning-teacup-ride-878c01) | Polyfork | CC-BY 4.0 | Spinning Teacup Ride by Polyfork (https://polyfork.dev/asset/spinning-teacup-ride-878c01), CC BY 4.0 | 2026-11-25 |
 | [Striped River Lighthouse](https://polyfork.dev/asset/striped-river-lighthouse-90d74d) | Polyfork | CC-BY 4.0 | Striped River Lighthouse by Polyfork (https://polyfork.dev/asset/striped-river-lighthouse-90d74d), CC BY 4.0 | 2026-11-25 |
+| [Swing Chair Ride](https://polyfork.dev/asset/swing-chair-ride-fc55fc) | Polyfork | CC-BY 4.0 | Swing Chair Ride by Polyfork (https://polyfork.dev/asset/swing-chair-ride-fc55fc), CC BY 4.0 | 2026-11-25 |
 | [Taking a Bath and Jumping Into Bed](https://opengameart.org/content/taking-a-bath-and-jumping-into-bed) | purrplecat | CC-BY 4.0 | 필수: purrplecat (opengameart.org), CC-BY 4.0 | 2026-11-25 |
 | [Yellow Brick Path Slab](https://polyfork.dev/asset/yellow-brick-path-slab-9e8acd) | Polyfork | CC-BY 4.0 | Yellow Brick Path Slab by Polyfork (https://polyfork.dev/asset/yellow-brick-path-slab-9e8acd), CC BY 4.0 | 2026-11-25 |
 | [Blood Moon](https://opengameart.org/content/blood-moon-0) | Ategon | CC-BY 4.0 | 필수: Ategon (opengameart.org), CC-BY 4.0 | 2026-11-24 |

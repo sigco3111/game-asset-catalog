@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261125-23 자동 수집 등록 (3팩, 2026-11-25 23:27 KST)
+
+- 팩: Erhu musician (slug erhu-musician), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/erhu-musician-base
+- 저장: assets-3d-polyfork erhu-musician/erhu-musician.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2396→2399, 기존 행 불변 확인
+- 팩: Riverside jogger (slug riverside-jogger), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/riverside-jogger-base
+- 저장: assets-3d-polyfork riverside-jogger/riverside-jogger.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2396→2399, 기존 행 불변 확인
+- 팩: Swing Chair Ride (slug swing-chair-ride), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/swing-chair-ride-fc55fc
+- 저장: assets-3d-polyfork swing-chair-ride/swing-chair-ride.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2396→2399, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261125-18 자동 수집 등록 (3팩, 2026-11-25 18:28 KST)
 
 - 팩: Castle Garden Topiary (slug castle-garden-topiary), 라이선스: CC-BY 4.0, 제작자: Polyfork

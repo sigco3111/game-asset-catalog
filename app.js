@@ -168,6 +168,7 @@ function dlHtml(r){
   if(u.length>1)return '<details class="parts"><summary>다운로드 · 분할 파일 '+u.length+'개</summary><p class="hint">모두 같은 폴더에 받은 뒤 합쳐야 합니다. 합치는 방법은 <a href="https://github.com/'+OWNER+'/'+esc(r.repo)+'#readme" target="_blank" rel="noopener">저장소 README</a>를 참고하세요.</p>'+u.map(function(x){return '<a href="'+esc(x)+'" target="_blank" rel="noopener">'+esc(partLabel(x))+'</a>'}).join('')+'</details>';
   var one=safeUrl(r.download_url)||u[0];
   return one?'<a class="act pri" href="'+esc(one)+'" target="_blank" rel="noopener" aria-label="'+esc(r.name)+' 다운로드">다운로드</a>':''}
+function addedAt(r){var t=r.added_at;if(!t||!/^\d{4}-\d\d-\d\dT\d\d:\d\d/.test(t))return '';return ' · 등록 '+(t.slice(0,10)===r.added?'':t.slice(0,10)+' ')+t.slice(11,16)}
 function card(r){
   var img=imgOf(r),ph=(audioOf(r)||r.repo==='assets-audio')?'🔊':(r.repo==='assets-code'?'💻':'🖼');
   var th=img?'<button type="button" class="thumb'+(isPx(r)?' px':'')+'" data-act="zoom" data-i="'+r._i+'" aria-label="'+esc(r.name)+' 미리보기 크게 보기"><img loading="lazy" decoding="async" alt="" src="'+esc(img)+'"></button>'
@@ -181,7 +182,7 @@ function card(r){
   var src=safeUrl(r.source_url);
   return '<article class="card">'+th+'<div class="meta"><h3 class="name">'+esc(r.name)+'</h3><div class="line">'+esc(r.type)+' · '+esc(SHORT[r.repo]||'')+' · '+esc(r.author)+'</div>'
     +'<div class="badges">'+b+'</div>'+(tags?'<div class="tags">'+tags+'</div>':'')
-    +'<div class="line">추가 '+esc(r.added)+'</div>'
+    +'<div class="line">추가 '+esc(r.added)+addedAt(r)+'</div>'
     +'<div class="acts">'+dlHtml(r)+(src?'<a class="act" href="'+esc(src)+'" target="_blank" rel="noopener" aria-label="'+esc(r.name)+' 원본 출처">출처</a>':'')+'</div>'
     +'<div class="acts"><button type="button" class="act" data-act="credit" data-i="'+r._i+'">크레딧 복사</button><button type="button" class="act" data-act="link" data-i="'+r._i+'">링크 복사</button><button type="button" class="act" data-act="detail" data-i="'+r._i+'" aria-expanded="false">상세</button></div>'
     +'<div class="det" hidden></div></div></article>'}

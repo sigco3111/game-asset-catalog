@@ -161,7 +161,29 @@ def tags_list(raw):
     return out
 
 
+def added_times(root):
+    """(repo, name) -> catalog.csv 에 그 행이 처음 들어간 커밋 시각(KST, ISO). git 이력이 없으면 빈 dict."""
+    from datetime import datetime, timezone, timedelta
+    try:
+        out = subprocess.run(["git", "log", "--reverse", "--no-color", "--format=%x00%ct", "-p", "-U0", "--", "catalog.csv"],
+                             cwd=root, capture_output=True, text=True, check=True).stdout
+    except Exception:
+        return {}
+    kst = timezone(timedelta(hours=9))
+    res, cur = {}, None
+    for line in out.split("\n"):
+        if line.startswith("\x00"):
+            try: cur = datetime.fromtimestamp(int(line[1:]), kst).strftime("%Y-%m-%dT%H:%M:%S+09:00")
+            except ValueError: cur = None
+        elif cur and line.startswith("+") and not line.startswith("+++"):
+            try: row = next(csv.reader([line[1:]]))
+            except Exception: continue
+            if len(row) > 1: res.setdefault((row[1].strip(), row[0].strip()), cur)
+    return res
+
+
 def build_assets(rows):
+    ADDED_AT = added_times(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     assets, used = [], set()
     for r in rows:
         repo, name = r["repo"].strip(), r["name"].strip()
@@ -199,7 +221,7 @@ def build_assets(rows):
         al = attr.strip().lower()
         a["attribution_required"] = not (fam == "cc0" or al.startswith("optional") or al.startswith("불요") or NO_ATTR_RE.fullmatch(al))
         a["ai_generated"] = bool(AI_RE.search(notes) or AI_TEXT_RE.search(notes) or AI_TEXT_RE.search(lic))
-        a["added"] = r["added"]; a["notes"] = notes; a["preview"] = preview
+        a["added"] = r["added"]; a["added_at"] = ADDED_AT.get((repo, name)); a["notes"] = notes; a["preview"] = preview
         a["download_path"] = path
         # download_url: pattern verified on real examples (see docs/index-report.md); split rows have no single file
         def url_of(p):

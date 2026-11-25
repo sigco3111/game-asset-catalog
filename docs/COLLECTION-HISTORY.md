@@ -3138,3 +3138,9 @@ A100 라운드: OpenGameArt에서 Low-Poly Halloween Kit(CC0), Wooden Overhang M
 종류: 2D·텍스처 1팩·HDRI 환경맵 1팩(assets-2d-pixel), 코드 모듈 1팩(assets-code). 라이선스: CC0 2팩, MIT 1팩. 제외: Mixamo FBX 4종·diffuse.png(라이선스상 재배포 금지), textures.glb(출처 불명), docs/screenshots. 업로드 후 Releases 에셋 다운로드 MD5와 미리보기 raw MD5를 로컬 원본과 대조해 전부 일치 확인. 새 저장소 없음.
 
 실제 팩 수(catalog.csv 기준): 총 2259팩.
+
+### Lighthouse Cup 코드 팩 4종 (2026-11-26 KST)
+
+- assets-code에 추가: lighthouse-cup-oklab-dither-pipeline, lighthouse-cup-webaudio-synth, lighthouse-cup-hall-textures-and-rig, lighthouse-cup-volleyball-sim-engine (MIT, Aizzul Luqman, 원본 https://github.com/itsLucas02/lighthouse-cup 영문판 커밋 d147523 발췌)
+- 포털 등록: catalog.csv 2405→2409, 파일형 에셋 없음(코드 전용)
+

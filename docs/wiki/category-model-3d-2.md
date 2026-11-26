@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@0767ac979d7c184c46fe912a9f771d8978953486`
+> generated from `catalog.csv@c83cf2739c0b26119c603bc5bfb06f71d386fc2d`
 
 # 3D 모델 모음 (2쪽)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **791개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **794개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): [1쪽](category-model-3d.md) · **2쪽**
 
-현재 쪽: 391행 (전체 791개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 394행 (전체 794개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Mini Shop](https://kenney.nl/assets/mini-shop) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-shop/kenney_mini-shop_2.1.zip) | 2026-11-09 |
+| [Cube World Kit (Aug 2023)](https://quaternius.com/packs/cubeworldkit.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/cube-world-kit/cube-world-kit.zip) | 2026-11-07 |
+| [Cyberpunk Game Kit (July 2022)](https://quaternius.com/packs/cyberpunkgamekit.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/cyberpunk-game-kit/cyberpunk-game-kit-part1.zip) | 2026-11-07 |
 | [Full Dice Set](https://opengameart.org/content/full-dice-set) | `model-3d` | rehcub | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/full-dice-set/full-dice-set.zip) | 2026-11-07 |
 | [Human Token](https://opengameart.org/content/human-token) | `model-3d` | Clint Bellanger | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/human-token/human-token.zip) | 2026-11-07 |
 | [Medieval Town Base](https://kenney.nl/assets/medieval-town-base) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/medieval-town-base/medieval-town-base.zip) | 2026-11-07 |

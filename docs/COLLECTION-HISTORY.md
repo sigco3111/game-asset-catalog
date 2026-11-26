@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261127-00 자동 수집 등록 (3팩, 2026-11-27 00:47 KST)
+
+- 팩: Perimeter Security Fence Run (slug perimeter-security-fence-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/perimeter-security-fence-run-f4e838
+- 저장: assets-3d-polyfork perimeter-security-fence-run/perimeter-security-fence-run.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2440→2443, 기존 행 불변 확인
+- 팩: Terminal Retail Unit (slug terminal-retail-unit), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/terminal-retail-unit-8c20d6
+- 저장: assets-3d-polyfork terminal-retail-unit/terminal-retail-unit.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2440→2443, 기존 행 불변 확인
+- 팩: Tri-Axle Double Decker Bus (slug tri-axle-double-decker-bus), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/tri-axle-double-decker-f295b5
+- 저장: assets-3d-polyfork tri-axle-double-decker-bus/tri-axle-double-decker-bus.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2440→2443, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261127-00 자동 수집 등록 (4팩, 2026-11-27 00:32 KST)
 
 - 팩: 52 CC0 drums and synths (slug 52-cc0-drums-and-synths), 라이선스: CC0, 제작자: fvcalderan

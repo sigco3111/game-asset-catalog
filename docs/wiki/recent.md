@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@0767ac979d7c184c46fe912a9f771d8978953486`
+> generated from `catalog.csv@c83cf2739c0b26119c603bc5bfb06f71d386fc2d`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -35,14 +35,17 @@
 | [Lowpoly Stylized Zombie](https://midnight-atoms.itch.io/lowpoly-stylized-zombie) | `model-3d` | Max (Midnight Atoms) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/itchio-lowpoly-stylized-zombie/itchio-lowpoly-stylized-zombie.zip) | 2026-11-26 |
 | [Older woman with a basket](https://polyfork.dev/asset/older-woman-with-a-basket-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/older-woman-with-a-basket/older-woman-with-a-basket.zip) | 2026-11-26 |
 | [P1](https://opengameart.org/content/p1) | `music` | G\_P | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/p1/p1.zip) | 2026-11-26 |
+| [Perimeter Security Fence Run](https://polyfork.dev/asset/perimeter-security-fence-run-f4e838) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/perimeter-security-fence-run/perimeter-security-fence-run.zip) | 2026-11-26 |
 | [Pixel Card Assets](https://opengameart.org/content/pixel-card-assets) | `sprite-2d` | storiesstrauss | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-card-assets/pixel-card-assets.zip) | 2026-11-26 |
 | [Poly Haven Tatami Mat Borderless](https://polyhaven.com/a/tatami_mat_borderless) | `model-3d` | Charlotte Baglioni (Poly Haven) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-tatami-mat-borderless/polyhaven-tatami-mat-borderless.zip) | 2026-11-26 |
 | [Poly Haven Weathered PVC Tank](https://polyhaven.com/a/weathered_pvc_tank) | `model-3d` | Amal Kumar (Poly Haven) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-weathered-pvc-tank/polyhaven-weathered-pvc-tank.zip) | 2026-11-26 |
 | [Realistic Flashlight Cookies](https://opengameart.org/content/realistic-flashlight-cookies) | `sprite-2d` | NATRIUM | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/realistic-flashlight-cookies/realistic-flashlight-cookies.zip) | 2026-11-26 |
 | [Rental Scooter](https://polyfork.dev/asset/rental-scooter-031ee2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rental-scooter/rental-scooter.zip) | 2026-11-26 |
 | [September Electronic](https://opengameart.org/content/september-electronic) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/september-electronic/september-electronic.zip) | 2026-11-26 |
+| [Terminal Retail Unit](https://polyfork.dev/asset/terminal-retail-unit-8c20d6) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/terminal-retail-unit/terminal-retail-unit.zip) | 2026-11-26 |
 | [The Moon Synth](https://opengameart.org/content/the-moon-synth) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-moon-synth/the-moon-synth.zip) | 2026-11-26 |
 | [Throne of Zeus](https://polyfork.dev/asset/throne-of-zeus-20104d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/throne-of-zeus/throne-of-zeus.zip) | 2026-11-26 |
+| [Tri-Axle Double Decker Bus](https://polyfork.dev/asset/tri-axle-double-decker-f295b5) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/tri-axle-double-decker-bus/tri-axle-double-decker-bus.zip) | 2026-11-26 |
 | [Water Hydria](https://polyfork.dev/asset/water-hydria-501c19) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-hydria/water-hydria.zip) | 2026-11-26 |
 | [마문 전당포 UI 아이콘 55](https://github.com/lqszhsp/dangpu) | `icon` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/dangpu-ui-icons/1-dangpu-ui-icons.zip) | 2026-11-26 |
 | [마문 전당포 배경·오브젝트 일러스트 107](https://github.com/lqszhsp/dangpu) | `background-2d` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/dangpu-backgrounds/1-dangpu-backgrounds.zip) | 2026-11-26 |
@@ -110,6 +113,3 @@
 | [Hisar 치비 캐릭터 아트 9종 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | `sprite-2d` | Furkiozknn | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/hisar-chibi-art/hisar-chibi-art.zip) | 2026-11-24 |
 | [Hung Stocking Set](https://polyfork.dev/asset/hung-stocking-set-6191aa) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/hung-stocking-set/hung-stocking-set.zip) | 2026-11-24 |
 | [Huntress (LuizMelo)](https://luizmelo.itch.io/huntress) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/huntress/huntress.zip) | 2026-11-24 |
-| [Huntress 2 (LuizMelo)](https://luizmelo.itch.io/huntress-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/huntress-2/huntress-2.zip) | 2026-11-24 |
-| [Industrial Robot Factory Music & Sfx](https://opengameart.org/content/industrial-robot-factory-music-sfx) | `music` | CookieEfedu | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/industrial-robot-factory-music-sfx/industrial-robot-factory-music-sfx.zip) | 2026-11-24 |
-| [Kervan asset-forge 절차적 3D 모델 생성 파이프라인](https://github.com/Furkiozknn/kervan) | `other` | Furkiozknn | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/kervan-asset-forge/kervan-asset-forge.zip) | 2026-11-24 |

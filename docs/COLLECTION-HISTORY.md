@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261126-18 자동 수집 등록 (3팩, 2026-11-26 18:49 KST)
+
+- 팩: ambientCG Fabric 087 (slug ambientcg-fabric087), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/Fabric087
+- 저장: assets-3d-lowpoly-2 release:pack-ambientcg-fabric087/ambientcg-fabric087.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2428→2431, 기존 행 불변 확인
+- 팩: ambientCG Paving Stones 153 (slug ambientcg-pavingstones153), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/PavingStones153
+- 저장: assets-3d-lowpoly-2 release:pack-ambientcg-pavingstones153/ambientcg-pavingstones153.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2428→2431, 기존 행 불변 확인
+- 팩: Poly Haven Weathered PVC Tank (slug polyhaven-weathered-pvc-tank), 라이선스: CC0, 제작자: Amal Kumar (Poly Haven)
+- 출처: https://polyhaven.com/a/weathered_pvc_tank
+- 저장: assets-3d-lowpoly-2 polyhaven-weathered-pvc-tank/polyhaven-weathered-pvc-tank.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2428→2431, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261126-16 자동 수집 등록 (3팩, 2026-11-26 16:13 KST)
 
 - 팩: ambientCG Paving Stones 152 (slug ambientcg-pavingstones152), 라이선스: CC0, 제작자: ambientCG

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@6a57b67f3f668b0aa93b3abf7c595b8fe9619e27`
+> generated from `catalog.csv@bc719789f75c718245750a02f5945537b503e291`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -23,6 +23,10 @@
 | [Lighthouse Cup 체육관 코트·네트·리깅 선수 생성 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-hall-textures-and-rig/lighthouse-cup-hall-textures-and-rig.zip) | 2026-11-26 |
 | [Older woman with a basket](https://polyfork.dev/asset/older-woman-with-a-basket-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/older-woman-with-a-basket/older-woman-with-a-basket.zip) | 2026-11-26 |
 | [Rental Scooter](https://polyfork.dev/asset/rental-scooter-031ee2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rental-scooter/rental-scooter.zip) | 2026-11-26 |
+| [마문 전당포 UI 아이콘 55](https://github.com/lqszhsp/dangpu) | `icon` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/dangpu-ui-icons/1-dangpu-ui-icons.zip) | 2026-11-26 |
+| [마문 전당포 배경·오브젝트 일러스트 107](https://github.com/lqszhsp/dangpu) | `background-2d` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/dangpu-backgrounds/1-dangpu-backgrounds.zip) | 2026-11-26 |
+| [마문 전당포 아이템 아이콘 504](https://github.com/lqszhsp/dangpu) | `other` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/dangpu-items/1-dangpu-items.zip) | 2026-11-26 |
+| [마문 전당포 인물 일러스트 793](https://github.com/lqszhsp/dangpu) | `sprite-2d` | lqszhsp | MIT | O | O | 4개 분할 | 2026-11-26 |
 | [A bunch of background songs? Idk.](https://opengameart.org/content/a-bunch-of-background-songs-idk) | `music` | AigarsOz | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-bunch-of-background-songs-idk/a-bunch-of-background-songs-idk.zip) | 2026-11-25 |
 | [Amusement Park Entrance Arch](https://polyfork.dev/asset/amusement-park-entrance-arch-687549) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/amusement-park-entrance-arch/amusement-park-entrance-arch.zip) | 2026-11-25 |
 | [Carousel](https://polyfork.dev/asset/carousel-39cbc8) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/carousel/carousel.zip) | 2026-11-25 |
@@ -109,7 +113,3 @@
 | [MilitaryBackPacks](https://opengameart.org/content/militarybackpacks) | `model-3d` | Septh | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/militarybackpacks/militarybackpacks.zip) | 2026-11-24 |
 | [Mole Lighthouse](https://polyfork.dev/asset/mole-lighthouse-c690b4) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/mole-lighthouse/mole-lighthouse.zip) | 2026-11-24 |
 | [Monsters Creatures Fantasy (LuizMelo)](https://luizmelo.itch.io/monsters-creatures-fantasy) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/monsters-creatures-fantasy/monsters-creatures-fantasy.zip) | 2026-11-24 |
-| [Monsters Creatures Fantasy 2 (LuizMelo)](https://luizmelo.itch.io/monsters-creatures-fantasy-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/monsters-creatures-fantasy-2/monsters-creatures-fantasy-2.zip) | 2026-11-24 |
-| [October Jazz](https://opengameart.org/content/october-jazz) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/october-jazz/october-jazz.zip) | 2026-11-24 |
-| [Octopus Drying Line](https://polyfork.dev/asset/octopus-drying-line-750d63) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/octopus-drying-line/octopus-drying-line.zip) | 2026-11-24 |
-| [Olympian Throne](https://polyfork.dev/asset/olympian-throne-b31426) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/olympian-throne/olympian-throne.zip) | 2026-11-24 |

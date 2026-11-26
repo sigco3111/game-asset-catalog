@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@6a57b67f3f668b0aa93b3abf7c595b8fe9619e27`
+> generated from `catalog.csv@bc719789f75c718245750a02f5945537b503e291`
 
 # 음악 모음
 

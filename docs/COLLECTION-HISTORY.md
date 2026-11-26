@@ -1,5 +1,13 @@
 # 수집 이력 (라운드별 상세)
 
+### A115 수동 라운드 (4팩, 2026-11-26 KST)
+
+- 팩: 마문 전당포 인물 일러스트 793 / 아이템 아이콘 504 / 배경·오브젝트 일러스트 107 / UI 아이콘 55 (slug dangpu-portraits, dangpu-items, dangpu-backgrounds, dangpu-ui-icons), 라이선스: MIT, 제작자: lqszhsp
+- 출처: https://github.com/lqszhsp/dangpu (사용자 지정 한글화 원본; 한글판 sigco3111/dangpu-ko)
+- 저장: assets-2d-pixel dangpu-portraits/(split zip 4), dangpu-items/, dangpu-backgrounds/; assets-ui-icons dangpu-ui-icons/
+- 포털 등록: catalog.csv 2415→2419, 기존 행 불변 확인
+- 규칙 메모: 원저작자 gpt-image/qwen-image 생성 아트(원저장소 README 배지·art/ 기록), 제3자 에셋 없음, MIT 전문·출처 각 팩 LICENSE-SOURCE.txt 동봉; 초상화 분류는 전신 인물이라 2D 캐릭터 유형 사용(assets-2d-portraits는 삼국지 전용 인덱스 구조라 제외, lorestrome 선례 준용)
+
 ### AUTO-20261126-08 자동 수집 등록 (3팩, 2026-11-26 08:37 KST)
 
 - 팩: Cannon Mooring Bollard (slug cannon-mooring-bollard), 라이선스: CC-BY 4.0, 제작자: Polyfork

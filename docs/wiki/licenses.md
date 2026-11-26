@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@6a57b67f3f668b0aa93b3abf7c595b8fe9619e27`
+> generated from `catalog.csv@bc719789f75c718245750a02f5945537b503e291`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2415개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2419개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | cc0 | CC0 | 1966 | 0 | 예 |
 | cc-by | CC-BY | 367 | 367 | 예 |
-| mit | MIT | 38 | 37 | 예 |
+| mit | MIT | 42 | 41 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
 | other | 기타(허용 목록 밖) | 33 | 30 | 아니오 |
 
@@ -31,7 +31,7 @@
 | CC0 | cc0 | X | 1962 |
 | CC-BY 4.0 | cc-by | O | 227 |
 | CC-BY 3.0 | cc-by | O | 121 |
-| MIT | mit | O | 37 |
+| MIT | mit | O | 41 |
 | 알 수 없음 | other | O | 13 |
 | CC-BY | cc-by | O | 11 |
 | GPL 3.0 | gpl | O | 11 |
@@ -55,7 +55,7 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 445개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 449개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
@@ -69,6 +69,10 @@
 | [Lighthouse Cup 체육관 코트·네트·리깅 선수 생성 코드](https://github.com/itsLucas02/lighthouse-cup) | Aizzul Luqman | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Aizzul Luqman) | 2026-11-26 |
 | [Older woman with a basket](https://polyfork.dev/asset/older-woman-with-a-basket-base) | Polyfork | CC-BY 4.0 | Older woman with a basket by Polyfork (https://polyfork.dev/asset/older-woman-with-a-basket-base), CC BY 4.0 | 2026-11-26 |
 | [Rental Scooter](https://polyfork.dev/asset/rental-scooter-031ee2) | Polyfork | CC-BY 4.0 | Rental Scooter by Polyfork (https://polyfork.dev/asset/rental-scooter-031ee2), CC BY 4.0 | 2026-11-26 |
+| [마문 전당포 UI 아이콘 55](https://github.com/lqszhsp/dangpu) | lqszhsp | MIT | 필수: lqszhsp (github.com/lqszhsp/dangpu), MIT | 2026-11-26 |
+| [마문 전당포 배경·오브젝트 일러스트 107](https://github.com/lqszhsp/dangpu) | lqszhsp | MIT | 필수: lqszhsp (github.com/lqszhsp/dangpu), MIT | 2026-11-26 |
+| [마문 전당포 아이템 아이콘 504](https://github.com/lqszhsp/dangpu) | lqszhsp | MIT | 필수: lqszhsp (github.com/lqszhsp/dangpu), MIT | 2026-11-26 |
+| [마문 전당포 인물 일러스트 793](https://github.com/lqszhsp/dangpu) | lqszhsp | MIT | 필수: lqszhsp (github.com/lqszhsp/dangpu), MIT | 2026-11-26 |
 | [A bunch of background songs? Idk.](https://opengameart.org/content/a-bunch-of-background-songs-idk) | AigarsOz | CC-BY 4.0 | 필수: AigarsOz (opengameart.org), CC-BY 4.0 | 2026-11-25 |
 | [Amusement Park Entrance Arch](https://polyfork.dev/asset/amusement-park-entrance-arch-687549) | Polyfork | CC-BY 4.0 | Amusement Park Entrance Arch by Polyfork (https://polyfork.dev/asset/amusement-park-entrance-arch-687549), CC BY 4.0 | 2026-11-25 |
 | [Carousel](https://polyfork.dev/asset/carousel-39cbc8) | Polyfork | CC-BY 4.0 | Carousel by Polyfork (https://polyfork.dev/asset/carousel-39cbc8), CC BY 4.0 | 2026-11-25 |
@@ -566,10 +570,14 @@ license_family가 `cc0`·`cc-by`·`mit`·`gpl`이 아닌 에셋 33개입니다. 
 
 ## AI 생성 표시 에셋
 
-`ai_generated`가 참인 에셋 41개입니다. 라이브러리에서는 `?ai=0`으로 제외할 수 있습니다.
+`ai_generated`가 참인 에셋 45개입니다. 라이브러리에서는 `?ai=0`으로 제외할 수 있습니다.
 
 | 이름 | 분류 | 라이선스 계열 | 추가일 |
 |---|---|---|---|
+| [마문 전당포 UI 아이콘 55](https://github.com/lqszhsp/dangpu) | `icon` | mit | 2026-11-26 |
+| [마문 전당포 배경·오브젝트 일러스트 107](https://github.com/lqszhsp/dangpu) | `background-2d` | mit | 2026-11-26 |
+| [마문 전당포 아이템 아이콘 504](https://github.com/lqszhsp/dangpu) | `other` | mit | 2026-11-26 |
+| [마문 전당포 인물 일러스트 793](https://github.com/lqszhsp/dangpu) | `sprite-2d` | mit | 2026-11-26 |
 | [Hisar 중세 게임 UI 아이콘 16종·로고 문장 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | `ui` | other | 2026-11-24 |
 | [Hisar 중세 공성전 3D 모델 12종 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | `model-3d` | other | 2026-11-24 |
 | [Battle Drones 바위 타일 텍스처 5종 (심리스 512²)](https://github.com/simonw/battledrones) | `other` | other | 2026-11-20 |

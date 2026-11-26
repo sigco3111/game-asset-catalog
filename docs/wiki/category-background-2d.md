@@ -1,20 +1,21 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@6a57b67f3f668b0aa93b3abf7c595b8fe9619e27`
+> generated from `catalog.csv@bc719789f75c718245750a02f5945537b503e291`
 
 # 2D 배경 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `background-2d`(2D 배경)에 해당하는 에셋 **31개**입니다. 라이브러리에서 보기: [?cat=background-2d](https://sigco3111.github.io/game-asset-catalog/?cat=background-2d)
+분류 `background-2d`(2D 배경)에 해당하는 에셋 **32개**입니다. 라이브러리에서 보기: [?cat=background-2d](https://sigco3111.github.io/game-asset-catalog/?cat=background-2d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 31행 (전체 31개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 32행 (전체 32개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [마문 전당포 배경·오브젝트 일러스트 107](https://github.com/lqszhsp/dangpu) | `background-2d` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/dangpu-backgrounds/1-dangpu-backgrounds.zip) | 2026-11-26 |
 | [Dead Precinct 프리렌더 배경 10장 (320×240)](https://github.com/Bao5ye/dead-precinct) | `background-2d` | Bao5ye | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/dead-precinct-backgrounds/dead-precinct-backgrounds.zip) | 2026-11-24 |
 | [Battle Drones 키아트 (가로·세로 2종)](https://github.com/simonw/battledrones) | `background-2d` | Battle Drones authors (simonw) | Apache-2.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/battledrones-keyart/battledrones-keyart.zip) | 2026-11-20 |
 | [Graveyard Shift 키아트 (밤비 내리는 주유소 좀비)](https://github.com/ethanplusai/zombies) | `background-2d` | ethanplusai | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/zombies-keyart/zombies-keyart.zip) | 2026-11-20 |

@@ -1,5 +1,25 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261127-00 자동 수집 등록 (4팩, 2026-11-27 00:32 KST)
+
+- 팩: 52 CC0 drums and synths (slug 52-cc0-drums-and-synths), 라이선스: CC0, 제작자: fvcalderan
+- 출처: https://opengameart.org/content/52-cc0-drums-and-synths
+- 저장: assets-3d-lowpoly-2 52-cc0-drums-and-synths/52-cc0-drums-and-synths.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2436→2440, 기존 행 불변 확인
+- 팩: P1 (slug p1), 라이선스: CC0, 제작자: G_P
+- 출처: https://opengameart.org/content/p1
+- 저장: assets-3d-lowpoly-2 p1/p1.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2436→2440, 기존 행 불변 확인
+- 팩: September Electronic (slug september-electronic), 라이선스: CC0, 제작자: Pro Sensory
+- 출처: https://opengameart.org/content/september-electronic
+- 저장: assets-3d-lowpoly-2 september-electronic/september-electronic.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2436→2440, 기존 행 불변 확인
+- 팩: The Moon Synth (slug the-moon-synth), 라이선스: CC0, 제작자: Pro Sensory
+- 출처: https://opengameart.org/content/the-moon-synth
+- 저장: assets-3d-lowpoly-2 the-moon-synth/the-moon-synth.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2436→2440, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261126-21 자동 수집 등록 (3팩, 2026-11-26 21:14 KST)
 
 - 팩: Low Res Computer fan (slug low-res-computer-fan), 라이선스: CC0, 제작자: BiscuitGames

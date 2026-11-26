@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b6916a029e27485cf61c170a468e07cc8c21de05`
+> generated from `catalog.csv@af8eb77f3ea69b8c297a4ff0bc106766042f90ca`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -16,6 +16,9 @@
 | [Cannon Mooring Bollard](https://polyfork.dev/asset/cannon-mooring-bollard-0de796) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/cannon-mooring-bollard/cannon-mooring-bollard.zip) | 2026-11-26 |
 | [Chimney Cap](https://polyfork.dev/asset/chimney-cap-ca28d1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chimney-cap/chimney-cap.zip) | 2026-11-26 |
 | [Dovecote Tower](https://polyfork.dev/asset/dovecote-tower-db7d30) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/dovecote-tower/dovecote-tower.zip) | 2026-11-26 |
+| [Drifting Beyond Pluto](https://opengameart.org/content/drifting-beyond-pluto) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/drifting-beyond-pluto/drifting-beyond-pluto.zip) | 2026-11-26 |
+| [Florence is not against the Machine](https://opengameart.org/content/florence-is-not-against-the-machine) | `music` | itsKiwiVT\_ | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/florence-is-not-against-the-machine/florence-is-not-against-the-machine.zip) | 2026-11-26 |
+| [I Can't Breathe](https://opengameart.org/content/i-cant-breathe) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/i-cant-breathe/i-cant-breathe.zip) | 2026-11-26 |
 | [Lane Paving Tile](https://polyfork.dev/asset/lane-paving-tile-4cca8b) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lane-paving-tile/lane-paving-tile.zip) | 2026-11-26 |
 | [Lighthouse Cup OKLab 90색 디더링 픽셀 후처리 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-oklab-dither-pipeline/lighthouse-cup-oklab-dither-pipeline.zip) | 2026-11-26 |
 | [Lighthouse Cup WebAudio 관중·타격음 합성 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-webaudio-synth/lighthouse-cup-webaudio-synth.zip) | 2026-11-26 |
@@ -110,6 +113,3 @@
 | [Medieval Warrior Pack 2 (LuizMelo)](https://luizmelo.itch.io/medieval-warrior-pack-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-warrior-pack-2/medieval-warrior-pack-2.zip) | 2026-11-24 |
 | [Medieval Warrior Pack 3 (LuizMelo)](https://luizmelo.itch.io/medieval-warrior-pack-3) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-warrior-pack-3/medieval-warrior-pack-3.zip) | 2026-11-24 |
 | [Mid September Phrygian](https://opengameart.org/content/mid-september-phrygian) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/mid-september-phrygian/mid-september-phrygian.zip) | 2026-11-24 |
-| [MilitaryBackPacks](https://opengameart.org/content/militarybackpacks) | `model-3d` | Septh | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/militarybackpacks/militarybackpacks.zip) | 2026-11-24 |
-| [Mole Lighthouse](https://polyfork.dev/asset/mole-lighthouse-c690b4) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/mole-lighthouse/mole-lighthouse.zip) | 2026-11-24 |
-| [Monsters Creatures Fantasy (LuizMelo)](https://luizmelo.itch.io/monsters-creatures-fantasy) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/monsters-creatures-fantasy/monsters-creatures-fantasy.zip) | 2026-11-24 |

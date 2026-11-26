@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261126-14 자동 수집 등록 (3팩, 2026-11-26 14:18 KST)
+
+- 팩: Drifting Beyond Pluto (slug drifting-beyond-pluto), 라이선스: CC-BY 3.0, 제작자: Eric Matyas
+- 출처: https://opengameart.org/content/drifting-beyond-pluto
+- 저장: assets-3d-lowpoly-2 drifting-beyond-pluto/drifting-beyond-pluto.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2419→2422, 기존 행 불변 확인
+- 팩: Florence is not against the Machine (slug florence-is-not-against-the-machine), 라이선스: CC0, 제작자: itsKiwiVT_
+- 출처: https://opengameart.org/content/florence-is-not-against-the-machine
+- 저장: assets-3d-lowpoly-2 florence-is-not-against-the-machine/florence-is-not-against-the-machine.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2419→2422, 기존 행 불변 확인
+- 팩: I Can't Breathe (slug i-cant-breathe), 라이선스: CC-BY 4.0, 제작자: purrplecat
+- 출처: https://opengameart.org/content/i-cant-breathe
+- 저장: assets-3d-lowpoly-2 i-cant-breathe/i-cant-breathe.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2419→2422, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### A115 수동 라운드 (4팩, 2026-11-26 KST)
 
 - 팩: 마문 전당포 인물 일러스트 793 / 아이템 아이콘 504 / 배경·오브젝트 일러스트 107 / UI 아이콘 55 (slug dangpu-portraits, dangpu-items, dangpu-backgrounds, dangpu-ui-icons), 라이선스: MIT, 제작자: lqszhsp

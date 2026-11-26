@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@c83cf2739c0b26119c603bc5bfb06f71d386fc2d`
+> generated from `catalog.csv@40ee0fe57a9dc828128de2cff885ec06931c5202`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,6 +13,14 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [ambientCG Bark 016](https://ambientcg.com/a/Bark016) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-bark016/ambientcg-bark016.zip) | 2026-11-27 |
+| [ambientCG Bricks 113A](https://ambientcg.com/a/Bricks113A) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-bricks113a/ambientcg-bricks113a.zip) | 2026-11-27 |
+| [ambientCG Clay 009](https://ambientcg.com/a/Clay009) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-clay009/ambientcg-clay009.zip) | 2026-11-27 |
+| [ambientCG Metal 064](https://ambientcg.com/a/Metal064) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-metal064/ambientcg-metal064.zip) | 2026-11-27 |
+| [ambientCG Planks 040](https://ambientcg.com/a/Planks040) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-planks040/ambientcg-planks040.zip) | 2026-11-27 |
+| [ambientCG Wood 097](https://ambientcg.com/a/Wood097) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood097/ambientcg-wood097.zip) | 2026-11-27 |
+| [ambientCG Wood 098](https://ambientcg.com/a/Wood098) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood098/ambientcg-wood098.zip) | 2026-11-27 |
+| [ambientCG Wood 099](https://ambientcg.com/a/Wood099) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood099/ambientcg-wood099.zip) | 2026-11-27 |
 | [52 CC0 drums and synths](https://opengameart.org/content/52-cc0-drums-and-synths) | `music` | fvcalderan | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/52-cc0-drums-and-synths/52-cc0-drums-and-synths.zip) | 2026-11-26 |
 | [ambientCG Fabric 087](https://ambientcg.com/a/Fabric087) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-fabric087/ambientcg-fabric087.zip) | 2026-11-26 |
 | [ambientCG Paving Stones 152](https://ambientcg.com/a/PavingStones152) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-pavingstones152/ambientcg-pavingstones152.zip) | 2026-11-26 |
@@ -105,11 +113,3 @@
 | [Free CC0 2D & Pixel Character Sprite Sheets (SpriteCanvas)](https://spritecanvas.itch.io/free-cc0-2d-and-pixel-character-packs) | `sprite-2d` | SpriteCanvas | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/free-cc0-2d-pixel-character-packs/free-cc0-2d-pixel-character-packs.zip) | 2026-11-24 |
 | [Free CC0 Fantasy Sprite Sheets](https://spritecanvas.itch.io/free-cc0-fantasy-sprite-sheets) | `sprite-2d` | SpriteCanvas | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/free-cc0-fantasy-sprite-sheets/free-cc0-fantasy-sprite-sheets.zip) | 2026-11-24 |
 | [Free CC0 Monster Sprites](https://spritecanvas.itch.io/free-cc0-monster-sprites) | `sprite-2d` | SpriteCanvas | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/free-cc0-monster-sprites/free-cc0-monster-sprites.zip) | 2026-11-24 |
-| [Free Monster Pack (Frakassets)](https://frakassets.itch.io/free-monster-pack) | `sprite-2d` | Frakassets | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/free-monster-pack/free-monster-pack.zip) | 2026-11-24 |
-| [Hero Knight (LuizMelo)](https://luizmelo.itch.io/hero-knight) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/hero-knight/hero-knight.zip) | 2026-11-24 |
-| [Hero Knight 2 (LuizMelo)](https://luizmelo.itch.io/hero-knight-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/hero-knight-2/hero-knight-2.zip) | 2026-11-24 |
-| [Hisar 중세 게임 UI 아이콘 16종·로고 문장 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | `ui` | Furkiozknn | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/hisar-ui-icons/hisar-ui-icons.zip) | 2026-11-24 |
-| [Hisar 중세 공성전 3D 모델 12종 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | `model-3d` | Furkiozknn | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/hisar-siege-models/hisar-siege-models.zip) | 2026-11-24 |
-| [Hisar 치비 캐릭터 아트 9종 (권리 미확인)](https://github.com/Furkiozknn/kale-savunmasi) | `sprite-2d` | Furkiozknn | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/hisar-chibi-art/hisar-chibi-art.zip) | 2026-11-24 |
-| [Hung Stocking Set](https://polyfork.dev/asset/hung-stocking-set-6191aa) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/hung-stocking-set/hung-stocking-set.zip) | 2026-11-24 |
-| [Huntress (LuizMelo)](https://luizmelo.itch.io/huntress) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/huntress/huntress.zip) | 2026-11-24 |

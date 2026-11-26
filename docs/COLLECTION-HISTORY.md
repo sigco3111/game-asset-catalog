@@ -1,5 +1,41 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261127-02 자동 수집 등록 (8팩, 2026-11-27 02:44 KST)
+
+- 팩: ambientCG Bark 016 (slug ambientcg-bark016), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/Bark016
+- 저장: assets-3d-lowpoly-2 release:pack-ambientcg-bark016/ambientcg-bark016.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2443→2451, 기존 행 불변 확인
+- 팩: ambientCG Bricks 113A (slug ambientcg-bricks113a), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/Bricks113A
+- 저장: assets-3d-lowpoly-2 release:pack-ambientcg-bricks113a/ambientcg-bricks113a.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2443→2451, 기존 행 불변 확인
+- 팩: ambientCG Clay 009 (slug ambientcg-clay009), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/Clay009
+- 저장: assets-3d-lowpoly-2 release:pack-ambientcg-clay009/ambientcg-clay009.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2443→2451, 기존 행 불변 확인
+- 팩: ambientCG Metal 064 (slug ambientcg-metal064), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/Metal064
+- 저장: assets-3d-lowpoly-2 release:pack-ambientcg-metal064/ambientcg-metal064.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2443→2451, 기존 행 불변 확인
+- 팩: ambientCG Planks 040 (slug ambientcg-planks040), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/Planks040
+- 저장: assets-3d-lowpoly-2 release:pack-ambientcg-planks040/ambientcg-planks040.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2443→2451, 기존 행 불변 확인
+- 팩: ambientCG Wood 097 (slug ambientcg-wood097), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/Wood097
+- 저장: assets-3d-lowpoly-2 ambientcg-wood097/ambientcg-wood097.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2443→2451, 기존 행 불변 확인
+- 팩: ambientCG Wood 098 (slug ambientcg-wood098), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/Wood098
+- 저장: assets-3d-lowpoly-2 ambientcg-wood098/ambientcg-wood098.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2443→2451, 기존 행 불변 확인
+- 팩: ambientCG Wood 099 (slug ambientcg-wood099), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/Wood099
+- 저장: assets-3d-lowpoly-2 ambientcg-wood099/ambientcg-wood099.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2443→2451, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261127-00 자동 수집 등록 (3팩, 2026-11-27 00:47 KST)
 
 - 팩: Perimeter Security Fence Run (slug perimeter-security-fence-run), 라이선스: CC-BY 4.0, 제작자: Polyfork

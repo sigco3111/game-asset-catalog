@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e4d2676b0db656c7520045627e0a2fcd4ada6ef4`
+> generated from `catalog.csv@cc08532a2ff694907e82d53211484042d1ca883f`
 
 # 3D 모델 모음 (2쪽)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **785개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **788개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): [1쪽](category-model-3d.md) · **2쪽**
 
-현재 쪽: 385행 (전체 785개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 388행 (전체 788개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Sushi Restaurant Kit (May 2023)](https://quaternius.com/packs/sushirestaurantkit.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sushi-restaurant-kit/sushi-restaurant-kit-part1.zip) | 2026-11-07 |
+| [Ultimate Fantasy RTS (August 2022)](https://quaternius.com/packs/ultimatefantasyrts.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ultimate-fantasy-rts/ultimate-fantasy-rts-part1.zip) | 2026-11-07 |
+| [Ultimate Modular Ruins Pack (August 2021)](https://quaternius.com/packs/ultimatemodularruins.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ultimate-modular-ruins-pack/ultimate-modular-ruins-pack-part1.zip) | 2026-11-07 |
 | [Ultimate Modular Women Pack (February 2022)](https://quaternius.com/packs/ultimatemodularwomen.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ultimate-modular-women-pack/ultimate-modular-women-pack-part1.zip) | 2026-11-07 |
 | [Ultimate Monsters (October 2022)](https://quaternius.com/packs/ultimatemonsters.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ultimate-monsters/ultimate-monsters-part1.zip) | 2026-11-07 |
 | [Ultimate Nature Pack (June 2019)](https://quaternius.com/packs/ultimatenature.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ultimate-nature-pack/ultimate-nature-pack-part1.zip) | 2026-11-07 |

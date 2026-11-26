@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e4d2676b0db656c7520045627e0a2fcd4ada6ef4`
+> generated from `catalog.csv@cc08532a2ff694907e82d53211484042d1ca883f`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,6 +13,7 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [ambientCG Paving Stones 152](https://ambientcg.com/a/PavingStones152) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-pavingstones152/ambientcg-pavingstones152.zip) | 2026-11-26 |
 | [Cannon Mooring Bollard](https://polyfork.dev/asset/cannon-mooring-bollard-0de796) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/cannon-mooring-bollard/cannon-mooring-bollard.zip) | 2026-11-26 |
 | [Chimney Cap](https://polyfork.dev/asset/chimney-cap-ca28d1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chimney-cap/chimney-cap.zip) | 2026-11-26 |
 | [Dovecote Tower](https://polyfork.dev/asset/dovecote-tower-db7d30) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/dovecote-tower/dovecote-tower.zip) | 2026-11-26 |
@@ -25,7 +26,9 @@
 | [Lighthouse Cup WebAudio 관중·타격음 합성 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-webaudio-synth/lighthouse-cup-webaudio-synth.zip) | 2026-11-26 |
 | [Lighthouse Cup 배구 매치 시뮬레이션 엔진·시드 로스터 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-volleyball-sim-engine/lighthouse-cup-volleyball-sim-engine.zip) | 2026-11-26 |
 | [Lighthouse Cup 체육관 코트·네트·리깅 선수 생성 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-hall-textures-and-rig/lighthouse-cup-hall-textures-and-rig.zip) | 2026-11-26 |
+| [Lowpoly Stylized Zombie](https://midnight-atoms.itch.io/lowpoly-stylized-zombie) | `model-3d` | Max (Midnight Atoms) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/itchio-lowpoly-stylized-zombie/itchio-lowpoly-stylized-zombie.zip) | 2026-11-26 |
 | [Older woman with a basket](https://polyfork.dev/asset/older-woman-with-a-basket-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/older-woman-with-a-basket/older-woman-with-a-basket.zip) | 2026-11-26 |
+| [Poly Haven Tatami Mat Borderless](https://polyhaven.com/a/tatami_mat_borderless) | `model-3d` | Charlotte Baglioni (Poly Haven) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-tatami-mat-borderless/polyhaven-tatami-mat-borderless.zip) | 2026-11-26 |
 | [Rental Scooter](https://polyfork.dev/asset/rental-scooter-031ee2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rental-scooter/rental-scooter.zip) | 2026-11-26 |
 | [Throne of Zeus](https://polyfork.dev/asset/throne-of-zeus-20104d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/throne-of-zeus/throne-of-zeus.zip) | 2026-11-26 |
 | [Water Hydria](https://polyfork.dev/asset/water-hydria-501c19) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-hydria/water-hydria.zip) | 2026-11-26 |
@@ -110,6 +113,3 @@
 | [Martial Hero 2 (LuizMelo)](https://luizmelo.itch.io/martial-hero-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/martial-hero-2/martial-hero-2.zip) | 2026-11-24 |
 | [Martial Hero 3 (LuizMelo)](https://luizmelo.itch.io/martial-hero-3) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/martial-hero-3/martial-hero-3.zip) | 2026-11-24 |
 | [Medieval 3D drain](https://opengameart.org/content/medieval-3d-drain) | `model-3d` | ShggothSlave | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/medieval-3d-drain/medieval-3d-drain.zip) | 2026-11-24 |
-| [Medieval King Pack (LuizMelo)](https://luizmelo.itch.io/medieval-king-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-king-pack/medieval-king-pack.zip) | 2026-11-24 |
-| [Medieval King Pack 2 (LuizMelo)](https://luizmelo.itch.io/medieval-king-pack-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-king-pack-2/medieval-king-pack-2.zip) | 2026-11-24 |
-| [Medieval Warrior Pack (LuizMelo)](https://luizmelo.itch.io/medieval-warrior-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-warrior-pack/medieval-warrior-pack.zip) | 2026-11-24 |

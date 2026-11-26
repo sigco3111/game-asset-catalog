@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261126-16 자동 수집 등록 (3팩, 2026-11-26 16:13 KST)
+
+- 팩: ambientCG Paving Stones 152 (slug ambientcg-pavingstones152), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/PavingStones152
+- 저장: assets-3d-lowpoly-2 release:pack-ambientcg-pavingstones152/ambientcg-pavingstones152.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2425→2428, 기존 행 불변 확인
+- 팩: Lowpoly Stylized Zombie (slug itchio-lowpoly-stylized-zombie), 라이선스: CC0, 제작자: Max (Midnight Atoms)
+- 출처: https://midnight-atoms.itch.io/lowpoly-stylized-zombie
+- 저장: assets-3d-lowpoly-2 itchio-lowpoly-stylized-zombie/itchio-lowpoly-stylized-zombie.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2425→2428, 기존 행 불변 확인
+- 팩: Poly Haven Tatami Mat Borderless (slug polyhaven-tatami-mat-borderless), 라이선스: CC0, 제작자: Charlotte Baglioni (Poly Haven)
+- 출처: https://polyhaven.com/a/tatami_mat_borderless
+- 저장: assets-3d-lowpoly-2 polyhaven-tatami-mat-borderless/polyhaven-tatami-mat-borderless.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2425→2428, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261126-14 자동 수집 등록 (3팩, 2026-11-26 14:29 KST)
 
 - 팩: Fountain House (slug fountain-house), 라이선스: CC-BY 4.0, 제작자: Polyfork

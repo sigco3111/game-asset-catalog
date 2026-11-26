@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@50a24bb2e0ecc0ea1ba9dee770dacfb68bae9bf6`
+> generated from `catalog.csv@6c5403e40a9a3cbe4815c2576db0f42ecf1fc520`
 
 # 2D 스프라이트 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `sprite-2d`(2D 스프라이트)에 해당하는 에셋 **170개**입니다. 라이브러리에서 보기: [?cat=sprite-2d](https://sigco3111.github.io/game-asset-catalog/?cat=sprite-2d)
+분류 `sprite-2d`(2D 스프라이트)에 해당하는 에셋 **173개**입니다. 라이브러리에서 보기: [?cat=sprite-2d](https://sigco3111.github.io/game-asset-catalog/?cat=sprite-2d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 170행 (전체 170개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 173행 (전체 173개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Chess Tilesheet](https://opengameart.org/content/chess-tilesheet) | `sprite-2d` | nour314 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/chess-tilesheet/chess-tilesheet.zip) | 2026-11-26 |
 | [DOS/EGA-style platformer character and tiles](https://opengameart.org/content/dosega-style-platformer-character-and-tiles) | `sprite-2d` | marie\_iskandar | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/dosega-style-platformer-tiles/dosega-style-platformer-tiles.zip) | 2026-11-26 |
+| [Low Res Computer fan](https://opengameart.org/content/low-res-computer-fan) | `sprite-2d` | BiscuitGames | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/low-res-computer-fan/low-res-computer-fan.zip) | 2026-11-26 |
+| [Pixel Card Assets](https://opengameart.org/content/pixel-card-assets) | `sprite-2d` | storiesstrauss | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-card-assets/pixel-card-assets.zip) | 2026-11-26 |
+| [Realistic Flashlight Cookies](https://opengameart.org/content/realistic-flashlight-cookies) | `sprite-2d` | NATRIUM | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/realistic-flashlight-cookies/realistic-flashlight-cookies.zip) | 2026-11-26 |
 | [마문 전당포 인물 일러스트 793](https://github.com/lqszhsp/dangpu) | `sprite-2d` | lqszhsp | MIT | O | O | 4개 분할 | 2026-11-26 |
 | [Scribble Planes](https://kenney.nl/assets/scribble-planes) | `sprite-2d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/scribble-planes/scribble-planes.zip) | 2026-11-25 |
 | [Dajeki's 8x8 Fantasy Character Sprites](https://dajeki.itch.io/dajekis-8x8-fantasy-character-sprites) | `sprite-2d` | Dajeki | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/dajeki-8x8-fantasy-characters/dajeki-8x8-fantasy-characters.zip) | 2026-11-24 |

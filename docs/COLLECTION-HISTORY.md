@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261126-21 자동 수집 등록 (3팩, 2026-11-26 21:14 KST)
+
+- 팩: Low Res Computer fan (slug low-res-computer-fan), 라이선스: CC0, 제작자: BiscuitGames
+- 출처: https://opengameart.org/content/low-res-computer-fan
+- 저장: assets-3d-lowpoly-2 low-res-computer-fan/low-res-computer-fan.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2433→2436, 기존 행 불변 확인
+- 팩: Pixel Card Assets (slug pixel-card-assets), 라이선스: CC0, 제작자: storiesstrauss
+- 출처: https://opengameart.org/content/pixel-card-assets
+- 저장: assets-3d-lowpoly-2 pixel-card-assets/pixel-card-assets.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2433→2436, 기존 행 불변 확인
+- 팩: Realistic Flashlight Cookies (slug realistic-flashlight-cookies), 라이선스: CC0, 제작자: NATRIUM
+- 출처: https://opengameart.org/content/realistic-flashlight-cookies
+- 저장: assets-3d-lowpoly-2 realistic-flashlight-cookies/realistic-flashlight-cookies.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2433→2436, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261126-20 자동 수집 등록 (2팩, 2026-11-26 20:48 KST)
 
 - 팩: Chess Tilesheet (slug chess-tilesheet), 라이선스: CC0, 제작자: nour314

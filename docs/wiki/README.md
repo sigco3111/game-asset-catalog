@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@50a24bb2e0ecc0ea1ba9dee770dacfb68bae9bf6`
+> generated from `catalog.csv@6c5403e40a9a3cbe4815c2576db0f42ecf1fc520`
 
 # 게임 에셋 카탈로그 위키
 
@@ -12,7 +12,7 @@
 - 이 위키의 자동 생성 문서는 직접 고치지 않습니다. 에셋이 바뀌면 두 스크립트를 다시 실행합니다(표준 라이브러리만 사용, 같은 입력이면 같은 출력).
 - 에셋마다 쪽을 따로 만들지 않습니다. 표의 이름을 누르면 제작자의 출처 페이지로 갑니다.
 - 손으로 쓰는 문서는 [사용 장부](usage-ledger.md) 하나뿐이며 생성기가 덮어쓰지 않습니다.
-- 현재 색인: 에셋 **2433개** (`catalog.csv@50a24bb2e0ecc0ea1ba9dee770dacfb68bae9bf6`).
+- 현재 색인: 에셋 **2436개** (`catalog.csv@6c5403e40a9a3cbe4815c2576db0f42ecf1fc520`).
 
 ## 링크
 
@@ -46,7 +46,7 @@
 | `music` | 음악 | 300 | [category-music.md](category-music.md) |
 | `voice` | 음성 | 3 | [category-voice.md](category-voice.md) |
 | `tileset-2d` | 2D 타일셋 | 146 | [category-tileset-2d.md](category-tileset-2d.md) |
-| `sprite-2d` | 2D 스프라이트 | 170 | [category-sprite-2d.md](category-sprite-2d.md) |
+| `sprite-2d` | 2D 스프라이트 | 173 | [category-sprite-2d.md](category-sprite-2d.md) |
 | `background-2d` | 2D 배경 | 32 | [category-background-2d.md](category-background-2d.md) |
 | `map-2d` | 2D 맵 | 3 | [category-map-2d.md](category-map-2d.md) |
 | `ui` | UI | 234 | [category-ui.md](category-ui.md) |
@@ -62,7 +62,7 @@
 | `puzzle` | 퍼즐 | 2 | [category-puzzle.md](category-puzzle.md) |
 | `other` | 기타 | 165 | [category-other.md](category-other.md) |
 
-합계 2433개. 분류가 400행을 넘는 목록은 `-2` 쪽으로 이어집니다.
+합계 2436개. 분류가 400행을 넘는 목록은 `-2` 쪽으로 이어집니다.
 
 ## 효과 종류별 개수
 

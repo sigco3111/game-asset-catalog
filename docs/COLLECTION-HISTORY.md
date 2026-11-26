@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261126-20 자동 수집 등록 (2팩, 2026-11-26 20:48 KST)
+
+- 팩: Chess Tilesheet (slug chess-tilesheet), 라이선스: CC0, 제작자: nour314
+- 출처: https://opengameart.org/content/chess-tilesheet
+- 저장: assets-3d-lowpoly-2 chess-tilesheet/chess-tilesheet.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2431→2433, 기존 행 불변 확인
+- 팩: DOS/EGA-style platformer character and tiles (slug dosega-style-platformer-tiles), 라이선스: CC0, 제작자: marie_iskandar
+- 출처: https://opengameart.org/content/dosega-style-platformer-character-and-tiles
+- 저장: assets-3d-lowpoly-2 dosega-style-platformer-tiles/dosega-style-platformer-tiles.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2431→2433, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261126-18 자동 수집 등록 (3팩, 2026-11-26 18:49 KST)
 
 - 팩: ambientCG Fabric 087 (slug ambientcg-fabric087), 라이선스: CC0, 제작자: ambientCG

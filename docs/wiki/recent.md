@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@cded93966c2286a5c86a604c4c59f9071d67fe73`
+> generated from `catalog.csv@50a24bb2e0ecc0ea1ba9dee770dacfb68bae9bf6`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -17,7 +17,9 @@
 | [ambientCG Paving Stones 152](https://ambientcg.com/a/PavingStones152) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-pavingstones152/ambientcg-pavingstones152.zip) | 2026-11-26 |
 | [ambientCG Paving Stones 153](https://ambientcg.com/a/PavingStones153) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-pavingstones153/ambientcg-pavingstones153.zip) | 2026-11-26 |
 | [Cannon Mooring Bollard](https://polyfork.dev/asset/cannon-mooring-bollard-0de796) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/cannon-mooring-bollard/cannon-mooring-bollard.zip) | 2026-11-26 |
+| [Chess Tilesheet](https://opengameart.org/content/chess-tilesheet) | `sprite-2d` | nour314 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/chess-tilesheet/chess-tilesheet.zip) | 2026-11-26 |
 | [Chimney Cap](https://polyfork.dev/asset/chimney-cap-ca28d1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chimney-cap/chimney-cap.zip) | 2026-11-26 |
+| [DOS/EGA-style platformer character and tiles](https://opengameart.org/content/dosega-style-platformer-character-and-tiles) | `sprite-2d` | marie\_iskandar | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/dosega-style-platformer-tiles/dosega-style-platformer-tiles.zip) | 2026-11-26 |
 | [Dovecote Tower](https://polyfork.dev/asset/dovecote-tower-db7d30) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/dovecote-tower/dovecote-tower.zip) | 2026-11-26 |
 | [Drifting Beyond Pluto](https://opengameart.org/content/drifting-beyond-pluto) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/drifting-beyond-pluto/drifting-beyond-pluto.zip) | 2026-11-26 |
 | [Florence is not against the Machine](https://opengameart.org/content/florence-is-not-against-the-machine) | `music` | itsKiwiVT\_ | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/florence-is-not-against-the-machine/florence-is-not-against-the-machine.zip) | 2026-11-26 |
@@ -111,5 +113,3 @@
 | [Long Wind Poly Haven 스캔 텍스처 14종 (PBR 1K/2K)](https://polyhaven.com) | `texture` | Poly Haven | CC0 | X | X | 6개 분할 | 2026-11-24 |
 | [Long Wind WebAudio 음악·효과음 합성 코드](https://github.com/jbang2004/long-wind) | `other` | jbang2004 | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/long-wind-audio-synth/long-wind-audio-synth.zip) | 2026-11-24 |
 | [Long Wind 수묵 세리프 폰트 4종 (Google Fonts, OFL)](https://fonts.google.com) | `font` | Google Fonts (Ma Shanzheng·Noto·Christian Thalmann) | OFL-1.1 | O | X | 2개 분할 | 2026-11-24 |
-| [Long Wind 절차적 환경 생성 코드 (Three.js)](https://github.com/jbang2004/long-wind) | `other` | jbang2004 | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/long-wind-env-gen/long-wind-env-gen.zip) | 2026-11-24 |
-| [Martial Hero (LuizMelo)](https://luizmelo.itch.io/martial-hero) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/martial-hero/martial-hero.zip) | 2026-11-24 |

@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261126-14 자동 수집 등록 (3팩, 2026-11-26 14:29 KST)
+
+- 팩: Fountain House (slug fountain-house), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/fountain-house-cbda2f
+- 저장: assets-3d-polyfork fountain-house/fountain-house.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2422→2425, 기존 행 불변 확인
+- 팩: Throne of Zeus (slug throne-of-zeus), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/throne-of-zeus-20104d
+- 저장: assets-3d-polyfork throne-of-zeus/throne-of-zeus.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2422→2425, 기존 행 불변 확인
+- 팩: Water Hydria (slug water-hydria), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/water-hydria-501c19
+- 저장: assets-3d-polyfork water-hydria/water-hydria.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2422→2425, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261126-14 자동 수집 등록 (3팩, 2026-11-26 14:18 KST)
 
 - 팩: Drifting Beyond Pluto (slug drifting-beyond-pluto), 라이선스: CC-BY 3.0, 제작자: Eric Matyas

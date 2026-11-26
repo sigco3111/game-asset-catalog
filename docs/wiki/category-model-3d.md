@@ -1,28 +1,31 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@af8eb77f3ea69b8c297a4ff0bc106766042f90ca`
+> generated from `catalog.csv@e4d2676b0db656c7520045627e0a2fcd4ada6ef4`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **782개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **785개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 782개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 785개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Cannon Mooring Bollard](https://polyfork.dev/asset/cannon-mooring-bollard-0de796) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/cannon-mooring-bollard/cannon-mooring-bollard.zip) | 2026-11-26 |
 | [Chimney Cap](https://polyfork.dev/asset/chimney-cap-ca28d1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chimney-cap/chimney-cap.zip) | 2026-11-26 |
 | [Dovecote Tower](https://polyfork.dev/asset/dovecote-tower-db7d30) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/dovecote-tower/dovecote-tower.zip) | 2026-11-26 |
+| [Fountain House](https://polyfork.dev/asset/fountain-house-cbda2f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/fountain-house/fountain-house.zip) | 2026-11-26 |
 | [Lane Paving Tile](https://polyfork.dev/asset/lane-paving-tile-4cca8b) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lane-paving-tile/lane-paving-tile.zip) | 2026-11-26 |
 | [Older woman with a basket](https://polyfork.dev/asset/older-woman-with-a-basket-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/older-woman-with-a-basket/older-woman-with-a-basket.zip) | 2026-11-26 |
 | [Rental Scooter](https://polyfork.dev/asset/rental-scooter-031ee2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rental-scooter/rental-scooter.zip) | 2026-11-26 |
+| [Throne of Zeus](https://polyfork.dev/asset/throne-of-zeus-20104d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/throne-of-zeus/throne-of-zeus.zip) | 2026-11-26 |
+| [Water Hydria](https://polyfork.dev/asset/water-hydria-501c19) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-hydria/water-hydria.zip) | 2026-11-26 |
 | [Amusement Park Entrance Arch](https://polyfork.dev/asset/amusement-park-entrance-arch-687549) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/amusement-park-entrance-arch/amusement-park-entrance-arch.zip) | 2026-11-25 |
 | [Carousel](https://polyfork.dev/asset/carousel-39cbc8) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/carousel/carousel.zip) | 2026-11-25 |
 | [Castle Garden Topiary](https://polyfork.dev/asset/castle-garden-topiary-1ab3ea) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/castle-garden-topiary/castle-garden-topiary.zip) | 2026-11-25 |
@@ -414,6 +417,3 @@
 | [Sushi Restaurant Kit (May 2023)](https://quaternius.com/packs/sushirestaurantkit.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sushi-restaurant-kit/sushi-restaurant-kit-part1.zip) | 2026-11-07 |
 | [Ultimate Fantasy RTS (August 2022)](https://quaternius.com/packs/ultimatefantasyrts.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ultimate-fantasy-rts/ultimate-fantasy-rts-part1.zip) | 2026-11-07 |
 | [Ultimate Modular Ruins Pack (August 2021)](https://quaternius.com/packs/ultimatemodularruins.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ultimate-modular-ruins-pack/ultimate-modular-ruins-pack-part1.zip) | 2026-11-07 |
-| [Ultimate Modular Women Pack (February 2022)](https://quaternius.com/packs/ultimatemodularwomen.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ultimate-modular-women-pack/ultimate-modular-women-pack-part1.zip) | 2026-11-07 |
-| [Ultimate Monsters (October 2022)](https://quaternius.com/packs/ultimatemonsters.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ultimate-monsters/ultimate-monsters-part1.zip) | 2026-11-07 |
-| [Ultimate Nature Pack (June 2019)](https://quaternius.com/packs/ultimatenature.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ultimate-nature-pack/ultimate-nature-pack-part1.zip) | 2026-11-07 |

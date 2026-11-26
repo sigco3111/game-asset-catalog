@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@af8eb77f3ea69b8c297a4ff0bc106766042f90ca`
+> generated from `catalog.csv@e4d2676b0db656c7520045627e0a2fcd4ada6ef4`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -18,6 +18,7 @@
 | [Dovecote Tower](https://polyfork.dev/asset/dovecote-tower-db7d30) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/dovecote-tower/dovecote-tower.zip) | 2026-11-26 |
 | [Drifting Beyond Pluto](https://opengameart.org/content/drifting-beyond-pluto) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/drifting-beyond-pluto/drifting-beyond-pluto.zip) | 2026-11-26 |
 | [Florence is not against the Machine](https://opengameart.org/content/florence-is-not-against-the-machine) | `music` | itsKiwiVT\_ | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/florence-is-not-against-the-machine/florence-is-not-against-the-machine.zip) | 2026-11-26 |
+| [Fountain House](https://polyfork.dev/asset/fountain-house-cbda2f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/fountain-house/fountain-house.zip) | 2026-11-26 |
 | [I Can't Breathe](https://opengameart.org/content/i-cant-breathe) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/i-cant-breathe/i-cant-breathe.zip) | 2026-11-26 |
 | [Lane Paving Tile](https://polyfork.dev/asset/lane-paving-tile-4cca8b) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lane-paving-tile/lane-paving-tile.zip) | 2026-11-26 |
 | [Lighthouse Cup OKLab 90색 디더링 픽셀 후처리 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-oklab-dither-pipeline/lighthouse-cup-oklab-dither-pipeline.zip) | 2026-11-26 |
@@ -26,6 +27,8 @@
 | [Lighthouse Cup 체육관 코트·네트·리깅 선수 생성 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-hall-textures-and-rig/lighthouse-cup-hall-textures-and-rig.zip) | 2026-11-26 |
 | [Older woman with a basket](https://polyfork.dev/asset/older-woman-with-a-basket-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/older-woman-with-a-basket/older-woman-with-a-basket.zip) | 2026-11-26 |
 | [Rental Scooter](https://polyfork.dev/asset/rental-scooter-031ee2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rental-scooter/rental-scooter.zip) | 2026-11-26 |
+| [Throne of Zeus](https://polyfork.dev/asset/throne-of-zeus-20104d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/throne-of-zeus/throne-of-zeus.zip) | 2026-11-26 |
+| [Water Hydria](https://polyfork.dev/asset/water-hydria-501c19) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-hydria/water-hydria.zip) | 2026-11-26 |
 | [마문 전당포 UI 아이콘 55](https://github.com/lqszhsp/dangpu) | `icon` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/dangpu-ui-icons/1-dangpu-ui-icons.zip) | 2026-11-26 |
 | [마문 전당포 배경·오브젝트 일러스트 107](https://github.com/lqszhsp/dangpu) | `background-2d` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/dangpu-backgrounds/1-dangpu-backgrounds.zip) | 2026-11-26 |
 | [마문 전당포 아이템 아이콘 504](https://github.com/lqszhsp/dangpu) | `other` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/dangpu-items/1-dangpu-items.zip) | 2026-11-26 |
@@ -110,6 +113,3 @@
 | [Medieval King Pack (LuizMelo)](https://luizmelo.itch.io/medieval-king-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-king-pack/medieval-king-pack.zip) | 2026-11-24 |
 | [Medieval King Pack 2 (LuizMelo)](https://luizmelo.itch.io/medieval-king-pack-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-king-pack-2/medieval-king-pack-2.zip) | 2026-11-24 |
 | [Medieval Warrior Pack (LuizMelo)](https://luizmelo.itch.io/medieval-warrior-pack) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-warrior-pack/medieval-warrior-pack.zip) | 2026-11-24 |
-| [Medieval Warrior Pack 2 (LuizMelo)](https://luizmelo.itch.io/medieval-warrior-pack-2) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-warrior-pack-2/medieval-warrior-pack-2.zip) | 2026-11-24 |
-| [Medieval Warrior Pack 3 (LuizMelo)](https://luizmelo.itch.io/medieval-warrior-pack-3) | `sprite-2d` | LuizMelo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/medieval-warrior-pack-3/medieval-warrior-pack-3.zip) | 2026-11-24 |
-| [Mid September Phrygian](https://opengameart.org/content/mid-september-phrygian) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/mid-september-phrygian/mid-september-phrygian.zip) | 2026-11-24 |

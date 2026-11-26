@@ -1,5 +1,69 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261127-02 자동 수집 등록 (15팩, 2026-11-27 02:53 KST)
+
+- 팩: Poly Haven Ceramic Pot (slug polyhaven-ceramic-pot), 라이선스: CC0, 제작자: Aron Łyczek
+- 출처: https://polyhaven.com/a/ceramic_pot
+- 저장: assets-3d-lowpoly-2 polyhaven-ceramic-pot/polyhaven-ceramic-pot.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2451→2466, 기존 행 불변 확인
+- 팩: Poly Haven Cigarette Pack (slug polyhaven-cigarette-pack), 라이선스: CC0, 제작자: Ulrich Büch
+- 출처: https://polyhaven.com/a/cigarette_pack
+- 저장: assets-3d-lowpoly-2 polyhaven-cigarette-pack/polyhaven-cigarette-pack.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2451→2466, 기존 행 불변 확인
+- 팩: Poly Haven Combination Wrench (slug polyhaven-combination-wrench), 라이선스: CC0, 제작자: BKS
+- 출처: https://polyhaven.com/a/combination_wrench
+- 저장: assets-3d-lowpoly-2 polyhaven-combination-wrench/polyhaven-combination-wrench.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2451→2466, 기존 행 불변 확인
+- 팩: Poly Haven Dining Table (slug polyhaven-dining-table), 라이선스: CC0, 제작자: Aron Łyczek
+- 출처: https://polyhaven.com/a/dining_table
+- 저장: assets-3d-lowpoly-2 polyhaven-dining-table/polyhaven-dining-table.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2451→2466, 기존 행 불변 확인
+- 팩: Poly Haven Flood Lights (slug polyhaven-flood-lights), 라이선스: CC0, 제작자: James Ray Cock
+- 출처: https://polyhaven.com/a/flood_lights
+- 저장: assets-3d-lowpoly-2 polyhaven-flood-lights/polyhaven-flood-lights.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2451→2466, 기존 행 불변 확인
+- 팩: Poly Haven Long Life Food (slug polyhaven-long-life-food), 라이선스: CC0, 제작자: Mia Pecina Zorko
+- 출처: https://polyhaven.com/a/long_life_food
+- 저장: assets-3d-lowpoly-2 polyhaven-long-life-food/polyhaven-long-life-food.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2451→2466, 기존 행 불변 확인
+- 팩: Poly Haven Medical Tape (slug polyhaven-medical-tape), 라이선스: CC0, 제작자: Miroslav Turura
+- 출처: https://polyhaven.com/a/medical_tape
+- 저장: assets-3d-lowpoly-2 polyhaven-medical-tape/polyhaven-medical-tape.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2451→2466, 기존 행 불변 확인
+- 팩: Poly Haven Old Drill Press (slug polyhaven-old-drill-press), 라이선스: CC0, 제작자: Harsh Vardhan Singh
+- 출처: https://polyhaven.com/a/old_drill_press
+- 저장: assets-3d-lowpoly-2 polyhaven-old-drill-press/polyhaven-old-drill-press.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2451→2466, 기존 행 불변 확인
+- 팩: Poly Haven Old Gas Mask (slug polyhaven-old-gas-mask), 라이선스: CC0, 제작자: Michał Wiśniewski
+- 출처: https://polyhaven.com/a/old_gas_mask
+- 저장: assets-3d-lowpoly-2 polyhaven-old-gas-mask/polyhaven-old-gas-mask.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2451→2466, 기존 행 불변 확인
+- 팩: Poly Haven Old Military Compressor (slug polyhaven-old-military-compressor), 라이선스: CC0, 제작자: Brian Speight
+- 출처: https://polyhaven.com/a/old_military_compressor
+- 저장: assets-3d-lowpoly-2 polyhaven-old-military-compressor/polyhaven-old-military-compressor.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2451→2466, 기존 행 불변 확인
+- 팩: Poly Haven Overhead Crane (slug polyhaven-overhead-crane), 라이선스: CC0, 제작자: Timothy3D
+- 출처: https://polyhaven.com/a/overhead_crane
+- 저장: assets-3d-lowpoly-2 release:pack-polyhaven-overhead-crane/polyhaven-overhead-crane.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2451→2466, 기존 행 불변 확인
+- 팩: Poly Haven Plastic Torch 6V (slug polyhaven-pastic-torch-6v), 라이선스: CC0, 제작자: James Cocks
+- 출처: https://polyhaven.com/a/pastic_torch_6v
+- 저장: assets-3d-lowpoly-2 polyhaven-pastic-torch-6v/polyhaven-pastic-torch-6v.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2451→2466, 기존 행 불변 확인
+- 팩: Poly Haven Plastic Crate 03 (slug polyhaven-plastic-crate-03), 라이선스: CC0, 제작자: Pacific Penguin
+- 출처: https://polyhaven.com/a/plastic_crate_03
+- 저장: assets-3d-lowpoly-2 polyhaven-plastic-crate-03/polyhaven-plastic-crate-03.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2451→2466, 기존 행 불변 확인
+- 팩: Poly Haven Portable Generator (slug polyhaven-portable-generator), 라이선스: CC0, 제작자: James Ray Cock
+- 출처: https://polyhaven.com/a/portable_generator
+- 저장: assets-3d-lowpoly-2 polyhaven-portable-generator/polyhaven-portable-generator.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2451→2466, 기존 행 불변 확인
+- 팩: Poly Haven Portable Searchlight (slug polyhaven-portable-searchlight), 라이선스: CC0, 제작자: Elijah Cragg
+- 출처: https://polyhaven.com/a/portable_searchlight
+- 저장: assets-3d-lowpoly-2 polyhaven-portable-searchlight/polyhaven-portable-searchlight.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2451→2466, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261127-02 자동 수집 등록 (8팩, 2026-11-27 02:44 KST)
 
 - 팩: ambientCG Bark 016 (slug ambientcg-bark016), 라이선스: CC0, 제작자: ambientCG

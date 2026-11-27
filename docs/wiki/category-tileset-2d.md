@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@4447506d6ea92d8c33d5ced41f01c4225470f9a4`
+> generated from `catalog.csv@cae2d540100d7ea285a5e64ffe16a5e740c24e34`
 
 # 2D 타일셋 모음
 

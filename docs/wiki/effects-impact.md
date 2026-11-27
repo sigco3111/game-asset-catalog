@@ -1,21 +1,22 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@4447506d6ea92d8c33d5ced41f01c4225470f9a4`
+> generated from `catalog.csv@cae2d540100d7ea285a5e64ffe16a5e740c24e34`
 
 # 타격·충격 이펙트 모음 — impact
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-효과 종류 `impact`(충격)에 해당하는 에셋 **49개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
+효과 종류 `impact`(충격)에 해당하는 에셋 **50개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
 라이브러리에서 보기: [?fx=impact](https://sigco3111.github.io/game-asset-catalog/?fx=impact) (라이브러리는 hit·impact를 '타격·충격' 하나로 묶어 보여줍니다.)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 49행 (전체 49개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 50행 (전체 50개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Small Magic 풀밭 발소리 5종 (Kenney)](https://patch.gg/games/blendi/small-magic) | `sfx` | Kenney (kenney.nl) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/small-magic-footsteps/small-magic-footsteps.zip) | 2026-11-27 |
 | [Gore Blood Gibs Meat Chunks](https://opengameart.org/content/gore-blood-gibs-meat-chunks) | `effect` | Reactorcore | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/gore-blood-gibs-meat-chunks/rc_art_-_gore_blood_gibs.zip) | 2026-11-16 |
 | [FIre and Spell Animations](https://opengameart.org/content/fire-and-spell-animations) | `effect` | ztn | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/a98-fire-and-spell-animations/anims_0.zip) | 2026-11-15 |
 | [Skybound Six Synthesized SFX](https://github.com/AgenticGameDevs/generated-assets) | `sfx` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/skybound-synthesized-sfx/skybound-synthesized-sfx.zip) | 2026-11-14 |

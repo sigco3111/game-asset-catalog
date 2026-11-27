@@ -1,20 +1,21 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@4447506d6ea92d8c33d5ced41f01c4225470f9a4`
+> generated from `catalog.csv@cae2d540100d7ea285a5e64ffe16a5e740c24e34`
 
 # 효과음 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `sfx`(효과음)에 해당하는 에셋 **246개**입니다. 라이브러리에서 보기: [?cat=sfx](https://sigco3111.github.io/game-asset-catalog/?cat=sfx)
+분류 `sfx`(효과음)에 해당하는 에셋 **247개**입니다. 라이브러리에서 보기: [?cat=sfx](https://sigco3111.github.io/game-asset-catalog/?cat=sfx)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 246행 (전체 246개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 247행 (전체 247개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Small Magic 풀밭 발소리 5종 (Kenney)](https://patch.gg/games/blendi/small-magic) | `sfx` | Kenney (kenney.nl) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/small-magic-footsteps/small-magic-footsteps.zip) | 2026-11-27 |
 | [Sci-Fi Sounds](https://kenney.nl/assets/sci-fi-sounds) | `sfx` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/releases/download/sci-fi-sounds/kenney_scifisounds.zip) | 2026-11-23 |
 | [Pocket Soccer 3D 경기 효과음·해설 음성 14종](https://github.com/ShaunPrice/soccer-3d) | `sfx` | ShaunPrice | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/soccer-3d-match-audio/soccer-3d-match-audio.zip) | 2026-11-20 |
 | [Starember Field Synthesized SFX](https://github.com/weit0529/gamedemo_by_Fable5.2) | `sfx` | weit0529 | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/starember-field-sfx/starember-field-sfx.zip) | 2026-11-20 |

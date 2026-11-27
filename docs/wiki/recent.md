@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@4447506d6ea92d8c33d5ced41f01c4225470f9a4`
+> generated from `catalog.csv@cae2d540100d7ea285a5e64ffe16a5e740c24e34`
 
 # 최근 추가된 에셋 (최신 100개)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-24.
+추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-25.
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
@@ -38,6 +38,11 @@
 | [Poly Haven Portable Generator](https://polyhaven.com/a/portable_generator) | `model-3d` | James Ray Cock | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-portable-generator/polyhaven-portable-generator.zip) | 2026-11-27 |
 | [Poly Haven Portable Searchlight](https://polyhaven.com/a/portable_searchlight) | `model-3d` | Elijah Cragg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-portable-searchlight/polyhaven-portable-searchlight.zip) | 2026-11-27 |
 | [Rooftop Terrace Parapet Run](https://polyfork.dev/asset/rooftop-terrace-parapet-run-0f173f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rooftop-terrace-parapet-run/rooftop-terrace-parapet-run.zip) | 2026-11-27 |
+| [Small Magic 주문 VFX·초원 월드 코드 (Three.js)](https://patch.gg/games/blendi/small-magic) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/small-magic-spell-vfx/small-magic-spell-vfx.zip) | 2026-11-27 |
+| [Small Magic 타이틀 음악 3곡 (Kevin MacLeod)](https://patch.gg/games/blendi/small-magic) | `music` | Kevin MacLeod (incompetech.com) | CC BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/small-magic-music/small-magic-music.zip) | 2026-11-27 |
+| [Small Magic 파괴 물리 코드 (three-avbd·구조물 분해)](https://patch.gg/games/blendi/small-magic) | `other` | Patch (@blendi), Steven Bobyn (three-avbd) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/small-magic-destruction/small-magic-destruction.zip) | 2026-11-27 |
+| [Small Magic 풀밭 발소리 5종 (Kenney)](https://patch.gg/games/blendi/small-magic) | `sfx` | Kenney (kenney.nl) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/small-magic-footsteps/small-magic-footsteps.zip) | 2026-11-27 |
+| [Small Magic 합성 사운드 엔진 (주문·불·발소리·환경음 전량 코드 합성)](https://patch.gg/games/blendi/small-magic) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/small-magic-sound-synth/small-magic-sound-synth.zip) | 2026-11-27 |
 | [Taverna waiter](https://polyfork.dev/asset/taverna-waiter-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/taverna-waiter/taverna-waiter.zip) | 2026-11-27 |
 | [52 CC0 drums and synths](https://opengameart.org/content/52-cc0-drums-and-synths) | `music` | fvcalderan | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/52-cc0-drums-and-synths/52-cc0-drums-and-synths.zip) | 2026-11-26 |
 | [ambientCG Fabric 087](https://ambientcg.com/a/Fabric087) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-fabric087/ambientcg-fabric087.zip) | 2026-11-26 |
@@ -108,8 +113,3 @@
 | [Spinning Teacup Ride](https://polyfork.dev/asset/spinning-teacup-ride-878c01) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/spinning-teacup-ride/spinning-teacup-ride.zip) | 2026-11-25 |
 | [Striped River Lighthouse](https://polyfork.dev/asset/striped-river-lighthouse-90d74d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/striped-river-lighthouse/striped-river-lighthouse.zip) | 2026-11-25 |
 | [Swing Chair Ride](https://polyfork.dev/asset/swing-chair-ride-fc55fc) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/swing-chair-ride/swing-chair-ride.zip) | 2026-11-25 |
-| [Taking a Bath and Jumping Into Bed](https://opengameart.org/content/taking-a-bath-and-jumping-into-bed) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-taking-a-bath-and-jumping-into-bed/taking-a-bath-and-jumping-into-bed.zip) | 2026-11-25 |
-| [The longing](https://opengameart.org/content/the-longing) | `music` | Ruhinre | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-longing/the-longing.zip) | 2026-11-25 |
-| [Uphill Chips](https://opengameart.org/content/uphill-chips) | `music` | mla | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/uphill-chips/uphill-chips.zip) | 2026-11-25 |
-| [Yellow Brick Path Slab](https://polyfork.dev/asset/yellow-brick-path-slab-9e8acd) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/yellow-brick-path-slab/yellow-brick-path-slab.zip) | 2026-11-25 |
-| [Blood Moon](https://opengameart.org/content/blood-moon-0) | `music` | Ategon | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/blood-moon-0/blood-moon-0.zip) | 2026-11-24 |

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e83f7ba1b931d2184a6b4995c83b10802cd60d9a`
+> generated from `catalog.csv@d94737013958ba3e809ed26edae313f1f154108b`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -69,6 +69,7 @@
 | [ambientCG Fabric 087](https://ambientcg.com/a/Fabric087) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-fabric087/ambientcg-fabric087.zip) | 2026-11-26 |
 | [ambientCG Paving Stones 152](https://ambientcg.com/a/PavingStones152) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-pavingstones152/ambientcg-pavingstones152.zip) | 2026-11-26 |
 | [ambientCG Paving Stones 153](https://ambientcg.com/a/PavingStones153) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-pavingstones153/ambientcg-pavingstones153.zip) | 2026-11-26 |
+| [Bubble](https://opengameart.org/content/bubble-2) | `music` | Guy G. Gamerson | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/bubble-2/bubble-2.zip) | 2026-11-26 |
 | [Cannon Mooring Bollard](https://polyfork.dev/asset/cannon-mooring-bollard-0de796) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/cannon-mooring-bollard/cannon-mooring-bollard.zip) | 2026-11-26 |
 | [Chess Tilesheet](https://opengameart.org/content/chess-tilesheet) | `sprite-2d` | nour314 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/chess-tilesheet/chess-tilesheet.zip) | 2026-11-26 |
 | [Chimney Cap](https://polyfork.dev/asset/chimney-cap-ca28d1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chimney-cap/chimney-cap.zip) | 2026-11-26 |
@@ -99,6 +100,7 @@
 | [Throne of Zeus](https://polyfork.dev/asset/throne-of-zeus-20104d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/throne-of-zeus/throne-of-zeus.zip) | 2026-11-26 |
 | [Tri-Axle Double Decker Bus](https://polyfork.dev/asset/tri-axle-double-decker-f295b5) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/tri-axle-double-decker-bus/tri-axle-double-decker-bus.zip) | 2026-11-26 |
 | [Turtle Sandbox](https://opengameart.org/content/turtle-sandbox) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-turtle-sandbox/turtle-sandbox.zip) | 2026-11-26 |
+| [Untitled Main Menu Theme](https://opengameart.org/content/untitled-main-menu-theme) | `music` | dabeek | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/untitled-main-menu-theme/untitled-main-menu-theme.zip) | 2026-11-26 |
 | [Water Hydria](https://polyfork.dev/asset/water-hydria-501c19) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-hydria/water-hydria.zip) | 2026-11-26 |
 | [마문 전당포 UI 아이콘 55](https://github.com/lqszhsp/dangpu) | `icon` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/dangpu-ui-icons/1-dangpu-ui-icons.zip) | 2026-11-26 |
 | [마문 전당포 배경·오브젝트 일러스트 107](https://github.com/lqszhsp/dangpu) | `background-2d` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/dangpu-backgrounds/1-dangpu-backgrounds.zip) | 2026-11-26 |
@@ -111,5 +113,3 @@
 | [Chinese Hexagonal Pavilion](https://polyfork.dev/asset/chinese-hexagonal-pavilion-09d04e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-hexagonal-pavilion/chinese-hexagonal-pavilion.zip) | 2026-11-25 |
 | [Cone Toy Tree](https://polyfork.dev/asset/cone-toy-tree-4a5365) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/cone-toy-tree/cone-toy-tree.zip) | 2026-11-25 |
 | [Construct Game Sources](https://kenney.nl/assets/construct-game-sources) | `other` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/construct-game-sources/construct-game-sources.zip) | 2026-11-25 |
-| [Cyberpunk Menu Music](https://opengameart.org/content/cyberpunk-menu-music) | `music` | ZaninDevelopers | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cyberpunk-menu-music/cyberpunk-menu-music.zip) | 2026-11-25 |
-| [Erhu musician](https://polyfork.dev/asset/erhu-musician-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/erhu-musician/erhu-musician.zip) | 2026-11-25 |

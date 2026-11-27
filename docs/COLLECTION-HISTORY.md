@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261127-16 자동 수집 등록 (2팩, 2026-11-27 16:22 KST)
+
+- 팩: Bubble (slug bubble-2), 라이선스: CC0, 제작자: Guy G. Gamerson
+- 출처: https://opengameart.org/content/bubble-2
+- 저장: assets-3d-lowpoly-2 bubble-2/bubble-2.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2496→2498, 기존 행 불변 확인
+- 팩: Untitled Main Menu Theme (slug untitled-main-menu-theme), 라이선스: CC0, 제작자: dabeek
+- 출처: https://opengameart.org/content/untitled-main-menu-theme
+- 저장: assets-3d-lowpoly-2 untitled-main-menu-theme/untitled-main-menu-theme.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2496→2498, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261127-13 자동 수집 등록 (9팩, 2026-11-27 13:48 KST)
 
 - 팩: ambientCG Bricks 113 B (slug ambientcg-bricks113b), 라이선스: CC0, 제작자: ambientCG

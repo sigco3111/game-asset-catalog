@@ -1,5 +1,23 @@
 # 수집 이력 (라운드별 상세)
 
+### Solar (patch.gg/blendi/solar) 에셋 수집 (6팩, 2026-11-27 KST)
+
+사용자가 patch.gg 데모 Solar(https://patch.gg/games/blendi/solar, 소스 https://git.patch.gg/blendi/solar.git 커밋 474f691)의 활용 가능 에셋 수집을 요청했습니다(한글화 아님). 원작 LICENCE-NOTES.md가 "Code MIT", "Nothing here has no stated source"로 권리를 명시해 제외 없이 수집했습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Solar 나무 우주선 모델](https://github.com/sigco3111/assets-3d-lowpoly-2/tree/main/solar-ship) | assets-3d-lowpoly-2 | Patch (@blendi) | MIT | GLB 16MB + 라이트맵 WebP 4종 + Blender 빌드 스크립트; zip 12.8MB |
+| [Solar 절차적 행성 월드 코드](https://github.com/sigco3111/assets-code/tree/main/solar-painted-world) | assets-code | Patch (@blendi) | MIT | 대기·하늘·지형·풀·나무·호수·달·걷기 JS 17개 |
+| [Solar 우주선 비행·자동조종·조종석 코드](https://github.com/sigco3111/assets-code/tree/main/solar-ship-flight) | assets-code | Patch (@blendi) | MIT | 뉴턴 비행·자동조종·조종석 다이얼·입력 JS 4개 |
+| [Solar 펜 스트로크 레터링·인쇄 코드](https://github.com/sigco3111/assets-code/tree/main/solar-hand-lettering) | assets-code | Patch (@blendi) | MIT | 폰트 없는 획 글자·차트·다이얼 인쇄 JS 3개 |
+| [Solar 합성 사운드 엔진](https://github.com/sigco3111/assets-code/tree/main/solar-sound-engine) | assets-code | Patch (@blendi) | MIT | WebAudio 전량 합성 sound.js |
+| [Solar 배경음악 2곡 (Kevin MacLeod)](https://github.com/sigco3111/assets-audio/tree/main/solar-music) | assets-audio | Kevin MacLeod | CC BY 4.0 | Dreams Become Real·Floating Cities OGG, 귀속 필수, 샘플 20초 |
+
+제외: Sonniss GDC 녹음(라이선스상 파일 재배포 금지, 원본 저장소에도 미포함). 풀밭 발소리 5종(Kenney CC0)은 small-magic-footsteps와 바이트 동일(MD5 대조)해 중복 등록하지 않음. 미리보기는 원작 공식 스크린샷(patch.gg CDN) 사용.
+
+포털 등록: catalog.csv 2481→2487, 기존 행 불변 확인.
+
+
 ### AUTO-20261127-09 자동 수집 등록 (3팩, 2026-11-27 09:35 KST)
 
 - 팩: Harbour Quay Edge Run (slug harbour-quay-edge-run), 라이선스: CC-BY 4.0, 제작자: Polyfork

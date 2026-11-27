@@ -1,22 +1,32 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d94737013958ba3e809ed26edae313f1f154108b`
+> generated from `catalog.csv@8873963d61424b3810d6d211f047db546760c99c`
 
 # 3D 모델 모음 (3쪽)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **832개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **842개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 3쪽으로 나뉩니다(쪽당 최대 400행): [1쪽](category-model-3d.md) · [2쪽](category-model-3d-2.md) · **3쪽**
 
-현재 쪽: 32행 (전체 832개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 42행 (전체 842개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Low Poly Guns Pack](https://opengameart.org/content/low-poly-guns-pack) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/low-poly-guns-pack.zip) | 2026-10-28 |
+| [Low Poly Nature Pack](https://opengameart.org/content/low-poly-nature-pack-1) | `model-3d` | Quaternius | CC0 | X | X | 2개 분할 | 2026-10-28 |
+| [LowPoly Animated Monsters](https://opengameart.org/content/lowpoly-animated-monsters) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-animated-monsters.zip) | 2026-10-28 |
+| [LowPoly Crops Pack](https://opengameart.org/content/lowpoly-crops-pack) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-crops-pack.zip) | 2026-10-28 |
+| [LowPoly House Interior Pack](https://opengameart.org/content/lowpoly-house-interior-pack) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-house-interior-pack.zip) | 2026-10-28 |
+| [LowPoly Medieval Weapons](https://opengameart.org/content/lowpoly-medieval-weapons) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-medieval-weapons.zip) | 2026-10-28 |
+| [LowPoly Modular Dungeon Pack](https://opengameart.org/content/lowpoly-modular-dungeon-pack) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-modular-dungeon-pack.zip) | 2026-10-28 |
+| [LowPoly Modular Sci-Fi Environments](https://opengameart.org/content/lowpoly-modular-sci-fi-environments) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-modular-sci-fi-environments.zip) | 2026-10-28 |
+| [LowPoly Modular Street Pack](https://opengameart.org/content/lowpoly-modular-street-pack) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-modular-street-pack.zip) | 2026-10-28 |
+| [LowPoly Posed Humans](https://opengameart.org/content/lowpoly-posed-humans) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-posed-humans.zip) | 2026-10-28 |
 | [LowPoly Public Transport](https://opengameart.org/content/lowpoly-public-transport) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-public-transport.zip) | 2026-10-28 |
 | [LowPoly Ship Pack](https://opengameart.org/content/lowpoly-ship-pack) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-ship-pack.zip) | 2026-10-28 |
 | [LowPoly Steampunk Turrets](https://opengameart.org/content/lowpoly-steampunk-turrets) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v5.0/lowpoly-steampunk-turrets.zip) | 2026-10-28 |

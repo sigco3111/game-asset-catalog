@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d94737013958ba3e809ed26edae313f1f154108b`
+> generated from `catalog.csv@8873963d61424b3810d6d211f047db546760c99c`
 
 # 최근 추가된 에셋 (최신 100개)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-25.
+추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-26.
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
@@ -36,13 +36,19 @@
 | [Don't Look Away 천사 석상 4종·예배당 의자 GLB (AI 생성)](https://patch.gg/games/blendi/dont-look-away) | `model-3d` | Blendi Bylygbashi (Patch @blendi) | CC0 1.0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dont-look-away-models/dont-look-away-models.zip) | 2026-11-27 |
 | [Don't Look Away 효과음 9종 (ElevenLabs 생성, 라이선스 불명)](https://patch.gg/games/blendi/dont-look-away) | `sfx` | Blendi Bylygbashi (Patch @blendi), ElevenLabs Sound Effects 생성 | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/dont-look-away-sfx/dont-look-away-sfx.zip) | 2026-11-27 |
 | [Harbour Quay Edge Run](https://polyfork.dev/asset/harbour-quay-edge-run-95df75) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/harbour-quay-edge-run/harbour-quay-edge-run.zip) | 2026-11-27 |
+| [Poly Haven Aarfontein Dawn](https://polyhaven.com/a/aarfontein_dawn) | `model-3d` | Greg Zaal, Jarod Guest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-aarfontein-dawn/aarfontein_dawn_1k.hdr) | 2026-11-27 |
 | [Poly Haven Ceramic Pot](https://polyhaven.com/a/ceramic_pot) | `model-3d` | Aron Łyczek | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-ceramic-pot/polyhaven-ceramic-pot.zip) | 2026-11-27 |
 | [Poly Haven Cigarette Pack](https://polyhaven.com/a/cigarette_pack) | `model-3d` | Ulrich Büch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-cigarette-pack/polyhaven-cigarette-pack.zip) | 2026-11-27 |
 | [Poly Haven Combination Wrench](https://polyhaven.com/a/combination_wrench) | `model-3d` | BKS | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-combination-wrench/polyhaven-combination-wrench.zip) | 2026-11-27 |
+| [Poly Haven Dashed Anti Skid Tiles](https://polyhaven.com/a/dashed_anti_skid_tiles) | `model-3d` | Amal Kumar | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-dashed-anti-skid-tiles/polyhaven-dashed-anti-skid-tiles.zip) | 2026-11-27 |
 | [Poly Haven Dining Table](https://polyhaven.com/a/dining_table) | `model-3d` | Aron Łyczek | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-dining-table/polyhaven-dining-table.zip) | 2026-11-27 |
 | [Poly Haven Flood Lights](https://polyhaven.com/a/flood_lights) | `model-3d` | James Ray Cock | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-flood-lights/polyhaven-flood-lights.zip) | 2026-11-27 |
+| [Poly Haven Glasshouse Sunset](https://polyhaven.com/a/glasshouse_sunset) | `model-3d` | Greg Zaal, Jarod Guest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-glasshouse-sunset/glasshouse_sunset_1k.hdr) | 2026-11-27 |
+| [Poly Haven Gravel Embedded Concrete 02](https://polyhaven.com/a/gravel_embedded_concrete_02) | `model-3d` | Charlotte Baglioni | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-gravel-embedded-concrete-02/polyhaven-gravel-embedded-concrete-02.zip) | 2026-11-27 |
+| [Poly Haven Herringbone Concrete Tile 03](https://polyhaven.com/a/herringbone_concrete_tile_03) | `model-3d` | Charlotte Baglioni | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-herringbone-concrete-tile-03/polyhaven-herringbone-concrete-tile-03.zip) | 2026-11-27 |
 | [Poly Haven Long Life Food](https://polyhaven.com/a/long_life_food) | `model-3d` | Mia Pecina Zorko | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-long-life-food/polyhaven-long-life-food.zip) | 2026-11-27 |
 | [Poly Haven Medical Tape](https://polyhaven.com/a/medical_tape) | `model-3d` | Miroslav Turura | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-medical-tape/polyhaven-medical-tape.zip) | 2026-11-27 |
+| [Poly Haven Multicolored Pebble Floor](https://polyhaven.com/a/multicolored_pebble_floor) | `model-3d` | Dimitrios Savva | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-multicolored-pebble-floor/polyhaven-multicolored-pebble-floor.zip) | 2026-11-27 |
 | [Poly Haven Old Drill Press](https://polyhaven.com/a/old_drill_press) | `model-3d` | Harsh Vardhan Singh | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-old-drill-press/polyhaven-old-drill-press.zip) | 2026-11-27 |
 | [Poly Haven Old Gas Mask](https://polyhaven.com/a/old_gas_mask) | `model-3d` | Michał Wiśniewski | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-old-gas-mask/polyhaven-old-gas-mask.zip) | 2026-11-27 |
 | [Poly Haven Old Military Compressor](https://polyhaven.com/a/old_military_compressor) | `model-3d` | Brian Speight | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-old-military-compressor/polyhaven-old-military-compressor.zip) | 2026-11-27 |
@@ -51,6 +57,10 @@
 | [Poly Haven Plastic Torch 6V](https://polyhaven.com/a/pastic_torch_6v) | `model-3d` | James Cocks | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-pastic-torch-6v/polyhaven-pastic-torch-6v.zip) | 2026-11-27 |
 | [Poly Haven Portable Generator](https://polyhaven.com/a/portable_generator) | `model-3d` | James Ray Cock | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-portable-generator/polyhaven-portable-generator.zip) | 2026-11-27 |
 | [Poly Haven Portable Searchlight](https://polyhaven.com/a/portable_searchlight) | `model-3d` | Elijah Cragg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-portable-searchlight/polyhaven-portable-searchlight.zip) | 2026-11-27 |
+| [Poly Haven Raw Wooden Floor 01](https://polyhaven.com/a/raw_wooden_floor_01) | `model-3d` | Charlotte Baglioni | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-raw-wooden-floor-01/polyhaven-raw-wooden-floor-01.zip) | 2026-11-27 |
+| [Poly Haven Ribbed Block Wall](https://polyhaven.com/a/ribbed_block_wall) | `model-3d` | Amal Kumar | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-ribbed-block-wall/polyhaven-ribbed-block-wall.zip) | 2026-11-27 |
+| [Poly Haven Square Pavers](https://polyhaven.com/a/square_pavers) | `model-3d` | Dario Barresi | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-square-pavers/polyhaven-square-pavers.zip) | 2026-11-27 |
+| [Poly Haven White Stucco 02](https://polyhaven.com/a/white_stucco_02) | `model-3d` | Dimitrios Savva | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-white-stucco-02/polyhaven-white-stucco-02.zip) | 2026-11-27 |
 | [Rooftop Terrace Parapet Run](https://polyfork.dev/asset/rooftop-terrace-parapet-run-0f173f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rooftop-terrace-parapet-run/rooftop-terrace-parapet-run.zip) | 2026-11-27 |
 | [Small Magic UI 아트 17종 (주문 메달리온·라이프바·로고·로딩)](https://patch.gg/games/blendi/small-magic) | `ui` | Patch (@blendi) | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/small-magic-ui-art/small-magic-ui-art.zip) | 2026-11-27 |
 | [Small Magic 주문 VFX·초원 월드 코드 (Three.js)](https://patch.gg/games/blendi/small-magic) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/small-magic-spell-vfx/small-magic-spell-vfx.zip) | 2026-11-27 |
@@ -103,13 +113,3 @@
 | [Untitled Main Menu Theme](https://opengameart.org/content/untitled-main-menu-theme) | `music` | dabeek | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/untitled-main-menu-theme/untitled-main-menu-theme.zip) | 2026-11-26 |
 | [Water Hydria](https://polyfork.dev/asset/water-hydria-501c19) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-hydria/water-hydria.zip) | 2026-11-26 |
 | [마문 전당포 UI 아이콘 55](https://github.com/lqszhsp/dangpu) | `icon` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/dangpu-ui-icons/1-dangpu-ui-icons.zip) | 2026-11-26 |
-| [마문 전당포 배경·오브젝트 일러스트 107](https://github.com/lqszhsp/dangpu) | `background-2d` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/dangpu-backgrounds/1-dangpu-backgrounds.zip) | 2026-11-26 |
-| [마문 전당포 아이템 아이콘 504](https://github.com/lqszhsp/dangpu) | `other` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/dangpu-items/1-dangpu-items.zip) | 2026-11-26 |
-| [마문 전당포 인물 일러스트 793](https://github.com/lqszhsp/dangpu) | `sprite-2d` | lqszhsp | MIT | O | O | 4개 분할 | 2026-11-26 |
-| [A bunch of background songs? Idk.](https://opengameart.org/content/a-bunch-of-background-songs-idk) | `music` | AigarsOz | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-bunch-of-background-songs-idk/a-bunch-of-background-songs-idk.zip) | 2026-11-25 |
-| [Amusement Park Entrance Arch](https://polyfork.dev/asset/amusement-park-entrance-arch-687549) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/amusement-park-entrance-arch/amusement-park-entrance-arch.zip) | 2026-11-25 |
-| [Carousel](https://polyfork.dev/asset/carousel-39cbc8) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/carousel/carousel.zip) | 2026-11-25 |
-| [Castle Garden Topiary](https://polyfork.dev/asset/castle-garden-topiary-1ab3ea) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/castle-garden-topiary/castle-garden-topiary.zip) | 2026-11-25 |
-| [Chinese Hexagonal Pavilion](https://polyfork.dev/asset/chinese-hexagonal-pavilion-09d04e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-hexagonal-pavilion/chinese-hexagonal-pavilion.zip) | 2026-11-25 |
-| [Cone Toy Tree](https://polyfork.dev/asset/cone-toy-tree-4a5365) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/cone-toy-tree/cone-toy-tree.zip) | 2026-11-25 |
-| [Construct Game Sources](https://kenney.nl/assets/construct-game-sources) | `other` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/construct-game-sources/construct-game-sources.zip) | 2026-11-25 |

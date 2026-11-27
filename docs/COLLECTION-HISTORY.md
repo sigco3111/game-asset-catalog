@@ -1,5 +1,49 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261127-16 자동 수집 등록 (10팩, 2026-11-27 16:49 KST)
+
+- 팩: Poly Haven Aarfontein Dawn (slug polyhaven-aarfontein-dawn), 라이선스: CC0, 제작자: Greg Zaal, Jarod Guest
+- 출처: https://polyhaven.com/a/aarfontein_dawn
+- 저장: assets-3d-lowpoly-2 polyhaven-aarfontein-dawn/aarfontein_dawn_1k.hdr (auto-collect 수집)
+- 포털 등록: catalog.csv 2498→2508, 기존 행 불변 확인
+- 팩: Poly Haven Dashed Anti Skid Tiles (slug polyhaven-dashed-anti-skid-tiles), 라이선스: CC0, 제작자: Amal Kumar
+- 출처: https://polyhaven.com/a/dashed_anti_skid_tiles
+- 저장: assets-3d-lowpoly-2 polyhaven-dashed-anti-skid-tiles/polyhaven-dashed-anti-skid-tiles.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2498→2508, 기존 행 불변 확인
+- 팩: Poly Haven Glasshouse Sunset (slug polyhaven-glasshouse-sunset), 라이선스: CC0, 제작자: Greg Zaal, Jarod Guest
+- 출처: https://polyhaven.com/a/glasshouse_sunset
+- 저장: assets-3d-lowpoly-2 polyhaven-glasshouse-sunset/glasshouse_sunset_1k.hdr (auto-collect 수집)
+- 포털 등록: catalog.csv 2498→2508, 기존 행 불변 확인
+- 팩: Poly Haven Gravel Embedded Concrete 02 (slug polyhaven-gravel-embedded-concrete-02), 라이선스: CC0, 제작자: Charlotte Baglioni
+- 출처: https://polyhaven.com/a/gravel_embedded_concrete_02
+- 저장: assets-3d-lowpoly-2 polyhaven-gravel-embedded-concrete-02/polyhaven-gravel-embedded-concrete-02.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2498→2508, 기존 행 불변 확인
+- 팩: Poly Haven Herringbone Concrete Tile 03 (slug polyhaven-herringbone-concrete-tile-03), 라이선스: CC0, 제작자: Charlotte Baglioni
+- 출처: https://polyhaven.com/a/herringbone_concrete_tile_03
+- 저장: assets-3d-lowpoly-2 polyhaven-herringbone-concrete-tile-03/polyhaven-herringbone-concrete-tile-03.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2498→2508, 기존 행 불변 확인
+- 팩: Poly Haven Multicolored Pebble Floor (slug polyhaven-multicolored-pebble-floor), 라이선스: CC0, 제작자: Dimitrios Savva
+- 출처: https://polyhaven.com/a/multicolored_pebble_floor
+- 저장: assets-3d-lowpoly-2 polyhaven-multicolored-pebble-floor/polyhaven-multicolored-pebble-floor.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2498→2508, 기존 행 불변 확인
+- 팩: Poly Haven Raw Wooden Floor 01 (slug polyhaven-raw-wooden-floor-01), 라이선스: CC0, 제작자: Charlotte Baglioni
+- 출처: https://polyhaven.com/a/raw_wooden_floor_01
+- 저장: assets-3d-lowpoly-2 polyhaven-raw-wooden-floor-01/polyhaven-raw-wooden-floor-01.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2498→2508, 기존 행 불변 확인
+- 팩: Poly Haven Ribbed Block Wall (slug polyhaven-ribbed-block-wall), 라이선스: CC0, 제작자: Amal Kumar
+- 출처: https://polyhaven.com/a/ribbed_block_wall
+- 저장: assets-3d-lowpoly-2 polyhaven-ribbed-block-wall/polyhaven-ribbed-block-wall.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2498→2508, 기존 행 불변 확인
+- 팩: Poly Haven Square Pavers (slug polyhaven-square-pavers), 라이선스: CC0, 제작자: Dario Barresi
+- 출처: https://polyhaven.com/a/square_pavers
+- 저장: assets-3d-lowpoly-2 polyhaven-square-pavers/polyhaven-square-pavers.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2498→2508, 기존 행 불변 확인
+- 팩: Poly Haven White Stucco 02 (slug polyhaven-white-stucco-02), 라이선스: CC0, 제작자: Dimitrios Savva
+- 출처: https://polyhaven.com/a/white_stucco_02
+- 저장: assets-3d-lowpoly-2 polyhaven-white-stucco-02/polyhaven-white-stucco-02.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2498→2508, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261127-16 자동 수집 등록 (2팩, 2026-11-27 16:22 KST)
 
 - 팩: Bubble (slug bubble-2), 라이선스: CC0, 제작자: Guy G. Gamerson

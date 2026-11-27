@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e1323275911f68e7986e1c12a484298b69394d73`
+> generated from `catalog.csv@e83f7ba1b931d2184a6b4995c83b10802cd60d9a`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -14,9 +14,18 @@
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [ambientCG Bark 016](https://ambientcg.com/a/Bark016) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-bark016/ambientcg-bark016.zip) | 2026-11-27 |
+| [ambientCG Bricks 113 B](https://ambientcg.com/a/Bricks113B) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-bricks113b/ambientcg-bricks113b.zip) | 2026-11-27 |
 | [ambientCG Bricks 113A](https://ambientcg.com/a/Bricks113A) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-bricks113a/ambientcg-bricks113a.zip) | 2026-11-27 |
 | [ambientCG Clay 009](https://ambientcg.com/a/Clay009) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-clay009/ambientcg-clay009.zip) | 2026-11-27 |
+| [ambientCG Day Environment HDRI 113](https://ambientcg.com/a/DayEnvironmentHDRI113) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-dayenvironmenthdri113/ambientcg-dayenvironmenthdri113.zip) | 2026-11-27 |
+| [ambientCG Day Environment HDRI 114](https://ambientcg.com/a/DayEnvironmentHDRI114) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-dayenvironmenthdri114/ambientcg-dayenvironmenthdri114.zip) | 2026-11-27 |
+| [ambientCG Day Sky HDRI 072 A](https://ambientcg.com/a/DaySkyHDRI072A) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-dayskyhdri072a/ambientcg-dayskyhdri072a.zip) | 2026-11-27 |
+| [ambientCG Day Sky HDRI 072 B](https://ambientcg.com/a/DaySkyHDRI072B) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-dayskyhdri072b/ambientcg-dayskyhdri072b.zip) | 2026-11-27 |
+| [ambientCG Evening Sky HDRI 049 A](https://ambientcg.com/a/EveningSkyHDRI049A) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-eveningskyhdri049a/ambientcg-eveningskyhdri049a.zip) | 2026-11-27 |
+| [ambientCG Evening Sky HDRI 049 B](https://ambientcg.com/a/EveningSkyHDRI049B) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-eveningskyhdri049b/ambientcg-eveningskyhdri049b.zip) | 2026-11-27 |
+| [ambientCG Fabric 086](https://ambientcg.com/a/Fabric086) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-fabric086/ambientcg-fabric086.zip) | 2026-11-27 |
 | [ambientCG Metal 064](https://ambientcg.com/a/Metal064) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-metal064/ambientcg-metal064.zip) | 2026-11-27 |
+| [ambientCG Night Environment HDRI 011](https://ambientcg.com/a/NightEnvironmentHDRI011) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-nightenvironmenthdri011/ambientcg-nightenvironmenthdri011.zip) | 2026-11-27 |
 | [ambientCG Planks 040](https://ambientcg.com/a/Planks040) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-planks040/ambientcg-planks040.zip) | 2026-11-27 |
 | [ambientCG Wood 097](https://ambientcg.com/a/Wood097) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood097/ambientcg-wood097.zip) | 2026-11-27 |
 | [ambientCG Wood 098](https://ambientcg.com/a/Wood098) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood098/ambientcg-wood098.zip) | 2026-11-27 |
@@ -104,12 +113,3 @@
 | [Construct Game Sources](https://kenney.nl/assets/construct-game-sources) | `other` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/construct-game-sources/construct-game-sources.zip) | 2026-11-25 |
 | [Cyberpunk Menu Music](https://opengameart.org/content/cyberpunk-menu-music) | `music` | ZaninDevelopers | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cyberpunk-menu-music/cyberpunk-menu-music.zip) | 2026-11-25 |
 | [Erhu musician](https://polyfork.dev/asset/erhu-musician-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/erhu-musician/erhu-musician.zip) | 2026-11-25 |
-| [Ferris Wheel](https://polyfork.dev/asset/ferris-wheel-ca5b0b) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ferris-wheel/ferris-wheel.zip) | 2026-11-25 |
-| [Hallway](https://opengameart.org/content/hallway) | `music` | thenewkgb | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/hallway/hallway.zip) | 2026-11-25 |
-| [Hand Stretch Film Roll](https://polyfork.dev/asset/hand-stretch-film-roll-0e602d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/hand-stretch-film-roll/hand-stretch-film-roll.zip) | 2026-11-25 |
-| [Hidden Riddles (Looping)](https://opengameart.org/content/hidden-riddles-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/hidden-riddles-looping/hidden-riddles-looping.zip) | 2026-11-25 |
-| [High-Bay LED Light](https://polyfork.dev/asset/high-bay-led-light-aba3b2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/high-bay-led-light/high-bay-led-light.zip) | 2026-11-25 |
-| [Light Puzzles 14 (Looping)](https://opengameart.org/content/light-puzzles-14-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-light-puzzles-14-looping/light-puzzles-14-looping.zip) | 2026-11-25 |
-| [Lighthouse Keeper's Cottage](https://polyfork.dev/asset/lighthouse-keeper-s-cottage-4f6d33) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lighthouse-keeper-s-cottage/lighthouse-keeper-s-cottage.zip) | 2026-11-25 |
-| [Lollipop Toy Tree](https://polyfork.dev/asset/lollipop-toy-tree-2cf8d2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lollipop-toy-tree/lollipop-toy-tree.zip) | 2026-11-25 |
-| [Lydian Mid September Surprise](https://opengameart.org/content/lydian-mid-september-surprise) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/lydian-mid-september-surprise/lydian-mid-september-surprise.zip) | 2026-11-25 |

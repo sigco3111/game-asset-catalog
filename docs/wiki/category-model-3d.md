@@ -1,26 +1,35 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e1323275911f68e7986e1c12a484298b69394d73`
+> generated from `catalog.csv@e83f7ba1b931d2184a6b4995c83b10802cd60d9a`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **823개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **832개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 3쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md) · [3쪽](category-model-3d-3.md)
 
-현재 쪽: 400행 (전체 823개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 832개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [ambientCG Bark 016](https://ambientcg.com/a/Bark016) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-bark016/ambientcg-bark016.zip) | 2026-11-27 |
+| [ambientCG Bricks 113 B](https://ambientcg.com/a/Bricks113B) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-bricks113b/ambientcg-bricks113b.zip) | 2026-11-27 |
 | [ambientCG Bricks 113A](https://ambientcg.com/a/Bricks113A) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-bricks113a/ambientcg-bricks113a.zip) | 2026-11-27 |
 | [ambientCG Clay 009](https://ambientcg.com/a/Clay009) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-clay009/ambientcg-clay009.zip) | 2026-11-27 |
+| [ambientCG Day Environment HDRI 113](https://ambientcg.com/a/DayEnvironmentHDRI113) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-dayenvironmenthdri113/ambientcg-dayenvironmenthdri113.zip) | 2026-11-27 |
+| [ambientCG Day Environment HDRI 114](https://ambientcg.com/a/DayEnvironmentHDRI114) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-dayenvironmenthdri114/ambientcg-dayenvironmenthdri114.zip) | 2026-11-27 |
+| [ambientCG Day Sky HDRI 072 A](https://ambientcg.com/a/DaySkyHDRI072A) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-dayskyhdri072a/ambientcg-dayskyhdri072a.zip) | 2026-11-27 |
+| [ambientCG Day Sky HDRI 072 B](https://ambientcg.com/a/DaySkyHDRI072B) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-dayskyhdri072b/ambientcg-dayskyhdri072b.zip) | 2026-11-27 |
+| [ambientCG Evening Sky HDRI 049 A](https://ambientcg.com/a/EveningSkyHDRI049A) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-eveningskyhdri049a/ambientcg-eveningskyhdri049a.zip) | 2026-11-27 |
+| [ambientCG Evening Sky HDRI 049 B](https://ambientcg.com/a/EveningSkyHDRI049B) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-eveningskyhdri049b/ambientcg-eveningskyhdri049b.zip) | 2026-11-27 |
+| [ambientCG Fabric 086](https://ambientcg.com/a/Fabric086) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-fabric086/ambientcg-fabric086.zip) | 2026-11-27 |
 | [ambientCG Metal 064](https://ambientcg.com/a/Metal064) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-metal064/ambientcg-metal064.zip) | 2026-11-27 |
+| [ambientCG Night Environment HDRI 011](https://ambientcg.com/a/NightEnvironmentHDRI011) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-nightenvironmenthdri011/ambientcg-nightenvironmenthdri011.zip) | 2026-11-27 |
 | [ambientCG Planks 040](https://ambientcg.com/a/Planks040) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-planks040/ambientcg-planks040.zip) | 2026-11-27 |
 | [ambientCG Wood 097](https://ambientcg.com/a/Wood097) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood097/ambientcg-wood097.zip) | 2026-11-27 |
 | [ambientCG Wood 098](https://ambientcg.com/a/Wood098) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood098/ambientcg-wood098.zip) | 2026-11-27 |
@@ -408,12 +417,3 @@
 | [Cremation Urn](https://opengameart.org/content/cremation-urn) | `model-3d` | ARoachIFoundOnMyPillow | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/cremation-urn/cremation_urn.zip) | 2026-11-13 |
 | [Dice](https://opengameart.org/content/dice-6) | `model-3d` | gearfox98 | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/dice/dice.zip) | 2026-11-13 |
 | [Elemental Golem](https://opengameart.org/content/elemental-golem) | `model-3d` | Grefuntor | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/elemental-golem/ElementalGolem-obj.zip) | 2026-11-13 |
-| [Ghost lady model (UNTEXTURED)](https://opengameart.org/content/ghost-lady-model-untextured) | `model-3d` | Kabrolkin | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/ghost-lady-model-untextured/ghost-lady-model-untextured.zip) | 2026-11-13 |
-| [Humanoid SoulsLike Animations](https://opengameart.org/content/humanoid-soulslike-animations) | `model-3d` | Gres | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/humanoid-soulslike-animations/fistweaponanimationpack.zip) | 2026-11-13 |
-| [Lock](https://opengameart.org/content/lock-1) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/lock/lock.zip) | 2026-11-13 |
-| [Low Poly Camping Assets](https://opengameart.org/content/low-poly-camping-assets) | `model-3d` | Saraskau | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-camping-assets/low-poly-camping-assets.zip) | 2026-11-13 |
-| [Low Poly Penguin (Rigged)](https://opengameart.org/content/low-poly-penguin-w-skeleton) | `model-3d` | WarmHoneyBun | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-penguin-w-skeleton/low-poly-penguin-w-skeleton.zip) | 2026-11-13 |
-| [Low-poly Retro PSX Skeleton](https://opengameart.org/content/low-poly-retro-psx-skeleton) | `model-3d` | LonesomeDucky | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-retro-psx-skeleton/low-poly-retro-psx-skeleton.zip) | 2026-11-13 |
-| [Medieval Castle Manor](https://opengameart.org/content/medieval-castlemanor) | `model-3d` | unForastero | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/medieval-castle-manor/castle_001.zip) | 2026-11-13 |
-| [Mini Forest](https://opengameart.org/content/mini-forest) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-forest/mini-forest.zip) | 2026-11-13 |
-| [Mini Rocket](https://opengameart.org/content/mini-rocket) | `model-3d` | David W CG | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-rocket/mini_rocket.zip) | 2026-11-13 |

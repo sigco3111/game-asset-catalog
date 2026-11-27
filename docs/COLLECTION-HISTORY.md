@@ -1,5 +1,45 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261127-13 자동 수집 등록 (9팩, 2026-11-27 13:48 KST)
+
+- 팩: ambientCG Bricks 113 B (slug ambientcg-bricks113b), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/Bricks113B
+- 저장: assets-3d-lowpoly-2 release:pack-ambientcg-bricks113b/ambientcg-bricks113b.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2487→2496, 기존 행 불변 확인
+- 팩: ambientCG Day Environment HDRI 113 (slug ambientcg-dayenvironmenthdri113), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/DayEnvironmentHDRI113
+- 저장: assets-3d-lowpoly-2 ambientcg-dayenvironmenthdri113/ambientcg-dayenvironmenthdri113.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2487→2496, 기존 행 불변 확인
+- 팩: ambientCG Day Environment HDRI 114 (slug ambientcg-dayenvironmenthdri114), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/DayEnvironmentHDRI114
+- 저장: assets-3d-lowpoly-2 ambientcg-dayenvironmenthdri114/ambientcg-dayenvironmenthdri114.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2487→2496, 기존 행 불변 확인
+- 팩: ambientCG Day Sky HDRI 072 A (slug ambientcg-dayskyhdri072a), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/DaySkyHDRI072A
+- 저장: assets-3d-lowpoly-2 ambientcg-dayskyhdri072a/ambientcg-dayskyhdri072a.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2487→2496, 기존 행 불변 확인
+- 팩: ambientCG Day Sky HDRI 072 B (slug ambientcg-dayskyhdri072b), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/DaySkyHDRI072B
+- 저장: assets-3d-lowpoly-2 ambientcg-dayskyhdri072b/ambientcg-dayskyhdri072b.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2487→2496, 기존 행 불변 확인
+- 팩: ambientCG Evening Sky HDRI 049 A (slug ambientcg-eveningskyhdri049a), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/EveningSkyHDRI049A
+- 저장: assets-3d-lowpoly-2 ambientcg-eveningskyhdri049a/ambientcg-eveningskyhdri049a.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2487→2496, 기존 행 불변 확인
+- 팩: ambientCG Evening Sky HDRI 049 B (slug ambientcg-eveningskyhdri049b), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/EveningSkyHDRI049B
+- 저장: assets-3d-lowpoly-2 ambientcg-eveningskyhdri049b/ambientcg-eveningskyhdri049b.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2487→2496, 기존 행 불변 확인
+- 팩: ambientCG Fabric 086 (slug ambientcg-fabric086), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/Fabric086
+- 저장: assets-3d-lowpoly-2 release:pack-ambientcg-fabric086/ambientcg-fabric086.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2487→2496, 기존 행 불변 확인
+- 팩: ambientCG Night Environment HDRI 011 (slug ambientcg-nightenvironmenthdri011), 라이선스: CC0, 제작자: ambientCG
+- 출처: https://ambientcg.com/a/NightEnvironmentHDRI011
+- 저장: assets-3d-lowpoly-2 ambientcg-nightenvironmenthdri011/ambientcg-nightenvironmenthdri011.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2487→2496, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### Solar (patch.gg/blendi/solar) 에셋 수집 (6팩, 2026-11-27 KST)
 
 사용자가 patch.gg 데모 Solar(https://patch.gg/games/blendi/solar, 소스 https://git.patch.gg/blendi/solar.git 커밋 474f691)의 활용 가능 에셋 수집을 요청했습니다(한글화 아님). 원작 LICENCE-NOTES.md가 "Code MIT", "Nothing here has no stated source"로 권리를 명시해 제외 없이 수집했습니다.

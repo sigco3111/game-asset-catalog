@@ -1,19 +1,19 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d886719d5cc3799c8c357aad0f4e23a9819b9a25`
+> generated from `catalog.csv@17332ec7ef082d67804ca59bcd0b1cff3aac22b1`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **843개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **846개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 3쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md) · [3쪽](category-model-3d-3.md)
 
-현재 쪽: 400행 (전체 843개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 846개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -34,8 +34,10 @@
 | [ambientCG Wood 097](https://ambientcg.com/a/Wood097) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood097/ambientcg-wood097.zip) | 2026-11-27 |
 | [ambientCG Wood 098](https://ambientcg.com/a/Wood098) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood098/ambientcg-wood098.zip) | 2026-11-27 |
 | [ambientCG Wood 099](https://ambientcg.com/a/Wood099) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood099/ambientcg-wood099.zip) | 2026-11-27 |
+| [Check-In Agent](https://polyfork.dev/asset/check-in-agent-229fce) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/check-in-agent/check-in-agent.zip) | 2026-11-27 |
 | [Don't Look Away 석재·목재 PBR 텍스처 (Poly Haven CC0)](https://patch.gg/games/blendi/dont-look-away) | `model-3d` | Rob Tuytel, Dimitrios Savva (Poly Haven) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dont-look-away-textures/dont-look-away-textures.zip) | 2026-11-27 |
 | [Don't Look Away 천사 석상 4종·예배당 의자 GLB (AI 생성)](https://patch.gg/games/blendi/dont-look-away) | `model-3d` | Blendi Bylygbashi (Patch @blendi) | CC0 1.0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dont-look-away-models/dont-look-away-models.zip) | 2026-11-27 |
+| [Family Traveller](https://polyfork.dev/asset/family-traveller-9af47e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/family-traveller/family-traveller.zip) | 2026-11-27 |
 | [Harbour Quay Edge Run](https://polyfork.dev/asset/harbour-quay-edge-run-95df75) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/harbour-quay-edge-run/harbour-quay-edge-run.zip) | 2026-11-27 |
 | [Poly Haven Aarfontein Dawn](https://polyhaven.com/a/aarfontein_dawn) | `model-3d` | Greg Zaal, Jarod Guest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-aarfontein-dawn/aarfontein_dawn_1k.hdr) | 2026-11-27 |
 | [Poly Haven Ceramic Pot](https://polyhaven.com/a/ceramic_pot) | `model-3d` | Aron Łyczek | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-ceramic-pot/polyhaven-ceramic-pot.zip) | 2026-11-27 |
@@ -66,6 +68,7 @@
 | [Solar 나무 우주선 모델 (GLB·라이트맵·Blender 빌드 스크립트)](https://patch.gg/games/blendi/solar) | `model-3d` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/solar-ship/solar-ship.zip) | 2026-11-27 |
 | [Taverna waiter](https://polyfork.dev/asset/taverna-waiter-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/taverna-waiter/taverna-waiter.zip) | 2026-11-27 |
 | [Timberfall 자연 모델 2종: 관목·이끼 낀 바위 (glTF, CC0, 미리보기는 텍스처 맵)](https://patch.gg/games/blendi/timberfall) | `model-3d` | Patch (@blendi) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/timberfall-nature-models/timberfall-nature-models.zip) | 2026-11-27 |
+| [Vertical Cardboard Baler](https://polyfork.dev/asset/vertical-cardboard-baler-4881e5) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/vertical-cardboard-baler/vertical-cardboard-baler.zip) | 2026-11-27 |
 | [ambientCG Fabric 087](https://ambientcg.com/a/Fabric087) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-fabric087/ambientcg-fabric087.zip) | 2026-11-26 |
 | [ambientCG Paving Stones 152](https://ambientcg.com/a/PavingStones152) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-pavingstones152/ambientcg-pavingstones152.zip) | 2026-11-26 |
 | [ambientCG Paving Stones 153](https://ambientcg.com/a/PavingStones153) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-pavingstones153/ambientcg-pavingstones153.zip) | 2026-11-26 |
@@ -414,6 +417,3 @@
 | [Food Pack: Cooking](https://opengameart.org/content/food-pack-cooking) | `model-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/food-pack-cooking/food-pack-cooking.blend) | 2026-11-14 |
 | [Knight](https://opengameart.org/content/knight-2) | `model-3d` | piacenti | CC-BY | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/knight-2/knight-2.zip) | 2026-11-14 |
 | [Low Poly Stalls](https://opengameart.org/content/low-poly-stalls) | `model-3d` | lightdreamerlabs | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lightdreamerlabs-3d-stalls.zip) | 2026-11-14 |
-| [low\_poly\_swords](https://opengameart.org/content/lowpolyswords) | `model-3d` | Q2DENJINDREW | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/swords_obj.zip) | 2026-11-14 |
-| [LowPoly Modular Dungeon](https://opengameart.org/content/lowpoly-modular-dungeon) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-modular-dungeon/lowpoly-modular-dungeon.zip) | 2026-11-14 |
-| [RTS medieval props](https://opengameart.org/content/rts-medieval-props) | `model-3d` | Lamoot | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rts-medieval-props/rts-medieval-props.blend) | 2026-11-14 |

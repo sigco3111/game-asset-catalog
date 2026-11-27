@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d886719d5cc3799c8c357aad0f4e23a9819b9a25`
+> generated from `catalog.csv@17332ec7ef082d67804ca59bcd0b1cff3aac22b1`
 
 # 3D 모델 모음 (2쪽)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **843개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **846개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 3쪽으로 나뉩니다(쪽당 최대 400행): [1쪽](category-model-3d.md) · **2쪽** · [3쪽](category-model-3d-3.md)
 
-현재 쪽: 400행 (전체 843개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 846개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [low\_poly\_swords](https://opengameart.org/content/lowpolyswords) | `model-3d` | Q2DENJINDREW | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/swords_obj.zip) | 2026-11-14 |
+| [LowPoly Modular Dungeon](https://opengameart.org/content/lowpoly-modular-dungeon) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-modular-dungeon/lowpoly-modular-dungeon.zip) | 2026-11-14 |
+| [RTS medieval props](https://opengameart.org/content/rts-medieval-props) | `model-3d` | Lamoot | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rts-medieval-props/rts-medieval-props.blend) | 2026-11-14 |
 | [Stylised Fantasy Weapons](https://opengameart.org/content/stylised-fantasy-weapons) | `model-3d` | mastahcez | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stylised-fantasy-weapons/stylised-fantasy-weapons.zip) | 2026-11-14 |
 | [Various Small Arms (Assault Rifles, Sniper, Pistol)](https://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol) | `model-3d` | tabasco | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/various-small-arms-assault-rifles-sniper-pistol/various-small-arms-assault-rifles-sniper-pistol.zip) | 2026-11-14 |
 | [3D Sara - Wizard](https://opengameart.org/content/3d-sara-wizard) | `model-3d` | Mish7913 | CC-BY 3.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-sara-wizard/sara_glb.zip) | 2026-11-13 |
@@ -414,6 +417,3 @@
 | [KayKit Halloween Bits 1.0](https://github.com/KayKit-Game-Assets/KayKit-Halloween-Bits-1.0) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-halloween-bits-1.0.zip) | 2026-10-28 |
 | [KayKit Medieval Hexagon Pack 1.0](https://github.com/KayKit-Game-Assets/KayKit-Medieval-Hexagon-Pack-1.0) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-medieval-hexagon-pack-1.0.zip) | 2026-10-28 |
 | [KayKit Prototype Bits 1.0](https://github.com/KayKit-Game-Assets/KayKit-Prototype-Bits-1.0) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-prototype-bits-1.0.zip) | 2026-10-28 |
-| [KayKit Restaurant Bits 1.0](https://github.com/KayKit-Game-Assets/KayKit-Restaurant-Bits-1.0) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-restaurant-bits-1.0.zip) | 2026-10-28 |
-| [KayKit Space Base Bits 1.0](https://github.com/KayKit-Game-Assets/KayKit-Space-Base-Bits-1.0) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v2.0/kaykit-space-base-bits-1.0.zip) | 2026-10-28 |
-| [Knight Character](https://quaternius.com/packs/knightcharacter.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-knight-character.zip) | 2026-10-28 |

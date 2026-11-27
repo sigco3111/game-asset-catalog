@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d886719d5cc3799c8c357aad0f4e23a9819b9a25`
+> generated from `catalog.csv@17332ec7ef082d67804ca59bcd0b1cff3aac22b1`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -30,11 +30,13 @@
 | [ambientCG Wood 097](https://ambientcg.com/a/Wood097) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood097/ambientcg-wood097.zip) | 2026-11-27 |
 | [ambientCG Wood 098](https://ambientcg.com/a/Wood098) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood098/ambientcg-wood098.zip) | 2026-11-27 |
 | [ambientCG Wood 099](https://ambientcg.com/a/Wood099) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood099/ambientcg-wood099.zip) | 2026-11-27 |
+| [Check-In Agent](https://polyfork.dev/asset/check-in-agent-229fce) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/check-in-agent/check-in-agent.zip) | 2026-11-27 |
 | [Don't Look Away 석재·목재 PBR 텍스처 (Poly Haven CC0)](https://patch.gg/games/blendi/dont-look-away) | `model-3d` | Rob Tuytel, Dimitrios Savva (Poly Haven) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dont-look-away-textures/dont-look-away-textures.zip) | 2026-11-27 |
 | [Don't Look Away 석조 예배당·천사 시야 판정 코드 (Three.js·TypeScript)](https://patch.gg/games/blendi/dont-look-away) | `other` | Blendi Bylygbashi (Patch @blendi), Majid Manzarpour (Dungeon Forge) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/dont-look-away-chapel-code/dont-look-away-chapel-code.zip) | 2026-11-27 |
 | [Don't Look Away 웹폰트 (Cormorant Garamond·Manrope, OFL)](https://patch.gg/games/blendi/dont-look-away) | `font` | Christian Thalmann (Cormorant Garamond), Mikhail Sharanda (Manrope) | OFL-1.1 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/dont-look-away-fonts/dont-look-away-fonts.zip) | 2026-11-27 |
 | [Don't Look Away 천사 석상 4종·예배당 의자 GLB (AI 생성)](https://patch.gg/games/blendi/dont-look-away) | `model-3d` | Blendi Bylygbashi (Patch @blendi) | CC0 1.0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dont-look-away-models/dont-look-away-models.zip) | 2026-11-27 |
 | [Don't Look Away 효과음 9종 (ElevenLabs 생성, 라이선스 불명)](https://patch.gg/games/blendi/dont-look-away) | `sfx` | Blendi Bylygbashi (Patch @blendi), ElevenLabs Sound Effects 생성 | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/dont-look-away-sfx/dont-look-away-sfx.zip) | 2026-11-27 |
+| [Family Traveller](https://polyfork.dev/asset/family-traveller-9af47e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/family-traveller/family-traveller.zip) | 2026-11-27 |
 | [Harbour Quay Edge Run](https://polyfork.dev/asset/harbour-quay-edge-run-95df75) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/harbour-quay-edge-run/harbour-quay-edge-run.zip) | 2026-11-27 |
 | [Poly Haven Aarfontein Dawn](https://polyhaven.com/a/aarfontein_dawn) | `model-3d` | Greg Zaal, Jarod Guest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-aarfontein-dawn/aarfontein_dawn_1k.hdr) | 2026-11-27 |
 | [Poly Haven Ceramic Pot](https://polyhaven.com/a/ceramic_pot) | `model-3d` | Aron Łyczek | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-ceramic-pot/polyhaven-ceramic-pot.zip) | 2026-11-27 |
@@ -81,6 +83,7 @@
 | [Timberfall 하늘·입자 효과 코드 (three.js, MIT)](https://patch.gg/games/blendi/timberfall) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/timberfall-sky-particles/timberfall-sky-particles.zip) | 2026-11-27 |
 | [Timberfall 합성 사운드 엔진 (WebAudio, MIT)](https://patch.gg/games/blendi/timberfall) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/timberfall-audio-synth/timberfall-audio-synth.zip) | 2026-11-27 |
 | [Timberfall 환경 PBR 텍스처 10종·잎사귀 카드·하늘 HDR (CC0)](https://patch.gg/games/blendi/timberfall) | `other` | Patch (@blendi) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-timberfall-env-textures/timberfall-env-textures.zip) | 2026-11-27 |
+| [Vertical Cardboard Baler](https://polyfork.dev/asset/vertical-cardboard-baler-4881e5) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/vertical-cardboard-baler/vertical-cardboard-baler.zip) | 2026-11-27 |
 | [52 CC0 drums and synths](https://opengameart.org/content/52-cc0-drums-and-synths) | `music` | fvcalderan | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/52-cc0-drums-and-synths/52-cc0-drums-and-synths.zip) | 2026-11-26 |
 | [ambientCG Fabric 087](https://ambientcg.com/a/Fabric087) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-fabric087/ambientcg-fabric087.zip) | 2026-11-26 |
 | [ambientCG Paving Stones 152](https://ambientcg.com/a/PavingStones152) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-pavingstones152/ambientcg-pavingstones152.zip) | 2026-11-26 |
@@ -110,6 +113,3 @@
 | [Poly Haven Weathered PVC Tank](https://polyhaven.com/a/weathered_pvc_tank) | `model-3d` | Amal Kumar (Poly Haven) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-weathered-pvc-tank/polyhaven-weathered-pvc-tank.zip) | 2026-11-26 |
 | [Realistic Flashlight Cookies](https://opengameart.org/content/realistic-flashlight-cookies) | `sprite-2d` | NATRIUM | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/realistic-flashlight-cookies/realistic-flashlight-cookies.zip) | 2026-11-26 |
 | [Rental Scooter](https://polyfork.dev/asset/rental-scooter-031ee2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rental-scooter/rental-scooter.zip) | 2026-11-26 |
-| [September Electronic](https://opengameart.org/content/september-electronic) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/september-electronic/september-electronic.zip) | 2026-11-26 |
-| [Terminal Retail Unit](https://polyfork.dev/asset/terminal-retail-unit-8c20d6) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/terminal-retail-unit/terminal-retail-unit.zip) | 2026-11-26 |
-| [The Moon Synth](https://opengameart.org/content/the-moon-synth) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-moon-synth/the-moon-synth.zip) | 2026-11-26 |

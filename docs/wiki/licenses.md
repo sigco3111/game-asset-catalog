@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d886719d5cc3799c8c357aad0f4e23a9819b9a25`
+> generated from `catalog.csv@17332ec7ef082d67804ca59bcd0b1cff3aac22b1`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2514개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2517개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -17,7 +17,7 @@
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
 | cc0 | CC0 | 2032 | 0 | 예 |
-| cc-by | CC-BY | 379 | 379 | 예 |
+| cc-by | CC-BY | 382 | 382 | 예 |
 | mit | MIT | 54 | 53 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
 | other | 기타(허용 목록 밖) | 38 | 35 | 아니오 |
@@ -29,7 +29,7 @@
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
 | CC0 | cc0 | X | 2022 |
-| CC-BY 4.0 | cc-by | O | 238 |
+| CC-BY 4.0 | cc-by | O | 241 |
 | CC-BY 3.0 | cc-by | O | 122 |
 | MIT | mit | O | 53 |
 | 알 수 없음 | other | O | 15 |
@@ -56,13 +56,15 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 478개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 481개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
+| [Check-In Agent](https://polyfork.dev/asset/check-in-agent-229fce) | Polyfork | CC-BY 4.0 | Check-In Agent by Polyfork (https://polyfork.dev/asset/check-in-agent-229fce), CC BY 4.0 | 2026-11-27 |
 | [Don't Look Away 석조 예배당·천사 시야 판정 코드 (Three.js·TypeScript)](https://patch.gg/games/blendi/dont-look-away) | Blendi Bylygbashi (Patch @blendi), Majid Manzarpour (Dungeon Forge) | MIT | required (MIT): Copyright (c) 2026 Blendi Bylygbashi; 파생 부분 Patch·Majid Manzarpour MIT 고지 유지 (licenses/ 동봉) | 2026-11-27 |
 | [Don't Look Away 웹폰트 (Cormorant Garamond·Manrope, OFL)](https://patch.gg/games/blendi/dont-look-away) | Christian Thalmann (Cormorant Garamond), Mikhail Sharanda (Manrope) | OFL-1.1 | required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금지, 수정본 동일 라이선스 | 2026-11-27 |
 | [Don't Look Away 효과음 9종 (ElevenLabs 생성, 라이선스 불명)](https://patch.gg/games/blendi/dont-look-away) | Blendi Bylygbashi (Patch @blendi), ElevenLabs Sound Effects 생성 | 알 수 없음 | 권장(미확인): Blendi Bylygbashi (patch.gg/games/blendi/dont-look-away). 재사용 허락 미확인, ElevenLabs 약관 확인 필요 | 2026-11-27 |
+| [Family Traveller](https://polyfork.dev/asset/family-traveller-9af47e) | Polyfork | CC-BY 4.0 | Family Traveller by Polyfork (https://polyfork.dev/asset/family-traveller-9af47e), CC BY 4.0 | 2026-11-27 |
 | [Harbour Quay Edge Run](https://polyfork.dev/asset/harbour-quay-edge-run-95df75) | Polyfork | CC-BY 4.0 | Harbour Quay Edge Run by Polyfork (https://polyfork.dev/asset/harbour-quay-edge-run-95df75), CC BY 4.0 | 2026-11-27 |
 | [Rooftop Terrace Parapet Run](https://polyfork.dev/asset/rooftop-terrace-parapet-run-0f173f) | Polyfork | CC-BY 4.0 | Rooftop Terrace Parapet Run by Polyfork (https://polyfork.dev/asset/rooftop-terrace-parapet-run-0f173f), CC BY 4.0 | 2026-11-27 |
 | [Small Magic UI 아트 17종 (주문 메달리온·라이프바·로고·로딩)](https://patch.gg/games/blendi/small-magic) | Patch (@blendi) | 알 수 없음 | 귀속 권장: Patch (@blendi), Small Magic. 재사용 허락 미확인 | 2026-11-27 |
@@ -80,6 +82,7 @@
 | [Timberfall 재해 시스템 코드 (토네이도·화재·지진·날씨, MIT)](https://patch.gg/games/blendi/timberfall) | Patch (@blendi) | MIT | required (MIT): Copyright (c) 2026 Patch — 저작권·허가 고지 유지 | 2026-11-27 |
 | [Timberfall 하늘·입자 효과 코드 (three.js, MIT)](https://patch.gg/games/blendi/timberfall) | Patch (@blendi) | MIT | required (MIT): Copyright (c) 2026 Patch, portions Steven Bobyn — 저작권·허가 고지 유지 | 2026-11-27 |
 | [Timberfall 합성 사운드 엔진 (WebAudio, MIT)](https://patch.gg/games/blendi/timberfall) | Patch (@blendi) | MIT | required (MIT): Copyright (c) 2026 Patch, portions Steven Bobyn — 저작권·허가 고지 유지 | 2026-11-27 |
+| [Vertical Cardboard Baler](https://polyfork.dev/asset/vertical-cardboard-baler-4881e5) | Polyfork | CC-BY 4.0 | Vertical Cardboard Baler by Polyfork (https://polyfork.dev/asset/vertical-cardboard-baler-4881e5), CC BY 4.0 | 2026-11-27 |
 | [Cannon Mooring Bollard](https://polyfork.dev/asset/cannon-mooring-bollard-0de796) | Polyfork | CC-BY 4.0 | Cannon Mooring Bollard by Polyfork (https://polyfork.dev/asset/cannon-mooring-bollard-0de796), CC BY 4.0 | 2026-11-26 |
 | [Chimney Cap](https://polyfork.dev/asset/chimney-cap-ca28d1) | Polyfork | CC-BY 4.0 | Chimney Cap by Polyfork (https://polyfork.dev/asset/chimney-cap-ca28d1), CC BY 4.0 | 2026-11-26 |
 | [Dovecote Tower](https://polyfork.dev/asset/dovecote-tower-db7d30) | Polyfork | CC-BY 4.0 | Dovecote Tower by Polyfork (https://polyfork.dev/asset/dovecote-tower-db7d30), CC BY 4.0 | 2026-11-26 |

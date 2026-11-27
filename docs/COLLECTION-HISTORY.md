@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261127-18 자동 수집 등록 (3팩, 2026-11-27 18:06 KST)
+
+- 팩: Check-In Agent (slug check-in-agent), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/check-in-agent-229fce
+- 저장: assets-3d-polyfork check-in-agent/check-in-agent.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2514→2517, 기존 행 불변 확인
+- 팩: Family Traveller (slug family-traveller), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/family-traveller-9af47e
+- 저장: assets-3d-polyfork family-traveller/family-traveller.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2514→2517, 기존 행 불변 확인
+- 팩: Vertical Cardboard Baler (slug vertical-cardboard-baler), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/vertical-cardboard-baler-4881e5
+- 저장: assets-3d-polyfork vertical-cardboard-baler/vertical-cardboard-baler.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2514→2517, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### Timberfall (patch.gg/blendi/timberfall) 에셋 수집 (6팩, 2026-11-27 KST)
 
 사용자가 한글화 마무리 직후 Timberfall(https://patch.gg/games/blendi/timberfall, 소스 https://git.patch.gg/blendi/timberfall.git)의 활용 가능 에셋 수집을 요청했습니다. 원작 LICENSE(MIT)와 LICENSE-ART(CC0)가 권리를 명시한 항목만 수집했습니다.

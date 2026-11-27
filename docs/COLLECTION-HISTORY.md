@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261128-02 자동 수집 등록 (3팩, 2026-11-28 02:35 KST)
+
+- 팩: I Miss You (slug i-miss-you-0), 라이선스: CC-BY 4.0, 제작자: purrplecat
+- 출처: https://opengameart.org/content/i-miss-you-0
+- 저장: assets-3d-lowpoly-2 release:pack-i-miss-you-0/i-miss-you-0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2517→2520, 기존 행 불변 확인
+- 팩: Machete (slug machete), 라이선스: CC0, 제작자: Guy G. Gamerson
+- 출처: https://opengameart.org/content/machete
+- 저장: assets-3d-lowpoly-2 machete/machete.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2517→2520, 기존 행 불변 확인
+- 팩: Pixel_Boss (slug pixelboss), 라이선스: CC0, 제작자: G_P
+- 출처: https://opengameart.org/content/pixelboss
+- 저장: assets-3d-lowpoly-2 pixelboss/pixelboss.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2517→2520, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261127-18 자동 수집 등록 (3팩, 2026-11-27 18:06 KST)
 
 - 팩: Check-In Agent (slug check-in-agent), 라이선스: CC-BY 4.0, 제작자: Polyfork

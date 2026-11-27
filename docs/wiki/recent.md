@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@17332ec7ef082d67804ca59bcd0b1cff3aac22b1`
+> generated from `catalog.csv@2eaee4fb1dd4256e6436d2da9f4a711e2ac60606`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -38,6 +38,9 @@
 | [Don't Look Away 효과음 9종 (ElevenLabs 생성, 라이선스 불명)](https://patch.gg/games/blendi/dont-look-away) | `sfx` | Blendi Bylygbashi (Patch @blendi), ElevenLabs Sound Effects 생성 | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/dont-look-away-sfx/dont-look-away-sfx.zip) | 2026-11-27 |
 | [Family Traveller](https://polyfork.dev/asset/family-traveller-9af47e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/family-traveller/family-traveller.zip) | 2026-11-27 |
 | [Harbour Quay Edge Run](https://polyfork.dev/asset/harbour-quay-edge-run-95df75) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/harbour-quay-edge-run/harbour-quay-edge-run.zip) | 2026-11-27 |
+| [I Miss You](https://opengameart.org/content/i-miss-you-0) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-i-miss-you-0/i-miss-you-0.zip) | 2026-11-27 |
+| [Machete](https://opengameart.org/content/machete) | `music` | Guy G. Gamerson | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/machete/machete.zip) | 2026-11-27 |
+| [Pixel\_Boss](https://opengameart.org/content/pixelboss) | `music` | G\_P | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/pixelboss/pixelboss.zip) | 2026-11-27 |
 | [Poly Haven Aarfontein Dawn](https://polyhaven.com/a/aarfontein_dawn) | `model-3d` | Greg Zaal, Jarod Guest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-aarfontein-dawn/aarfontein_dawn_1k.hdr) | 2026-11-27 |
 | [Poly Haven Ceramic Pot](https://polyhaven.com/a/ceramic_pot) | `model-3d` | Aron Łyczek | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-ceramic-pot/polyhaven-ceramic-pot.zip) | 2026-11-27 |
 | [Poly Haven Cigarette Pack](https://polyhaven.com/a/cigarette_pack) | `model-3d` | Ulrich Büch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-cigarette-pack/polyhaven-cigarette-pack.zip) | 2026-11-27 |
@@ -110,6 +113,3 @@
 | [Perimeter Security Fence Run](https://polyfork.dev/asset/perimeter-security-fence-run-f4e838) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/perimeter-security-fence-run/perimeter-security-fence-run.zip) | 2026-11-26 |
 | [Pixel Card Assets](https://opengameart.org/content/pixel-card-assets) | `sprite-2d` | storiesstrauss | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixel-card-assets/pixel-card-assets.zip) | 2026-11-26 |
 | [Poly Haven Tatami Mat Borderless](https://polyhaven.com/a/tatami_mat_borderless) | `model-3d` | Charlotte Baglioni (Poly Haven) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-tatami-mat-borderless/polyhaven-tatami-mat-borderless.zip) | 2026-11-26 |
-| [Poly Haven Weathered PVC Tank](https://polyhaven.com/a/weathered_pvc_tank) | `model-3d` | Amal Kumar (Poly Haven) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-weathered-pvc-tank/polyhaven-weathered-pvc-tank.zip) | 2026-11-26 |
-| [Realistic Flashlight Cookies](https://opengameart.org/content/realistic-flashlight-cookies) | `sprite-2d` | NATRIUM | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/realistic-flashlight-cookies/realistic-flashlight-cookies.zip) | 2026-11-26 |
-| [Rental Scooter](https://polyfork.dev/asset/rental-scooter-031ee2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rental-scooter/rental-scooter.zip) | 2026-11-26 |

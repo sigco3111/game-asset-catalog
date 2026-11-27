@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@6dbff67c0a5eaa6aa91f322b8475de70fa9d1e13",
-  "count": 2480,
+  "generated_from": "catalog.csv@29e135deca4fc79b9054271c09bc26233709aea9",
+  "count": 2481,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -90094,6 +90094,46 @@
         "https://github.com/sigco3111/assets-audio/raw/main/dont-look-away-sfx/dont-look-away-sfx.zip"
       ],
       "sample": "https://raw.githubusercontent.com/sigco3111/assets-audio/main/dont-look-away-sfx/sample.ogg",
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/don-t-look-away-웹폰트-cormorant-garamond-manrope-ofl",
+      "name": "Don't Look Away 웹폰트 (Cormorant Garamond·Manrope, OFL)",
+      "repo": "assets-ui-icons",
+      "file": "dont-look-away-fonts/dont-look-away-fonts.zip",
+      "type": "폰트",
+      "category": "font",
+      "tags": [
+        "font",
+        "ttf",
+        "serif",
+        "sans",
+        "webfont",
+        "cormorant-garamond",
+        "manrope",
+        "latin",
+        "ofl"
+      ],
+      "effect_kind": [],
+      "author": "Christian Thalmann (Cormorant Garamond), Mikhail Sharanda (Manrope)",
+      "source_url": "https://patch.gg/games/blendi/dont-look-away",
+      "license": "OFL-1.1",
+      "license_note": null,
+      "license_family": "other",
+      "attribution": "required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금지, 수정본 동일 라이선스",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-27",
+      "added_at": "2026-11-27T13:06:23+09:00",
+      "notes": "Cormorant Garamond 5종(이탤릭 400·500, 400·500·600)과 Manrope 4종(400·500·600·700) TTF 9개+fonts.css+OFL 전문 2종. 게임 빌드가 type-N.ttf로 바꾼 파일명 그대로(원본 대비 서브셋·수정 여부 미대조). 라틴 위주, 한글 글리프 미확인. Don't Look Away CREDITS.md가 OFL-1.1 명시",
+      "preview": "dont-look-away-fonts/preview.png",
+      "download_path": "dont-look-away-fonts/dont-look-away-fonts.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/dont-look-away-fonts/dont-look-away-fonts.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/dont-look-away-fonts/dont-look-away-fonts.zip"
+      ],
+      "sample": null,
       "multipart": false,
       "split_parts": []
     }

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@cae2d540100d7ea285a5e64ffe16a5e740c24e34`
+> generated from `catalog.csv@8ac3e913e384d6e4d12555b2cdc32306080c4afe`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -38,6 +38,7 @@
 | [Poly Haven Portable Generator](https://polyhaven.com/a/portable_generator) | `model-3d` | James Ray Cock | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-portable-generator/polyhaven-portable-generator.zip) | 2026-11-27 |
 | [Poly Haven Portable Searchlight](https://polyhaven.com/a/portable_searchlight) | `model-3d` | Elijah Cragg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-portable-searchlight/polyhaven-portable-searchlight.zip) | 2026-11-27 |
 | [Rooftop Terrace Parapet Run](https://polyfork.dev/asset/rooftop-terrace-parapet-run-0f173f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rooftop-terrace-parapet-run/rooftop-terrace-parapet-run.zip) | 2026-11-27 |
+| [Small Magic UI 아트 17종 (주문 메달리온·라이프바·로고·로딩)](https://patch.gg/games/blendi/small-magic) | `ui` | Patch (@blendi) | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/small-magic-ui-art/small-magic-ui-art.zip) | 2026-11-27 |
 | [Small Magic 주문 VFX·초원 월드 코드 (Three.js)](https://patch.gg/games/blendi/small-magic) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/small-magic-spell-vfx/small-magic-spell-vfx.zip) | 2026-11-27 |
 | [Small Magic 타이틀 음악 3곡 (Kevin MacLeod)](https://patch.gg/games/blendi/small-magic) | `music` | Kevin MacLeod (incompetech.com) | CC BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/small-magic-music/small-magic-music.zip) | 2026-11-27 |
 | [Small Magic 파괴 물리 코드 (three-avbd·구조물 분해)](https://patch.gg/games/blendi/small-magic) | `other` | Patch (@blendi), Steven Bobyn (three-avbd) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/small-magic-destruction/small-magic-destruction.zip) | 2026-11-27 |
@@ -112,4 +113,3 @@
 | [Sky](https://opengameart.org/content/sky-8) | `music` | Guy G. Gamerson | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/sky-8/sky-8.zip) | 2026-11-25 |
 | [Spinning Teacup Ride](https://polyfork.dev/asset/spinning-teacup-ride-878c01) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/spinning-teacup-ride/spinning-teacup-ride.zip) | 2026-11-25 |
 | [Striped River Lighthouse](https://polyfork.dev/asset/striped-river-lighthouse-90d74d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/striped-river-lighthouse/striped-river-lighthouse.zip) | 2026-11-25 |
-| [Swing Chair Ride](https://polyfork.dev/asset/swing-chair-ride-fc55fc) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/swing-chair-ride/swing-chair-ride.zip) | 2026-11-25 |

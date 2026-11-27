@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@cae2d540100d7ea285a5e64ffe16a5e740c24e34`
-- 데이터 행 수: **2475**
+- 원본: `catalog.csv@8ac3e913e384d6e4d12555b2cdc32306080c4afe`
+- 데이터 행 수: **2476**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 3,741,974 bytes, `assets-index.min.json` 3,027,963 bytes
+- 파일 크기: `assets-index.json` 3,743,930 bytes, `assets-index.min.json` 3,029,545 bytes
 
 ## 2. 집계
 
@@ -20,7 +20,7 @@
 | assets-audio | 558 |
 | assets-3d-lowpoly | 508 |
 | assets-3d-lowpoly-2 | 269 |
-| assets-ui-icons | 259 |
+| assets-ui-icons | 260 |
 | assets-3d-polyfork | 117 |
 | assets-code | 29 |
 | assets-2d-portraits | 3 |
@@ -32,7 +32,7 @@
 | model-3d | 820 |
 | music | 306 |
 | sfx | 247 |
-| ui | 234 |
+| ui | 235 |
 | sprite-2d | 173 |
 | other | 168 |
 | effect | 147 |
@@ -81,13 +81,13 @@
 | 3D 탈것 | vehicle-3d | 10 |
 | 3D 무기 | model-3d | 8 |
 | 3D 환경 | model-3d | 8 |
+| UI 키트 | ui | 5 |
 | 보드게임 | board | 5 |
 | 이펙트 | effect | 5 |
 | 코드 모듈 (음향) | other | 5 |
 | 2D | texture | 4 |
 | 2D·텍스처 | other | 4 |
 | 3D 자연 | model-3d | 4 |
-| UI 키트 | ui | 4 |
 | 폰트 | font | 4 |
 | 2D 맵 | map-2d | 3 |
 | 2D 일러스트 | other | 3 |
@@ -140,7 +140,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | cc0 | 2006 |
 | cc-by | 379 |
 | mit | 45 |
-| other | 34 |
+| other | 35 |
 | gpl | 11 |
 
 ### 라이선스 문자열(license)별
@@ -151,7 +151,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | CC-BY 4.0 | 238 |
 | CC-BY 3.0 | 122 |
 | MIT | 45 |
-| 알 수 없음 | 13 |
+| 알 수 없음 | 14 |
 | CC-BY | 11 |
 | GPL 3.0 | 11 |
 | OGA-BY 3.0 | 6 |
@@ -200,7 +200,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2026-11-24 | 71 |
 | 2026-11-25 | 34 |
 | 2026-11-26 | 39 |
-| 2026-11-27 | 31 |
+| 2026-11-27 | 32 |
 
 ### 상위 태그 30
 
@@ -215,23 +215,23 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | ui·아이콘 | 182 |
 | rpg | 151 |
 | pixel | 135 |
-| fantasy | 125 |
+| fantasy | 126 |
 | polyfork | 123 |
-| icons | 108 |
+| icons | 109 |
 | platformer | 107 |
-| ui | 98 |
+| ui | 99 |
 | texture | 93 |
 | character | 90 |
 | effect | 85 |
 | animated | 83 |
 | audio | 81 |
-| magic | 76 |
+| magic | 77 |
 | tileset | 69 |
 | cc0 | 64 |
 | effects | 64 |
 | medieval | 63 |
 | modular | 62 |
-| spell | 61 |
+| spell | 62 |
 | sprite | 60 |
 | animation | 55 |
 | explosion | 53 |
@@ -243,9 +243,9 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 |---|---|
 | hit | 48 |
 | impact | 50 |
-| magic | 109 |
+| magic | 110 |
 | explosion | 72 |
-| lightning | 33 |
+| lightning | 34 |
 | fire | 62 |
 | ice | 25 |
 | wind | 18 |
@@ -257,21 +257,21 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | projectile | 27 |
 | slash | 11 |
 
-- effect_kind가 하나 이상인 에셋: 284 / 2475
+- effect_kind가 하나 이상인 에셋: 285 / 2476
 
-- attribution_required=true: 465, ai_generated=true: 45, preview 있음: 1933, 분할(split) 행: 151
+- attribution_required=true: 466, ai_generated=true: 46, preview 있음: 1934, 분할(split) 행: 151
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
 ### 3.1 필수 필드가 빈 행: 0건
 
 
-### 3.2 source_url 중복: 30개 URL에 걸쳐 85행 (한 페이지에서 여러 팩을 만든 경우 포함)
+### 3.2 source_url 중복: 30개 URL에 걸쳐 86행 (한 페이지에서 여러 팩을 만든 경우 포함)
 
 | source_url | 행 수 | id 예시 |
 |---|---|---|
 | https://github.com/AgenticGameDevs/generated-assets | 8 | assets-3d-lowpoly-2/fjordfall-boats-vehicles, assets-3d-lowpoly-2/fjordfall-buildings, assets-3d-lowpoly-2/fjordfall-characters |
-| https://patch.gg/games/blendi/small-magic | 5 | assets-code/small-magic-주문-vfx-초원-월드-코드-three-js, assets-code/small-magic-파괴-물리-코드-three-avbd-구조물-분해, assets-code/small-magic-합성-사운드-엔진-주문-불-발소리-환경음-전량-코드-합성 |
+| https://patch.gg/games/blendi/small-magic | 6 | assets-code/small-magic-주문-vfx-초원-월드-코드-three-js, assets-code/small-magic-파괴-물리-코드-three-avbd-구조물-분해, assets-code/small-magic-합성-사운드-엔진-주문-불-발소리-환경음-전량-코드-합성 |
 | https://github.com/itsLucas02/lighthouse-cup | 4 | assets-code/lighthouse-cup-oklab-90색-디더링-픽셀-후처리-코드, assets-code/lighthouse-cup-webaudio-관중-타격음-합성-코드, assets-code/lighthouse-cup-체육관-코트-네트-리깅-선수-생성-코드 |
 | https://github.com/lqszhsp/dangpu | 4 | assets-2d-pixel/마문-전당포-인물-일러스트-793, assets-2d-pixel/마문-전당포-아이템-아이콘-504, assets-2d-pixel/마문-전당포-배경-오브젝트-일러스트-107 |
 | https://github.com/simonw/battledrones | 4 | assets-2d-pixel/battle-drones-키아트-가로-세로-2종, assets-2d-pixel/battle-drones-바위-타일-텍스처-5종-심리스-512, assets-2d-pixel/battle-drones-페인티드-지형-맵-7종-알베도-타일 |
@@ -310,7 +310,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 - 허용 목록과 정확히 일치: 2428행
 - 허용 라이선스로 시작하지만 부가 설명이 붙은 표기: 13행 (9종)
-- 허용 목록에 해당하지 않음: **34행** (8종)
+- 허용 목록에 해당하지 않음: **35행** (8종)
 
 | 부가 설명이 붙은 license | 행 수 |
 |---|---|
@@ -331,7 +331,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | OFL-1.1 | 3 | assets-ui-icons/afterlight-세리프-웹폰트-3족-alegreya-cinzel, assets-ui-icons/galmuri-비트맵-한글-폰트-galmuri11-galmuri14, assets-ui-icons/long-wind-수묵-세리프-폰트-4종-google-fonts-ofl |
 | OGA-BY 3.0 | 6 | assets-ui-icons/tiny-misc-ui, assets-audio/nintendo-esque-music-2, assets-audio/generic-video-game-music, assets-audio/nintendo-esque-menu-music, assets-audio/spooky-month, assets-audio/cave-background-music |
 | OGA-BY 4.0 | 3 | assets-audio/when-i-m-feeling-a-bit-snowed-in, assets-audio/gay-old-time-bounce-house, assets-audio/shells |
-| 알 수 없음 | 13 | assets-2d-pixel/물결-소탕-스프라이트-26-everyday-game, assets-code/배달-라이더-광저우-드리프트-절차적-3d-코드-everyday-game, assets-code/everyday-game-절차적-3d-코드-11종-three-js, assets-3d-lowpoly-2/concrete-echo-fps-프롭-3d-모델-24종-soldier, assets-2d-pixel/concrete-echo-콘크리트-플라스터-pbr-텍스처-6쌍, assets-code/lanternfall-절차적-3d-rpg-코드-17종, assets-audio/pocket-soccer-3d-경기-효과음-해설-음성-14종, assets-2d-pixel/pocket-soccer-3d-타이틀-아트워크-앱-아이콘, assets-audio/cold-boot-인하우스-생성-음성-484파일, assets-3d-lowpoly-2/abilitycasting-상어-드래곤-자이로스코프-모델-환경-텍스처-권리-미확인, assets-3d-lowpoly-2/hisar-중세-공성전-3d-모델-12종-권리-미확인, assets-ui-icons/hisar-중세-게임-ui-아이콘-16종-로고-문장-권리-미확인, assets-2d-pixel/hisar-치비-캐릭터-아트-9종-권리-미확인 |
+| 알 수 없음 | 14 | assets-2d-pixel/물결-소탕-스프라이트-26-everyday-game, assets-code/배달-라이더-광저우-드리프트-절차적-3d-코드-everyday-game, assets-code/everyday-game-절차적-3d-코드-11종-three-js, assets-3d-lowpoly-2/concrete-echo-fps-프롭-3d-모델-24종-soldier, assets-2d-pixel/concrete-echo-콘크리트-플라스터-pbr-텍스처-6쌍, assets-code/lanternfall-절차적-3d-rpg-코드-17종, assets-audio/pocket-soccer-3d-경기-효과음-해설-음성-14종, assets-2d-pixel/pocket-soccer-3d-타이틀-아트워크-앱-아이콘, assets-audio/cold-boot-인하우스-생성-음성-484파일, assets-3d-lowpoly-2/abilitycasting-상어-드래곤-자이로스코프-모델-환경-텍스처-권리-미확인, assets-3d-lowpoly-2/hisar-중세-공성전-3d-모델-12종-권리-미확인, assets-ui-icons/hisar-중세-게임-ui-아이콘-16종-로고-문장-권리-미확인, assets-2d-pixel/hisar-치비-캐릭터-아트-9종-권리-미확인, assets-ui-icons/small-magic-ui-아트-17종-주문-메달리온-라이프바-로고-로딩 |
 | 원작자 허용 (수정·사용 자유; 그대로 다시 올려 파는 것 금지) | 1 | assets-2d-pixel/불씨의-서약-아트 |
 | 자체 제작(소유자 보유) · Instinct(소유자의 AI 어시스턴트)가 AI로 생성, 소유자 결정으로 유지 · 조건 없이 사용 가능 (own work, AI-generated by Instinct, kept by owner decision) | 2 | assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56 |
 
@@ -351,7 +351,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
   - assets-audio/the-lost-storm-replacement-sfx
 - 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 244건
 - 참고: attribution이 `불요`로 시작하거나 `없음`/`none`/`n/a`인 행: 13건 — attribution_required=false 처리 (정제 2차 변경; 이전에는 `불요` 2행이 true였음: assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56)
-- 참고: attribution_required=true인 행 465건 (cc0인데 true: 0건)
+- 참고: attribution_required=true인 행 466건 (cc0인데 true: 0건)
 
 ### 3.6 file 열 경로 형식 이상: 6건
 
@@ -364,15 +364,15 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 1928 | https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-aztec-buildings/aztec-buildings.zip | 중복 슬래시 |
 | 1932 | https://github.com/sigco3111/assets-2d-pixel/releases/download/a107-spell-set/spell-set.zip | 중복 슬래시 |
 - file 열이 저장소 상대경로가 아니라 전체 URL인 행 6건: 색인의 download_path는 같은 저장소의 상대경로로 환산(cheonha-sambun/cheonha-sambun-assets.zip, releases/download/a105-sewer-tunnels/sewer-tunnels.zip, releases/download/a105-office-campus-buildings-and-restaurant/office-campus-buildings-and-restaurant.zip), 원본 file 값은 `file`에 그대로 유지.
-- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1591행, 저장소 트리 경로 884행
+- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1591행, 저장소 트리 경로 885행
 - split 열 값이 `Y`(파트 파일명 미나열, 폴더 내 part1~N zip)인 행: 11건 — `multipart=true`, download_url은 file 열(part1) 기준.
 - 파트 파일명이 나열된 분할 업로드(split 열) 151행: file 열의 단일 파일명은 릴리스에 존재하지 않을 수 있고 실제 파일은 `split_parts`임 (예: `assets-3d-lowpoly/kaykit-skeletons-1-0`). 이 행들의 `download_url`은 null, 대신 `download_urls`에 분할 파일 URL 목록을 둠.
-- file 확장자 분포: .zip 2386, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 4, .wav 3, .svg 2, .gif 1, .gz 1, .jpg 1, .part1 1
+- file 확장자 분포: .zip 2387, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 4, .wav 3, .svg 2, .gif 1, .gz 1, .jpg 1, .part1 1
 
 ### 3.7 기타 관찰
 
 - category가 `other`인 행: 168 (원본 type 분포: 2D 120, 코드 모듈 (3D) 17, 코드 모듈 (음향) 5, 2D·텍스처 4, 2D 일러스트 3, model-3d 3, 코드 모듈 (렌더링) 3, 텍스처 2, 2D 컨셉아트 1, 2D 초상화 1, sfx 1, 오디오 1, 재질 1, 코드 모듈 (캐릭터) 1, HDRI 환경맵 1, 소스 프로젝트 1, 코드 모듈 (3D 장면) 1, 코드 모듈 (게임 로직) 1, 코드 모듈 (오디오) 1) — 원본 type이 `2D`처럼 모호하면 추측하지 않고 other로 둠.
-- notes에 `AI 생성` 문자열이 있는 행 182건 중 `AI 생성 아님`/`AI 생성 여부 …` 형태의 부정·불명 표현을 제외한 행 43건, 그리고 license/notes에 `AI-generated`/`AI generated`/`AI 생성물`이 긍정 의미로 있는 행을 ai_generated=true로 판정: 총 45건.
+- notes에 `AI 생성` 문자열이 있는 행 183건 중 `AI 생성 아님`/`AI 생성 여부 …` 형태의 부정·불명 표현을 제외한 행 44건, 그리고 license/notes에 `AI-generated`/`AI generated`/`AI 생성물`이 긍정 의미로 있는 행을 ai_generated=true로 판정: 총 46건.
 - `AI 생성 아님`/`AI 생성 여부` 표기만 있는 행 중 true가 된 행: 0건
 
 | CSV 줄 | name | repo | 근거 |
@@ -422,6 +422,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2418 | 마문 전당포 아이템 아이콘 504 | assets-2d-pixel | notes `AI 생성` |
 | 2419 | 마문 전당포 배경·오브젝트 일러스트 107 | assets-2d-pixel | notes `AI 생성` |
 | 2420 | 마문 전당포 UI 아이콘 55 | assets-ui-icons | notes `AI 생성` |
+| 2477 | Small Magic UI 아트 17종 (주문 메달리온·라이프바·로고·로딩) | assets-ui-icons | notes `AI 생성` |
 
 - notes에 `AI`가 있으나 `AI 생성` 문구가 없어 false로 둔 행: 10건 (assets-ui-icons/game-icons, assets-ui-icons/game-icons-expansion, assets-3d-lowpoly/modular-dungeon-2-3d-models-2, assets-3d-lowpoly/base-human-models-low-poly, assets-2d-pixel/weapon-slash-effect-2)
 - preview가 없는 행: 542건
@@ -530,7 +531,7 @@ catalog.csv·license 값은 수정하지 않았습니다. 아래는 소유자의
 | UI Sounds | assets-audio | 714, 1543 | releases/download/v6.5/ui-sounds.zip; ui-sounds/ui-sounds.zip |
 | Weapon Slash - Effect | assets-2d-pixel | 897, 1827 | releases/download/v8.26/weapon-slash-effect.zip; weapon-slash-effect/weapon-slash-everything.zip |
 
-- source_url이 같은 값 30개(85행):
+- source_url이 같은 값 30개(86행):
 
 | source_url | CSV 줄 | name |
 |---|---|---|
@@ -562,7 +563,7 @@ catalog.csv·license 값은 수정하지 않았습니다. 아래는 소유자의
 | https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by | 1846, 1877 | Pocket Bleeps – 31 Retro 8-Bit SFX; Pocket Bleeps - 31 Retro 8-Bit SFX (Free Sampler, CC-BY) |
 | https://opengameart.org/content/sci-fi-essentials-kit | 156, 157 | Sci-Fi Essentials Kit; Sci-Fi Essentials Kit - 4K Textures |
 | https://opengameart.org/content/weapon-slash-effect | 897, 1827 | Weapon Slash - Effect; Weapon Slash - Effect |
-| https://patch.gg/games/blendi/small-magic | 2472, 2473, 2474, 2475, 2476 | Small Magic 주문 VFX·초원 월드 코드 (Three.js); Small Magic 파괴 물리 코드 (three-avbd·구조물 분해); Small Magic 합성 사운드 엔진 (주문·불·발소리·환경음 전량 코드 합성); Small Magic 타이틀 음악 3곡 (Kevin MacLeod); Small Magic 풀밭 발소리 5종 (Kenney) |
+| https://patch.gg/games/blendi/small-magic | 2472, 2473, 2474, 2475, 2476, 2477 | Small Magic 주문 VFX·초원 월드 코드 (Three.js); Small Magic 파괴 물리 코드 (three-avbd·구조물 분해); Small Magic 합성 사운드 엔진 (주문·불·발소리·환경음 전량 코드 합성); Small Magic 타이틀 음악 3곡 (Kevin MacLeod); Small Magic 풀밭 발소리 5종 (Kenney); Small Magic UI 아트 17종 (주문 메달리온·라이프바·로고·로딩) |
 | https://polyhaven.com | 2339, 2340 | Long Wind Poly Haven 스캔 텍스처 14종 (PBR 1K/2K); Long Wind Poly Haven 바위 모델 9종 (glTF 1K) |
 
 ### (b) file 값이 전체 URL인 행
@@ -578,7 +579,7 @@ catalog.csv·license 값은 수정하지 않았습니다. 아래는 소유자의
 
 ### (c) 허용 목록 밖의 자체 제작 라이선스 표기 (값 유지, 소유자 확인용)
 
-license가 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 맞춤 문구(`own work, AI-generated …`)인 행 34건. 값은 그대로 두었고 `license_family`는 other, `ai_generated`는 true입니다.
+license가 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 맞춤 문구(`own work, AI-generated …`)인 행 35건. 값은 그대로 두었고 `license_family`는 other, `ai_generated`는 true입니다.
 
 | CSV 줄 | name | repo | attribution |
 |---|---|---|---|
@@ -616,6 +617,7 @@ license가 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 맞춤 문구(`own
 | 2368 | Cave Background Music | assets-audio | 필수: srlatch477 (opengameart.org), OGA-BY 3.0 |
 | 2371 | Shells | assets-audio | 필수: Guy G. Gamerson (opengameart.org), OGA-BY 4.0 |
 | 2475 | Small Magic 타이틀 음악 3곡 (Kevin MacLeod) | assets-audio | required: Kevin MacLeod (incompetech.com), "Achaidh Cheide" / "Enchanted Valley" / "Evening Fall (Harp)", CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/); 변경(MP3→OGG) 표기 |
+| 2477 | Small Magic UI 아트 17종 (주문 메달리온·라이프바·로고·로딩) | assets-ui-icons | 귀속 권장: Patch (@blendi), Small Magic. 재사용 허락 미확인 |
 
 ### (d) 분할 업로드 행 정책
 

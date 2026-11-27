@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261128-03 자동 수집 등록 (3팩, 2026-11-28 03:58 KST)
+
+- 팩: Rooftop Water Tank (slug rooftop-water-tank), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/rooftop-water-tank-5c6c16
+- 저장: assets-3d-polyfork rooftop-water-tank/rooftop-water-tank.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2520→2523, 기존 행 불변 확인
+- 팩: Stepped Lane Run (slug stepped-lane-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/stepped-lane-run-6b5fe6
+- 저장: assets-3d-polyfork stepped-lane-run/stepped-lane-run.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2520→2523, 기존 행 불변 확인
+- 팩: Visitor with a camera (slug visitor-with-a-camera), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/visitor-with-a-camera-base
+- 저장: assets-3d-polyfork visitor-with-a-camera/visitor-with-a-camera.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2520→2523, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261128-02 자동 수집 등록 (3팩, 2026-11-28 02:35 KST)
 
 - 팩: I Miss You (slug i-miss-you-0), 라이선스: CC-BY 4.0, 제작자: purrplecat

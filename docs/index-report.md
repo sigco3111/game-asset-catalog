@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@9b7292558d1f8d017e94f2b4c52c0028286f67d2`
+- 원본: `catalog.csv@d886719d5cc3799c8c357aad0f4e23a9819b9a25`
 - 데이터 행 수: **2514**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 3,806,221 bytes, `assets-index.min.json` 3,080,182 bytes
+- 파일 크기: `assets-index.json` 3,806,244 bytes, `assets-index.min.json` 3,080,205 bytes
 
 ## 2. 집계
 

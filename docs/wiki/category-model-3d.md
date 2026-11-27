@@ -1,19 +1,19 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@8ac3e913e384d6e4d12555b2cdc32306080c4afe`
+> generated from `catalog.csv@6dbff67c0a5eaa6aa91f322b8475de70fa9d1e13`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **820개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **822개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 3쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md) · [3쪽](category-model-3d-3.md)
 
-현재 쪽: 400행 (전체 820개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 822개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -25,6 +25,8 @@
 | [ambientCG Wood 097](https://ambientcg.com/a/Wood097) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood097/ambientcg-wood097.zip) | 2026-11-27 |
 | [ambientCG Wood 098](https://ambientcg.com/a/Wood098) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood098/ambientcg-wood098.zip) | 2026-11-27 |
 | [ambientCG Wood 099](https://ambientcg.com/a/Wood099) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood099/ambientcg-wood099.zip) | 2026-11-27 |
+| [Don't Look Away 석재·목재 PBR 텍스처 (Poly Haven CC0)](https://patch.gg/games/blendi/dont-look-away) | `model-3d` | Rob Tuytel, Dimitrios Savva (Poly Haven) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dont-look-away-textures/dont-look-away-textures.zip) | 2026-11-27 |
+| [Don't Look Away 천사 석상 4종·예배당 의자 GLB (AI 생성)](https://patch.gg/games/blendi/dont-look-away) | `model-3d` | Blendi Bylygbashi (Patch @blendi) | CC0 1.0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dont-look-away-models/dont-look-away-models.zip) | 2026-11-27 |
 | [Harbour Quay Edge Run](https://polyfork.dev/asset/harbour-quay-edge-run-95df75) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/harbour-quay-edge-run/harbour-quay-edge-run.zip) | 2026-11-27 |
 | [Poly Haven Ceramic Pot](https://polyhaven.com/a/ceramic_pot) | `model-3d` | Aron Łyczek | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-ceramic-pot/polyhaven-ceramic-pot.zip) | 2026-11-27 |
 | [Poly Haven Cigarette Pack](https://polyhaven.com/a/cigarette_pack) | `model-3d` | Ulrich Büch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-cigarette-pack/polyhaven-cigarette-pack.zip) | 2026-11-27 |
@@ -415,5 +417,3 @@
 | [Mini Forest](https://opengameart.org/content/mini-forest) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-forest/mini-forest.zip) | 2026-11-13 |
 | [Mini Rocket](https://opengameart.org/content/mini-rocket) | `model-3d` | David W CG | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mini-rocket/mini_rocket.zip) | 2026-11-13 |
 | [Modular Dungeon 2 - 3D Models](https://opengameart.org/content/modular-dungeon-2-3d-models) | `model-3d` | Keith at Fertile Soil Productions | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/modular-dungeon-2/dungeon_collection_2.zip) | 2026-11-13 |
-| [Oozey the Slime](https://opengameart.org/content/oozey-the-slime) | `model-3d` | Mophs | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/oozey-the-slime/Oozey.zip) | 2026-11-13 |
-| [Rail Post](https://opengameart.org/content/rail-post) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/rail-post/post.zip) | 2026-11-13 |

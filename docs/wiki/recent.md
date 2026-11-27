@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@8ac3e913e384d6e4d12555b2cdc32306080c4afe`
+> generated from `catalog.csv@6dbff67c0a5eaa6aa91f322b8475de70fa9d1e13`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -21,6 +21,10 @@
 | [ambientCG Wood 097](https://ambientcg.com/a/Wood097) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood097/ambientcg-wood097.zip) | 2026-11-27 |
 | [ambientCG Wood 098](https://ambientcg.com/a/Wood098) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood098/ambientcg-wood098.zip) | 2026-11-27 |
 | [ambientCG Wood 099](https://ambientcg.com/a/Wood099) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood099/ambientcg-wood099.zip) | 2026-11-27 |
+| [Don't Look Away 석재·목재 PBR 텍스처 (Poly Haven CC0)](https://patch.gg/games/blendi/dont-look-away) | `model-3d` | Rob Tuytel, Dimitrios Savva (Poly Haven) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dont-look-away-textures/dont-look-away-textures.zip) | 2026-11-27 |
+| [Don't Look Away 석조 예배당·천사 시야 판정 코드 (Three.js·TypeScript)](https://patch.gg/games/blendi/dont-look-away) | `other` | Blendi Bylygbashi (Patch @blendi), Majid Manzarpour (Dungeon Forge) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/dont-look-away-chapel-code/dont-look-away-chapel-code.zip) | 2026-11-27 |
+| [Don't Look Away 천사 석상 4종·예배당 의자 GLB (AI 생성)](https://patch.gg/games/blendi/dont-look-away) | `model-3d` | Blendi Bylygbashi (Patch @blendi) | CC0 1.0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dont-look-away-models/dont-look-away-models.zip) | 2026-11-27 |
+| [Don't Look Away 효과음 9종 (ElevenLabs 생성, 라이선스 불명)](https://patch.gg/games/blendi/dont-look-away) | `sfx` | Blendi Bylygbashi (Patch @blendi), ElevenLabs Sound Effects 생성 | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/dont-look-away-sfx/dont-look-away-sfx.zip) | 2026-11-27 |
 | [Harbour Quay Edge Run](https://polyfork.dev/asset/harbour-quay-edge-run-95df75) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/harbour-quay-edge-run/harbour-quay-edge-run.zip) | 2026-11-27 |
 | [Poly Haven Ceramic Pot](https://polyhaven.com/a/ceramic_pot) | `model-3d` | Aron Łyczek | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-ceramic-pot/polyhaven-ceramic-pot.zip) | 2026-11-27 |
 | [Poly Haven Cigarette Pack](https://polyhaven.com/a/cigarette_pack) | `model-3d` | Ulrich Büch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-cigarette-pack/polyhaven-cigarette-pack.zip) | 2026-11-27 |
@@ -109,7 +113,3 @@
 | [Riverside jogger](https://polyfork.dev/asset/riverside-jogger-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/riverside-jogger/riverside-jogger.zip) | 2026-11-25 |
 | [Roller Coaster Track](https://polyfork.dev/asset/roller-coaster-track-f24006) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/roller-coaster-track/roller-coaster-track.zip) | 2026-11-25 |
 | [Scribble Planes](https://kenney.nl/assets/scribble-planes) | `sprite-2d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/scribble-planes/scribble-planes.zip) | 2026-11-25 |
-| [Simply Expressive - 72 Emotion buttons/icons](https://opengameart.org/content/simply-expressive-72-emotion-buttonsicons) | `ui` | SplendidDog | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/simply-expressive-72-emotion-buttonsicons/simply-expressive-72-emotion-buttonsicons.zip) | 2026-11-25 |
-| [Sky](https://opengameart.org/content/sky-8) | `music` | Guy G. Gamerson | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/sky-8/sky-8.zip) | 2026-11-25 |
-| [Spinning Teacup Ride](https://polyfork.dev/asset/spinning-teacup-ride-878c01) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/spinning-teacup-ride/spinning-teacup-ride.zip) | 2026-11-25 |
-| [Striped River Lighthouse](https://polyfork.dev/asset/striped-river-lighthouse-90d74d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/striped-river-lighthouse/striped-river-lighthouse.zip) | 2026-11-25 |

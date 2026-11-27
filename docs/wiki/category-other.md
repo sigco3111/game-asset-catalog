@@ -1,20 +1,21 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@8ac3e913e384d6e4d12555b2cdc32306080c4afe`
+> generated from `catalog.csv@6dbff67c0a5eaa6aa91f322b8475de70fa9d1e13`
 
 # 기타 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `other`(기타)에 해당하는 에셋 **168개**입니다. 라이브러리에서 보기: [?cat=other](https://sigco3111.github.io/game-asset-catalog/?cat=other)
+분류 `other`(기타)에 해당하는 에셋 **169개**입니다. 라이브러리에서 보기: [?cat=other](https://sigco3111.github.io/game-asset-catalog/?cat=other)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 168행 (전체 168개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 169행 (전체 169개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Don't Look Away 석조 예배당·천사 시야 판정 코드 (Three.js·TypeScript)](https://patch.gg/games/blendi/dont-look-away) | `other` | Blendi Bylygbashi (Patch @blendi), Majid Manzarpour (Dungeon Forge) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/dont-look-away-chapel-code/dont-look-away-chapel-code.zip) | 2026-11-27 |
 | [Small Magic 주문 VFX·초원 월드 코드 (Three.js)](https://patch.gg/games/blendi/small-magic) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/small-magic-spell-vfx/small-magic-spell-vfx.zip) | 2026-11-27 |
 | [Small Magic 파괴 물리 코드 (three-avbd·구조물 분해)](https://patch.gg/games/blendi/small-magic) | `other` | Patch (@blendi), Steven Bobyn (three-avbd) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/small-magic-destruction/small-magic-destruction.zip) | 2026-11-27 |
 | [Small Magic 합성 사운드 엔진 (주문·불·발소리·환경음 전량 코드 합성)](https://patch.gg/games/blendi/small-magic) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/small-magic-sound-synth/small-magic-sound-synth.zip) | 2026-11-27 |

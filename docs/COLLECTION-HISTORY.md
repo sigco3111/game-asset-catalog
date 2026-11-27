@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261127-09 자동 수집 등록 (3팩, 2026-11-27 09:35 KST)
+
+- 팩: Harbour Quay Edge Run (slug harbour-quay-edge-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/harbour-quay-edge-run-95df75
+- 저장: assets-3d-polyfork harbour-quay-edge-run/harbour-quay-edge-run.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2467→2470, 기존 행 불변 확인
+- 팩: Rooftop Terrace Parapet Run (slug rooftop-terrace-parapet-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/rooftop-terrace-parapet-run-0f173f
+- 저장: assets-3d-polyfork rooftop-terrace-parapet-run/rooftop-terrace-parapet-run.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2467→2470, 기존 행 불변 확인
+- 팩: Taverna waiter (slug taverna-waiter), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/taverna-waiter-base
+- 저장: assets-3d-polyfork taverna-waiter/taverna-waiter.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2467→2470, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261127-09 자동 수집 등록 (1팩, 2026-11-27 09:00 KST)
 
 - 팩: Turtle Sandbox (slug turtle-sandbox), 라이선스: CC-BY 4.0, 제작자: purrplecat

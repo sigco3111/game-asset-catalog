@@ -1,19 +1,19 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@cb8d8543b3670dbb7f61afeaf92f606380564ddd`
+> generated from `catalog.csv@4447506d6ea92d8c33d5ced41f01c4225470f9a4`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **817개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **820개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 3쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md) · [3쪽](category-model-3d-3.md)
 
-현재 쪽: 400행 (전체 817개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 820개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [ambientCG Wood 097](https://ambientcg.com/a/Wood097) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood097/ambientcg-wood097.zip) | 2026-11-27 |
 | [ambientCG Wood 098](https://ambientcg.com/a/Wood098) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood098/ambientcg-wood098.zip) | 2026-11-27 |
 | [ambientCG Wood 099](https://ambientcg.com/a/Wood099) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood099/ambientcg-wood099.zip) | 2026-11-27 |
+| [Harbour Quay Edge Run](https://polyfork.dev/asset/harbour-quay-edge-run-95df75) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/harbour-quay-edge-run/harbour-quay-edge-run.zip) | 2026-11-27 |
 | [Poly Haven Ceramic Pot](https://polyhaven.com/a/ceramic_pot) | `model-3d` | Aron Łyczek | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-ceramic-pot/polyhaven-ceramic-pot.zip) | 2026-11-27 |
 | [Poly Haven Cigarette Pack](https://polyhaven.com/a/cigarette_pack) | `model-3d` | Ulrich Büch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-cigarette-pack/polyhaven-cigarette-pack.zip) | 2026-11-27 |
 | [Poly Haven Combination Wrench](https://polyhaven.com/a/combination_wrench) | `model-3d` | BKS | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-combination-wrench/polyhaven-combination-wrench.zip) | 2026-11-27 |
@@ -40,6 +41,8 @@
 | [Poly Haven Plastic Torch 6V](https://polyhaven.com/a/pastic_torch_6v) | `model-3d` | James Cocks | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-pastic-torch-6v/polyhaven-pastic-torch-6v.zip) | 2026-11-27 |
 | [Poly Haven Portable Generator](https://polyhaven.com/a/portable_generator) | `model-3d` | James Ray Cock | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-portable-generator/polyhaven-portable-generator.zip) | 2026-11-27 |
 | [Poly Haven Portable Searchlight](https://polyhaven.com/a/portable_searchlight) | `model-3d` | Elijah Cragg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-portable-searchlight/polyhaven-portable-searchlight.zip) | 2026-11-27 |
+| [Rooftop Terrace Parapet Run](https://polyfork.dev/asset/rooftop-terrace-parapet-run-0f173f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rooftop-terrace-parapet-run/rooftop-terrace-parapet-run.zip) | 2026-11-27 |
+| [Taverna waiter](https://polyfork.dev/asset/taverna-waiter-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/taverna-waiter/taverna-waiter.zip) | 2026-11-27 |
 | [ambientCG Fabric 087](https://ambientcg.com/a/Fabric087) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-fabric087/ambientcg-fabric087.zip) | 2026-11-26 |
 | [ambientCG Paving Stones 152](https://ambientcg.com/a/PavingStones152) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-pavingstones152/ambientcg-pavingstones152.zip) | 2026-11-26 |
 | [ambientCG Paving Stones 153](https://ambientcg.com/a/PavingStones153) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-pavingstones153/ambientcg-pavingstones153.zip) | 2026-11-26 |
@@ -414,6 +417,3 @@
 | [Modular Dungeon 2 - 3D Models](https://opengameart.org/content/modular-dungeon-2-3d-models) | `model-3d` | Keith at Fertile Soil Productions | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/modular-dungeon-2/dungeon_collection_2.zip) | 2026-11-13 |
 | [Oozey the Slime](https://opengameart.org/content/oozey-the-slime) | `model-3d` | Mophs | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/oozey-the-slime/Oozey.zip) | 2026-11-13 |
 | [Rail Post](https://opengameart.org/content/rail-post) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/rail-post/post.zip) | 2026-11-13 |
-| [Roulette Wheel and Board](https://opengameart.org/content/roulette-wheel-and-board) | `model-3d` | Klooverice | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/roulette-wheel-and-board/roulette-wheel-and-board.zip) | 2026-11-13 |
-| [Shipping Containers](https://opengameart.org/content/shipping-containers) | `model-3d` | miniforall | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/shipping-containers/shipping-containers.zip) | 2026-11-13 |
-| [Sofa and Bench](https://opengameart.org/content/sofa-and-bench) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sofa-and-bench/sofa-and-bench.zip) | 2026-11-13 |

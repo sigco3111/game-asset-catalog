@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@cb8d8543b3670dbb7f61afeaf92f606380564ddd`
+> generated from `catalog.csv@4447506d6ea92d8c33d5ced41f01c4225470f9a4`
 
 # 3D 모델 모음 (2쪽)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **817개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **820개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 3쪽으로 나뉩니다(쪽당 최대 400행): [1쪽](category-model-3d.md) · **2쪽** · [3쪽](category-model-3d-3.md)
 
-현재 쪽: 400행 (전체 817개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 820개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Roulette Wheel and Board](https://opengameart.org/content/roulette-wheel-and-board) | `model-3d` | Klooverice | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/roulette-wheel-and-board/roulette-wheel-and-board.zip) | 2026-11-13 |
+| [Shipping Containers](https://opengameart.org/content/shipping-containers) | `model-3d` | miniforall | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/shipping-containers/shipping-containers.zip) | 2026-11-13 |
+| [Sofa and Bench](https://opengameart.org/content/sofa-and-bench) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sofa-and-bench/sofa-and-bench.zip) | 2026-11-13 |
 | [Space port kit](https://opengameart.org/content/space-port-kit) | `model-3d` | Ludrol | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/space-port-kit/space_port_kit_glb.zip) | 2026-11-13 |
 | [Stylized Coin](https://opengameart.org/content/stylized-coin) | `model-3d` | optimuspryne | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/stylized-coin/coin.blend) | 2026-11-13 |
 | [Sumo Arena](https://opengameart.org/content/sumo-arena) | `model-3d` | unForastero | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sumo-arena/sumo_arena_1.zip) | 2026-11-13 |
@@ -414,6 +417,3 @@
 | [modular grassland 3D tileset](https://opengameart.org/content/modular-grassland-3d-tileset) | `model-3d` | rubberduck | CC0 | X | X | 3개 분할 | 2026-10-28 |
 | [Modular Sci-Fi MegaKit](https://opengameart.org/content/modular-sci-fi-megakit) | `model-3d` | Quaternius | CC0 | X | X | 5개 분할 | 2026-10-28 |
 | [more handpainted rocks](https://opengameart.org/content/more-handpainted-rocks) | `model-3d` | rubberduck | CC0 | X | X | 3개 분할 | 2026-10-28 |
-| [Mossy Rock Environment Pack](https://opengameart.org/content/mossy-rock-environment-pack) | `model-3d` | rubberduck | CC0 | X | X | 16개 분할 | 2026-10-28 |
-| [Nature Kit 2.1](https://kenney.nl/assets/nature-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v1.0/kenney_natureKit_2.1.zip) | 2026-10-28 |
-| [Pirate Kit](https://kenney.nl/assets/pirate-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/pirate-kit.zip) | 2026-10-28 |

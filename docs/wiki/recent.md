@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@cb8d8543b3670dbb7f61afeaf92f606380564ddd`
+> generated from `catalog.csv@4447506d6ea92d8c33d5ced41f01c4225470f9a4`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -21,6 +21,7 @@
 | [ambientCG Wood 097](https://ambientcg.com/a/Wood097) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood097/ambientcg-wood097.zip) | 2026-11-27 |
 | [ambientCG Wood 098](https://ambientcg.com/a/Wood098) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood098/ambientcg-wood098.zip) | 2026-11-27 |
 | [ambientCG Wood 099](https://ambientcg.com/a/Wood099) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-wood099/ambientcg-wood099.zip) | 2026-11-27 |
+| [Harbour Quay Edge Run](https://polyfork.dev/asset/harbour-quay-edge-run-95df75) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/harbour-quay-edge-run/harbour-quay-edge-run.zip) | 2026-11-27 |
 | [Poly Haven Ceramic Pot](https://polyhaven.com/a/ceramic_pot) | `model-3d` | Aron Łyczek | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-ceramic-pot/polyhaven-ceramic-pot.zip) | 2026-11-27 |
 | [Poly Haven Cigarette Pack](https://polyhaven.com/a/cigarette_pack) | `model-3d` | Ulrich Büch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-cigarette-pack/polyhaven-cigarette-pack.zip) | 2026-11-27 |
 | [Poly Haven Combination Wrench](https://polyhaven.com/a/combination_wrench) | `model-3d` | BKS | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-combination-wrench/polyhaven-combination-wrench.zip) | 2026-11-27 |
@@ -36,6 +37,8 @@
 | [Poly Haven Plastic Torch 6V](https://polyhaven.com/a/pastic_torch_6v) | `model-3d` | James Cocks | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-pastic-torch-6v/polyhaven-pastic-torch-6v.zip) | 2026-11-27 |
 | [Poly Haven Portable Generator](https://polyhaven.com/a/portable_generator) | `model-3d` | James Ray Cock | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-portable-generator/polyhaven-portable-generator.zip) | 2026-11-27 |
 | [Poly Haven Portable Searchlight](https://polyhaven.com/a/portable_searchlight) | `model-3d` | Elijah Cragg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-portable-searchlight/polyhaven-portable-searchlight.zip) | 2026-11-27 |
+| [Rooftop Terrace Parapet Run](https://polyfork.dev/asset/rooftop-terrace-parapet-run-0f173f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rooftop-terrace-parapet-run/rooftop-terrace-parapet-run.zip) | 2026-11-27 |
+| [Taverna waiter](https://polyfork.dev/asset/taverna-waiter-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/taverna-waiter/taverna-waiter.zip) | 2026-11-27 |
 | [52 CC0 drums and synths](https://opengameart.org/content/52-cc0-drums-and-synths) | `music` | fvcalderan | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/52-cc0-drums-and-synths/52-cc0-drums-and-synths.zip) | 2026-11-26 |
 | [ambientCG Fabric 087](https://ambientcg.com/a/Fabric087) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-fabric087/ambientcg-fabric087.zip) | 2026-11-26 |
 | [ambientCG Paving Stones 152](https://ambientcg.com/a/PavingStones152) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-pavingstones152/ambientcg-pavingstones152.zip) | 2026-11-26 |
@@ -110,6 +113,3 @@
 | [Uphill Chips](https://opengameart.org/content/uphill-chips) | `music` | mla | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/uphill-chips/uphill-chips.zip) | 2026-11-25 |
 | [Yellow Brick Path Slab](https://polyfork.dev/asset/yellow-brick-path-slab-9e8acd) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/yellow-brick-path-slab/yellow-brick-path-slab.zip) | 2026-11-25 |
 | [Blood Moon](https://opengameart.org/content/blood-moon-0) | `music` | Ategon | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/blood-moon-0/blood-moon-0.zip) | 2026-11-24 |
-| [Car Theft 101 (Looping)](https://opengameart.org/content/car-theft-101-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/car-theft-101-looping/car-theft-101-looping.zip) | 2026-11-24 |
-| [Cave Background Music](https://opengameart.org/content/cave-background-music) | `music` | srlatch477 | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cave-background-music/cave-background-music.zip) | 2026-11-24 |
-| [Child at the fun fair](https://polyfork.dev/asset/child-at-the-fun-fair-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/child-at-the-fun-fair/child-at-the-fun-fair.zip) | 2026-11-24 |

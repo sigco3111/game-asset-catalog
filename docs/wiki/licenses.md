@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@cb8d8543b3670dbb7f61afeaf92f606380564ddd`
+> generated from `catalog.csv@4447506d6ea92d8c33d5ced41f01c4225470f9a4`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2467개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2470개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -17,7 +17,7 @@
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
 | cc0 | CC0 | 2005 | 0 | 예 |
-| cc-by | CC-BY | 376 | 376 | 예 |
+| cc-by | CC-BY | 379 | 379 | 예 |
 | mit | MIT | 42 | 41 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
 | other | 기타(허용 목록 밖) | 33 | 30 | 아니오 |
@@ -29,7 +29,7 @@
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
 | CC0 | cc0 | X | 2001 |
-| CC-BY 4.0 | cc-by | O | 235 |
+| CC-BY 4.0 | cc-by | O | 238 |
 | CC-BY 3.0 | cc-by | O | 122 |
 | MIT | mit | O | 41 |
 | 알 수 없음 | other | O | 13 |
@@ -55,10 +55,13 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 458개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 461개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
+| [Harbour Quay Edge Run](https://polyfork.dev/asset/harbour-quay-edge-run-95df75) | Polyfork | CC-BY 4.0 | Harbour Quay Edge Run by Polyfork (https://polyfork.dev/asset/harbour-quay-edge-run-95df75), CC BY 4.0 | 2026-11-27 |
+| [Rooftop Terrace Parapet Run](https://polyfork.dev/asset/rooftop-terrace-parapet-run-0f173f) | Polyfork | CC-BY 4.0 | Rooftop Terrace Parapet Run by Polyfork (https://polyfork.dev/asset/rooftop-terrace-parapet-run-0f173f), CC BY 4.0 | 2026-11-27 |
+| [Taverna waiter](https://polyfork.dev/asset/taverna-waiter-base) | Polyfork | CC-BY 4.0 | Taverna waiter by Polyfork (https://polyfork.dev/asset/taverna-waiter-base), CC BY 4.0 | 2026-11-27 |
 | [Cannon Mooring Bollard](https://polyfork.dev/asset/cannon-mooring-bollard-0de796) | Polyfork | CC-BY 4.0 | Cannon Mooring Bollard by Polyfork (https://polyfork.dev/asset/cannon-mooring-bollard-0de796), CC BY 4.0 | 2026-11-26 |
 | [Chimney Cap](https://polyfork.dev/asset/chimney-cap-ca28d1) | Polyfork | CC-BY 4.0 | Chimney Cap by Polyfork (https://polyfork.dev/asset/chimney-cap-ca28d1), CC BY 4.0 | 2026-11-26 |
 | [Dovecote Tower](https://polyfork.dev/asset/dovecote-tower-db7d30) | Polyfork | CC-BY 4.0 | Dovecote Tower by Polyfork (https://polyfork.dev/asset/dovecote-tower-db7d30), CC BY 4.0 | 2026-11-26 |

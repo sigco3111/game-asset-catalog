@@ -1,18 +1,18 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b5207213daea3f347e5eff42be45f4d1594769ca`
+> generated from `catalog.csv@9b7292558d1f8d017e94f2b4c52c0028286f67d2`
 
 # 마법 이펙트 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-효과 종류 `magic`(마법)에 해당하는 에셋 **111개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
+효과 종류 `magic`(마법)에 해당하는 에셋 **112개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
 라이브러리에서 보기: [?fx=magic](https://sigco3111.github.io/game-asset-catalog/?fx=magic)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 111행 (전체 111개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 112행 (전체 112개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Small Magic 풀밭 발소리 5종 (Kenney)](https://patch.gg/games/blendi/small-magic) | `sfx` | Kenney (kenney.nl) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/small-magic-footsteps/small-magic-footsteps.zip) | 2026-11-27 |
 | [Small Magic 합성 사운드 엔진 (주문·불·발소리·환경음 전량 코드 합성)](https://patch.gg/games/blendi/small-magic) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/small-magic-sound-synth/small-magic-sound-synth.zip) | 2026-11-27 |
 | [Solar 합성 사운드 엔진 (WebAudio 전량 코드 합성)](https://patch.gg/games/blendi/solar) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/solar-sound-engine/solar-sound-engine.zip) | 2026-11-27 |
+| [Timberfall 재해 시스템 코드 (토네이도·화재·지진·날씨, MIT)](https://patch.gg/games/blendi/timberfall) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/timberfall-disasters/timberfall-disasters.zip) | 2026-11-27 |
 | [00GameDevs 마법 VFX Starter 5종 (Three.js·WebGL2)](https://patch.gg/00vchannel/00gamedevs-vfx-starter) | `other` | 00GameDevs (@00vchannel) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/00gamedevs-vfx-starter/00gamedevs-vfx-starter.zip) | 2026-11-23 |
 | [AbilityCasting 결투장·생물·소품 3D 모델 5종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/abilitycasting-models/abilitycasting-models.zip) | 2026-11-23 |
 | [AbilityCasting 상어·드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-unverified/abilitycasting-unverified.zip) | 2026-11-23 |

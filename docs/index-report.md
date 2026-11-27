@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@b5207213daea3f347e5eff42be45f4d1594769ca`
-- 데이터 행 수: **2508**
+- 원본: `catalog.csv@9b7292558d1f8d017e94f2b4c52c0028286f67d2`
+- 데이터 행 수: **2514**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 3,795,559 bytes, `assets-index.min.json` 3,071,628 bytes
+- 파일 크기: `assets-index.json` 3,806,109 bytes, `assets-index.min.json` 3,080,070 bytes
 
 ## 2. 집계
 
@@ -17,23 +17,23 @@
 | repo | 개수 |
 |---|---|
 | assets-2d-pixel | 732 |
-| assets-audio | 562 |
+| assets-audio | 563 |
 | assets-3d-lowpoly | 508 |
-| assets-3d-lowpoly-2 | 291 |
+| assets-3d-lowpoly-2 | 293 |
 | assets-ui-icons | 261 |
 | assets-3d-polyfork | 117 |
-| assets-code | 34 |
+| assets-code | 37 |
 | assets-2d-portraits | 3 |
 
 ### 카테고리(category)별
 
 | category | 개수 |
 |---|---|
-| model-3d | 842 |
-| music | 309 |
+| model-3d | 843 |
+| music | 310 |
 | sfx | 248 |
 | ui | 235 |
-| other | 173 |
+| other | 177 |
 | sprite-2d | 173 |
 | effect | 147 |
 | tileset-2d | 146 |
@@ -54,7 +54,7 @@
 
 | type(원본) | category | 개수 |
 |---|---|---|
-| 3D 모델 | model-3d | 530 |
+| 3D 모델 | model-3d | 531 |
 | 음악 | music | 288 |
 | 효과음 | sfx | 248 |
 | 3D | model-3d | 237 |
@@ -71,10 +71,10 @@
 | 3D 모듈 키트 | model-3d | 26 |
 | 3D 건물 | building-3d | 23 |
 | 2D 배경 | background-2d | 22 |
-| 배경음악 | music | 21 |
+| 배경음악 | music | 22 |
+| 코드 모듈 (3D) | other | 22 |
 | 2D | effect | 20 |
 | 3D 소품 | model-3d | 20 |
-| 코드 모듈 (3D) | other | 20 |
 | 2D 캐릭터 | sprite-2d | 14 |
 | 2D UI | ui | 13 |
 | 2D | background-2d | 10 |
@@ -95,12 +95,12 @@
 | model-3d | other | 3 |
 | 음성 | voice | 3 |
 | 코드 모듈 (렌더링) | other | 3 |
+| 코드 모듈 (오디오) | other | 3 |
+| 텍스처 | other | 3 |
 | 2D | portrait | 2 |
 | 2D 퍼즐 | puzzle | 2 |
 | 3D 애니메이션 | model-3d | 2 |
 | 3D 타일셋 | model-3d | 2 |
-| 코드 모듈 (오디오) | other | 2 |
-| 텍스처 | other | 2 |
 | 2D | ui | 1 |
 | 2D 글자 | font | 1 |
 | 2D 스프라이트·타일셋 | sprite-2d | 1 |
@@ -138,9 +138,9 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license_family | 개수 |
 |---|---|
-| cc0 | 2029 |
+| cc0 | 2032 |
 | cc-by | 379 |
-| mit | 51 |
+| mit | 54 |
 | other | 38 |
 | gpl | 11 |
 
@@ -151,12 +151,12 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | CC0 | 2022 |
 | CC-BY 4.0 | 238 |
 | CC-BY 3.0 | 122 |
-| MIT | 51 |
+| MIT | 54 |
 | 알 수 없음 | 15 |
 | CC-BY | 11 |
 | GPL 3.0 | 11 |
+| CC0 1.0 | 7 |
 | OGA-BY 3.0 | 6 |
-| CC0 1.0 | 5 |
 | Apache-2.0 | 4 |
 | OFL-1.1 | 4 |
 | CC BY 4.0 | 3 |
@@ -170,6 +170,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | CC-BY-3.0 / CC0 (2 contributors) | 1 |
 | CC0 (런타임 MIT) | 1 |
 | CC0 (페이지에 CC-BY 3.0/4.0·CC-BY-SA·GPL 2.0/3.0·OGA-BY 3.0 병기, CC0 선택) | 1 |
+| CC0 1.0 (AI 생성, 원작자 dedication) | 1 |
 | 원작자 허용 (수정·사용 자유; 그대로 다시 올려 파는 것 금지) | 1 |
 
 ### 추가일(added) 일자별
@@ -201,18 +202,18 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2026-11-24 | 71 |
 | 2026-11-25 | 34 |
 | 2026-11-26 | 41 |
-| 2026-11-27 | 62 |
+| 2026-11-27 | 68 |
 
 ### 상위 태그 30
 
 | tag | 개수 |
 |---|---|
-| 3d | 621 |
+| 3d | 622 |
 | 2d | 278 |
 | lowpoly | 275 |
 | opengameart | 265 |
-| sfx | 255 |
-| music | 236 |
+| sfx | 256 |
+| music | 237 |
 | ui·아이콘 | 182 |
 | rpg | 151 |
 | pixel | 135 |
@@ -220,12 +221,12 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | polyfork | 123 |
 | icons | 109 |
 | platformer | 107 |
-| texture | 104 |
-| ui | 99 |
+| texture | 105 |
+| ui | 100 |
 | character | 90 |
-| audio | 85 |
+| cc0 | 87 |
+| audio | 86 |
 | effect | 85 |
-| cc0 | 84 |
 | animated | 83 |
 | magic | 77 |
 | tileset | 69 |
@@ -244,36 +245,37 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 |---|---|
 | hit | 48 |
 | impact | 50 |
-| magic | 111 |
+| magic | 112 |
 | explosion | 72 |
 | lightning | 34 |
-| fire | 63 |
+| fire | 65 |
 | ice | 25 |
-| wind | 19 |
+| wind | 20 |
 | heal | 17 |
 | laser | 18 |
-| particle | 36 |
-| smoke | 15 |
+| particle | 37 |
+| smoke | 16 |
 | aura | 9 |
 | projectile | 27 |
 | slash | 11 |
 
-- effect_kind가 하나 이상인 에셋: 286 / 2508
+- effect_kind가 하나 이상인 에셋: 288 / 2514
 
-- attribution_required=true: 475, ai_generated=true: 47, preview 있음: 1962, 분할(split) 행: 151
+- attribution_required=true: 478, ai_generated=true: 47, preview 있음: 1968, 분할(split) 행: 151
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
 ### 3.1 필수 필드가 빈 행: 0건
 
 
-### 3.2 source_url 중복: 32개 URL에 걸쳐 97행 (한 페이지에서 여러 팩을 만든 경우 포함)
+### 3.2 source_url 중복: 33개 URL에 걸쳐 103행 (한 페이지에서 여러 팩을 만든 경우 포함)
 
 | source_url | 행 수 | id 예시 |
 |---|---|---|
 | https://github.com/AgenticGameDevs/generated-assets | 8 | assets-3d-lowpoly-2/fjordfall-boats-vehicles, assets-3d-lowpoly-2/fjordfall-buildings, assets-3d-lowpoly-2/fjordfall-characters |
 | https://patch.gg/games/blendi/small-magic | 6 | assets-code/small-magic-주문-vfx-초원-월드-코드-three-js, assets-code/small-magic-파괴-물리-코드-three-avbd-구조물-분해, assets-code/small-magic-합성-사운드-엔진-주문-불-발소리-환경음-전량-코드-합성 |
 | https://patch.gg/games/blendi/solar | 6 | assets-3d-lowpoly-2/solar-나무-우주선-모델-glb-라이트맵-blender-빌드-스크립트, assets-code/solar-절차적-행성-월드-코드-대기-하늘-지형-풀-나무-호수-달, assets-code/solar-우주선-비행-자동조종-조종석-코드-three-js |
+| https://patch.gg/games/blendi/timberfall | 6 | assets-3d-lowpoly-2/timberfall-환경-pbr-텍스처-10종-잎사귀-카드-하늘-hdr-cc0, assets-3d-lowpoly-2/timberfall-자연-모델-2종-관목-이끼-낀-바위-gltf-cc0, assets-audio/timberfall-배경음악-music-bed-ai-생성-cc0-dedication |
 | https://patch.gg/games/blendi/dont-look-away | 5 | assets-3d-lowpoly-2/don-t-look-away-천사-석상-4종-예배당-의자-glb-ai-생성, assets-3d-lowpoly-2/don-t-look-away-석재-목재-pbr-텍스처-poly-haven-cc0, assets-code/don-t-look-away-석조-예배당-천사-시야-판정-코드-three-js-typescript |
 | https://github.com/itsLucas02/lighthouse-cup | 4 | assets-code/lighthouse-cup-oklab-90색-디더링-픽셀-후처리-코드, assets-code/lighthouse-cup-webaudio-관중-타격음-합성-코드, assets-code/lighthouse-cup-체육관-코트-네트-리깅-선수-생성-코드 |
 | https://github.com/lqszhsp/dangpu | 4 | assets-2d-pixel/마문-전당포-인물-일러스트-793, assets-2d-pixel/마문-전당포-아이템-아이콘-504, assets-2d-pixel/마문-전당포-배경-오브젝트-일러스트-107 |
@@ -285,7 +287,6 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | https://github.com/huiskylabs/cold-smoke | 3 | assets-code/cold-smoke-절차적-인체-생성-코드-human, assets-code/cold-smoke-webaudio-음악-효과음-합성-코드, assets-code/cold-smoke-sdf-메쉬-생성-코드-surface-nets |
 | https://github.com/rossinek/cold-boot | 3 | assets-3d-lowpoly-2/cold-boot-할보르센-3d-머리-makehuman-cc0, assets-3d-lowpoly-2/cold-boot-토마스-3d-머리-lee-perry-smith-스캔, assets-audio/cold-boot-인하우스-생성-음성-484파일 |
 | https://github.com/sigco3111/the-lost-storm-ko | 3 | assets-audio/the-lost-storm-replacement-sfx, assets-3d-lowpoly-2/the-lost-storm-cc-by-4-0-models, assets-3d-lowpoly-2/the-lost-storm-cc0-pbr-textures |
-| https://github.com/weit0529/gamedemo_by_Fable5.2 | 3 | assets-audio/starember-field-synthesized-sfx, assets-code/starember-field-render-modules, assets-code/starember-field-procedural-character-toolkit |
 
 ### 3.3 (name, repo) 중복: 16쌍, 32행
 
@@ -309,13 +310,13 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 ### 3.4 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 라이선스 표기 — 값은 수정하지 않음
 
-- 허용 목록과 정확히 일치: 2455행
-- 허용 라이선스로 시작하지만 부가 설명이 붙은 표기: 15행 (9종)
+- 허용 목록과 정확히 일치: 2458행
+- 허용 라이선스로 시작하지만 부가 설명이 붙은 표기: 18행 (10종)
 - 허용 목록에 해당하지 않음: **38행** (8종)
 
 | 부가 설명이 붙은 license | 행 수 |
 |---|---|
-| CC0 1.0 | 5 |
+| CC0 1.0 | 7 |
 | CC-BY 3.0 / GPL 2.0 (원본 페이지 이중 표기, 둘 다 허용 라이선스; CC-BY 3.0 선택) | 3 |
 | CC-BY 4.0 (페이지에 CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 / CC-BY 4.0 / CC-BY-SA 4.0 / CC-BY-SA 3.0 병기, CC-BY 4.0 선택) | 1 |
 | CC-BY 4.0 (페이지에 CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 병기, CC-BY 4.0 선택) | 1 |
@@ -324,6 +325,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | CC-BY-3.0 / CC0 (2 contributors) | 1 |
 | CC0 (런타임 MIT) | 1 |
 | CC0 (페이지에 CC-BY 3.0/4.0·CC-BY-SA·GPL 2.0/3.0·OGA-BY 3.0 병기, CC0 선택) | 1 |
+| CC0 1.0 (AI 생성, 원작자 dedication) | 1 |
 
 | 허용 목록 밖 license | 행 수 | id |
 |---|---|---|
@@ -350,9 +352,9 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 - 참고: license_family가 cc-by/mit/gpl인데 attribution이 `optional`로 시작하는 행: 1건 (규칙상 attribution_required=false 처리됨; 확인 필요)
   - assets-audio/the-lost-storm-replacement-sfx
-- 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 267건
+- 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 270건
 - 참고: attribution이 `불요`로 시작하거나 `없음`/`none`/`n/a`인 행: 13건 — attribution_required=false 처리 (정제 2차 변경; 이전에는 `불요` 2행이 true였음: assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56)
-- 참고: attribution_required=true인 행 475건 (cc0인데 true: 0건)
+- 참고: attribution_required=true인 행 478건 (cc0인데 true: 0건)
 
 ### 3.6 file 열 경로 형식 이상: 6건
 
@@ -365,14 +367,14 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 1928 | https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-aztec-buildings/aztec-buildings.zip | 중복 슬래시 |
 | 1932 | https://github.com/sigco3111/assets-2d-pixel/releases/download/a107-spell-set/spell-set.zip | 중복 슬래시 |
 - file 열이 저장소 상대경로가 아니라 전체 URL인 행 6건: 색인의 download_path는 같은 저장소의 상대경로로 환산(cheonha-sambun/cheonha-sambun-assets.zip, releases/download/a105-sewer-tunnels/sewer-tunnels.zip, releases/download/a105-office-campus-buildings-and-restaurant/office-campus-buildings-and-restaurant.zip), 원본 file 값은 `file`에 그대로 유지.
-- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1591행, 저장소 트리 경로 917행
+- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1591행, 저장소 트리 경로 923행
 - split 열 값이 `Y`(파트 파일명 미나열, 폴더 내 part1~N zip)인 행: 11건 — `multipart=true`, download_url은 file 열(part1) 기준.
 - 파트 파일명이 나열된 분할 업로드(split 열) 151행: file 열의 단일 파일명은 릴리스에 존재하지 않을 수 있고 실제 파일은 `split_parts`임 (예: `assets-3d-lowpoly/kaykit-skeletons-1-0`). 이 행들의 `download_url`은 null, 대신 `download_urls`에 분할 파일 URL 목록을 둠.
-- file 확장자 분포: .zip 2417, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 4, .wav 3, .hdr 2, .svg 2, .gif 1, .gz 1, .jpg 1, .part1 1
+- file 확장자 분포: .zip 2423, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 4, .wav 3, .hdr 2, .svg 2, .gif 1, .gz 1, .jpg 1, .part1 1
 
 ### 3.7 기타 관찰
 
-- category가 `other`인 행: 173 (원본 type 분포: 2D 120, 코드 모듈 (3D) 20, 코드 모듈 (음향) 5, 2D·텍스처 4, 2D 일러스트 3, model-3d 3, 코드 모듈 (렌더링) 3, 텍스처 2, 코드 모듈 (오디오) 2, 2D 컨셉아트 1, 2D 초상화 1, sfx 1, 오디오 1, 재질 1, 코드 모듈 (캐릭터) 1, HDRI 환경맵 1, 소스 프로젝트 1, 코드 모듈 (3D 장면) 1, 코드 모듈 (게임 로직) 1, 코드 모듈 (UI) 1) — 원본 type이 `2D`처럼 모호하면 추측하지 않고 other로 둠.
+- category가 `other`인 행: 177 (원본 type 분포: 2D 120, 코드 모듈 (3D) 22, 코드 모듈 (음향) 5, 2D·텍스처 4, 2D 일러스트 3, model-3d 3, 텍스처 3, 코드 모듈 (렌더링) 3, 코드 모듈 (오디오) 3, 2D 컨셉아트 1, 2D 초상화 1, sfx 1, 오디오 1, 재질 1, 코드 모듈 (캐릭터) 1, HDRI 환경맵 1, 소스 프로젝트 1, 코드 모듈 (3D 장면) 1, 코드 모듈 (게임 로직) 1, 코드 모듈 (UI) 1) — 원본 type이 `2D`처럼 모호하면 추측하지 않고 other로 둠.
 - notes에 `AI 생성` 문자열이 있는 행 184건 중 `AI 생성 아님`/`AI 생성 여부 …` 형태의 부정·불명 표현을 제외한 행 45건, 그리고 license/notes에 `AI-generated`/`AI generated`/`AI 생성물`이 긍정 의미로 있는 행을 ai_generated=true로 판정: 총 47건.
 - `AI 생성 아님`/`AI 생성 여부` 표기만 있는 행 중 true가 된 행: 0건
 
@@ -533,7 +535,7 @@ catalog.csv·license 값은 수정하지 않았습니다. 아래는 소유자의
 | UI Sounds | assets-audio | 714, 1543 | releases/download/v6.5/ui-sounds.zip; ui-sounds/ui-sounds.zip |
 | Weapon Slash - Effect | assets-2d-pixel | 897, 1827 | releases/download/v8.26/weapon-slash-effect.zip; weapon-slash-effect/weapon-slash-everything.zip |
 
-- source_url이 같은 값 32개(97행):
+- source_url이 같은 값 33개(103행):
 
 | source_url | CSV 줄 | name |
 |---|---|---|
@@ -568,6 +570,7 @@ catalog.csv·license 값은 수정하지 않았습니다. 아래는 소유자의
 | https://patch.gg/games/blendi/dont-look-away | 2478, 2479, 2480, 2481, 2482 | Don't Look Away 천사 석상 4종·예배당 의자 GLB (AI 생성); Don't Look Away 석재·목재 PBR 텍스처 (Poly Haven CC0); Don't Look Away 석조 예배당·천사 시야 판정 코드 (Three.js·TypeScript); Don't Look Away 효과음 9종 (ElevenLabs 생성, 라이선스 불명); Don't Look Away 웹폰트 (Cormorant Garamond·Manrope, OFL) |
 | https://patch.gg/games/blendi/small-magic | 2472, 2473, 2474, 2475, 2476, 2477 | Small Magic 주문 VFX·초원 월드 코드 (Three.js); Small Magic 파괴 물리 코드 (three-avbd·구조물 분해); Small Magic 합성 사운드 엔진 (주문·불·발소리·환경음 전량 코드 합성); Small Magic 타이틀 음악 3곡 (Kevin MacLeod); Small Magic 풀밭 발소리 5종 (Kenney); Small Magic UI 아트 17종 (주문 메달리온·라이프바·로고·로딩) |
 | https://patch.gg/games/blendi/solar | 2483, 2484, 2485, 2486, 2487, 2488 | Solar 나무 우주선 모델 (GLB·라이트맵·Blender 빌드 스크립트); Solar 절차적 행성 월드 코드 (대기·하늘·지형·풀·나무·호수·달); Solar 우주선 비행·자동조종·조종석 코드 (Three.js); Solar 펜 스트로크 레터링·인쇄 코드 (폰트 파일 없이); Solar 합성 사운드 엔진 (WebAudio 전량 코드 합성); Solar 배경음악 2곡 (Kevin MacLeod) |
+| https://patch.gg/games/blendi/timberfall | 2510, 2511, 2512, 2513, 2514, 2515 | Timberfall 환경 PBR 텍스처 10종·잎사귀 카드·하늘 HDR (CC0); Timberfall 자연 모델 2종: 관목·이끼 낀 바위 (glTF, CC0); Timberfall 배경음악 (music bed, AI 생성·CC0 dedication); Timberfall 하늘·입자 효과 코드 (three.js, MIT); Timberfall 합성 사운드 엔진 (WebAudio, MIT); Timberfall 재해 시스템 코드 (토네이도·화재·지진·날씨, MIT) |
 | https://polyhaven.com | 2339, 2340 | Long Wind Poly Haven 스캔 텍스처 14종 (PBR 1K/2K); Long Wind Poly Haven 바위 모델 9종 (glTF 1K) |
 
 ### (b) file 값이 전체 URL인 행

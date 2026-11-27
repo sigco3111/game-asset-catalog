@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b5207213daea3f347e5eff42be45f4d1594769ca`
+> generated from `catalog.csv@9b7292558d1f8d017e94f2b4c52c0028286f67d2`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -75,6 +75,12 @@
 | [Solar 펜 스트로크 레터링·인쇄 코드 (폰트 파일 없이)](https://patch.gg/games/blendi/solar) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/solar-hand-lettering/solar-hand-lettering.zip) | 2026-11-27 |
 | [Solar 합성 사운드 엔진 (WebAudio 전량 코드 합성)](https://patch.gg/games/blendi/solar) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/solar-sound-engine/solar-sound-engine.zip) | 2026-11-27 |
 | [Taverna waiter](https://polyfork.dev/asset/taverna-waiter-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/taverna-waiter/taverna-waiter.zip) | 2026-11-27 |
+| [Timberfall 배경음악 (music bed, AI 생성·CC0 dedication)](https://patch.gg/games/blendi/timberfall) | `music` | Patch (@blendi) | CC0 1.0 (AI 생성, 원작자 dedication) | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/timberfall-music-bed/timberfall-music-bed.zip) | 2026-11-27 |
+| [Timberfall 자연 모델 2종: 관목·이끼 낀 바위 (glTF, CC0)](https://patch.gg/games/blendi/timberfall) | `model-3d` | Patch (@blendi) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/timberfall-nature-models/timberfall-nature-models.zip) | 2026-11-27 |
+| [Timberfall 재해 시스템 코드 (토네이도·화재·지진·날씨, MIT)](https://patch.gg/games/blendi/timberfall) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/timberfall-disasters/timberfall-disasters.zip) | 2026-11-27 |
+| [Timberfall 하늘·입자 효과 코드 (three.js, MIT)](https://patch.gg/games/blendi/timberfall) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/timberfall-sky-particles/timberfall-sky-particles.zip) | 2026-11-27 |
+| [Timberfall 합성 사운드 엔진 (WebAudio, MIT)](https://patch.gg/games/blendi/timberfall) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/timberfall-audio-synth/timberfall-audio-synth.zip) | 2026-11-27 |
+| [Timberfall 환경 PBR 텍스처 10종·잎사귀 카드·하늘 HDR (CC0)](https://patch.gg/games/blendi/timberfall) | `other` | Patch (@blendi) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-timberfall-env-textures/timberfall-env-textures.zip) | 2026-11-27 |
 | [52 CC0 drums and synths](https://opengameart.org/content/52-cc0-drums-and-synths) | `music` | fvcalderan | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/52-cc0-drums-and-synths/52-cc0-drums-and-synths.zip) | 2026-11-26 |
 | [ambientCG Fabric 087](https://ambientcg.com/a/Fabric087) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-fabric087/ambientcg-fabric087.zip) | 2026-11-26 |
 | [ambientCG Paving Stones 152](https://ambientcg.com/a/PavingStones152) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-pavingstones152/ambientcg-pavingstones152.zip) | 2026-11-26 |
@@ -107,9 +113,3 @@
 | [September Electronic](https://opengameart.org/content/september-electronic) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/september-electronic/september-electronic.zip) | 2026-11-26 |
 | [Terminal Retail Unit](https://polyfork.dev/asset/terminal-retail-unit-8c20d6) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/terminal-retail-unit/terminal-retail-unit.zip) | 2026-11-26 |
 | [The Moon Synth](https://opengameart.org/content/the-moon-synth) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-moon-synth/the-moon-synth.zip) | 2026-11-26 |
-| [Throne of Zeus](https://polyfork.dev/asset/throne-of-zeus-20104d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/throne-of-zeus/throne-of-zeus.zip) | 2026-11-26 |
-| [Tri-Axle Double Decker Bus](https://polyfork.dev/asset/tri-axle-double-decker-f295b5) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/tri-axle-double-decker-bus/tri-axle-double-decker-bus.zip) | 2026-11-26 |
-| [Turtle Sandbox](https://opengameart.org/content/turtle-sandbox) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-turtle-sandbox/turtle-sandbox.zip) | 2026-11-26 |
-| [Untitled Main Menu Theme](https://opengameart.org/content/untitled-main-menu-theme) | `music` | dabeek | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/untitled-main-menu-theme/untitled-main-menu-theme.zip) | 2026-11-26 |
-| [Water Hydria](https://polyfork.dev/asset/water-hydria-501c19) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-hydria/water-hydria.zip) | 2026-11-26 |
-| [마문 전당포 UI 아이콘 55](https://github.com/lqszhsp/dangpu) | `icon` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/dangpu-ui-icons/1-dangpu-ui-icons.zip) | 2026-11-26 |

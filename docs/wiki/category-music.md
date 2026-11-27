@@ -1,22 +1,23 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b5207213daea3f347e5eff42be45f4d1594769ca`
+> generated from `catalog.csv@9b7292558d1f8d017e94f2b4c52c0028286f67d2`
 
 # 음악 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `music`(음악)에 해당하는 에셋 **309개**입니다. 라이브러리에서 보기: [?cat=music](https://sigco3111.github.io/game-asset-catalog/?cat=music)
+분류 `music`(음악)에 해당하는 에셋 **310개**입니다. 라이브러리에서 보기: [?cat=music](https://sigco3111.github.io/game-asset-catalog/?cat=music)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 309행 (전체 309개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 310행 (전체 310개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Small Magic 타이틀 음악 3곡 (Kevin MacLeod)](https://patch.gg/games/blendi/small-magic) | `music` | Kevin MacLeod (incompetech.com) | CC BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/small-magic-music/small-magic-music.zip) | 2026-11-27 |
 | [Solar 배경음악 2곡 (Kevin MacLeod)](https://patch.gg/games/blendi/solar) | `music` | Kevin MacLeod (incompetech.com) | CC BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/solar-music/solar-music.zip) | 2026-11-27 |
+| [Timberfall 배경음악 (music bed, AI 생성·CC0 dedication)](https://patch.gg/games/blendi/timberfall) | `music` | Patch (@blendi) | CC0 1.0 (AI 생성, 원작자 dedication) | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/timberfall-music-bed/timberfall-music-bed.zip) | 2026-11-27 |
 | [52 CC0 drums and synths](https://opengameart.org/content/52-cc0-drums-and-synths) | `music` | fvcalderan | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/52-cc0-drums-and-synths/52-cc0-drums-and-synths.zip) | 2026-11-26 |
 | [Bubble](https://opengameart.org/content/bubble-2) | `music` | Guy G. Gamerson | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/bubble-2/bubble-2.zip) | 2026-11-26 |
 | [Drifting Beyond Pluto](https://opengameart.org/content/drifting-beyond-pluto) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/drifting-beyond-pluto/drifting-beyond-pluto.zip) | 2026-11-26 |

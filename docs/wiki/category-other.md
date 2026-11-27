@@ -1,17 +1,17 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b5207213daea3f347e5eff42be45f4d1594769ca`
+> generated from `catalog.csv@9b7292558d1f8d017e94f2b4c52c0028286f67d2`
 
 # 기타 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `other`(기타)에 해당하는 에셋 **173개**입니다. 라이브러리에서 보기: [?cat=other](https://sigco3111.github.io/game-asset-catalog/?cat=other)
+분류 `other`(기타)에 해당하는 에셋 **177개**입니다. 라이브러리에서 보기: [?cat=other](https://sigco3111.github.io/game-asset-catalog/?cat=other)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 173행 (전체 173개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 177행 (전체 177개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -23,6 +23,10 @@
 | [Solar 절차적 행성 월드 코드 (대기·하늘·지형·풀·나무·호수·달)](https://patch.gg/games/blendi/solar) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/solar-painted-world/solar-painted-world.zip) | 2026-11-27 |
 | [Solar 펜 스트로크 레터링·인쇄 코드 (폰트 파일 없이)](https://patch.gg/games/blendi/solar) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/solar-hand-lettering/solar-hand-lettering.zip) | 2026-11-27 |
 | [Solar 합성 사운드 엔진 (WebAudio 전량 코드 합성)](https://patch.gg/games/blendi/solar) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/solar-sound-engine/solar-sound-engine.zip) | 2026-11-27 |
+| [Timberfall 재해 시스템 코드 (토네이도·화재·지진·날씨, MIT)](https://patch.gg/games/blendi/timberfall) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/timberfall-disasters/timberfall-disasters.zip) | 2026-11-27 |
+| [Timberfall 하늘·입자 효과 코드 (three.js, MIT)](https://patch.gg/games/blendi/timberfall) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/timberfall-sky-particles/timberfall-sky-particles.zip) | 2026-11-27 |
+| [Timberfall 합성 사운드 엔진 (WebAudio, MIT)](https://patch.gg/games/blendi/timberfall) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/timberfall-audio-synth/timberfall-audio-synth.zip) | 2026-11-27 |
+| [Timberfall 환경 PBR 텍스처 10종·잎사귀 카드·하늘 HDR (CC0)](https://patch.gg/games/blendi/timberfall) | `other` | Patch (@blendi) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-timberfall-env-textures/timberfall-env-textures.zip) | 2026-11-27 |
 | [Lighthouse Cup OKLab 90색 디더링 픽셀 후처리 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-oklab-dither-pipeline/lighthouse-cup-oklab-dither-pipeline.zip) | 2026-11-26 |
 | [Lighthouse Cup WebAudio 관중·타격음 합성 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-webaudio-synth/lighthouse-cup-webaudio-synth.zip) | 2026-11-26 |
 | [Lighthouse Cup 배구 매치 시뮬레이션 엔진·시드 로스터 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-volleyball-sim-engine/lighthouse-cup-volleyball-sim-engine.zip) | 2026-11-26 |

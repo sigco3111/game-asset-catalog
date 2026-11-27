@@ -1,5 +1,22 @@
 # 수집 이력 (라운드별 상세)
 
+### Timberfall (patch.gg/blendi/timberfall) 에셋 수집 (6팩, 2026-11-27 KST)
+
+사용자가 한글화 마무리 직후 Timberfall(https://patch.gg/games/blendi/timberfall, 소스 https://git.patch.gg/blendi/timberfall.git)의 활용 가능 에셋 수집을 요청했습니다. 원작 LICENSE(MIT)와 LICENSE-ART(CC0)가 권리를 명시한 항목만 수집했습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Timberfall 환경 PBR 텍스처·HDR](https://github.com/sigco3111/assets-3d-lowpoly-2/tree/main/timberfall-env-textures) | assets-3d-lowpoly-2 | Poly Haven·ambientCG | CC0 | PBR 10종, 잎·풀 카드 2, HDR 1; zip 8.3MB는 Releases |
+| [Timberfall 자연 모델 2종](https://github.com/sigco3111/assets-3d-lowpoly-2/tree/main/timberfall-nature-models) | assets-3d-lowpoly-2 | Poly Haven | CC0 | shrub_02, rock_moss_set_01 (grass_medium_01은 기존 팩과 중복이라 제외) |
+| [Timberfall 배경음악](https://github.com/sigco3111/assets-audio/tree/main/timberfall-music-bed) | assets-audio | Patch (AI 생성) | CC0 dedication | 타인 권리 무관 보장 없음 명시, 팩에 표기 |
+| [Timberfall 하늘·입자 코드](https://github.com/sigco3111/assets-code/tree/main/timberfall-sky-particles) | assets-code | Patch, Steven Bobyn | MIT | sky.ts, particles.ts |
+| [Timberfall 합성 사운드 엔진](https://github.com/sigco3111/assets-code/tree/main/timberfall-audio-synth) | assets-code | Patch, Steven Bobyn | MIT | sounds.ts |
+| [Timberfall 재해 시스템 코드](https://github.com/sigco3111/assets-code/tree/main/timberfall-disasters) | assets-code | Patch | MIT | 토네이도·화재·지진·날씨 TS 7개 |
+
+제외: Sonniss GDC 녹음 98종(재배포 금지), ElevenLabs 경적·호루라기(오픈 라이선스 아님, 원작이 팩 재배포 불가 명시), 폰트(npm Fontsource, 별도 OFL 패키지), 물리 엔진 three-avbd(small-magic-destruction 팩에 이미 있음).
+
+포털 등록: catalog.csv 2508→2514, 기존 행 불변 확인.
+
 ### AUTO-20261127-16 자동 수집 등록 (10팩, 2026-11-27 16:49 KST)
 
 - 팩: Poly Haven Aarfontein Dawn (slug polyhaven-aarfontein-dawn), 라이선스: CC0, 제작자: Greg Zaal, Jarod Guest

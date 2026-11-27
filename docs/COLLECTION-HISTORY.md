@@ -1,5 +1,13 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261127-09 자동 수집 등록 (1팩, 2026-11-27 09:00 KST)
+
+- 팩: Turtle Sandbox (slug turtle-sandbox), 라이선스: CC-BY 4.0, 제작자: purrplecat
+- 출처: https://opengameart.org/content/turtle-sandbox
+- 저장: assets-3d-lowpoly-2 release:pack-turtle-sandbox/turtle-sandbox.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2466→2467, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261127-02 자동 수집 등록 (15팩, 2026-11-27 02:53 KST)
 
 - 팩: Poly Haven Ceramic Pot (slug polyhaven-ceramic-pot), 라이선스: CC0, 제작자: Aron Łyczek

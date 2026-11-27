@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@894b76051529557327eaf9ecbf629391acb3a992`
+> generated from `catalog.csv@cb8d8543b3670dbb7f61afeaf92f606380564ddd`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -69,6 +69,7 @@
 | [The Moon Synth](https://opengameart.org/content/the-moon-synth) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-moon-synth/the-moon-synth.zip) | 2026-11-26 |
 | [Throne of Zeus](https://polyfork.dev/asset/throne-of-zeus-20104d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/throne-of-zeus/throne-of-zeus.zip) | 2026-11-26 |
 | [Tri-Axle Double Decker Bus](https://polyfork.dev/asset/tri-axle-double-decker-f295b5) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/tri-axle-double-decker-bus/tri-axle-double-decker-bus.zip) | 2026-11-26 |
+| [Turtle Sandbox](https://opengameart.org/content/turtle-sandbox) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-turtle-sandbox/turtle-sandbox.zip) | 2026-11-26 |
 | [Water Hydria](https://polyfork.dev/asset/water-hydria-501c19) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-hydria/water-hydria.zip) | 2026-11-26 |
 | [마문 전당포 UI 아이콘 55](https://github.com/lqszhsp/dangpu) | `icon` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/dangpu-ui-icons/1-dangpu-ui-icons.zip) | 2026-11-26 |
 | [마문 전당포 배경·오브젝트 일러스트 107](https://github.com/lqszhsp/dangpu) | `background-2d` | lqszhsp | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/dangpu-backgrounds/1-dangpu-backgrounds.zip) | 2026-11-26 |
@@ -112,4 +113,3 @@
 | [Car Theft 101 (Looping)](https://opengameart.org/content/car-theft-101-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/car-theft-101-looping/car-theft-101-looping.zip) | 2026-11-24 |
 | [Cave Background Music](https://opengameart.org/content/cave-background-music) | `music` | srlatch477 | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cave-background-music/cave-background-music.zip) | 2026-11-24 |
 | [Child at the fun fair](https://polyfork.dev/asset/child-at-the-fun-fair-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/child-at-the-fun-fair/child-at-the-fun-fair.zip) | 2026-11-24 |
-| [Cold Smoke SDF 메쉬 생성 코드 (Surface Nets)](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-sdf-mesher/cold-smoke-sdf-mesher.zip) | 2026-11-24 |

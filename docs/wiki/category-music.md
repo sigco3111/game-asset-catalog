@@ -1,17 +1,17 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@894b76051529557327eaf9ecbf629391acb3a992`
+> generated from `catalog.csv@cb8d8543b3670dbb7f61afeaf92f606380564ddd`
 
 # 음악 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `music`(음악)에 해당하는 에셋 **304개**입니다. 라이브러리에서 보기: [?cat=music](https://sigco3111.github.io/game-asset-catalog/?cat=music)
+분류 `music`(음악)에 해당하는 에셋 **305개**입니다. 라이브러리에서 보기: [?cat=music](https://sigco3111.github.io/game-asset-catalog/?cat=music)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 304행 (전체 304개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 305행 (전체 305개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [P1](https://opengameart.org/content/p1) | `music` | G\_P | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/p1/p1.zip) | 2026-11-26 |
 | [September Electronic](https://opengameart.org/content/september-electronic) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/september-electronic/september-electronic.zip) | 2026-11-26 |
 | [The Moon Synth](https://opengameart.org/content/the-moon-synth) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-moon-synth/the-moon-synth.zip) | 2026-11-26 |
+| [Turtle Sandbox](https://opengameart.org/content/turtle-sandbox) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-turtle-sandbox/turtle-sandbox.zip) | 2026-11-26 |
 | [A bunch of background songs? Idk.](https://opengameart.org/content/a-bunch-of-background-songs-idk) | `music` | AigarsOz | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-bunch-of-background-songs-idk/a-bunch-of-background-songs-idk.zip) | 2026-11-25 |
 | [Cyberpunk Menu Music](https://opengameart.org/content/cyberpunk-menu-music) | `music` | ZaninDevelopers | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cyberpunk-menu-music/cyberpunk-menu-music.zip) | 2026-11-25 |
 | [Hallway](https://opengameart.org/content/hallway) | `music` | thenewkgb | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/hallway/hallway.zip) | 2026-11-25 |

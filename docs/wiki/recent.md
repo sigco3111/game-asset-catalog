@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@29e135deca4fc79b9054271c09bc26233709aea9`
+> generated from `catalog.csv@e1323275911f68e7986e1c12a484298b69394d73`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -49,6 +49,12 @@
 | [Small Magic 파괴 물리 코드 (three-avbd·구조물 분해)](https://patch.gg/games/blendi/small-magic) | `other` | Patch (@blendi), Steven Bobyn (three-avbd) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/small-magic-destruction/small-magic-destruction.zip) | 2026-11-27 |
 | [Small Magic 풀밭 발소리 5종 (Kenney)](https://patch.gg/games/blendi/small-magic) | `sfx` | Kenney (kenney.nl) | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/small-magic-footsteps/small-magic-footsteps.zip) | 2026-11-27 |
 | [Small Magic 합성 사운드 엔진 (주문·불·발소리·환경음 전량 코드 합성)](https://patch.gg/games/blendi/small-magic) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/small-magic-sound-synth/small-magic-sound-synth.zip) | 2026-11-27 |
+| [Solar 나무 우주선 모델 (GLB·라이트맵·Blender 빌드 스크립트)](https://patch.gg/games/blendi/solar) | `model-3d` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/solar-ship/solar-ship.zip) | 2026-11-27 |
+| [Solar 배경음악 2곡 (Kevin MacLeod)](https://patch.gg/games/blendi/solar) | `music` | Kevin MacLeod (incompetech.com) | CC BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/solar-music/solar-music.zip) | 2026-11-27 |
+| [Solar 우주선 비행·자동조종·조종석 코드 (Three.js)](https://patch.gg/games/blendi/solar) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/solar-ship-flight/solar-ship-flight.zip) | 2026-11-27 |
+| [Solar 절차적 행성 월드 코드 (대기·하늘·지형·풀·나무·호수·달)](https://patch.gg/games/blendi/solar) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/solar-painted-world/solar-painted-world.zip) | 2026-11-27 |
+| [Solar 펜 스트로크 레터링·인쇄 코드 (폰트 파일 없이)](https://patch.gg/games/blendi/solar) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/solar-hand-lettering/solar-hand-lettering.zip) | 2026-11-27 |
+| [Solar 합성 사운드 엔진 (WebAudio 전량 코드 합성)](https://patch.gg/games/blendi/solar) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/solar-sound-engine/solar-sound-engine.zip) | 2026-11-27 |
 | [Taverna waiter](https://polyfork.dev/asset/taverna-waiter-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/taverna-waiter/taverna-waiter.zip) | 2026-11-27 |
 | [52 CC0 drums and synths](https://opengameart.org/content/52-cc0-drums-and-synths) | `music` | fvcalderan | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/52-cc0-drums-and-synths/52-cc0-drums-and-synths.zip) | 2026-11-26 |
 | [ambientCG Fabric 087](https://ambientcg.com/a/Fabric087) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-fabric087/ambientcg-fabric087.zip) | 2026-11-26 |
@@ -107,9 +113,3 @@
 | [Lighthouse Keeper's Cottage](https://polyfork.dev/asset/lighthouse-keeper-s-cottage-4f6d33) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lighthouse-keeper-s-cottage/lighthouse-keeper-s-cottage.zip) | 2026-11-25 |
 | [Lollipop Toy Tree](https://polyfork.dev/asset/lollipop-toy-tree-2cf8d2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lollipop-toy-tree/lollipop-toy-tree.zip) | 2026-11-25 |
 | [Lydian Mid September Surprise](https://opengameart.org/content/lydian-mid-september-surprise) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/lydian-mid-september-surprise/lydian-mid-september-surprise.zip) | 2026-11-25 |
-| [Mid September Surprise](https://opengameart.org/content/mid-september-surprise) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/mid-september-surprise/mid-september-surprise.zip) | 2026-11-25 |
-| [Mixolydian Mid Summer](https://opengameart.org/content/mixolydian-mid-summer) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/mixolydian-mid-summer/mixolydian-mid-summer.zip) | 2026-11-25 |
-| [Pedestrian Safety Barrier Run](https://polyfork.dev/asset/pedestrian-safety-barrier-run-2afeca) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pedestrian-safety-barrier-run/pedestrian-safety-barrier-run.zip) | 2026-11-25 |
-| [Retro Textures Liminal](https://kenney.nl/assets/retro-textures-liminal) | `texture` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/retro-textures-liminal/retro-textures-liminal.zip) | 2026-11-25 |
-| [Riverside jogger](https://polyfork.dev/asset/riverside-jogger-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/riverside-jogger/riverside-jogger.zip) | 2026-11-25 |
-| [Roller Coaster Track](https://polyfork.dev/asset/roller-coaster-track-f24006) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/roller-coaster-track/roller-coaster-track.zip) | 2026-11-25 |

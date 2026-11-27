@@ -1,23 +1,24 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@29e135deca4fc79b9054271c09bc26233709aea9`
+> generated from `catalog.csv@e1323275911f68e7986e1c12a484298b69394d73`
 
 # 바람 이펙트 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-효과 종류 `wind`(바람)에 해당하는 에셋 **18개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
+효과 종류 `wind`(바람)에 해당하는 에셋 **19개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
 라이브러리에서 보기: [?fx=wind](https://sigco3111.github.io/game-asset-catalog/?fx=wind)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 18행 (전체 18개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 19행 (전체 19개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Small Magic 주문 VFX·초원 월드 코드 (Three.js)](https://patch.gg/games/blendi/small-magic) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/small-magic-spell-vfx/small-magic-spell-vfx.zip) | 2026-11-27 |
 | [Small Magic 합성 사운드 엔진 (주문·불·발소리·환경음 전량 코드 합성)](https://patch.gg/games/blendi/small-magic) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/small-magic-sound-synth/small-magic-sound-synth.zip) | 2026-11-27 |
+| [Solar 합성 사운드 엔진 (WebAudio 전량 코드 합성)](https://patch.gg/games/blendi/solar) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/solar-sound-engine/solar-sound-engine.zip) | 2026-11-27 |
 | [Cold Smoke WebAudio 음악·효과음 합성 코드](https://github.com/huiskylabs/cold-smoke) | `other` | Huisky | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cold-smoke-audio-synth/cold-smoke-audio-synth.zip) | 2026-11-24 |
 | [Long Wind Poly Haven 바위 모델 9종 (glTF 1K)](https://polyhaven.com) | `model-3d` | Poly Haven | CC0 | X | X | 3개 분할 | 2026-11-24 |
 | [Long Wind Poly Haven 스캔 텍스처 14종 (PBR 1K/2K)](https://polyhaven.com) | `texture` | Poly Haven | CC0 | X | X | 6개 분할 | 2026-11-24 |

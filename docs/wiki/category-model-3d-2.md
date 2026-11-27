@@ -1,22 +1,23 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@29e135deca4fc79b9054271c09bc26233709aea9`
+> generated from `catalog.csv@e1323275911f68e7986e1c12a484298b69394d73`
 
 # 3D 모델 모음 (2쪽)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **822개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **823개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 3쪽으로 나뉩니다(쪽당 최대 400행): [1쪽](category-model-3d.md) · **2쪽** · [3쪽](category-model-3d-3.md)
 
-현재 쪽: 400행 (전체 822개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 823개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Modular Dungeon 2 - 3D Models](https://opengameart.org/content/modular-dungeon-2-3d-models) | `model-3d` | Keith at Fertile Soil Productions | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/modular-dungeon-2/dungeon_collection_2.zip) | 2026-11-13 |
 | [Oozey the Slime](https://opengameart.org/content/oozey-the-slime) | `model-3d` | Mophs | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/oozey-the-slime/Oozey.zip) | 2026-11-13 |
 | [Rail Post](https://opengameart.org/content/rail-post) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/rail-post/post.zip) | 2026-11-13 |
 | [Roulette Wheel and Board](https://opengameart.org/content/roulette-wheel-and-board) | `model-3d` | Klooverice | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/roulette-wheel-and-board/roulette-wheel-and-board.zip) | 2026-11-13 |
@@ -416,4 +417,3 @@
 | [Medieval Village MegaKit](https://opengameart.org/content/medieval-village-megakit) | `model-3d` | Quaternius | CC0 | X | X | 9개 분할 | 2026-10-28 |
 | [Minigolf Kit](https://kenney.nl/assets/minigolf-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/minigolf-kit.zip) | 2026-10-28 |
 | [modular fence pack](https://opengameart.org/content/modular-fence-pack) | `model-3d` | rubberduck | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.3/modular-fence-pack.zip) | 2026-10-28 |
-| [modular grassland 3D tileset](https://opengameart.org/content/modular-grassland-3d-tileset) | `model-3d` | rubberduck | CC0 | X | X | 3개 분할 | 2026-10-28 |

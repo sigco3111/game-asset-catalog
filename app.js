@@ -2,7 +2,7 @@
 'use strict';
 var OWNER='sigco3111',PAGE=60,INDEX='assets-index.min.json',CSV='catalog.csv';
 var REPOS=[['','','전체'],['2d','assets-2d-pixel','2D·텍스처'],['3d','assets-3d-lowpoly','3D'],['ui','assets-ui-icons','UI·아이콘'],['audio','assets-audio','오디오'],['portrait','assets-2d-portraits','초상화'],['code','assets-code','코드']];
-var REPO_BY_KEY={},KEY_BY_REPO={},SHORT={'assets-2d-pixel':'2D','assets-3d-lowpoly':'3D','assets-ui-icons':'UI','assets-audio':'오디오','assets-2d-portraits':'초상화','assets-code':'코드'};
+var REPO_BY_KEY={},KEY_BY_REPO={},SHORT={'assets-2d-pixel':'2D','assets-3d-lowpoly':'3D','assets-ui-icons':'UI','assets-audio':'오디오','assets-2d-portraits':'초상화','assets-code':'코드','assets-3d-lowpoly-2':'3D','assets-3d-polyfork':'3D'};
 REPOS.forEach(function(r,i){if(r[0]){REPO_BY_KEY[r[0]]=r[1];KEY_BY_REPO[r[1]]=r[0]}});
 var REPO_ORDER={};REPOS.forEach(function(r,i){if(r[1])REPO_ORDER[r[1]]=i});
 var CAT_LABEL={effect:'이펙트',sfx:'효과음',music:'음악',voice:'음성',

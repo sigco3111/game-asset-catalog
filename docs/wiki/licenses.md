@@ -549,7 +549,7 @@
 | [Don't Look Away 천사 석상 4종·예배당 의자 GLB (AI 생성)](https://patch.gg/games/blendi/dont-look-away) | CC0 1.0 | 1.0 |
 | [Small Magic 풀밭 발소리 5종 (Kenney)](https://patch.gg/games/blendi/small-magic) | CC0 1.0 | 1.0 |
 | [Timberfall 배경음악 (music bed, AI 생성·CC0 dedication)](https://patch.gg/games/blendi/timberfall) | CC0 1.0 (AI 생성, 원작자 dedication) | 1.0 (AI 생성, 원작자 dedication) |
-| [Timberfall 자연 모델 2종: 관목·이끼 낀 바위 (glTF, CC0)](https://patch.gg/games/blendi/timberfall) | CC0 1.0 | 1.0 |
+| [Timberfall 자연 모델 2종: 관목·이끼 낀 바위 (glTF, CC0, 미리보기는 텍스처 맵)](https://patch.gg/games/blendi/timberfall) | CC0 1.0 | 1.0 |
 | [Timberfall 환경 PBR 텍스처 10종·잎사귀 카드·하늘 HDR (CC0)](https://patch.gg/games/blendi/timberfall) | CC0 1.0 | 1.0 |
 | [Kervan 지형·양피지 텍스처와 하늘 HDR (CC0)](https://github.com/Furkiozknn/kervan) | CC0 1.0 | 1.0 |
 | [Effekseer 샘플 이펙트 33종 (.efk, WebGL 런타임 포함)](https://patch.gg/patch/effekseer) | CC0 (런타임 MIT) | 런타임 MIT |

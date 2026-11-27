@@ -91173,8 +91173,8 @@
       "split_parts": []
     },
     {
-      "id": "assets-3d-lowpoly-2/timberfall-자연-모델-2종-관목-이끼-낀-바위-gltf-cc0",
-      "name": "Timberfall 자연 모델 2종: 관목·이끼 낀 바위 (glTF, CC0)",
+      "id": "assets-3d-lowpoly-2/timberfall-자연-모델-2종-관목-이끼-낀-바위-gltf-cc0-미리보기는-텍스처-맵",
+      "name": "Timberfall 자연 모델 2종: 관목·이끼 낀 바위 (glTF, CC0, 미리보기는 텍스처 맵)",
       "repo": "assets-3d-lowpoly-2",
       "file": "timberfall-nature-models/timberfall-nature-models.zip",
       "type": "3D 모델",
@@ -91201,8 +91201,8 @@
       "attribution_required": false,
       "ai_generated": false,
       "added": "2026-11-27",
-      "added_at": "2026-11-27T17:39:04+09:00",
-      "notes": "Poly Haven shrub_02·rock_moss_set_01 glTF+bin+1K 텍스처. grass_medium_01은 polyhaven-grass-medium-01 단독 팩으로 등록돼 있어 제외. 원작 LICENSE-ART CC0 명시",
+      "added_at": null,
+      "notes": "Poly Haven shrub_02·rock_moss_set_01 glTF+bin+1K 텍스처. 미리보기 이미지는 3D 렌더가 아니라 텍스처 맵 몽타주. grass_medium_01은 polyhaven-grass-medium-01 단독 팩으로 등록돼 있어 제외. 원작 LICENSE-ART CC0 명시",
       "preview": "timberfall-nature-models/preview.png",
       "download_path": "timberfall-nature-models/timberfall-nature-models.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/timberfall-nature-models/timberfall-nature-models.zip",

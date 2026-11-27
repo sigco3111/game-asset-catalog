@@ -8,7 +8,7 @@
 - 데이터 행 수: **2514**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 3,806,109 bytes, `assets-index.min.json` 3,080,070 bytes
+- 파일 크기: `assets-index.json` 3,806,221 bytes, `assets-index.min.json` 3,080,182 bytes
 
 ## 2. 집계
 
@@ -275,7 +275,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | https://github.com/AgenticGameDevs/generated-assets | 8 | assets-3d-lowpoly-2/fjordfall-boats-vehicles, assets-3d-lowpoly-2/fjordfall-buildings, assets-3d-lowpoly-2/fjordfall-characters |
 | https://patch.gg/games/blendi/small-magic | 6 | assets-code/small-magic-주문-vfx-초원-월드-코드-three-js, assets-code/small-magic-파괴-물리-코드-three-avbd-구조물-분해, assets-code/small-magic-합성-사운드-엔진-주문-불-발소리-환경음-전량-코드-합성 |
 | https://patch.gg/games/blendi/solar | 6 | assets-3d-lowpoly-2/solar-나무-우주선-모델-glb-라이트맵-blender-빌드-스크립트, assets-code/solar-절차적-행성-월드-코드-대기-하늘-지형-풀-나무-호수-달, assets-code/solar-우주선-비행-자동조종-조종석-코드-three-js |
-| https://patch.gg/games/blendi/timberfall | 6 | assets-3d-lowpoly-2/timberfall-환경-pbr-텍스처-10종-잎사귀-카드-하늘-hdr-cc0, assets-3d-lowpoly-2/timberfall-자연-모델-2종-관목-이끼-낀-바위-gltf-cc0, assets-audio/timberfall-배경음악-music-bed-ai-생성-cc0-dedication |
+| https://patch.gg/games/blendi/timberfall | 6 | assets-3d-lowpoly-2/timberfall-환경-pbr-텍스처-10종-잎사귀-카드-하늘-hdr-cc0, assets-3d-lowpoly-2/timberfall-자연-모델-2종-관목-이끼-낀-바위-gltf-cc0-미리보기는-텍스처-맵, assets-audio/timberfall-배경음악-music-bed-ai-생성-cc0-dedication |
 | https://patch.gg/games/blendi/dont-look-away | 5 | assets-3d-lowpoly-2/don-t-look-away-천사-석상-4종-예배당-의자-glb-ai-생성, assets-3d-lowpoly-2/don-t-look-away-석재-목재-pbr-텍스처-poly-haven-cc0, assets-code/don-t-look-away-석조-예배당-천사-시야-판정-코드-three-js-typescript |
 | https://github.com/itsLucas02/lighthouse-cup | 4 | assets-code/lighthouse-cup-oklab-90색-디더링-픽셀-후처리-코드, assets-code/lighthouse-cup-webaudio-관중-타격음-합성-코드, assets-code/lighthouse-cup-체육관-코트-네트-리깅-선수-생성-코드 |
 | https://github.com/lqszhsp/dangpu | 4 | assets-2d-pixel/마문-전당포-인물-일러스트-793, assets-2d-pixel/마문-전당포-아이템-아이콘-504, assets-2d-pixel/마문-전당포-배경-오브젝트-일러스트-107 |
@@ -570,7 +570,7 @@ catalog.csv·license 값은 수정하지 않았습니다. 아래는 소유자의
 | https://patch.gg/games/blendi/dont-look-away | 2478, 2479, 2480, 2481, 2482 | Don't Look Away 천사 석상 4종·예배당 의자 GLB (AI 생성); Don't Look Away 석재·목재 PBR 텍스처 (Poly Haven CC0); Don't Look Away 석조 예배당·천사 시야 판정 코드 (Three.js·TypeScript); Don't Look Away 효과음 9종 (ElevenLabs 생성, 라이선스 불명); Don't Look Away 웹폰트 (Cormorant Garamond·Manrope, OFL) |
 | https://patch.gg/games/blendi/small-magic | 2472, 2473, 2474, 2475, 2476, 2477 | Small Magic 주문 VFX·초원 월드 코드 (Three.js); Small Magic 파괴 물리 코드 (three-avbd·구조물 분해); Small Magic 합성 사운드 엔진 (주문·불·발소리·환경음 전량 코드 합성); Small Magic 타이틀 음악 3곡 (Kevin MacLeod); Small Magic 풀밭 발소리 5종 (Kenney); Small Magic UI 아트 17종 (주문 메달리온·라이프바·로고·로딩) |
 | https://patch.gg/games/blendi/solar | 2483, 2484, 2485, 2486, 2487, 2488 | Solar 나무 우주선 모델 (GLB·라이트맵·Blender 빌드 스크립트); Solar 절차적 행성 월드 코드 (대기·하늘·지형·풀·나무·호수·달); Solar 우주선 비행·자동조종·조종석 코드 (Three.js); Solar 펜 스트로크 레터링·인쇄 코드 (폰트 파일 없이); Solar 합성 사운드 엔진 (WebAudio 전량 코드 합성); Solar 배경음악 2곡 (Kevin MacLeod) |
-| https://patch.gg/games/blendi/timberfall | 2510, 2511, 2512, 2513, 2514, 2515 | Timberfall 환경 PBR 텍스처 10종·잎사귀 카드·하늘 HDR (CC0); Timberfall 자연 모델 2종: 관목·이끼 낀 바위 (glTF, CC0); Timberfall 배경음악 (music bed, AI 생성·CC0 dedication); Timberfall 하늘·입자 효과 코드 (three.js, MIT); Timberfall 합성 사운드 엔진 (WebAudio, MIT); Timberfall 재해 시스템 코드 (토네이도·화재·지진·날씨, MIT) |
+| https://patch.gg/games/blendi/timberfall | 2510, 2511, 2512, 2513, 2514, 2515 | Timberfall 환경 PBR 텍스처 10종·잎사귀 카드·하늘 HDR (CC0); Timberfall 자연 모델 2종: 관목·이끼 낀 바위 (glTF, CC0, 미리보기는 텍스처 맵); Timberfall 배경음악 (music bed, AI 생성·CC0 dedication); Timberfall 하늘·입자 효과 코드 (three.js, MIT); Timberfall 합성 사운드 엔진 (WebAudio, MIT); Timberfall 재해 시스템 코드 (토네이도·화재·지진·날씨, MIT) |
 | https://polyhaven.com | 2339, 2340 | Long Wind Poly Haven 스캔 텍스처 14종 (PBR 1K/2K); Long Wind Poly Haven 바위 모델 9종 (glTF 1K) |
 
 ### (b) file 값이 전체 URL인 행

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@60b36246d55e583b524984a6fd37a72dc3a61cfc`
+> generated from `catalog.csv@90d0aefb44f4fa083bb4553e3f9430062c07d97e`
 
 # 투사체 이펙트 모음
 

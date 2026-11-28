@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261128-09 자동 수집 등록 (3팩, 2026-11-28 09:41 KST)
+
+- 팩: 256x Oversampling (slug 256x-oversampling), 라이선스: CC0, 제작자: sdacfn
+- 출처: https://opengameart.org/content/256x-oversampling
+- 저장: assets-3d-lowpoly-2 release:pack-256x-oversampling/256x-oversampling.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2523→2526, 기존 행 불변 확인
+- 팩: Jumpscare sound (slug jumpscare-sound), 라이선스: CC0, 제작자: Orcblood Finegold
+- 출처: https://opengameart.org/content/jumpscare-sound
+- 저장: assets-3d-lowpoly-2 jumpscare-sound/jumpscare-sound.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2523→2526, 기존 행 불변 확인
+- 팩: Slime Hero (slug slime-hero), 라이선스: CC0, 제작자: Louswan
+- 출처: https://opengameart.org/content/slime-hero
+- 저장: assets-3d-lowpoly-2 slime-hero/slime-hero.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2523→2526, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261128-03 자동 수집 등록 (3팩, 2026-11-28 03:58 KST)
 
 - 팩: Rooftop Water Tank (slug rooftop-water-tank), 라이선스: CC-BY 4.0, 제작자: Polyfork

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@60b36246d55e583b524984a6fd37a72dc3a61cfc`
+> generated from `catalog.csv@90d0aefb44f4fa083bb4553e3f9430062c07d97e`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -16,6 +16,7 @@
 | [Rooftop Water Tank](https://polyfork.dev/asset/rooftop-water-tank-5c6c16) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rooftop-water-tank/rooftop-water-tank.zip) | 2026-11-28 |
 | [Stepped Lane Run](https://polyfork.dev/asset/stepped-lane-run-6b5fe6) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stepped-lane-run/stepped-lane-run.zip) | 2026-11-28 |
 | [Visitor with a camera](https://polyfork.dev/asset/visitor-with-a-camera-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/visitor-with-a-camera/visitor-with-a-camera.zip) | 2026-11-28 |
+| [256x Oversampling](https://opengameart.org/content/256x-oversampling) | `music` | sdacfn | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-256x-oversampling/256x-oversampling.zip) | 2026-11-27 |
 | [ambientCG Bark 016](https://ambientcg.com/a/Bark016) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-bark016/ambientcg-bark016.zip) | 2026-11-27 |
 | [ambientCG Bricks 113 B](https://ambientcg.com/a/Bricks113B) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-bricks113b/ambientcg-bricks113b.zip) | 2026-11-27 |
 | [ambientCG Bricks 113A](https://ambientcg.com/a/Bricks113A) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-bricks113a/ambientcg-bricks113a.zip) | 2026-11-27 |
@@ -42,6 +43,7 @@
 | [Family Traveller](https://polyfork.dev/asset/family-traveller-9af47e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/family-traveller/family-traveller.zip) | 2026-11-27 |
 | [Harbour Quay Edge Run](https://polyfork.dev/asset/harbour-quay-edge-run-95df75) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/harbour-quay-edge-run/harbour-quay-edge-run.zip) | 2026-11-27 |
 | [I Miss You](https://opengameart.org/content/i-miss-you-0) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-i-miss-you-0/i-miss-you-0.zip) | 2026-11-27 |
+| [Jumpscare sound](https://opengameart.org/content/jumpscare-sound) | `sfx` | Orcblood Finegold | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/jumpscare-sound/jumpscare-sound.zip) | 2026-11-27 |
 | [Machete](https://opengameart.org/content/machete) | `music` | Guy G. Gamerson | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/machete/machete.zip) | 2026-11-27 |
 | [Pixel\_Boss](https://opengameart.org/content/pixelboss) | `music` | G\_P | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/pixelboss/pixelboss.zip) | 2026-11-27 |
 | [Poly Haven Aarfontein Dawn](https://polyhaven.com/a/aarfontein_dawn) | `model-3d` | Greg Zaal, Jarod Guest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-aarfontein-dawn/aarfontein_dawn_1k.hdr) | 2026-11-27 |
@@ -70,6 +72,7 @@
 | [Poly Haven Square Pavers](https://polyhaven.com/a/square_pavers) | `model-3d` | Dario Barresi | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-square-pavers/polyhaven-square-pavers.zip) | 2026-11-27 |
 | [Poly Haven White Stucco 02](https://polyhaven.com/a/white_stucco_02) | `model-3d` | Dimitrios Savva | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-white-stucco-02/polyhaven-white-stucco-02.zip) | 2026-11-27 |
 | [Rooftop Terrace Parapet Run](https://polyfork.dev/asset/rooftop-terrace-parapet-run-0f173f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rooftop-terrace-parapet-run/rooftop-terrace-parapet-run.zip) | 2026-11-27 |
+| [Slime Hero](https://opengameart.org/content/slime-hero) | `music` | Louswan | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/slime-hero/slime-hero.zip) | 2026-11-27 |
 | [Small Magic UI 아트 17종 (주문 메달리온·라이프바·로고·로딩)](https://patch.gg/games/blendi/small-magic) | `ui` | Patch (@blendi) | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/small-magic-ui-art/small-magic-ui-art.zip) | 2026-11-27 |
 | [Small Magic 주문 VFX·초원 월드 코드 (Three.js)](https://patch.gg/games/blendi/small-magic) | `other` | Patch (@blendi) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/small-magic-spell-vfx/small-magic-spell-vfx.zip) | 2026-11-27 |
 | [Small Magic 타이틀 음악 3곡 (Kevin MacLeod)](https://patch.gg/games/blendi/small-magic) | `music` | Kevin MacLeod (incompetech.com) | CC BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/small-magic-music/small-magic-music.zip) | 2026-11-27 |
@@ -110,6 +113,3 @@
 | [Lighthouse Cup 배구 매치 시뮬레이션 엔진·시드 로스터 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-volleyball-sim-engine/lighthouse-cup-volleyball-sim-engine.zip) | 2026-11-26 |
 | [Lighthouse Cup 체육관 코트·네트·리깅 선수 생성 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-hall-textures-and-rig/lighthouse-cup-hall-textures-and-rig.zip) | 2026-11-26 |
 | [Low Res Computer fan](https://opengameart.org/content/low-res-computer-fan) | `sprite-2d` | BiscuitGames | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/low-res-computer-fan/low-res-computer-fan.zip) | 2026-11-26 |
-| [Lowpoly Stylized Zombie](https://midnight-atoms.itch.io/lowpoly-stylized-zombie) | `model-3d` | Max (Midnight Atoms) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/itchio-lowpoly-stylized-zombie/itchio-lowpoly-stylized-zombie.zip) | 2026-11-26 |
-| [Older woman with a basket](https://polyfork.dev/asset/older-woman-with-a-basket-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/older-woman-with-a-basket/older-woman-with-a-basket.zip) | 2026-11-26 |
-| [P1](https://opengameart.org/content/p1) | `music` | G\_P | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/p1/p1.zip) | 2026-11-26 |

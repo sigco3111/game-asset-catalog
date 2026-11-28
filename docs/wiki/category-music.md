@@ -1,23 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@60b36246d55e583b524984a6fd37a72dc3a61cfc`
+> generated from `catalog.csv@90d0aefb44f4fa083bb4553e3f9430062c07d97e`
 
 # 음악 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `music`(음악)에 해당하는 에셋 **313개**입니다. 라이브러리에서 보기: [?cat=music](https://sigco3111.github.io/game-asset-catalog/?cat=music)
+분류 `music`(음악)에 해당하는 에셋 **315개**입니다. 라이브러리에서 보기: [?cat=music](https://sigco3111.github.io/game-asset-catalog/?cat=music)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 313행 (전체 313개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 315행 (전체 315개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [256x Oversampling](https://opengameart.org/content/256x-oversampling) | `music` | sdacfn | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-256x-oversampling/256x-oversampling.zip) | 2026-11-27 |
 | [I Miss You](https://opengameart.org/content/i-miss-you-0) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-i-miss-you-0/i-miss-you-0.zip) | 2026-11-27 |
 | [Machete](https://opengameart.org/content/machete) | `music` | Guy G. Gamerson | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/machete/machete.zip) | 2026-11-27 |
 | [Pixel\_Boss](https://opengameart.org/content/pixelboss) | `music` | G\_P | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/pixelboss/pixelboss.zip) | 2026-11-27 |
+| [Slime Hero](https://opengameart.org/content/slime-hero) | `music` | Louswan | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/slime-hero/slime-hero.zip) | 2026-11-27 |
 | [Small Magic 타이틀 음악 3곡 (Kevin MacLeod)](https://patch.gg/games/blendi/small-magic) | `music` | Kevin MacLeod (incompetech.com) | CC BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/small-magic-music/small-magic-music.zip) | 2026-11-27 |
 | [Solar 배경음악 2곡 (Kevin MacLeod)](https://patch.gg/games/blendi/solar) | `music` | Kevin MacLeod (incompetech.com) | CC BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/solar-music/solar-music.zip) | 2026-11-27 |
 | [Timberfall 배경음악 (music bed, AI 생성·CC0 dedication)](https://patch.gg/games/blendi/timberfall) | `music` | Patch (@blendi) | CC0 1.0 (AI 생성, 원작자 dedication) | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/timberfall-music-bed/timberfall-music-bed.zip) | 2026-11-27 |

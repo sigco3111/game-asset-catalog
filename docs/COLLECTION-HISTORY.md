@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261128-19 자동 수집 등록 (3팩, 2026-11-28 19:26 KST)
+
+- 팩: Castle Round Tower (slug castle-round-tower), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/castle-round-tower-cde2e6
+- 저장: assets-3d-polyfork castle-round-tower/castle-round-tower.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2532→2535, 기존 행 불변 확인
+- 팩: Fairground Lamp Post (slug fairground-lamp-post), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/fairground-lamp-post-8961cf
+- 저장: assets-3d-polyfork fairground-lamp-post/fairground-lamp-post.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2532→2535, 기존 행 불변 확인
+- 팩: Ride Queue Rail (slug ride-queue-rail), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/ride-queue-rail-650936
+- 저장: assets-3d-polyfork ride-queue-rail/ride-queue-rail.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2532→2535, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261128-17 자동 수집 등록 (3팩, 2026-11-28 17:27 KST)
 
 - 팩: cicada sounds (slug cicada-sounds), 라이선스: CC0, 제작자: syncopika

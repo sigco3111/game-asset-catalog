@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@3edac7e7d631c341775e2be6fdf60f6c088cccac`
+> generated from `catalog.csv@e8c84abe4ff28bab5ed0e858ded372fd021fb08e`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,9 +13,12 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Castle Round Tower](https://polyfork.dev/asset/castle-round-tower-cde2e6) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/castle-round-tower/castle-round-tower.zip) | 2026-11-28 |
 | [cicada sounds](https://opengameart.org/content/cicada-sounds) | `sfx` | syncopika | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cicada-sounds/cicada-sounds.zip) | 2026-11-28 |
+| [Fairground Lamp Post](https://polyfork.dev/asset/fairground-lamp-post-8961cf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/fairground-lamp-post/fairground-lamp-post.zip) | 2026-11-28 |
 | [Gunshot sound effect](https://opengameart.org/content/gunshot-sound-effect) | `sfx` | hingydunyas | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/gunshot-sound-effect/gunshot-sound-effect.zip) | 2026-11-28 |
 | [Handheld Barcode Scanner](https://polyfork.dev/asset/handheld-barcode-scanner-495f95) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/handheld-barcode-scanner/handheld-barcode-scanner.zip) | 2026-11-28 |
+| [Ride Queue Rail](https://polyfork.dev/asset/ride-queue-rail-650936) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ride-queue-rail/ride-queue-rail.zip) | 2026-11-28 |
 | [Rooftop Water Tank](https://polyfork.dev/asset/rooftop-water-tank-5c6c16) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rooftop-water-tank/rooftop-water-tank.zip) | 2026-11-28 |
 | [Sci-fi SFX](https://opengameart.org/content/sci-fi-sfx) | `sfx` | Colodical | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/sci-fi-sfx/sci-fi-sfx.zip) | 2026-11-28 |
 | [Stepped Lane Run](https://polyfork.dev/asset/stepped-lane-run-6b5fe6) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stepped-lane-run/stepped-lane-run.zip) | 2026-11-28 |
@@ -110,6 +113,3 @@
 | [DOS/EGA-style platformer character and tiles](https://opengameart.org/content/dosega-style-platformer-character-and-tiles) | `sprite-2d` | marie\_iskandar | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/dosega-style-platformer-tiles/dosega-style-platformer-tiles.zip) | 2026-11-26 |
 | [Dovecote Tower](https://polyfork.dev/asset/dovecote-tower-db7d30) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/dovecote-tower/dovecote-tower.zip) | 2026-11-26 |
 | [Drifting Beyond Pluto](https://opengameart.org/content/drifting-beyond-pluto) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/drifting-beyond-pluto/drifting-beyond-pluto.zip) | 2026-11-26 |
-| [Florence is not against the Machine](https://opengameart.org/content/florence-is-not-against-the-machine) | `music` | itsKiwiVT\_ | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/florence-is-not-against-the-machine/florence-is-not-against-the-machine.zip) | 2026-11-26 |
-| [Fountain House](https://polyfork.dev/asset/fountain-house-cbda2f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/fountain-house/fountain-house.zip) | 2026-11-26 |
-| [I Can't Breathe](https://opengameart.org/content/i-cant-breathe) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/i-cant-breathe/i-cant-breathe.zip) | 2026-11-26 |

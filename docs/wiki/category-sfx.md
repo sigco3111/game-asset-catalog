@@ -1,22 +1,24 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e8c84abe4ff28bab5ed0e858ded372fd021fb08e`
+> generated from `catalog.csv@1b48e971c59e33449a6651345f5bf82afce42af7`
 
 # 효과음 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `sfx`(효과음)에 해당하는 에셋 **252개**입니다. 라이브러리에서 보기: [?cat=sfx](https://sigco3111.github.io/game-asset-catalog/?cat=sfx)
+분류 `sfx`(효과음)에 해당하는 에셋 **254개**입니다. 라이브러리에서 보기: [?cat=sfx](https://sigco3111.github.io/game-asset-catalog/?cat=sfx)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 252행 (전체 252개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 254행 (전체 254개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [cicada sounds](https://opengameart.org/content/cicada-sounds) | `sfx` | syncopika | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cicada-sounds/cicada-sounds.zip) | 2026-11-28 |
 | [Gunshot sound effect](https://opengameart.org/content/gunshot-sound-effect) | `sfx` | hingydunyas | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/gunshot-sound-effect/gunshot-sound-effect.zip) | 2026-11-28 |
+| [PlayerSFXPack (.wav and .mp3)](https://opengameart.org/content/playersfxpack-wav-and-mp3) | `sfx` | Colodical | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/playersfxpack-wav-and-mp3/playersfxpack-wav-and-mp3.zip) | 2026-11-28 |
+| [PlayerTalkingSFX Pack](https://opengameart.org/content/playertalkingsfx-pack) | `sfx` | Colodical | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/playertalkingsfx-pack/playertalkingsfx-pack.zip) | 2026-11-28 |
 | [Sci-fi SFX](https://opengameart.org/content/sci-fi-sfx) | `sfx` | Colodical | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/sci-fi-sfx/sci-fi-sfx.zip) | 2026-11-28 |
 | [Don't Look Away 효과음 9종 (ElevenLabs 생성, 라이선스 불명)](https://patch.gg/games/blendi/dont-look-away) | `sfx` | Blendi Bylygbashi (Patch @blendi), ElevenLabs Sound Effects 생성 | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/dont-look-away-sfx/dont-look-away-sfx.zip) | 2026-11-27 |
 | [Jumpscare sound](https://opengameart.org/content/jumpscare-sound) | `sfx` | Orcblood Finegold | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/jumpscare-sound/jumpscare-sound.zip) | 2026-11-27 |

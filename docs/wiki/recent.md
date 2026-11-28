@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e8c84abe4ff28bab5ed0e858ded372fd021fb08e`
+> generated from `catalog.csv@1b48e971c59e33449a6651345f5bf82afce42af7`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -16,8 +16,11 @@
 | [Castle Round Tower](https://polyfork.dev/asset/castle-round-tower-cde2e6) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/castle-round-tower/castle-round-tower.zip) | 2026-11-28 |
 | [cicada sounds](https://opengameart.org/content/cicada-sounds) | `sfx` | syncopika | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cicada-sounds/cicada-sounds.zip) | 2026-11-28 |
 | [Fairground Lamp Post](https://polyfork.dev/asset/fairground-lamp-post-8961cf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/fairground-lamp-post/fairground-lamp-post.zip) | 2026-11-28 |
+| [Goodbye, I Hope We Meet Again](https://opengameart.org/content/goodbye-i-hope-we-meet-again) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-goodbye-i-hope-we-meet-again/goodbye-i-hope-we-meet-again.zip) | 2026-11-28 |
 | [Gunshot sound effect](https://opengameart.org/content/gunshot-sound-effect) | `sfx` | hingydunyas | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/gunshot-sound-effect/gunshot-sound-effect.zip) | 2026-11-28 |
 | [Handheld Barcode Scanner](https://polyfork.dev/asset/handheld-barcode-scanner-495f95) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/handheld-barcode-scanner/handheld-barcode-scanner.zip) | 2026-11-28 |
+| [PlayerSFXPack (.wav and .mp3)](https://opengameart.org/content/playersfxpack-wav-and-mp3) | `sfx` | Colodical | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/playersfxpack-wav-and-mp3/playersfxpack-wav-and-mp3.zip) | 2026-11-28 |
+| [PlayerTalkingSFX Pack](https://opengameart.org/content/playertalkingsfx-pack) | `sfx` | Colodical | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/playertalkingsfx-pack/playertalkingsfx-pack.zip) | 2026-11-28 |
 | [Ride Queue Rail](https://polyfork.dev/asset/ride-queue-rail-650936) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ride-queue-rail/ride-queue-rail.zip) | 2026-11-28 |
 | [Rooftop Water Tank](https://polyfork.dev/asset/rooftop-water-tank-5c6c16) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rooftop-water-tank/rooftop-water-tank.zip) | 2026-11-28 |
 | [Sci-fi SFX](https://opengameart.org/content/sci-fi-sfx) | `sfx` | Colodical | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/sci-fi-sfx/sci-fi-sfx.zip) | 2026-11-28 |
@@ -110,6 +113,3 @@
 | [Cannon Mooring Bollard](https://polyfork.dev/asset/cannon-mooring-bollard-0de796) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/cannon-mooring-bollard/cannon-mooring-bollard.zip) | 2026-11-26 |
 | [Chess Tilesheet](https://opengameart.org/content/chess-tilesheet) | `sprite-2d` | nour314 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/chess-tilesheet/chess-tilesheet.zip) | 2026-11-26 |
 | [Chimney Cap](https://polyfork.dev/asset/chimney-cap-ca28d1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chimney-cap/chimney-cap.zip) | 2026-11-26 |
-| [DOS/EGA-style platformer character and tiles](https://opengameart.org/content/dosega-style-platformer-character-and-tiles) | `sprite-2d` | marie\_iskandar | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/dosega-style-platformer-tiles/dosega-style-platformer-tiles.zip) | 2026-11-26 |
-| [Dovecote Tower](https://polyfork.dev/asset/dovecote-tower-db7d30) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/dovecote-tower/dovecote-tower.zip) | 2026-11-26 |
-| [Drifting Beyond Pluto](https://opengameart.org/content/drifting-beyond-pluto) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/drifting-beyond-pluto/drifting-beyond-pluto.zip) | 2026-11-26 |

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@2b7830d6112984ca50153fbaa879746e4001a74c`
+> generated from `catalog.csv@1436baf930641ee6791610f7bfd611668ed34920`
 
 # 아이콘 모음
 

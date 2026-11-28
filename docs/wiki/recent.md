@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@1b48e971c59e33449a6651345f5bf82afce42af7`
+> generated from `catalog.csv@2b7830d6112984ca50153fbaa879746e4001a74c`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,6 +13,9 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Chinese Octagonal Pagoda](https://polyfork.dev/asset/chinese-octagonal-pagoda-e8d7aa) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-octagonal-pagoda/chinese-octagonal-pagoda.zip) | 2026-11-29 |
+| [Chinese Paifang Archway](https://polyfork.dev/asset/chinese-paifang-archway-8a9e41) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-paifang-archway/chinese-paifang-archway.zip) | 2026-11-29 |
+| [Helter Skelter](https://polyfork.dev/asset/helter-skelter-013f44) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/helter-skelter/helter-skelter.zip) | 2026-11-29 |
 | [Castle Round Tower](https://polyfork.dev/asset/castle-round-tower-cde2e6) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/castle-round-tower/castle-round-tower.zip) | 2026-11-28 |
 | [cicada sounds](https://opengameart.org/content/cicada-sounds) | `sfx` | syncopika | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cicada-sounds/cicada-sounds.zip) | 2026-11-28 |
 | [Fairground Lamp Post](https://polyfork.dev/asset/fairground-lamp-post-8961cf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/fairground-lamp-post/fairground-lamp-post.zip) | 2026-11-28 |
@@ -110,6 +113,3 @@
 | [ambientCG Paving Stones 152](https://ambientcg.com/a/PavingStones152) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-pavingstones152/ambientcg-pavingstones152.zip) | 2026-11-26 |
 | [ambientCG Paving Stones 153](https://ambientcg.com/a/PavingStones153) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-pavingstones153/ambientcg-pavingstones153.zip) | 2026-11-26 |
 | [Bubble](https://opengameart.org/content/bubble-2) | `music` | Guy G. Gamerson | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/bubble-2/bubble-2.zip) | 2026-11-26 |
-| [Cannon Mooring Bollard](https://polyfork.dev/asset/cannon-mooring-bollard-0de796) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/cannon-mooring-bollard/cannon-mooring-bollard.zip) | 2026-11-26 |
-| [Chess Tilesheet](https://opengameart.org/content/chess-tilesheet) | `sprite-2d` | nour314 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/chess-tilesheet/chess-tilesheet.zip) | 2026-11-26 |
-| [Chimney Cap](https://polyfork.dev/asset/chimney-cap-ca28d1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chimney-cap/chimney-cap.zip) | 2026-11-26 |

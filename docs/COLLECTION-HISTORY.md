@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261129-03 자동 수집 등록 (3팩, 2026-11-29 03:29 KST)
+
+- 팩: Chinese Octagonal Pagoda (slug chinese-octagonal-pagoda), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/chinese-octagonal-pagoda-e8d7aa
+- 저장: assets-3d-polyfork chinese-octagonal-pagoda/chinese-octagonal-pagoda.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2538→2541, 기존 행 불변 확인
+- 팩: Chinese Paifang Archway (slug chinese-paifang-archway), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/chinese-paifang-archway-8a9e41
+- 저장: assets-3d-polyfork chinese-paifang-archway/chinese-paifang-archway.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2538→2541, 기존 행 불변 확인
+- 팩: Helter Skelter (slug helter-skelter), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/helter-skelter-013f44
+- 저장: assets-3d-polyfork helter-skelter/helter-skelter.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2538→2541, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261129-02 자동 수집 등록 (3팩, 2026-11-29 02:04 KST)
 
 - 팩: Goodbye, I Hope We Meet Again (slug goodbye-i-hope-we-meet-again), 라이선스: CC-BY 4.0, 제작자: purrplecat

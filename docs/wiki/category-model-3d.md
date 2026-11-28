@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@1b48e971c59e33449a6651345f5bf82afce42af7`
+> generated from `catalog.csv@2b7830d6112984ca50153fbaa879746e4001a74c`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **855개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **858개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 3쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md) · [3쪽](category-model-3d-3.md)
 
-현재 쪽: 400행 (전체 855개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 858개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Chinese Octagonal Pagoda](https://polyfork.dev/asset/chinese-octagonal-pagoda-e8d7aa) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-octagonal-pagoda/chinese-octagonal-pagoda.zip) | 2026-11-29 |
+| [Chinese Paifang Archway](https://polyfork.dev/asset/chinese-paifang-archway-8a9e41) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-paifang-archway/chinese-paifang-archway.zip) | 2026-11-29 |
+| [Helter Skelter](https://polyfork.dev/asset/helter-skelter-013f44) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/helter-skelter/helter-skelter.zip) | 2026-11-29 |
 | [Castle Round Tower](https://polyfork.dev/asset/castle-round-tower-cde2e6) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/castle-round-tower/castle-round-tower.zip) | 2026-11-28 |
 | [Fairground Lamp Post](https://polyfork.dev/asset/fairground-lamp-post-8961cf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/fairground-lamp-post/fairground-lamp-post.zip) | 2026-11-28 |
 | [Handheld Barcode Scanner](https://polyfork.dev/asset/handheld-barcode-scanner-495f95) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/handheld-barcode-scanner/handheld-barcode-scanner.zip) | 2026-11-28 |
@@ -414,6 +417,3 @@
 | [Fjordfall Wildlife](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-wildlife/fjordfall-wildlife.zip) | 2026-11-15 |
 | [Golem Knight](https://opengameart.org/content/golem-knight) | `model-3d` | Q2DENJINDREW | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/golem-knight/golem.zip) | 2026-11-15 |
 | [LOW POLY 3D MODEL PACKS](https://opengameart.org/content/low-poly-3d-model-packs) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-3d-model-packs/model_pack_low_poly.zip) | 2026-11-15 |
-| [Lowpoly survival item pack](https://opengameart.org/content/lowpoly-survival-item-pack) | `model-3d` | artie31 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-survival-item-pack/survival-items.zip) | 2026-11-15 |
-| [Painting Pack](https://opengameart.org/content/painting-pack) | `model-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a97-painting-pack/paintings_textured.zip) | 2026-11-15 |
-| [3D Human Parts Pack](https://opengameart.org/content/3d-human-parts-pack) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d_human_parts_pack.zip) | 2026-11-14 |

@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@1b48e971c59e33449a6651345f5bf82afce42af7`
+> generated from `catalog.csv@2b7830d6112984ca50153fbaa879746e4001a74c`
 
 # 3D 모델 모음 (2쪽)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **855개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **858개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 3쪽으로 나뉩니다(쪽당 최대 400행): [1쪽](category-model-3d.md) · **2쪽** · [3쪽](category-model-3d-3.md)
 
-현재 쪽: 400행 (전체 855개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 858개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Lowpoly survival item pack](https://opengameart.org/content/lowpoly-survival-item-pack) | `model-3d` | artie31 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-survival-item-pack/survival-items.zip) | 2026-11-15 |
+| [Painting Pack](https://opengameart.org/content/painting-pack) | `model-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a97-painting-pack/paintings_textured.zip) | 2026-11-15 |
+| [3D Human Parts Pack](https://opengameart.org/content/3d-human-parts-pack) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d_human_parts_pack.zip) | 2026-11-14 |
 | [Crates Chests Coins and Barrels Collection](https://opengameart.org/content/crates-chests-coins-and-barrels-collection) | `model-3d` | mabaci | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/crates-chests-coins-barrels/medieval_items.zip) | 2026-11-14 |
 | [Dinnerware](https://opengameart.org/content/dinnerware) | `model-3d` | clint-bellanger | CC-BY | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dinnerware/dinnerware.zip) | 2026-11-14 |
 | [Dungeon interior kit](https://opengameart.org/content/dungeon-interior-kit) | `model-3d` | humble squirrel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dungeon-interior-kit/dungeon_interior_kit.tar.gz) | 2026-11-14 |
@@ -414,6 +417,3 @@
 | [Furniture Kit](https://kenney.nl/assets/furniture-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/furniture-kit.zip) | 2026-10-28 |
 | [Graveyard Kit](https://kenney.nl/assets/graveyard-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/graveyard-kit.zip) | 2026-10-28 |
 | [Handpainted Style Rocks](https://opengameart.org/content/handpainted-style-rocks) | `model-3d` | rubberduck | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.2/handpainted-style-rocks.zip) | 2026-10-28 |
-| [Handpainted Stylized Sword](https://opengameart.org/content/handpainted-stylized-sword) | `model-3d` | rubberduck | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.2/handpainted-stylized-sword.zip) | 2026-10-28 |
-| [Hexagon Kit](https://kenney.nl/assets/hexagon-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/hexagon-kit.zip) | 2026-10-28 |
-| [Holiday Kit](https://kenney.nl/assets/holiday-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/holiday-kit.zip) | 2026-10-28 |

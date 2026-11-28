@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261128-10 자동 수집 등록 (3팩, 2026-11-28 10:59 KST)
+
+- 팩: Handheld Barcode Scanner (slug handheld-barcode-scanner), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/handheld-barcode-scanner-495f95
+- 저장: assets-3d-polyfork handheld-barcode-scanner/handheld-barcode-scanner.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2526→2529, 기존 행 불변 확인
+- 팩: Terrace Retaining Wall Run (slug terrace-retaining-wall-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/terrace-retaining-wall-run-cc5695
+- 저장: assets-3d-polyfork terrace-retaining-wall-run/terrace-retaining-wall-run.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2526→2529, 기존 행 불변 확인
+- 팩: Waterfront Taverna (slug waterfront-taverna), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/waterfront-taverna-4e63bf
+- 저장: assets-3d-polyfork waterfront-taverna/waterfront-taverna.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2526→2529, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261128-09 자동 수집 등록 (3팩, 2026-11-28 09:41 KST)
 
 - 팩: 256x Oversampling (slug 256x-oversampling), 라이선스: CC0, 제작자: sdacfn

@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@90d0aefb44f4fa083bb4553e3f9430062c07d97e`
+> generated from `catalog.csv@738123c89b02ec4fce23039bf8f99b86f8cb95d1`
 
 # 3D 모델 모음 (2쪽)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **849개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **852개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 3쪽으로 나뉩니다(쪽당 최대 400행): [1쪽](category-model-3d.md) · **2쪽** · [3쪽](category-model-3d-3.md)
 
-현재 쪽: 400행 (전체 849개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 852개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Fjordfall Boats & Vehicles](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-boats-and-vehicles/fjordfall-boats-and-vehicles.zip) | 2026-11-14 |
+| [Fjordfall Buildings](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-buildings/fjordfall-buildings.zip) | 2026-11-14 |
+| [Fjordfall Characters](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-characters/fjordfall-characters.zip) | 2026-11-14 |
 | [Food Pack: Cooking](https://opengameart.org/content/food-pack-cooking) | `model-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/food-pack-cooking/food-pack-cooking.blend) | 2026-11-14 |
 | [Knight](https://opengameart.org/content/knight-2) | `model-3d` | piacenti | CC-BY | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/knight-2/knight-2.zip) | 2026-11-14 |
 | [Low Poly Stalls](https://opengameart.org/content/low-poly-stalls) | `model-3d` | lightdreamerlabs | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lightdreamerlabs-3d-stalls.zip) | 2026-11-14 |
@@ -414,6 +417,3 @@
 | [Industrial Asset Pack](https://opengameart.org/content/high-quality-industrial-asset-pack) | `model-3d` | rubberduck | CC0 | X | X | 9개 분할 | 2026-10-28 |
 | [Industrial Extension Pack 1: tanks](https://opengameart.org/content/industrial-extension-pack-1-tanks) | `model-3d` | rubberduck | CC0 | X | X | 3개 분할 | 2026-10-28 |
 | [Industrial Extension Pack 4: more tanks](https://opengameart.org/content/industrial-extension-pack-4-more-tanks) | `model-3d` | rubberduck | CC0 | X | X | 3개 분할 | 2026-10-28 |
-| [isometric render resource pack](https://opengameart.org/content/isometric-render-resource-pack) | `model-3d` | rubberduck | CC0 | X | X | 4개 분할 | 2026-10-28 |
-| [KayKit Dungeon Remastered 1.0](https://github.com/KayKit-Game-Assets/KayKit-Dungeon-Remastered-1.0) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v1.1/kaykit-dungeon-remastered-1.0.zip) | 2026-10-28 |
-| [KayKit Furniture Bits 1.0](https://github.com/KayKit-Game-Assets/KayKit-Furniture-Bits-1.0) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/kaykit-furniture-bits-1.0.zip) | 2026-10-28 |

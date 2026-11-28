@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@90d0aefb44f4fa083bb4553e3f9430062c07d97e`
+> generated from `catalog.csv@738123c89b02ec4fce23039bf8f99b86f8cb95d1`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,9 +13,12 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Handheld Barcode Scanner](https://polyfork.dev/asset/handheld-barcode-scanner-495f95) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/handheld-barcode-scanner/handheld-barcode-scanner.zip) | 2026-11-28 |
 | [Rooftop Water Tank](https://polyfork.dev/asset/rooftop-water-tank-5c6c16) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rooftop-water-tank/rooftop-water-tank.zip) | 2026-11-28 |
 | [Stepped Lane Run](https://polyfork.dev/asset/stepped-lane-run-6b5fe6) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stepped-lane-run/stepped-lane-run.zip) | 2026-11-28 |
+| [Terrace Retaining Wall Run](https://polyfork.dev/asset/terrace-retaining-wall-run-cc5695) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/terrace-retaining-wall-run/terrace-retaining-wall-run.zip) | 2026-11-28 |
 | [Visitor with a camera](https://polyfork.dev/asset/visitor-with-a-camera-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/visitor-with-a-camera/visitor-with-a-camera.zip) | 2026-11-28 |
+| [Waterfront Taverna](https://polyfork.dev/asset/waterfront-taverna-4e63bf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/waterfront-taverna/waterfront-taverna.zip) | 2026-11-28 |
 | [256x Oversampling](https://opengameart.org/content/256x-oversampling) | `music` | sdacfn | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-256x-oversampling/256x-oversampling.zip) | 2026-11-27 |
 | [ambientCG Bark 016](https://ambientcg.com/a/Bark016) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-bark016/ambientcg-bark016.zip) | 2026-11-27 |
 | [ambientCG Bricks 113 B](https://ambientcg.com/a/Bricks113B) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-ambientcg-bricks113b/ambientcg-bricks113b.zip) | 2026-11-27 |
@@ -110,6 +113,3 @@
 | [Lane Paving Tile](https://polyfork.dev/asset/lane-paving-tile-4cca8b) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lane-paving-tile/lane-paving-tile.zip) | 2026-11-26 |
 | [Lighthouse Cup OKLab 90색 디더링 픽셀 후처리 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-oklab-dither-pipeline/lighthouse-cup-oklab-dither-pipeline.zip) | 2026-11-26 |
 | [Lighthouse Cup WebAudio 관중·타격음 합성 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-webaudio-synth/lighthouse-cup-webaudio-synth.zip) | 2026-11-26 |
-| [Lighthouse Cup 배구 매치 시뮬레이션 엔진·시드 로스터 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-volleyball-sim-engine/lighthouse-cup-volleyball-sim-engine.zip) | 2026-11-26 |
-| [Lighthouse Cup 체육관 코트·네트·리깅 선수 생성 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-hall-textures-and-rig/lighthouse-cup-hall-textures-and-rig.zip) | 2026-11-26 |
-| [Low Res Computer fan](https://opengameart.org/content/low-res-computer-fan) | `sprite-2d` | BiscuitGames | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/low-res-computer-fan/low-res-computer-fan.zip) | 2026-11-26 |

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@90d0aefb44f4fa083bb4553e3f9430062c07d97e`
+> generated from `catalog.csv@738123c89b02ec4fce23039bf8f99b86f8cb95d1`
 
 # 바람 이펙트 모음
 

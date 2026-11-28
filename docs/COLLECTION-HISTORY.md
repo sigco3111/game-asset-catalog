@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261128-17 자동 수집 등록 (3팩, 2026-11-28 17:27 KST)
+
+- 팩: cicada sounds (slug cicada-sounds), 라이선스: CC0, 제작자: syncopika
+- 출처: https://opengameart.org/content/cicada-sounds
+- 저장: assets-3d-lowpoly-2 cicada-sounds/cicada-sounds.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2529→2532, 기존 행 불변 확인
+- 팩: Gunshot sound effect (slug gunshot-sound-effect), 라이선스: CC0, 제작자: hingydunyas
+- 출처: https://opengameart.org/content/gunshot-sound-effect
+- 저장: assets-3d-lowpoly-2 gunshot-sound-effect/gunshot-sound-effect.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2529→2532, 기존 행 불변 확인
+- 팩: Sci-fi SFX (slug sci-fi-sfx), 라이선스: CC0, 제작자: Colodical
+- 출처: https://opengameart.org/content/sci-fi-sfx
+- 저장: assets-3d-lowpoly-2 sci-fi-sfx/sci-fi-sfx.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2529→2532, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261128-10 자동 수집 등록 (3팩, 2026-11-28 10:59 KST)
 
 - 팩: Handheld Barcode Scanner (slug handheld-barcode-scanner), 라이선스: CC-BY 4.0, 제작자: Polyfork

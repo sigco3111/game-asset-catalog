@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@689009a7569f1adc2292eca8e65b66dc0c5d1377`
+> generated from `catalog.csv@3edac7e7d631c341775e2be6fdf60f6c088cccac`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,8 +13,11 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [cicada sounds](https://opengameart.org/content/cicada-sounds) | `sfx` | syncopika | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cicada-sounds/cicada-sounds.zip) | 2026-11-28 |
+| [Gunshot sound effect](https://opengameart.org/content/gunshot-sound-effect) | `sfx` | hingydunyas | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/gunshot-sound-effect/gunshot-sound-effect.zip) | 2026-11-28 |
 | [Handheld Barcode Scanner](https://polyfork.dev/asset/handheld-barcode-scanner-495f95) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/handheld-barcode-scanner/handheld-barcode-scanner.zip) | 2026-11-28 |
 | [Rooftop Water Tank](https://polyfork.dev/asset/rooftop-water-tank-5c6c16) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rooftop-water-tank/rooftop-water-tank.zip) | 2026-11-28 |
+| [Sci-fi SFX](https://opengameart.org/content/sci-fi-sfx) | `sfx` | Colodical | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/sci-fi-sfx/sci-fi-sfx.zip) | 2026-11-28 |
 | [Stepped Lane Run](https://polyfork.dev/asset/stepped-lane-run-6b5fe6) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stepped-lane-run/stepped-lane-run.zip) | 2026-11-28 |
 | [Terrace Retaining Wall Run](https://polyfork.dev/asset/terrace-retaining-wall-run-cc5695) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/terrace-retaining-wall-run/terrace-retaining-wall-run.zip) | 2026-11-28 |
 | [Visitor with a camera](https://polyfork.dev/asset/visitor-with-a-camera-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/visitor-with-a-camera/visitor-with-a-camera.zip) | 2026-11-28 |
@@ -110,6 +113,3 @@
 | [Florence is not against the Machine](https://opengameart.org/content/florence-is-not-against-the-machine) | `music` | itsKiwiVT\_ | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/florence-is-not-against-the-machine/florence-is-not-against-the-machine.zip) | 2026-11-26 |
 | [Fountain House](https://polyfork.dev/asset/fountain-house-cbda2f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/fountain-house/fountain-house.zip) | 2026-11-26 |
 | [I Can't Breathe](https://opengameart.org/content/i-cant-breathe) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/i-cant-breathe/i-cant-breathe.zip) | 2026-11-26 |
-| [Lane Paving Tile](https://polyfork.dev/asset/lane-paving-tile-4cca8b) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lane-paving-tile/lane-paving-tile.zip) | 2026-11-26 |
-| [Lighthouse Cup OKLab 90색 디더링 픽셀 후처리 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-oklab-dither-pipeline/lighthouse-cup-oklab-dither-pipeline.zip) | 2026-11-26 |
-| [Lighthouse Cup WebAudio 관중·타격음 합성 코드](https://github.com/itsLucas02/lighthouse-cup) | `other` | Aizzul Luqman | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lighthouse-cup-webaudio-synth/lighthouse-cup-webaudio-synth.zip) | 2026-11-26 |
